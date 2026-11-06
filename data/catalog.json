@@ -1,0 +1,3595 @@
+{
+  "updated": "2026-11-06",
+  "note": "研究片单与微信摘录合并。video_url 只保留在此环境返回成功的官方网站、YouTube、BBC、Disney、PBS、Netflix、Apple TV 等页面。image_path 是仓库内约 600 像素宽的图。",
+  "counts": {
+    "entries": 161,
+    "with_video": 33,
+    "with_image": 94,
+    "missing_video": 128,
+    "missing_image": 67
+  },
+  "missing_video": [
+    "Twirlywoos",
+    "Moon and Me",
+    "小小羊蒂米",
+    "小P优优",
+    "Kipper",
+    "猜猜我有多爱你",
+    "米菲",
+    "Word Party",
+    "嗨 道奇",
+    "海底小纵队",
+    "好奇的乔治",
+    "Ben & Holly's Little Kingdom",
+    "Tumble Leaf",
+    "小羊肖恩",
+    "Stillwater",
+    "神奇校巴",
+    "小溪仔克雷格",
+    "咱们裸熊",
+    "大神偷卡门",
+    "Cyberchase",
+    "Hero Elementary",
+    "City of Ghosts",
+    "葫芦兄弟",
+    "罗小黑战记",
+    "樱桃小丸子",
+    "黑猫警长",
+    "降世神通：最后的气宗",
+    "怪诞小镇",
+    "宇宙小子",
+    "探险活宝",
+    "花园墙外",
+    "猫头鹰魔法社",
+    "奇幻沼泽",
+    "Kipo and the Age of Wonderbeasts",
+    "She-Ra and the Princesses of Power",
+    "玛雅与三勇士",
+    "Moon Girl and Devil Dinosaur",
+    "降世神通：科拉传奇",
+    "国王排名",
+    "间谍过家家",
+    "排球少年！！",
+    "英雄联盟：双城之战",
+    "钢之炼金术师FA",
+    "葬送的芙莉莲",
+    "紫罗兰永恒花园",
+    "灵能百分百",
+    "冥王",
+    "四月是你的谎言",
+    "比宇宙更远的地方",
+    "3月的狮子",
+    "药屋少女的呢喃",
+    "中国奇谭",
+    "时光代理人",
+    "万物运转的秘密",
+    "你好中国",
+    "海底两万里",
+    "尽管我们的手中空无一物",
+    "远在天边",
+    "了不起的自然",
+    "午后时光",
+    "雨果带你看世界",
+    "月神",
+    "螺丝钉",
+    "洞穴",
+    "失物招领",
+    "三十六个字",
+    "中国唱诗班",
+    "喜马拉雅",
+    "亚马逊深渊",
+    "大堡礁",
+    "野性非洲",
+    "黄石公园",
+    "小小世界",
+    "鸟瞰地球",
+    "隐形世界",
+    "南太平洋",
+    "地球一年",
+    "极地",
+    "小鞋子",
+    "地球上的星星",
+    "放牛班的春天",
+    "听见天堂",
+    "追风筝的人",
+    "何以为家",
+    "天堂电影院",
+    "大卫·科波菲尔",
+    "地球脉动",
+    "爆笑物理",
+    "趣味科学",
+    "逃跑机器人",
+    "悠悠长假",
+    "超级肥皂",
+    "雨后",
+    "宇宙的奇迹",
+    "生命的奇迹",
+    "从太空看地球",
+    "太阳系的奇迹",
+    "人类宇宙",
+    "生命之色",
+    "地球改变之年",
+    "绿色星球",
+    "家园",
+    "自然的力量",
+    "世界遗产在中国",
+    "南宋",
+    "从秦始皇到汉武帝",
+    "大明宫",
+    "故宫",
+    "三国的世界",
+    "航拍中国",
+    "第三极",
+    "了不起的村落",
+    "河西走廊",
+    "美丽中国",
+    "天山脚下",
+    "此画怎讲",
+    "啊！设计",
+    "艺术创世记",
+    "现代艺术大师",
+    "卢浮宫的珍宝",
+    "七个世界，一个星球",
+    "王朝",
+    "植物王国",
+    "种出个地球",
+    "意大利花园",
+    "What If",
+    "数学的故事",
+    "平博士密码"
+  ],
+  "missing_image": [
+    "小P优优",
+    "Cyberchase",
+    "City of Ghosts",
+    "葫芦兄弟",
+    "罗小黑战记",
+    "樱桃小丸子",
+    "黑猫警长",
+    "降世神通：最后的气宗",
+    "怪诞小镇",
+    "宇宙小子",
+    "探险活宝",
+    "花园墙外",
+    "She-Ra and the Princesses of Power",
+    "The Dragon Prince",
+    "Infinity Train",
+    "间谍过家家",
+    "英雄联盟：双城之战",
+    "钢之炼金术师FA",
+    "喜马拉雅",
+    "亚马逊深渊",
+    "大堡礁",
+    "野性非洲",
+    "黄石公园",
+    "鸟瞰地球",
+    "隐形世界",
+    "南太平洋",
+    "地球一年",
+    "极地",
+    "小鞋子",
+    "放牛班的春天",
+    "听见天堂",
+    "追风筝的人",
+    "何以为家",
+    "天堂电影院",
+    "大卫·科波菲尔",
+    "地球脉动",
+    "宇宙的奇迹",
+    "生命的奇迹",
+    "从太空看地球",
+    "太阳系的奇迹",
+    "人类宇宙",
+    "生命之色",
+    "地球改变之年",
+    "绿色星球",
+    "家园",
+    "自然的力量",
+    "世界遗产在中国",
+    "南宋",
+    "从秦始皇到汉武帝",
+    "大明宫",
+    "故宫",
+    "三国的世界",
+    "航拍中国",
+    "第三极",
+    "了不起的村落",
+    "天山脚下",
+    "此画怎讲",
+    "啊！设计",
+    "艺术创世记",
+    "文明",
+    "现代艺术大师",
+    "卢浮宫的珍宝",
+    "七个世界，一个星球",
+    "王朝",
+    "植物王国",
+    "种出个地球",
+    "意大利花园"
+  ],
+  "entries": [
+    {
+      "id": "r-teletubbies",
+      "name_zh": "天线宝宝",
+      "name_en": "Teletubbies",
+      "original_title": "Teletubbies",
+      "kind": "Live-action preschool programme with performers in full-body costumes on a real set, not drawn or stop-motion animation. BBC History names the original performers Dave Thompson, John Simmit, Nicky Smedley and Pui Fan Lee. Belly screens show short films.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media; Chinese Wikipedia says the intended audience is about 1–5",
+      "description_zh": "《天线宝宝》由 Anne Wood 与 Andrew Davenport 创作，1997年3月31日在英国播出。丁丁、迪西、拉拉和小波由演员穿着全身服装表演，住在一个真实布景里，用很短的、接近幼儿早期发音的语言重复玩耍。每人肚子上的屏幕会播放一段现实生活短片。中文维基百科称主要对象大约是1至5岁，并列出单集长度25分钟。",
+      "video_url": "https://www.youtube.com/channel/UCOk55dAgB8VnMlhaTEMeX5A",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-teletubbies.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Teletubbies）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "teletubbies"
+      }
+    },
+    {
+      "id": "r-in-the-night-garden",
+      "name_zh": "花园宝宝",
+      "name_en": "In the Night Garden...",
+      "original_title": "In the Night Garden...",
+      "kind": "Not a fully drawn cartoon. BBC: filmed in a real woodland. Chinese Wikipedia: actors in costume on a real set plus computer effects. English Wikipedia: live action with costumed actors, stop motion, puppetry and CGI. Narrated by Derek Jacobi.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media; BBC: under 4; creators discussed imagination from about age 2",
+      "description_zh": "《花园宝宝》由《天线宝宝》的 Andrew Davenport 创作，Anne Wood 参与制作，Derek Jacobi 旁白。BBC在2007年3月19日的新闻稿中称它面向4岁以下，讲的是醒与睡之间的“做梦时间”，在真实林地拍摄。英文维基百科写明片长约28分钟，形式混合真人服装、定格、木偶和电脑动画。中文维基页面名为“花园宝宝”。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/in-the-night-garden",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-in-the-night-garden.jpg",
+      "image_note": "维基共享资源上的海报或标题图（In the Night Garden...）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "in-the-night-garden"
+      }
+    },
+    {
+      "id": "r-twirlywoos",
+      "name_zh": null,
+      "name_en": "Twirlywoos",
+      "original_title": "Twirlywoos",
+      "kind": "Stop-motion characters who fly into live-action scenes of real people. They do not talk; a narrator names one early concept per episode (in/out, wet/dry, through).",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media",
+      "description_zh": "Common Sense Media记录《Twirlywoos》于2015年2月23日在CBeebies与Netflix的资料中首播，旁白是 Linda Bassett，并把它和《天线宝宝》创作者 Anne Wood 联系起来。定格角色头上有螺旋桨，会飞到真人世界里看人在做什么，自己几乎不说话，由旁白反复说出一个早期概念，例如里/外、湿/干、穿过。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-twirlywoos.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Rustie Lee）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "twirlywoos"
+      }
+    },
+    {
+      "id": "r-moon-and-me",
+      "name_zh": null,
+      "name_en": "Moon and Me",
+      "original_title": "Moon and Me",
+      "kind": "English Wikipedia: stop-motion, with puppet performers, shot at Pinewood Atlanta. Common Sense Media instead describes it as a “3D animated series” and says episodes run roughly 18 minutes. Narrator Nina Sosanya; Pepi Nana mostly says “tiddle toddle.”",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media",
+      "description_zh": "英文维基百科称《Moon and Me》是 Andrew Davenport 创作的定格动画，英国在CBeebies播出、美国在Universal Kids播出，共50集，Nina Sosanya 旁白，在亚特兰大松林制片厂拍摄。Common Sense Media则写成“3D动画”，并把美国首播记为2019年2月3日，单集约18分钟。玩具夜里醒来，Pepi Nana 大多只说“tiddle toddle”，由旁白翻译。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-moon-and-me.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Moon and Me）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "moon-and-me"
+      }
+    },
+    {
+      "id": "r-timmy-time",
+      "name_zh": "小小羊蒂米",
+      "name_en": "Timmy Time",
+      "original_title": "Timmy Time",
+      "kind": "British stop-motion (English Wikipedia). Dialogue-free; stories run about 10 minutes (Common Sense Media).",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media",
+      "description_zh": "《小小羊蒂米》（中文维基导语亦作《咪咪羊》）是阿德曼为CBeebies制作的定格动画，2009年4月6日在英国开播，由《小羊肖恩》衍生。蒂米在托儿所和同伴相处，角色几乎不对白。Common Sense Media把单集记为约10分钟，并评为2岁以上。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-timmy-time.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Timmy Time）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "timmy-time"
+      }
+    },
+    {
+      "id": "r-bing",
+      "name_zh": null,
+      "name_en": "Bing",
+      "original_title": "Bing",
+      "kind": "CGI preschool animation. Common Sense Media calls it a British animated show and refers to CGI and a bright palette. iPlayer duration about 7 minutes.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "2+ Common Sense Media; the character is described as three years old",
+      "description_zh": "《Bing》根据 Ted Dewan 的图画书改编，BBC媒体中心记载2014年6月9日10:05在CBeebies播出第一集。兔子 Bing 在剧中被写成约三岁，照顾者 Flop 由 Mark Rylance 配音。Brown Bag Films称它是Acamar、Brown Bag与Tandem的合拍，写日常生活里的小意外。iPlayer将该集时长标为7分钟。",
+      "video_url": "https://www.youtube.com/channel/UCXOhwSygMaNt5_VIAAo-49g",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-bing.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Chandler Bing）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "bing"
+      }
+    },
+    {
+      "id": "r-pocoyo",
+      "name_zh": "小P优优",
+      "name_en": "Pocoyo",
+      "original_title": "Pocoyo",
+      "kind": "Simple 3D CGI on an uncluttered background. Zinkia and RTVE: 7-minute episodes. English narration of early series by Stephen Fry (RTVE and Common Sense Media).",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "Zinkia says target 1–4 years; Common Sense Media says 3+",
+      "description_zh": "《Pocoyo》由西班牙Zinkia与英国Granada Kids、Cosgrove Hall合作，中文维基百科写“又译小P优优”，并说明英语版前两季由斯蒂芬·弗莱旁白。Zinkia官网把目标年龄写成1至4岁、单集7分钟。RTVE同样写每集7分钟。英文维基对2005年的首播频道和日期表述不一致，故这里只把首播年记为2005，并在年份说明里保留矛盾。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "pocoyo"
+      }
+    },
+    {
+      "id": "r-maisy",
+      "name_zh": null,
+      "name_en": "Maisy",
+      "original_title": "Maisy",
+      "kind": "Bright 2D animation of everyday events. Only the narrator speaks words. Wikipedia: 26 episodes of four segments each; segment length not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "《Maisy》改编自 Lucy Cousins 的绘本。英文维基百科称1999年2月11日至2000年11月2日在CITV播出，共26集，每集四小段。Common Sense Media把美国Nick Jr.首播也记为1999年2月11日。小鼠和鳄鱼、鸡、松鼠朋友用无意义的声音，只有旁白说人话，带孩子看很普通的一天。",
+      "video_url": "https://www.youtube.com/channel/UC5_GIZxZaBymNgs3IFkGFiw",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-maisy.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Maisy (TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "maisy"
+      }
+    },
+    {
+      "id": "r-kipper",
+      "name_zh": null,
+      "name_en": "Kipper",
+      "original_title": "Kipper",
+      "kind": "2D animated preschool series. Episode minutes were not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "《Kipper》根据 Mick Inkpen 的绘本改编。英文维基百科称HIT Entertainment制作、Grand Slamm Children’s Films动画，1997年9月至2000年12月在ITV播了六季、78集，Martin Clunes 为 Kipper 配音。小狗 Kipper 和朋友 Tiger、Pig、宝宝 Arnold 一起出门、闹一点小别扭再和好。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-kipper.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Kipper (TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "kipper"
+      }
+    },
+    {
+      "id": "r-little-bear",
+      "name_zh": null,
+      "name_en": "Little Bear",
+      "original_title": "Little Bear",
+      "kind": "Hand-drawn style animation. English Wikipedia: each episode is about 22 minutes and is split into three segments of about 7 minutes.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "《Little Bear》是加拿大 Nelvana 根据 Else Holmelund Minarik 的书、Maurice Sendak 的插画制作的动画片，英文维基百科称1995年11月6日在美国Nick Jr.开播。小熊和猫、鸭、猫头鹰以及夏天来的女孩 Lucy在林子里玩，爸爸妈妈让他自己和朋友待在外面。一整集大约22分钟，里面是三段约7分钟的故事。",
+      "video_url": "https://www.youtube.com/channel/UCncFzSeWqySvOXEbQoEJsZg",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-little-bear.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Little Bear (TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "little-bear"
+      }
+    },
+    {
+      "id": "r-guess-how-much-i-love-you",
+      "name_zh": "猜猜我有多爱你",
+      "name_en": "Guess How Much I Love You",
+      "original_title": "Guess How Much I Love You",
+      "kind": "2D animation meant to resemble the book’s watercolours (Common Sense Media). Episode minutes not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "电视动画《猜猜我有多爱你》改编自北爱尔兰作家山姆·麦克布雷尼的绘本。中文维基百科称主要由澳大利亚SLR Productions制作，第一季与新加坡Scrawl Studios、第二季与加拿大9 Story合作，两季78集另有两集特别篇。Common Sense Media把迪士尼幼儿频道首播记为2012年8月31日。Little Nutbrown Hare 白天和朋友在草地和河边探索，晚上回到爸爸怀里。中文维基百科的又名里使用“栗小兔”。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-guess-how-much-i-love-you.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Guess How Much I Love You）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "guess-how-much-i-love-you"
+      }
+    },
+    {
+      "id": "r-miffys-adventures-big-and-small",
+      "name_zh": "米菲",
+      "name_en": "Miffy's Adventures Big and Small",
+      "original_title": "Miffy's Adventures Big and Small",
+      "kind": "Narrated 2D/CGI-style preschool animation. Common Sense Media: episodes run approximately eight minutes.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "《Miffy's Adventures Big and Small》根据荷兰画家迪克·布鲁纳的 Miffy 绘本改编。英文维基百科称它是荷英合拍，2015年10月2日至2019年6月16日在英国Tiny Pop播出，并在荷兰KRO-NCRV和美国Nick Jr.播出。Common Sense Media把Nick Jr.首播记为2016年10月3日，单集约8分钟。Miffy 和 Grunty、Melanie 一起看植物长大、踩水坑、试新食物。中文维基“米菲”页是角色名，不是这部2015年剧集的独立译名核对。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-miffys-adventures-big-and-small.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Miffy's Adventures Big and Small）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "miffys-adventures-big-and-small"
+      }
+    },
+    {
+      "id": "r-word-party",
+      "name_zh": null,
+      "name_en": "Word Party",
+      "original_title": "Word Party",
+      "kind": "Digital puppetry of four baby animals, presented as preschool animation. Episode length not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "《Word Party》是 Jim Henson Company 用数字木偶做的美国系列，Common Sense Media记为2016年7月8日在Netflix上线。四只还穿着尿布的动物宝宝 Bailey、Franny、Kip 和 Lulu，在吃饭、睡觉和玩耍时学新词，钟表角色会来报时间。孩子被当成“大孩子”，要回答屏幕上的问题。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-word-party.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Word Party）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "word-party"
+      }
+    },
+    {
+      "id": "r-clangers",
+      "name_zh": null,
+      "name_en": "Clangers",
+      "original_title": "Clangers",
+      "kind": "Stop-motion. English Wikipedia says the new programmes were still made with stop-motion rather than CGI. Characters whistle; a narrator explains.",
+      "category": null,
+      "age_bucket": "0-2",
+      "age_label": "3+ Common Sense Media",
+      "description_zh": "这里收录的是2015年重启版。英文维基百科写原版1969至1972年在BBC1播出，1974年有一集特别节目，由 Oliver Postgate 与 Peter Firmin 的 Smallfilms 制作。2015年6月，Michael Palin 旁白的新系列在CBeebies播出，仍用定格而不是电脑动画。Common Sense Media评的是2015年6月20日这一版，并把美国旁白记为 William Shatner。粉色的老鼠般生物住在小行星里，用口哨说话，汤龙邻居做绿色的汤。",
+      "video_url": "https://www.youtube.com/channel/UCUCS_nxyrNnk7dqaWW3JRtQ",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-clangers.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Clangers）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "clangers"
+      }
+    },
+    {
+      "id": "r-sarah-and-duck",
+      "name_zh": "莎拉与乖乖鸭",
+      "name_en": "Sarah & Duck",
+      "original_title": "Sarah & Duck",
+      "kind": "Gentle 2D animation with an unseen narrator who talks to the characters. BBC describes Sarah as a 7-year-old. Common Sense Media compares the pictures to classic storybooks.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《莎拉与乖乖鸭》由Karrot Entertainment为CBeebies制作，2013年开播。BBC的委托稿说它跟随一个七岁女孩和她的鸭子朋友；Common Sense Media补充旁白是罗杰·阿拉姆，莎拉由塔莎·劳伦斯配音。第三季为40×7的规格，累计120集。中文名《莎拉与乖乖鸭》出现在《小猪佩奇》中文维基条目对Karrot的说明里。",
+      "video_url": "https://www.youtube.com/channel/UC3OUMU3s7Oy6Ta0wnpZFBWw",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-sarah-and-duck.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Sarah & Duck）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "sarah-and-duck"
+      }
+    },
+    {
+      "id": "r-hey-duggee",
+      "name_zh": "嗨 道奇",
+      "name_en": "Hey Duggee",
+      "original_title": "Hey Duggee",
+      "kind": "Flat, geometric Flash-style preschool animation. BBC Studios describes Series 5 as 20 x 7 minute episodes. Duggee communicates in woofs. Chinese Wikipedia says the series is for ages 2 to 5.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《嗨 道奇》由格兰特·奥查德创作，Studio AKA与CBeebies、BBC Studios制作，2014年开播，每集约7分钟。一只棕色大狗道奇主持松鼠俱乐部，五个小动物完成一项活动就得到一枚徽章。中文维基百科的条目标题是“嗨 道奇”（没有感叹号），并写明面向2至5岁；同一页也把俱乐部叫作阿奇幼幼园。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-hey-duggee.jpg",
+      "image_note": "维基共享资源上的海报或标题图（List of Hey Duggee episodes）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "hey-duggee"
+      }
+    },
+    {
+      "id": "r-bluey",
+      "name_zh": "布鲁伊",
+      "name_en": "Bluey",
+      "original_title": "Bluey",
+      "kind": "2D animated preschool series. Screen Queensland: 52 x 7-minute episodes. Six-year-old Blue Heeler puppy; four-year-old sister Bingo.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "4+",
+      "description_zh": "《布鲁伊》是澳大利亚Ludo Studio为ABC制作的学前动画，2018年10月1日在ABC KIDS首播。主角是一只六岁的蓝色澳大利亚牧牛犬，和四岁的妹妹宾果以及父母班底特、奇莉生活在以布里斯班为蓝本的社区里。每集约7分钟，她把超市、等待、家务这类日常变成游戏。",
+      "video_url": "https://www.bluey.tv/",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-bluey.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Bluey (TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "bluey"
+      }
+    },
+    {
+      "id": "r-peppa-pig",
+      "name_zh": "小猪佩奇",
+      "name_en": "Peppa Pig",
+      "original_title": "Peppa Pig",
+      "kind": "British 2D preschool animation about an anthropomorphic pig family. Common Sense Media describes simple animation and everyday preschool problems. Episodes about 5 minutes.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《小猪佩奇》由内维尔·阿斯特利和马克·贝克创作，2004年5月31日在英国第五台开播，单集约5分钟。故事是一只拟人小猪和弟弟乔治、父母以及一群动物朋友的日常：游戏小组、骑车、看望亲戚。中文维基百科记录中国大陆译名为《小猪佩奇》，2015年6月23日在央视少儿频道首播。",
+      "video_url": "https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-peppa-pig.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Peppa Pig）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "peppa-pig"
+      }
+    },
+    {
+      "id": "r-daniel-tigers-neighborhood",
+      "name_zh": null,
+      "name_en": "Daniel Tiger's Neighborhood",
+      "original_title": "Daniel Tiger's Neighborhood",
+      "kind": "Animated preschool series with live-action interstitials filmed in Pittsburgh between the stories. Fred Rogers Productions: 2 x 11 min stories, 30 min per full episode. Daniel is 4 years old and speaks to the audience.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《丹尼尔老虎邻居》由弗雷德·罗杰斯制作公司出品，安吉拉·桑托梅罗参与创作，2012年9月3日在PBS Kids首播。四岁的老虎丹尼尔住在“假装邻里”里，每一整集约30分钟，里面是两个11分钟故事，中间插匹兹堡实拍的小朋友片段。故事用歌曲把失望、等待、友谊说成可以跟着唱的办法。",
+      "video_url": "https://pbskids.org/daniel",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-daniel-tigers-neighborhood.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Daniel Tiger's Neighborhood）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "daniel-tigers-neighborhood"
+      }
+    },
+    {
+      "id": "r-sesame-street",
+      "name_zh": "芝麻街",
+      "name_en": "Sesame Street",
+      "original_title": "Sesame Street",
+      "kind": "Not a fully animated series. Chinese Wikipedia: live performance, comedy sketches, animation, and puppets. Common Sense Media lists topics including Puppets, and describes Muppet characters living with human neighbors, plus later Claymation-style bits. Length changed over time: Chinese Wikipedia infobox still prints 60 minutes, while its body says a 2017 version was cut to 30 minutes; Common Sense Media says a 2015 change trimmed episodes to 30 minutes, and a 2025 change uses two 11-minute segments.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "2+",
+      "description_zh": "《芝麻街》1969年11月10日在美国PBS首播，由琼·甘兹·库尼和劳埃德·莫里塞特创办，芝麻街工作室（早年儿童电视工作室）制作。它不是纯动画：街景是真人演员和吉姆·亨森的布偶同台，中间插入动画、歌曲和短片。课程从字母、数字扩展到科学、健康和情绪。",
+      "video_url": "https://www.youtube.com/channel/UCoookXUzPciGrEZEXmh4Jjg",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-sesame-street.jpg",
+      "image_note": "维基共享资源上的海报或标题图（芝麻街）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "sesame-street"
+      }
+    },
+    {
+      "id": "r-numberblocks",
+      "name_zh": "数字积木",
+      "name_en": "Numberblocks",
+      "original_title": "Numberblocks",
+      "kind": "Short educational animation. Common Sense Media: five-minute videos; characters are talking unit blocks. Blue Zoo describes a mix of 3D animation and 2D effects. Companion series to Alphablocks.",
+      "category": "学习类",
+      "age_bucket": "3-5",
+      "age_label": "2+",
+      "description_zh": "《数字积木》2017年1月23日在CBeebies首播，乔·埃利奥特与Blue Zoo创作，每集5分钟。每个数字是由相应数量的方块拼成的角色，一块叠到另一块上就会变成新的数字。百度百科的中文名是《数字积木》，并把它写成《字母积木》的姊妹篇。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/numberblocks",
+      "video_note": "BBC CBeebies 节目页。",
+      "image_path": "images/r-numberblocks.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Numberblocks）",
+      "from": [
+        "research",
+        "wechat"
+      ],
+      "source_ids": {
+        "research": "numberblocks",
+        "wechat": "numberblocks-wx"
+      }
+    },
+    {
+      "id": "r-alphablocks",
+      "name_zh": "字母积木",
+      "name_en": "Alphablocks",
+      "original_title": "Alphablocks",
+      "kind": "Short phonics animation. BBC iPlayer duration of the first episode is 2:59. Common Sense Media: clips under five minutes; letter characters say sounds such as 'cah' rather than letter names. Letters hold hands to spell words.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "2+",
+      "description_zh": "《字母积木》由乔·埃利奥特创作，2010年1月25日在CBeebies播出第一集，BBC iPlayer显示该集时长2:59。26个字母是方块角色，牵手就能拼出单词；“e”会伪装来表示不发音，“q”总拖着“u”。中文名《字母积木》见于百度百科《数字积木》条目，该条目称二者出自同一团队。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/alphablocks",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-alphablocks.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Alphablocks）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "alphablocks"
+      }
+    },
+    {
+      "id": "r-puffin-rock",
+      "name_zh": null,
+      "name_en": "Puffin Rock",
+      "original_title": "Puffin Rock",
+      "kind": "Painted 2D preschool nature series set on an Irish island. Oona and baby brother Baba are puffin chicks. Cartoon Saloon states 7-minute episodes.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《Puffin Rock》由爱尔兰Cartoon Saloon、北爱尔兰Dog Ears和Penguin Books联合制作，2015年1月在RTÉjr首播，每集7分钟，面向2–5岁。小海鹦乌娜和弟弟巴巴在海岛上认识海豹、猫头鹰和倭鼩，克里斯·奥多德旁白。Common Sense Media称它出自《凯尔经的秘密》《海洋之歌》同一团队。",
+      "video_url": "https://www.youtube.com/channel/UCpF_pjPj0wujDwbeN6NP6yQ",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-puffin-rock.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Puffin Rock）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "puffin-rock"
+      }
+    },
+    {
+      "id": "r-octonauts",
+      "name_zh": "海底小纵队",
+      "name_en": "Octonauts",
+      "original_title": "Octonauts",
+      "kind": "Preschool adventure animation. Chinese Wikipedia episode lengths: 11 minutes for the main run. Each Common Sense Media description says episodes end with a song recap that uses real photos and video of the animal.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "4+",
+      "description_zh": "《海底小纵队》改编自加拿大Meomi的图画书，中文维基百科记载2010年10月4日在CBeebies首播，主体是65集×11分钟。八个拟人动物住在章鱼堡里，去帮助遇到麻烦的海洋生物。中国大陆译名是《海底小纵队》，台湾迪士尼频道译名在该页写作“海洋小英雄”。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-octonauts.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Octonauts）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "octonauts"
+      }
+    },
+    {
+      "id": "r-doc-mcstuffins",
+      "name_zh": "小医师大玩偶",
+      "name_en": "Doc McStuffins",
+      "original_title": "Doc McStuffins",
+      "kind": "Animated preschool series. Chinese Wikipedia: seasons 1–4 run about 11 minutes, with some 22–23 minute episodes and specials. Common Sense Media describes a 6-year-old girl; one cited line on the Chinese page also says six, while the plot summary says seven.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "4+",
+      "description_zh": "《小医师大玩偶》由克里斯·尼创作、Brown Bag Films制作，2012年在Disney Junior开播。Common Sense Media说六岁的Doc在后院诊所里给玩具缝线、换电池，妈妈是给人看病的医生，爸爸在家照顾孩子。中文维基页标题是繁体“小醫師大玩偶”，这里写成对应的简体。",
+      "video_url": "http://disneyjunior.com/doc-mcstuffins",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-doc-mcstuffins.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Doc McStuffins）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "doc-mcstuffins"
+      }
+    },
+    {
+      "id": "r-curious-george",
+      "name_zh": "好奇的乔治",
+      "name_en": "Curious George",
+      "original_title": "Curious George",
+      "kind": "Animated series with live-action segments after the cartoons in seasons 1–9, showing real children trying a related experiment. Chinese Wikipedia says those live-action STEM segments were phased out after season 9. Not the 2006 feature film.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《好奇的乔治》是根据H.A.雷伊与玛格丽特·雷伊的图画书改编的PBS Kids电视剧，2006年9月4日首播，不是同年的电影。乔治和戴黄帽子的人每天碰到一个具体问题，例如钟怎么走、船为什么浮着。中文维基简体页标题为《好奇的乔治》。前九季每个动画段落后还有儿童实拍的科学小实验。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-curious-george.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Curious George）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "curious-george"
+      }
+    },
+    {
+      "id": "r-ben-and-hollys-little-kingdom",
+      "name_zh": null,
+      "name_en": "Ben & Holly's Little Kingdom",
+      "original_title": "Ben & Holly's Little Kingdom",
+      "kind": "British 2D fairy-tale preschool series. Tiny elves and fairies in a kingdom hidden in grass. Holly is learning magic and often gets it wrong; Ben Elf builds and fixes things. Episode length was not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《Ben & Holly's Little Kingdom》由《小猪佩奇》的Astley Baker Davies在伦敦制作，Animation World Network报道2009年4月6日起在英国Nick Jr.首播。小仙女霍莉的魔法经常出错，小精灵本负责动手修好，瓢虫加斯顿跟着他们。Common Sense Media把画面比作图画书里的微型世界。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-ben-and-hollys-little-kingdom.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Ben & Holly's Little Kingdom）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "ben-and-hollys-little-kingdom"
+      }
+    },
+    {
+      "id": "r-peg-plus-cat",
+      "name_zh": null,
+      "name_en": "Peg + Cat",
+      "original_title": "Peg + Cat",
+      "kind": "Animated math series. PBS: each 12-minute episode poses 'a really big problem'. The same PBS page also says the two stories in each episode give an introductory and a more advanced use of the idea. Backgrounds look like graph paper.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "3+",
+      "description_zh": "《Peg + Cat》2013年10月7日在PBS Kids首播。PBS家长页写明它面向3–5岁，每集12分钟：佩格和猫要解决一个“真正的大问题”，过程里会数数、测量、找形状和规律。Common Sense Media说它源自詹妮弗·奥克斯利和比尔·阿伦森的书《The Chicken Problem》，女孩用数学当工具。",
+      "video_url": "http://pbskids.org/peg/",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-peg-plus-cat.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Peg + Cat）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "peg-plus-cat"
+      }
+    },
+    {
+      "id": "r-elinor-wonders-why",
+      "name_zh": null,
+      "name_en": "Elinor Wonders Why",
+      "original_title": "Elinor Wonders Why",
+      "kind": "Animated preschool science-and-nature series. Elinor, Olive and Ari explore and ask questions; adults in the community help. Episode length was not stated on the page opened.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "5+",
+      "description_zh": "《Elinor Wonders Why》2020年9月7日在PBS Kids首播。小兔子艾莉诺和朋友奥利芙、阿里对看不懂的自然现象发问，社区里的大人带他们去看、去试。Common Sense Media把它同时称为学前节目，并把推荐年龄写成5+。",
+      "video_url": "https://pbskids.org/elinor",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-elinor-wonders-why.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Elinor Wonders Why）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "elinor-wonders-why"
+      }
+    },
+    {
+      "id": "r-tumble-leaf",
+      "name_zh": null,
+      "name_en": "Tumble Leaf",
+      "original_title": "Tumble Leaf",
+      "kind": "Stop-motion preschool series. Fig the fox finds an object and uses it to explore a science idea such as shadows, flight, motion or magnification. Common Sense Media calls the animation stop-motion. Episode length not stated.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "4+",
+      "description_zh": "《Tumble Leaf》在Common Sense Media页面上的首播日是2014年6月3日，平台为Prime Video。狐狸菲格在“发现之地”捡到一件东西，就和朋友去试影子、飞行、运动或放大这些概念。评论明确写出定格动画，船屋和森林是手作场景。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-tumble-leaf.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Tumble Leaf）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "tumble-leaf"
+      }
+    },
+    {
+      "id": "r-shaun-the-sheep",
+      "name_zh": "小羊肖恩",
+      "name_en": "Shaun the Sheep",
+      "original_title": "Shaun the Sheep",
+      "kind": "定格短片系列。豆瓣7分钟；CSM写five-minute。不是《小羊肖恩》院线电影。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "黑脸羊肖恩在农夫转身之后带领羊群捣蛋，牧羊犬Bitzer负责在主人发现前把场面收拾回去。Common Sense Media写到，它们会用卷心菜当球踢，也会把农夫的房子弄乱，但结尾会把事情改回来。羊直立走路、狗戴手表，明确不是现实农场。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-shaun-the-sheep.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Shaun the Sheep）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "shaun-the-sheep"
+      }
+    },
+    {
+      "id": "r-stillwater",
+      "name_zh": null,
+      "name_en": "Stillwater",
+      "original_title": "Stillwater",
+      "kind": "Animated series. Three siblings take everyday upsets to a panda neighbor, who answers with a parable. Common Sense Media praises the animation and music and the slow pace. TV-Y7. Episode length not stated.",
+      "category": null,
+      "age_bucket": "3-5",
+      "age_label": "5+",
+      "description_zh": "《Stillwater》2020年12月4日在Apple TV首播，改编自乔恩·J·穆特的绘本《Zen Shorts》。三个孩子遇到失望或难过时，去找邻居熊猫Stillwater，他用一个小故事把情绪讲慢。熊猫由华裔与意大利裔演员詹姆斯·谢配音。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-stillwater.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Stillwater, Oklahoma）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "stillwater"
+      }
+    },
+    {
+      "id": "r-hilda",
+      "name_zh": "希尔达",
+      "name_en": "Hilda",
+      "original_title": "Hilda",
+      "kind": "系列动画。豆瓣标注第一季单集24分钟。第二季豆瓣页同样写24分钟，2020-12-14英国上线。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "蓝发女孩希尔达原本住在精灵、巨人和巨魔出没的荒野，后与妈妈搬到特罗尔堡。她把陌生人与非人生物当成可以讲和的邻居，而不是要打败的怪物。豆瓣简介写到，她会碰到“奇怪甚至危险”的神秘生物，宠物是小鹿狐枝枝。",
+      "video_url": "https://www.youtube.com/watch?v=xRR2G8t3KDU",
+      "video_note": "维基数据登记的 YouTube 视频",
+      "image_path": "images/r-hilda.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Hilda Furacão）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "hilda"
+      }
+    },
+    {
+      "id": "r-wild-kratts",
+      "name_zh": null,
+      "name_en": "Wild Kratts",
+      "original_title": "Wild Kratts",
+      "kind": "PBS Kids动画系列，穿插真实动物影像。本次打开的页面没有写清单集分钟数。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "Chris和Martin兄弟开着海龟形飞行器，和工程师Aviva、Koki、Jimmy Z一起寻找真实动物，再用动物的适应能力解决当集危机。每集围绕一种动物的行为、栖息地或生存威胁，并插入真人在野外看到的画面。",
+      "video_url": "http://pbskids.org/wildkratts/",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-wild-kratts.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Wild Kratts）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "wild-kratts"
+      }
+    },
+    {
+      "id": "r-the-magic-school-bus",
+      "name_zh": "神奇校巴",
+      "name_en": "The Magic School Bus",
+      "original_title": "The Magic School Bus",
+      "kind": "1994年电视系列，不是2017年的《Rides Again》。豆瓣片长栏只写“25”，单位未标，故episode_length_min留空。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "弗瑞兹老师让校车变成任意大小和形状，带学生进入太空、海底或人体。Common Sense Media写，从恐龙到蜂巢，节目沿用原书的“先提问、再进去看”结构。豆瓣英文简介同样写Ms. Frizzle用魔法校车把课堂讨论变成实地旅行。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-the-magic-school-bus.jpg",
+      "image_note": "维基共享资源上的海报或标题图（The Magic School Bus Rides Again）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "the-magic-school-bus"
+      }
+    },
+    {
+      "id": "r-arthur",
+      "name_zh": null,
+      "name_en": "Arthur",
+      "original_title": "Arthur",
+      "kind": "长篇校园生活动画。打开的页面没有写清单集分钟数。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "8岁的亚瑟是一只土豚，朋友们是其他动物，行为却完全像小学生。故事从孩子的视角讲学校、兄弟姐妹和朋友分歧，不先抛出道德结论。Common Sense Media举过一例：Brain怕水，朋友们误以为他架子大，最后承认害怕是可以的。",
+      "video_url": "https://pbskids.org/arthur/",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-arthur.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Arthur）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "arthur"
+      }
+    },
+    {
+      "id": "r-phineas-and-ferb",
+      "name_zh": "飞哥与小佛",
+      "name_en": "Phineas and Ferb",
+      "original_title": "Phineas and Ferb",
+      "kind": "暑假双线喜剧：孩子的大工程，加上鸭嘴兽特务Perry。豆瓣写单集20分钟。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "继兄弟飞哥和安静的小佛在暑假每天做一件过大的工程，姐姐Candace总想向父母告发。宠物鸭嘴兽Perry同时是特工，对手是Dr. Doofenshmirtz。发明在大人回家前消失，所以父母一直不知道。",
+      "video_url": "http://disneychannel.disney.com/phineas-and-ferb",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-phineas-and-ferb.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Phineas and Ferb）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "phineas-and-ferb"
+      }
+    },
+    {
+      "id": "r-craig-of-the-creek",
+      "name_zh": "小溪仔克雷格",
+      "name_en": "Craig of the Creek",
+      "original_title": "Craig of the Creek",
+      "kind": "郊外小溪里的儿童社会冒险。豆瓣写单集12分钟。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "克雷格和朋友Kelsey、J.P.把家附近的小溪当成只按孩子规则运转的旷野。克雷格是家里常被忽略的中间孩子，小溪让他可以认真，也可以胡闹。Common Sense Media强调想象游戏、忠诚，以及一个失聪角色教克雷格美国手语。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-craig-of-the-creek.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Noël Wells）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "craig-of-the-creek"
+      }
+    },
+    {
+      "id": "r-we-bare-bears",
+      "name_zh": "咱们裸熊",
+      "name_en": "We Bare Bears",
+      "original_title": "We Bare Bears",
+      "kind": "短集生活喜剧。片长采用豆瓣信息栏的11分钟，并注明简介写约10分钟。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "8+",
+      "description_zh": "灰熊、熊猫和北极熊三兄弟住在旧金山一带，学人类自拍、做视频、开餐车，却总是学不像。人类朋友Chloe会帮他们。笑点来自他们把自己的差异带进人群，再发现兄弟一起比单独模仿别人更站得住。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-we-bare-bears.jpg",
+      "image_note": "维基共享资源上的海报或标题图（We Bare Bears）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "we-bare-bears"
+      }
+    },
+    {
+      "id": "r-doraemon",
+      "name_zh": "哆啦A梦",
+      "name_en": "Doraemon",
+      "original_title": "ドラえもん",
+      "kind": "长篇单元剧。本条以1979年开始的电视系列为条目，年龄说明来自2014年英语播出版的评测，不把电影版算进来。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "7+",
+      "description_zh": "来自22世纪的机器人猫回到野比大雄身边，用四维口袋里的道具应付作业、懒惰和邻居欺负。道具一到大雄手里通常会失控，哆啦A梦再把局面收回来。豆瓣简介里的配角译名是静儿、强夫和技安；CSM英语版用Noby、Big G。",
+      "video_url": "https://www.youtube.com/channel/UChX6YTx96D5yEW7EUD7KdZQ",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": "images/r-doraemon.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Doraemon）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "doraemon"
+      }
+    },
+    {
+      "id": "r-ducktales-2017",
+      "name_zh": "新唐老鸭俱乐部",
+      "name_en": "DuckTales",
+      "original_title": "DuckTales",
+      "kind": "家庭冒险系列。打开的页面没有写清单集分钟数。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "唐老鸭把辉儿、杜儿、路儿交给叔叔史高治。三兄弟和温比跟着史高治、Launchpad去找失落的城市和宝藏，对手包括Flintheart Glomgold。Disney+中文简介用的名字是辉儿、杜儿、路儿、温比和史高治。",
+      "video_url": "https://shows.disney.com/ducktales",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": "images/r-ducktales-2017.jpg",
+      "image_note": "维基共享资源上的海报或标题图（DuckTales (1987 TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "ducktales-2017"
+      }
+    },
+    {
+      "id": "r-carmen-sandiego",
+      "name_zh": "大神偷卡门",
+      "name_en": "Carmen Sandiego",
+      "original_title": "Carmen Sandiego",
+      "kind": "2019年Netflix重启系列，不是1990年代那版。番组计划记第一季9集。单集分钟数本次没有打开到。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "7+",
+      "description_zh": "卡门在小偷训练岛V.I.L.E.长大，发现组织真名是Villains' International League of Evil后出走。她和黑客Player、Zack、Ivy把文物从反派手中拿走，再还给原主。每到一地，情节会用到地形、气候、食物和文化。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-carmen-sandiego.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Where in the World Is Carmen Sandiego? (game show)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "carmen-sandiego"
+      }
+    },
+    {
+      "id": "r-cyberchase",
+      "name_zh": null,
+      "name_en": "Cyberchase",
+      "original_title": "Cyberchase",
+      "kind": "每集动画冒险加一段真人“For Real”，演示同一数学想法在生活里怎么用。单集分钟数未在打开的页面出现。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "Inez、Jackie、Matt和电子伙伴Digit被Motherboard召进赛博空间，阻止Hacker和他的手下Buzz、Delete接管系统。每一集把读地图、逆运算这类技能放进任务，节奏留出时间让观众自己先想。集末真人短片把同一技能搬回日常生活。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "cyberchase"
+      }
+    },
+    {
+      "id": "r-hero-elementary",
+      "name_zh": null,
+      "name_en": "Hero Elementary",
+      "original_title": "Hero Elementary",
+      "kind": "学前到小学低年级的科学英雄单元剧。打开的页面没有单集分钟数。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "Lucita Sky、Sara Snap、Benny Bubbles和AJ Gadgets在Sparks老师班上练习并不稳定的超能力。能力不够用时，他们改用观察、预测和试验来帮邻居解决问题。AJ是自闭症角色，怕大声时朋友会配合，而不是把这一点当成笑话。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-hero-elementary.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Hero Elementary）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "hero-elementary"
+      }
+    },
+    {
+      "id": "r-city-of-ghosts",
+      "name_zh": null,
+      "name_en": "City of Ghosts",
+      "original_title": "City of Ghosts",
+      "kind": "有限动画纪录系列：孩子用玩具录音机采访“鬼”，鬼的声音来自真实的洛杉矶居民。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "5+",
+      "description_zh": "Zelda和Ghost Club的孩子在洛杉矶公共图书馆集合，帮社区处理闹鬼，方法是采访鬼魂。鬼魂讲的是小东京餐馆、Tongva原住民和其他街区的历史。Common Sense Media写，可爱造型后面是真实居民的声音，听起来常常像即兴聊天。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "city-of-ghosts"
+      }
+    },
+    {
+      "id": "r-calabash-brothers",
+      "name_zh": "葫芦兄弟",
+      "name_en": "Calabash Brothers",
+      "original_title": "葫芦兄弟",
+      "kind": "13集剪纸系列片。豆瓣片长10分钟。百度百科引用的腾讯视频单集片尾约9分54秒至10分02秒，与10分钟一致。不是2008年剧场拼接版。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "7+",
+      "description_zh": "穿山甲打穿葫芦山，放走蛇精和蝎子精。老翁种出七色葫芦，七个兄弟依次去救被抓走的爷爷。豆瓣的简介只写到大娃独自闯蛇洞；百度百科的全剧包括各兄弟被骗、被抓，最后用七色莲子从炼丹炉里出来，把妖精压在山下。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "calabash-brothers"
+      }
+    },
+    {
+      "id": "r-luo-xiaohei",
+      "name_zh": "罗小黑战记",
+      "name_en": "The Legend of Luo Xiaohei",
+      "original_title": "罗小黑战记",
+      "kind": "网络短集，豆瓣片长5分钟。集数随篇章增加，简介已经写到第46集范围。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "雨夜，少女罗小白把流浪小黑猫带回家，取名罗小黑。它会像人一样生活，尾巴能分成叫“嘿咻”的小生物。谛听派会变成鸟的狼寻找它。罗小白带小黑去乡下看堂哥和爷爷之后，故事进入妖精与人类共处的事件。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "luo-xiaohei"
+      }
+    },
+    {
+      "id": "r-chibi-maruko-chan",
+      "name_zh": "樱桃小丸子",
+      "name_en": "Chibi Maruko-chan",
+      "original_title": "ちびまる子ちゃん",
+      "kind": "校园与家庭单元剧。豆瓣片长23分钟。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "6+",
+      "description_zh": "小丸子上小学二年级，活泼、爱幻想，也懒，作业拖到最后，成绩普通，常和姐姐斗气。周围有神经质的班长丸尾、爱管事的副班长、一起胡闹的爷爷和讨人厌的宾治。豆瓣简介把这些写成每天发生的生活趣事。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "chibi-maruko-chan"
+      }
+    },
+    {
+      "id": "r-black-cat-sheriff",
+      "name_zh": "黑猫警长",
+      "name_en": "Black Cat Detective",
+      "original_title": "黑猫警长",
+      "kind": "5集系列，不是长篇季播。豆瓣片长20分钟。",
+      "category": null,
+      "age_bucket": "6-8",
+      "age_label": "8+",
+      "description_zh": "黑猫警长带领警士侦破危害森林的案件。豆瓣按集概括：《痛歼搬仓鼠》用现代化武器歼灭夜袭粮仓的老鼠；《空中擒敌》用直升机逼怪兽现形；《吃红土的小偷》处罚偷吃红土的大象、河马和野猪；《吃丈夫的螳螂》处理螳螂“吃丈夫”的冤屈；《一网打尽》戴防毒面具对付吃猫鼠和一只耳。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "black-cat-sheriff"
+      }
+    },
+    {
+      "id": "r-avatar-the-last-airbender",
+      "name_zh": "降世神通：最后的气宗",
+      "name_en": "Avatar: The Last Airbender",
+      "original_title": "Avatar: The Last Airbender",
+      "kind": "Series. Standard episodes about 23 minutes; the first episode was an hour and the finale was a two-hour television movie (English Wikipedia).",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "尼克儿童频道2005年2月21日开播的美国奇幻动画，由迈克尔·但丁·迪马蒂诺与布赖恩·科尼祖克创作，至2008年7月19日完结，共三季61集，每集约23分钟。故事里一部分人能以武术式的“御术”操纵水、土、火、气；神通安与同伴要在百年战争中恢复平衡。中文维基百科条目名为《降世神通：最后的气宗》，正文亦用简称《降世神通》。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "avatar-the-last-airbender"
+      }
+    },
+    {
+      "id": "r-gravity-falls",
+      "name_zh": "怪诞小镇",
+      "name_en": "Gravity Falls",
+      "original_title": "Gravity Falls",
+      "kind": "Series, 2 seasons, 40 episodes. Chinese Wikipedia: 20–24 minutes per episode.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "迪士尼频道2012年6月15日首播的美国悬疑喜剧动画，主创亚历克斯·赫希。双胞胎迪普与梅宝到俄勒冈州怪诞小镇，住在经营“神秘小屋”的叔公斯坦家，并顺着一本日志追查超自然现象。中文维基百科条目名为《怪诞小镇》，并注明中国大陆官方译名是《神秘小镇大冒险》，乐视网译名是《怪诞小镇》；全剧两季40集，2016年2月15日完结。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "gravity-falls"
+      }
+    },
+    {
+      "id": "r-steven-universe",
+      "name_zh": "宇宙小子",
+      "name_en": "Steven Universe",
+      "original_title": "Steven Universe",
+      "kind": "Series. About 11 minutes per episode (Chinese Wikipedia). Peabody honored a season that includes the Ruby/Sapphire wedding.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "卡通频道2013年11月4日首播的美国动画，主创丽贝卡·休格，中文维基百科大陆译名《宇宙小子》。史蒂文继承已故母亲的宝石，与石榴石、紫水晶、珍珠一起守护地球。中文维基百科记全剧五季160集，每集约11分钟，播至2019年1月21日。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "steven-universe"
+      }
+    },
+    {
+      "id": "r-adventure-time",
+      "name_zh": "探险活宝",
+      "name_en": "Adventure Time",
+      "original_title": "Adventure Time",
+      "kind": "Long-running series. About 11 minutes per regular episode, often aired in pairs (Chinese Wikipedia).",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "10+",
+      "description_zh": "卡通频道2010年4月5日正式首播的美国动画，主创彭德尔顿·沃德，中文维基百科译名《探险活宝》。男孩芬恩与会说话的狗杰克在哇赛秘境冒险，朋友包括泡泡糖公主和吸血鬼女王玛瑟琳。中文维基百科记普通集约11分钟，全剧播至2018年9月3日。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "adventure-time"
+      }
+    },
+    {
+      "id": "r-over-the-garden-wall",
+      "name_zh": "花园墙外",
+      "name_en": "Over the Garden Wall",
+      "original_title": "Over the Garden Wall",
+      "kind": "10-part miniseries (Common Sense Media).",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "卡通频道2014年11月3日播出的10集美国动画迷你剧。哥哥沃特与弟弟格雷格在名为“未知”的森林里找路回家，一只野兽尾随他们，同行的还有蓝鸟比阿特丽斯。电视艺术与科学学院把帕特里克·麦克黑尔署为执行制片人/故事。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "over-the-garden-wall"
+      }
+    },
+    {
+      "id": "r-the-owl-house",
+      "name_zh": "猫头鹰魔法社",
+      "name_en": "The Owl House",
+      "original_title": "The Owl House",
+      "kind": "Series. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "迪士尼频道2020年1月10日首播的美国奇幻动画，主创达娜·特拉斯。少女卢兹没有去“现实检查营”，而是留在沸腾群岛，向女巫伊达学魔法，同伴还有小恶魔金。Common Sense Media称卢兹是迪士尼第一位双性恋主角，剧中也有第一个同性吻。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-the-owl-house.jpg",
+      "image_note": "维基共享资源上的海报或标题图（The Owl House）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "the-owl-house"
+      }
+    },
+    {
+      "id": "r-amphibia",
+      "name_zh": "奇幻沼泽",
+      "name_en": "Amphibia",
+      "original_title": "Amphibia",
+      "kind": "Series. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "迪士尼频道2019年6月17日首播的美国冒险动画。泰裔美国女孩安妮·本乔伊被音乐盒送到满是会说话的青蛙和巨型昆虫的世界，与青蛙斯普里格成为朋友，一边找回家的路，一边重学什么是友谊。安妮由布兰达·宋配音。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-amphibia.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Amphibia (TV series)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "amphibia"
+      }
+    },
+    {
+      "id": "r-kipo-and-the-age-of-wonderbeasts",
+      "name_zh": null,
+      "name_en": "Kipo and the Age of Wonderbeasts",
+      "original_title": "Kipo and the Age of Wonderbeasts",
+      "kind": "Series. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "Netflix 2020年1月14日上线的美国动画。少女基波从地下聚落来到变异动物统治的地表，与表面生存者沃尔夫、男孩本森、反复生死的虫子戴夫和变异猪曼杜结伴找路回家。基波由韩裔美国演员福原凯伦配音。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-kipo-and-the-age-of-wonderbeasts.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Kipo and the Age of Wonderbeasts）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "kipo-and-the-age-of-wonderbeasts"
+      }
+    },
+    {
+      "id": "r-she-ra-and-the-princesses-of-power",
+      "name_zh": null,
+      "name_en": "She-Ra and the Princesses of Power",
+      "original_title": "She-Ra and the Princesses of Power",
+      "kind": "Series reboot. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "Netflix 2018年11月13日上线的美国动画，是1980年代《希瑞》的重启，主创内特·史蒂文森。阿多拉在魔剑前发现自己是希瑞，离开邪教式的部落，与格莉玛、弓一起为埃塞莉亚而战，对手包括曾经的朋友凯特拉。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "she-ra-and-the-princesses-of-power"
+      }
+    },
+    {
+      "id": "r-the-dragon-prince",
+      "name_zh": null,
+      "name_en": "The Dragon Prince",
+      "original_title": "The Dragon Prince",
+      "kind": "Series. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "10+",
+      "description_zh": "Netflix 2018年9月14日上线的史诗奇幻动画，主创亚伦·埃哈兹，他曾参与《降世神通》。人类用黑暗魔法杀死龙王、毁掉龙蛋之后，王子卡勒姆、艾兹兰与精灵蕾拉一起试图阻止人类王国与扎迪亚的战争。",
+      "video_url": "https://www.youtube.com/channel/UCPn8cnHhLHMQrGCmS0K5aBQ",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "the-dragon-prince"
+      }
+    },
+    {
+      "id": "r-maya-and-the-three",
+      "name_zh": "玛雅与三勇士",
+      "name_en": "Maya and the Three",
+      "original_title": "Maya and the Three",
+      "kind": "Epic miniseries. Common Sense Media compares the storytelling to a movie. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "9+",
+      "description_zh": "Netflix 2021年10月22日上线的迷你剧，豪尔赫·R·古铁雷斯创作，佐伊·索尔达娜配音玛雅。特卡王国的少年公主在加冕之夜得知冥界的条件：若她不去冥界，神与人的战争就会爆发。她出发寻找预言中的三名战士。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-maya-and-the-three.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Maya and the Three）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "maya-and-the-three"
+      }
+    },
+    {
+      "id": "r-infinity-train",
+      "name_zh": null,
+      "name_en": "Infinity Train",
+      "original_title": "Infinity Train",
+      "kind": "Anthology-style series. The review describes Tulip's journey; kid reviews on the same page say there are four distinct stories. Episode length was not stated.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "10+",
+      "description_zh": "卡通频道2019年8月5日首播的美国动画。父母离婚后，少女图莉普误上了一列每一节车厢都是一个世界的火车，与球状机器人One-One一起找下车的办法。Common Sense Media的儿童评论汇总称全剧有四个不同故事，黑暗程度并不一样。",
+      "video_url": "https://www.youtube.com/channel/UCJKEXnDmzARVxlt_OK4RLJA",
+      "video_note": "维基数据登记的 YouTube 频道",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "infinity-train"
+      }
+    },
+    {
+      "id": "r-moon-girl-and-devil-dinosaur",
+      "name_zh": null,
+      "name_en": "Moon Girl and Devil Dinosaur",
+      "original_title": "Marvel's Moon Girl and Devil Dinosaur",
+      "kind": "Series. Episode length was not on the pages opened.",
+      "category": null,
+      "age_bucket": "9-12",
+      "age_label": "8+",
+      "description_zh": "迪士尼频道与Disney+ 2023年2月10日开播的美国动画。13岁的卢内拉·拉斐特在纽约下东区用发明变成超级英雄月亮女孩，搭档是从时空裂缝里来的魔鬼恐龙，好友凯西帮她保守身份。劳伦斯·菲什伯恩是制片人并参与配音。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-moon-girl-and-devil-dinosaur.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Moon Girl And Devil Dinosaur）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "moon-girl-and-devil-dinosaur"
+      }
+    },
+    {
+      "id": "r-the-legend-of-korra",
+      "name_zh": "降世神通：科拉传奇",
+      "name_en": "The Legend of Korra",
+      "original_title": "The Legend of Korra",
+      "kind": "Four seasons, 2012–2014. Sequel to Avatar: The Last Airbender, set decades later. Baidu 片长 23 minutes.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "12+",
+      "description_zh": "安死后的下一代神通是南方水族的少女科拉。她已经会土、火、水，到共和城跟丹增学气，碰上反御术运动和城市里的阶级矛盾。它是《降世神通》的续作，但科拉17岁登场，政治和身份认同比前作更靠前。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-the-legend-of-korra.jpg",
+      "image_note": "维基共享资源上的海报或标题图（The Legend of Korra）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "the-legend-of-korra"
+      }
+    },
+    {
+      "id": "r-ranking-of-kings",
+      "name_zh": "国王排名",
+      "name_en": "Ranking of Kings",
+      "original_title": "王様ランキング",
+      "kind": "23 episodes in the main season. Per-episode minutes were not stated on the opened page. The 2023 sequel is a separate 10-episode series.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "波吉是巨人国王的儿子，却又小又聋，国民拿他开玩笑。国王排名看的是骑士、人口和国王本人强不强，没人觉得他能继位。他和影子族幸存的卡克一起找变强的办法。画风像绘本，情节并不软。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-ranking-of-kings.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Ranking of Kings）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "ranking-of-kings"
+      }
+    },
+    {
+      "id": "r-spy-x-family",
+      "name_zh": "间谍过家家",
+      "name_en": "Spy x Family",
+      "original_title": "SPY×FAMILY",
+      "kind": "Season 1 was split into two cours in 2022. Episode runtime was not on the pages opened. Later seasons exist.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "西国间谍“黄昏”为了接近目标，必须组建家庭、把孩子送进名校。他领养了能读心的阿尼亚，又和其实是杀手的约尔结婚。三个人互相瞒着身份，假家庭慢慢变成真的。背景是冷战式的东西阵营。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "spy-x-family"
+      }
+    },
+    {
+      "id": "r-haikyuu",
+      "name_zh": "排球少年！！",
+      "name_en": "Haikyu!!",
+      "original_title": "ハイキュー!!",
+      "kind": "Season 1 is 25 episodes. Seasons 2–4 followed (25, 10, and 25 episodes on the Chinese Wikipedia page). Per-episode minutes were not stated on the pages opened.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "矮个子日向翔阳因为看见“小巨人”打球，死磕排球，高中进入乌野，和初中宿敌影山组队。目标是全国大赛。比赛占满全剧，输球被写成该学的一课，而不是必须把身体练废。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-haikyuu.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Haikyu!!）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "haikyuu"
+      }
+    },
+    {
+      "id": "r-arcane",
+      "name_zh": "英雄联盟：双城之战",
+      "name_en": "Arcane",
+      "original_title": "Arcane: League of Legends",
+      "kind": "Two seasons, 9 episodes each. Chinese Wikipedia lists about 40 minutes per episode. IMDb runtime is 40m.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "16+",
+      "description_zh": "《英雄联盟：双城之战》讲皮尔特沃夫与祖安这对上下城之间的阶级冲突，核心是姐妹蔚与爆爆（后来的金克丝）如何被同一场悲剧拆开。不用玩过游戏也能看，故事把发明、权力和家庭创伤绑在一起。画面是法国Fortiche做的绘画感动画，两季都在Netflix发行。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "arcane"
+      }
+    },
+    {
+      "id": "r-fullmetal-alchemist-brotherhood",
+      "name_zh": "钢之炼金术师FA",
+      "name_en": "Fullmetal Alchemist: Brotherhood",
+      "original_title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "kind": "64 episodes. IMDb runtime 24m. This is the 2009 manga-faithful series, not the 2003 anime.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "爱德华和阿尔冯斯为复活母亲触犯人体炼成，一个失去肢体，一个只剩封在盔甲里的灵魂。他们加入军队寻找贤者之石，一路撞上战争、种族迫害和国家谎言。这是荒川弘漫画的第二版电视动画，由Bones制作，按原作路线讲完。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "r-frieren",
+      "name_zh": "葬送的芙莉莲",
+      "name_en": "Frieren: Beyond Journey's End",
+      "original_title": "葬送のフリーレン",
+      "kind": "Season 1 is 28 episodes and opened as a two-hour special. A regular per-episode minute count was not stated on the pages opened. Season 2 (2026) is directed by Tomoya Kitagawa.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "精灵魔法使芙莉莲和同伴打败魔王之后，才发现人类寿命短得她几乎没看清。勇者欣梅尔的葬礼让她后悔没有了解同伴，于是带上新徒弟重新上路。战斗还在，但节奏更像送别和回忆，不是升级打怪。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-frieren.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Frieren）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "frieren"
+      }
+    },
+    {
+      "id": "r-violet-evergarden",
+      "name_zh": "紫罗兰永恒花园",
+      "name_en": "Violet Evergarden",
+      "original_title": "ヴァイオレット・エヴァーガーデン",
+      "kind": "13 TV episodes. Douban subject page retrieved for this guide listed 24 minutes and a 9.0 score. Later direct fetch of Douban returned 403, so treat the score as what that retrieval showed, not a rechecked live number.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "战争结束后，被当成武器养大的少女薇尔莉特装上义肢，到邮政公司做“自动手记人偶”，替不会写信的人把心情写成文字。她想弄懂长官最后对她说的“我爱你”。每集多半是一封信、一段别人的人生，主线是她自己慢慢长出感情。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-violet-evergarden.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Violet Evergarden）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "violet-evergarden"
+      }
+    },
+    {
+      "id": "r-mob-psycho-100",
+      "name_zh": "灵能百分百",
+      "name_en": "Mob Psycho 100",
+      "original_title": "モブサイコ100",
+      "kind": "Season 1 is 12 episodes, 24 minutes on MyAnimeList. The whole anime run is three seasons. Do not use the Common Sense Media “Mob Psycho 100” page for age: that review is the 2018 Netflix live-action show, rated TV-MA there.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "中学生影山茂夫外号“龙套”，超能力强到可怕，却一心想过普通生活：锻炼身体、谈恋爱、别伤人。感情冲到100%时力量会失控。他的师父灵幻新隆是个没灵力的骗子，戏很多，也意外地在教他怎么做人。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-mob-psycho-100.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Mob Psycho 100）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "mob-psycho-100"
+      }
+    },
+    {
+      "id": "r-pluto",
+      "name_zh": "冥王",
+      "name_en": "Pluto",
+      "original_title": "PLUTO",
+      "kind": "8 episodes. IMDb says 62 minutes. Chinese Wikipedia says each episode is about one hour and covers all 8 manga volumes.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "15+",
+      "description_zh": "在人与机器人共存的战后世界，机器人刑警盖吉特调查一连串谋杀：被害者是机器人权利倡导者，以及世界上最先进的七个机器人。故事改编自手冢治虫《铁臂阿童木》的篇章，由浦泽直树重写成悬疑漫画，再做成Netflix动画。阿童木在里面，但视角不是热血少年英雄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-pluto.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Pluto (Disney)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "pluto"
+      }
+    },
+    {
+      "id": "r-your-lie-in-april",
+      "name_zh": "四月是你的谎言",
+      "name_en": "Your Lie in April",
+      "original_title": "四月は君の嘘",
+      "kind": "22 TV episodes. The 2016 live-action movie is a separate work and not part of this entry. Episode minutes were not stated as a runtime; the Fuji TV slot on Wikipedia is 25:20–25:50.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "钢琴少年有马公生在母亲病逝后听不见钢琴的声音，直到遇见拉小提琴的宫园薰。音乐比赛、友情和初恋把他从“人体节拍器”里拖出来。中文维基写薰长期住院，手术失败后去世，并留下一封信。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-your-lie-in-april.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Your Lie in April）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "your-lie-in-april"
+      }
+    },
+    {
+      "id": "r-a-place-further-than-the-universe",
+      "name_zh": "比宇宙更远的地方",
+      "name_en": "A Place Further Than the Universe",
+      "original_title": "宇宙よりも遠い場所",
+      "kind": "13 episodes, 23 minutes on MyAnimeList.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "高中生玉木真理不想把青春耗在犹豫里，遇见一直攒钱要去南极的小渊泽报濑。报濑的母亲三年前在南极失踪。加上日向和偶像结月，四个女孩挤进民间观测队，坐船去昭和基地那边的冰原。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-a-place-further-than-the-universe.jpg",
+      "image_note": "维基共享资源上的海报或标题图（A Place Further than the Universe）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "a-place-further-than-the-universe"
+      }
+    },
+    {
+      "id": "r-march-comes-in-like-a-lion",
+      "name_zh": "3月的狮子",
+      "name_en": "March Comes In like a Lion",
+      "original_title": "3月のライオン",
+      "kind": "44 TV episodes across two seasons. IMDb runtime 25m. The title on the simplified Chinese Wikipedia is “3月的狮子”, not “三月的狮子”.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "17岁的职业将棋棋士桐山零从小在事故里失去家人，又觉得自己的才能拆散了养父母家，于是一个人住。川本家三姐妹把他拉进饭桌和日常。将棋是职业，也是他躲避和面对自己的方式。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-march-comes-in-like-a-lion.jpg",
+      "image_note": "维基共享资源上的海报或标题图（March Comes In like a Lion）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "march-comes-in-like-a-lion"
+      }
+    },
+    {
+      "id": "r-the-apothecary-diaries",
+      "name_zh": "药屋少女的呢喃",
+      "name_en": "The Apothecary Diaries",
+      "original_title": "薬屋のひとりごと",
+      "kind": "Season 1 is 24 episodes. Runtime in minutes was not on the pages opened. The jokey title “药屋少女的哒哦事情” was not found as an official name; the opened simplified Wikipedia title is 药屋少女的呢喃.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "14+",
+      "description_zh": "懂药的少女猫猫在红灯区长大，被拐卖进宫当差。她靠知识查出妃嫔和皇子中毒、发病的原因，被宦官壬氏盯上，从洗衣女变成侍女。故事发生在架空的明朝式宫廷，一集一个医案。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-the-apothecary-diaries.jpg",
+      "image_note": "维基共享资源上的海报或标题图（百花缭乱 (几田莉拉歌曲)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "the-apothecary-diaries"
+      }
+    },
+    {
+      "id": "r-yao-chinese-folktales",
+      "name_zh": "中国奇谭",
+      "name_en": "Yao-Chinese Folktales",
+      "original_title": "中国奇谭",
+      "kind": "8 episodes, 20 minutes each, different directors and art styles (including papercut and other techniques across the set).",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "12+",
+      "description_zh": "上海美术电影制片厂和哔哩哔哩做的八个独立短片，从西游底层小妖、志怪狐狸，到狼、乡村巴士和太空玉兔。总导演陈廖宇，每集换导演和画风。它接的是美影厂美术片传统，但故事是给现在的观众写的。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-yao-chinese-folktales.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Nobody (2025 film)）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "yao-chinese-folktales"
+      }
+    },
+    {
+      "id": "r-link-click",
+      "name_zh": "时光代理人",
+      "name_en": "Link Click",
+      "original_title": "时光代理人",
+      "kind": "Season 1: 11 episodes plus extras. A Douban cast page for 英都篇 lists 24 minutes; that figure was not confirmed for season 1 on an opened page, so episode_length_min is null.",
+      "category": null,
+      "age_bucket": "13+",
+      "age_label": "13+",
+      "description_zh": "程小时能进入照片，附身在拍摄者身上；陆光能看见拍照之后12小时里会发生什么。两人在时光照相馆接委托，改过去的一个动作，常常把现在搞得更糟。第一季像单元委托，后面几季把父母失踪和连环死亡收成悬疑。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/r-link-click.jpg",
+      "image_note": "维基共享资源上的海报或标题图（Link Click）",
+      "from": [
+        "research"
+      ],
+      "source_ids": {
+        "research": "link-click"
+      }
+    },
+    {
+      "id": "w-way-things-work",
+      "name_zh": "万物运转的秘密",
+      "name_en": "The Way Things Work",
+      "original_title": "The Way Things Work",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "6-8",
+      "age_label": "6岁以上",
+      "description_zh": "文章说这部片根据大卫·麦考利的同名书改编，26集，每集约13分钟。故事发生在猛犸象小岛：挤奶时讲滑轮，打捞沉船铁轨时讲电磁铁。文章写它适合6岁以上，没有中文配音，是英文原声加中英文字幕。另一篇同样推荐了这部，并补充科学家旁白、每集13分钟。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-way-things-work.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "way-things-work"
+      }
+    },
+    {
+      "id": "w-hello-china",
+      "name_zh": "你好中国",
+      "name_en": "Hello China",
+      "original_title": "Hello China",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章说这套片由国家广电总局牵头，100集，每集几分钟，用一个代表中国的词讲历史、文化、地理和经济，例子包括筷子、长城、饺子、七夕、功夫、算盘、孔子、火锅和糖葫芦。全英文配音，带中英双语字幕，画风被写成水墨。文章没有写年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-hello-china.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "hello-china"
+      }
+    },
+    {
+      "id": "w-donald-mathmagic",
+      "name_zh": "唐老鸭漫游数学奇境",
+      "name_en": "Donald in Mathmagic Land",
+      "original_title": "Donald in Mathmagic Land",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "6-8",
+      "age_label": "5-10岁",
+      "description_zh": "文章写这是1集、约27分钟的迪士尼动画，中文和英文都有，适合5–10岁。它不把计算题搬进动画，而是讲数学有什么用、数学的美在哪里。迪士尼电影页写首映日期为1959年6月26日。",
+      "video_url": "https://movies.disney.com/donald-in-mathmagic-land",
+      "video_note": "迪士尼电影官方介绍页，页面标注有 DVD，不代表在线可播。",
+      "image_path": "images/w-donald-mathmagic.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "donald-mathmagic"
+      }
+    },
+    {
+      "id": "w-moominvalley",
+      "name_zh": "姆明山谷",
+      "name_en": "Moominvalley",
+      "original_title": "Moominvalley",
+      "kind": "动画",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章推荐的是芬兰动画《姆明山谷》，并写豆瓣9.3。它说新版一共三季、每季13集、每集22分钟，讲害羞的白色小精灵姆明和家人、朋友在山谷里过日子，没有打打杀杀。姆明官网写这部剧由托芙·扬松的故事改编，第一季2019年播出。文章说成片是英文字幕，没有写明确年龄。",
+      "video_url": "https://www.moomin.com/en/moominvalley/",
+      "video_note": "姆明官方剧集介绍页，不是播放器。",
+      "image_path": "images/w-moominvalley.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "moominvalley"
+      }
+    },
+    {
+      "id": "w-twenty-thousand-leagues",
+      "name_zh": "海底两万里",
+      "name_en": null,
+      "original_title": "海底两万里",
+      "kind": "动画",
+      "category": "人文类",
+      "age_bucket": "6-8",
+      "age_label": "3-12岁",
+      "description_zh": "文章推荐的是动画版，写明10集、每集10–15分钟，适合3–12岁。故事按原著：1866年海怪传闻引出追捕，阿龙纳斯、康塞尔和尼德兰落水后登上尼摩船长的潜艇，开始深海旅行。文章没有给出这一版动画的制作公司，也没有播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-twenty-thousand-leagues.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "twenty-thousand-leagues"
+      }
+    },
+    {
+      "id": "w-love-monster",
+      "name_zh": "小怪兽阿蒙",
+      "name_en": "Love Monster",
+      "original_title": "Love Monster",
+      "kind": "动画",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章说这是 BBC 少儿频道的《Love Monster》，中文名《小怪兽阿蒙》，并在标题里写75集、中英文。毛茸茸的小怪兽住在可爱村，一直希望有人喜欢他、陪着他、接受他本来的样子。文章用分食物等很小的事讲爱，没有写数字年龄。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/love-monster",
+      "video_note": "BBC CBeebies 官方节目页。能否点播取决于地区。",
+      "image_path": "images/w-love-monster.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "love-monster"
+      }
+    },
+    {
+      "id": "w-operation-ouch",
+      "name_zh": "人体奥奇实验室",
+      "name_en": "Operation Ouch!",
+      "original_title": "Operation Ouch!",
+      "kind": "真人科普",
+      "category": "学习类",
+      "age_bucket": "9-12",
+      "age_label": "6-15岁",
+      "description_zh": "文章推荐 BBC 的《Operation Ouch!》，中文译名《人体奥奇实验室》，并写一共14季、6到15岁都适合。主持人是双胞胎医生克里斯和克斯。文中举例：克里斯吞下带摄像头的药丸，镜头从嘴进入食道、胃和小肠，孩子因此说胃像搅拌机。这是真人医学节目，不是动画片。",
+      "video_url": "https://www.bbc.co.uk/cbbc/shows/operation-ouch",
+      "video_note": "BBC CBBC 官方节目页，页内有短视频。完整季是否可看取决于地区。",
+      "image_path": "images/w-operation-ouch.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "operation-ouch"
+      }
+    },
+    {
+      "id": "w-empty-hands",
+      "name_zh": "尽管我们的手中空无一物",
+      "name_en": null,
+      "original_title": "尽管我们的手中空无一物",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章介绍的短片：小羊去世后在去天堂的路上排队，过天河时身上的东西都会消失。它剃掉羊毛搓成绳子逃回家，又被狼守卫抓回去。羊妈妈一直在屋外织毛衣。结尾是狼守卫顺着绳子把毛衣送到小羊身边，绳子化作满天繁星。文章说它表面上讲死亡，落点是爱。没有写年龄，也没有英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-empty-hands.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "empty-hands"
+      }
+    },
+    {
+      "id": "w-far-away",
+      "name_zh": "远在天边",
+      "name_en": null,
+      "original_title": "远在天边",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章说这是一个小男孩送企鹅回家的短片。男孩独自住在港口小镇，企鹅敲门而入。他起初厌烦，想把企鹅送到失物招领处或丢在宠物店，最后还是划船送它回南极。暴风雨里两人互相救援；章鱼没有攻击他们，只把行李放回船上，并把船推向企鹅的家。文章没有写年龄和英文名。另一篇在文末也点了这个名字。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-far-away.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "far-away"
+      }
+    },
+    {
+      "id": "w-ted-ed-nature",
+      "name_zh": "了不起的自然",
+      "name_en": null,
+      "original_title": "了不起的自然",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章把一套128集、每集约五分钟的科普动画称为《了不起的自然》，并写制作方是 TED-Ed。选题来自中小学科学老师，由动物学家、海洋科学家、地质学家供稿，再做成手绘动画。例子包括树懒为什么慢、燕子如何找回家、静电、捕蝇草和壁虎断尾。文章没有给出对应的单一英文剧名，所以这里不把它安到某一套现成英文系列上。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-ted-ed-nature.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "ted-ed-nature"
+      }
+    },
+    {
+      "id": "w-cosmos-odyssey",
+      "name_zh": "宇宙时空之旅",
+      "name_en": "Cosmos: A SpaceTime Odyssey",
+      "original_title": "Cosmos: A SpaceTime Odyssey",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写解说是泰森，用“想象号飞船”从微观走到宇宙边缘，并把138亿年压成一年：1月1日大爆炸，人类文明只有这年的最后14秒。也讲了哈雷和彗星、法拉第让观众看见磁场。文章写豆瓣9.7、已播出两季，标题里写25集。主持者本人的节目页写2014年3月开播、共13集。集数以文章和该页各自的说法并列，这里不把两边合成一个数字。文章没有写年龄。36部纪录片清单里也有这个名字。",
+      "video_url": "https://neildegrassetyson.com/shows/2014-03-cosmos-spacetime-odyssey/",
+      "video_note": "主持者 Neil deGrasse Tyson 官网的节目介绍，不是播放器。该页写13集、2014年3月由国家地理与福克斯首播。",
+      "image_path": "images/w-cosmos-odyssey.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "cosmos-odyssey"
+      }
+    },
+    {
+      "id": "w-afternoon",
+      "name_zh": "午后时光",
+      "name_en": null,
+      "original_title": "午后时光",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章说这是一部约9分钟、几乎没有对白的动画。穿红衣服的老奶奶在客厅喝下午茶，她患有阿尔茨海默症，不断掉进回忆：海边的父亲、少女时代的朋友、热恋、有了女儿。结尾她想起照顾自己的人就是女儿，两人相拥。文章特别写到回忆中的老奶奶没有脖子，用来表现记忆和身体的连接断了。没有写年龄和英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-afternoon.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "afternoon"
+      }
+    },
+    {
+      "id": "w-hugo-world",
+      "name_zh": "雨果带你看世界",
+      "name_en": null,
+      "original_title": "雨果带你看世界",
+      "kind": "动画",
+      "category": "益智动画类",
+      "age_bucket": "6-8",
+      "age_label": "3-8岁",
+      "description_zh": "文章把它放在思维启蒙，写豆瓣9.2、适合3–8岁、BBC 出品、单集约5分钟。它问什么是朋友、什么是公平、害怕是什么、什么才算大，雨果不给标准答案。文章没有英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-hugo-world.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "hugo-world"
+      }
+    },
+    {
+      "id": "w-luna-pixar",
+      "name_zh": "月神",
+      "name_en": null,
+      "original_title": "月神",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "3-5",
+      "age_label": "4岁以上",
+      "description_zh": "文章写豆瓣9.0、适合4岁以上，是皮克斯约7分钟短片。男孩第一次跟爷爷和爸爸到月亮上清扫星辰。爷爷要用耙子，爸爸坚持用扫帚，男孩自己观察，敲开星辰。文章没有写英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-luna-pixar.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "luna-pixar"
+      }
+    },
+    {
+      "id": "w-fixies",
+      "name_zh": "螺丝钉",
+      "name_en": null,
+      "original_title": "螺丝钉",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "3-5",
+      "age_label": "3-6岁",
+      "description_zh": "文章写豆瓣9.4、适合3–6岁，称它是俄罗斯动画：家电里住着修理小精灵，用故事讲冰箱为什么制冷、遥控器如何发信号、洗衣机怎样洗净衣服。文章没有英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-fixies.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "fixies"
+      }
+    },
+    {
+      "id": "w-the-cave-pixar",
+      "name_zh": "洞穴",
+      "name_en": null,
+      "original_title": "洞穴",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "3-5",
+      "age_label": "4岁以上",
+      "description_zh": "文章写豆瓣8.8、适合4岁以上，是皮克斯短片。怕社交的小兔子往地下挖洞，挖穿了鼹鼠、老鼠和蚂蚁的家，最后遇到麻烦才向邻居求助，大家一起把洞穴重建好。文章没有英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-the-cave-pixar.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "the-cave-pixar"
+      }
+    },
+    {
+      "id": "w-lost-and-found-school",
+      "name_zh": "失物招领",
+      "name_en": null,
+      "original_title": "失物招领",
+      "kind": "动画短片",
+      "category": "情感品格类",
+      "age_bucket": "6-8",
+      "age_label": "5岁以上",
+      "description_zh": "文章写豆瓣8.4、适合5岁以上。失物招领箱里的小精灵发现爱欺负人的男孩 JJ 自己的东西也曾被抢走，于是帮他把抢走的东西还回去，并找回毛绒玩具。文章没有英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-lost-and-found-school.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "lost-and-found-school"
+      }
+    },
+    {
+      "id": "w-thirty-six-characters",
+      "name_zh": "三十六个字",
+      "name_en": null,
+      "original_title": "三十六个字",
+      "kind": "动画短片",
+      "category": "人文类",
+      "age_bucket": "6-8",
+      "age_label": "5岁以上",
+      "description_zh": "文章写豆瓣8.7、适合5岁以上，上海美术电影制片厂短片。父亲用36个象形字串成故事，日、月、山、水、木、林从字变成画面。文章写它得过萨格勒布国际动画电影节教育片奖。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-thirty-six-characters.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "thirty-six-characters"
+      }
+    },
+    {
+      "id": "w-chinese-poetry",
+      "name_zh": "中国唱诗班",
+      "name_en": null,
+      "original_title": "中国唱诗班",
+      "kind": "动画",
+      "category": "人文类",
+      "age_bucket": "3-5",
+      "age_label": "4岁以上",
+      "description_zh": "文章写豆瓣9.1、适合4岁以上，全系列6集，单集5至15分钟，用动画讲古诗背后的事：《元日》《相思》《游子吟》。文章没有给播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-chinese-poetry.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "chinese-poetry"
+      }
+    },
+    {
+      "id": "w-doc10-喜马拉雅",
+      "name_zh": "喜马拉雅",
+      "name_en": null,
+      "original_title": "喜马拉雅",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写豆瓣9.6。雪豹在岩壁上等猎物，金雕迎风飞，用来讲高原上的坚持。文章没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc10-喜马拉雅"
+      }
+    },
+    {
+      "id": "w-doc10-亚马逊深渊",
+      "name_zh": "亚马逊深渊",
+      "name_en": null,
+      "original_title": "亚马逊深渊",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写豆瓣9.3。镜头进到亚马逊雨林和水下，用来讲好奇和探索。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc10-亚马逊深渊"
+      }
+    },
+    {
+      "id": "w-doc10-大堡礁",
+      "name_zh": "大堡礁",
+      "name_en": null,
+      "original_title": "大堡礁",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写豆瓣9.4。珊瑚礁和海洋生物，并写到珊瑚白化。正文这一条没有单独配图。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc10-大堡礁"
+      }
+    },
+    {
+      "id": "w-doc10-野性非洲",
+      "name_zh": "野性非洲",
+      "name_en": null,
+      "original_title": "野性非洲",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写豆瓣9.7。草原上的迁徙、捕猎和抢领地。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc10-野性非洲"
+      }
+    },
+    {
+      "id": "w-doc10-黄石公园",
+      "name_zh": "黄石公园",
+      "name_en": null,
+      "original_title": "黄石公园",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写豆瓣9.5。间歇泉、森林、野生动物和四季。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc10-黄石公园"
+      }
+    },
+    {
+      "id": "w-penguins-spy",
+      "name_zh": "企鹅群里有特务",
+      "name_en": "Penguins: Spy in the Huddle",
+      "original_title": "Penguins: Spy in the Huddle",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "3-5",
+      "age_label": "3-6岁",
+      "description_zh": "文章写语言是汉语普通话，适合3–6岁。BBC 摄影队用近一年跟踪洪堡企鹅、跳岩企鹅和帝企鹅。三集标题被写成《漫漫长路》《蹒跚学步》《成长的烦恼》。BBC 纪录片页写2013年、3集，导演 John Downer。36部清单里也有这个名字。",
+      "video_url": "https://www.bbc.com/video/docs/series/10167741",
+      "video_note": "BBC 纪录片系列页，列出3集。能否播放取决于地区。",
+      "image_path": "images/w-penguins-spy.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "penguins-spy"
+      }
+    },
+    {
+      "id": "w-tiny-world",
+      "name_zh": "小小世界",
+      "name_en": "Tiny World",
+      "original_title": "Tiny World",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "6-8",
+      "age_label": "4-8岁",
+      "description_zh": "文章写语言是英语，适合4–8岁，并写它在 Apple TV。用很小的动物走一段“英雄旅程”。列出的章节是草原、丛林、岛屿、内陆、林地。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-tiny-world.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "tiny-world"
+      }
+    },
+    {
+      "id": "w-everything-nothing",
+      "name_zh": "万物与虚无",
+      "name_en": "Everything and Nothing",
+      "original_title": "Everything and Nothing",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "9-12",
+      "age_label": "8岁以上",
+      "description_zh": "文章写语言是英语，适合8岁以上。吉姆·阿尔-哈利里讲“万物是什么、虚无是什么”，分上部《万物》和下部《虚无》。BBC Four 节目页的介绍与此相符，并写目前不在 iPlayer 上。",
+      "video_url": "https://www.bbc.co.uk/programmes/b00zw0n6",
+      "video_note": "BBC 节目页。页面写 On iPlayer: Not available。",
+      "image_path": "images/w-everything-nothing.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "everything-nothing"
+      }
+    },
+    {
+      "id": "w-doc19-鸟瞰地球",
+      "name_zh": "鸟瞰地球",
+      "name_en": null,
+      "original_title": "鸟瞰地球",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章的推荐理由是换一种视角看世界：航拍飞越六大洲，记录动物迁徙和地貌。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc19-鸟瞰地球"
+      }
+    },
+    {
+      "id": "w-doc19-隐形世界",
+      "name_zh": "隐形世界",
+      "name_en": null,
+      "original_title": "隐形世界",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写用高速摄影和显微镜头看昆虫翅膀、碎掉的水滴和植物的细小结构。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc19-隐形世界"
+      }
+    },
+    {
+      "id": "w-doc19-南太平洋",
+      "name_zh": "南太平洋",
+      "name_en": null,
+      "original_title": "南太平洋",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写镜头去南太平洋孤岛，看生命在隔绝环境里长成别的样子。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc19-南太平洋"
+      }
+    },
+    {
+      "id": "w-doc19-地球一年",
+      "name_zh": "地球一年",
+      "name_en": null,
+      "original_title": "地球一年",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章写跟着四季看动植物生长、繁殖和蛰伏。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc19-地球一年"
+      }
+    },
+    {
+      "id": "w-doc19-极地",
+      "name_zh": "极地",
+      "name_en": null,
+      "original_title": "极地",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章称它是国产纪录片，记录极寒地方的人怎样和自然一起生活。没有英文名，也没有年龄。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "doc19-极地"
+      }
+    },
+    {
+      "id": "w-film-小鞋子",
+      "name_zh": "小鞋子",
+      "name_en": null,
+      "original_title": "小鞋子",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-小鞋子"
+      }
+    },
+    {
+      "id": "w-film-地球上的星星",
+      "name_zh": "地球上的星星",
+      "name_en": null,
+      "original_title": "地球上的星星",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：每个孩子都是不一样的星星，不必跟风比较。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-film.jpg",
+      "image_note": "维基共享资源上的海报或标题图（心中的小星星）",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-地球上的星星"
+      }
+    },
+    {
+      "id": "w-film-放牛班的春天",
+      "name_zh": "放牛班的春天",
+      "name_en": null,
+      "original_title": "放牛班的春天",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：没有真正的坏孩子，只有需要被看见的孩子。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-放牛班的春天"
+      }
+    },
+    {
+      "id": "w-film-听见天堂",
+      "name_zh": "听见天堂",
+      "name_en": null,
+      "original_title": "听见天堂",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：生活有缺憾，仍然可以用心感受世界。文章没有写这是哪一版电影的英文名。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-听见天堂"
+      }
+    },
+    {
+      "id": "w-film-追风筝的人",
+      "name_zh": "追风筝的人",
+      "name_en": null,
+      "original_title": "追风筝的人",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：成长是直面过错、弥补遗憾。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-追风筝的人"
+      }
+    },
+    {
+      "id": "w-film-何以为家",
+      "name_zh": "何以为家",
+      "name_en": null,
+      "original_title": "何以为家",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：幸福不是理所当然，要珍惜被爱和被守护。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-何以为家"
+      }
+    },
+    {
+      "id": "w-film-天堂电影院",
+      "name_zh": "天堂电影院",
+      "name_en": null,
+      "original_title": "天堂电影院",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：童年的光会照亮以后的路。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-天堂电影院"
+      }
+    },
+    {
+      "id": "w-film-大卫·科波菲尔",
+      "name_zh": "大卫·科波菲尔",
+      "name_en": null,
+      "original_title": "大卫·科波菲尔",
+      "kind": "电影",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：生活有风雨，本心不能丢。文章没有写是哪一个改编版本。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-大卫·科波菲尔"
+      }
+    },
+    {
+      "id": "w-film-地球脉动",
+      "name_zh": "地球脉动",
+      "name_en": null,
+      "original_title": "地球脉动",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：万物生长各有快慢，孩子的成长也一样。36部清单里也有这个名字。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "film-地球脉动"
+      }
+    },
+    {
+      "id": "w-funny-physics",
+      "name_zh": "爆笑物理",
+      "name_en": null,
+      "original_title": "爆笑物理",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在《万物运转的秘密》文末作为往期推荐出现，原文是：清华附《爆笑物理》（144集），孩子趣味学物理。没有进一步介绍，也没有链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-funny-physics.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "funny-physics"
+      }
+    },
+    {
+      "id": "w-fun-science",
+      "name_zh": "趣味科学",
+      "name_en": null,
+      "original_title": "趣味科学",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在同一篇文末作为往期推荐出现，原文是：央视推荐《趣味科学》（1–8季，中英文）。没有进一步介绍，也没有链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-fun-science.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "fun-science"
+      }
+    },
+    {
+      "id": "w-runaway-robot",
+      "name_zh": "逃跑机器人",
+      "name_en": null,
+      "original_title": "逃跑机器人",
+      "kind": "未说明",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在《尽管我们的手中空无一物》文末被点名。原文说它改编自国际大奖小说，并写到和平与两难时的抉择。没有年龄、集数和链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-runaway-robot.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "runaway-robot"
+      }
+    },
+    {
+      "id": "w-long-holiday",
+      "name_zh": "悠悠长假",
+      "name_en": null,
+      "original_title": "悠悠长假",
+      "kind": "动画",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在《远在天边》文末被点名。原文写豆瓣9.5，画风明媚，并说它让孩子想到生活在和平环境里。没有年龄和链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-long-holiday.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "long-holiday"
+      }
+    },
+    {
+      "id": "w-super-soap",
+      "name_zh": "超级肥皂",
+      "name_en": null,
+      "original_title": "超级肥皂",
+      "kind": "动画",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在《午后时光》文末作为往期出现。原文写：40年前的国产动画，讲消费主义、营销套路和群体盲从。没有链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-super-soap.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "super-soap"
+      }
+    },
+    {
+      "id": "w-after-rain",
+      "name_zh": "雨后",
+      "name_en": null,
+      "original_title": "雨后",
+      "kind": "动画",
+      "category": "情感品格类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "只在《午后时光》文末作为往期出现。原文写：法国获奖动画，关于自然循环、责任与传承。没有链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-after-rain.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "after-rain"
+      }
+    },
+    {
+      "id": "w-list36-宇宙的奇迹",
+      "name_zh": "宇宙的奇迹",
+      "name_en": null,
+      "original_title": "宇宙的奇迹",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-宇宙的奇迹"
+      }
+    },
+    {
+      "id": "w-list36-生命的奇迹",
+      "name_zh": "生命的奇迹",
+      "name_en": null,
+      "original_title": "生命的奇迹",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-生命的奇迹"
+      }
+    },
+    {
+      "id": "w-list36-从太空看地球",
+      "name_zh": "从太空看地球",
+      "name_en": null,
+      "original_title": "从太空看地球",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-从太空看地球"
+      }
+    },
+    {
+      "id": "w-list36-太阳系的奇迹",
+      "name_zh": "太阳系的奇迹",
+      "name_en": null,
+      "original_title": "太阳系的奇迹",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-太阳系的奇迹"
+      }
+    },
+    {
+      "id": "w-list36-人类宇宙",
+      "name_zh": "人类宇宙",
+      "name_en": null,
+      "original_title": "人类宇宙",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-人类宇宙"
+      }
+    },
+    {
+      "id": "w-list36-生命之色",
+      "name_zh": "生命之色",
+      "name_en": null,
+      "original_title": "生命之色",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-生命之色"
+      }
+    },
+    {
+      "id": "w-list36-地球改变之年",
+      "name_zh": "地球改变之年",
+      "name_en": null,
+      "original_title": "地球改变之年",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-地球改变之年"
+      }
+    },
+    {
+      "id": "w-list36-绿色星球",
+      "name_zh": "绿色星球",
+      "name_en": null,
+      "original_title": "绿色星球",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-绿色星球"
+      }
+    },
+    {
+      "id": "w-list36-家园",
+      "name_zh": "家园",
+      "name_en": null,
+      "original_title": "家园",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-家园"
+      }
+    },
+    {
+      "id": "w-list36-自然的力量",
+      "name_zh": "自然的力量",
+      "name_en": null,
+      "original_title": "自然的力量",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-自然的力量"
+      }
+    },
+    {
+      "id": "w-list36-世界遗产在中国",
+      "name_zh": "世界遗产在中国",
+      "name_en": null,
+      "original_title": "世界遗产在中国",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-世界遗产在中国"
+      }
+    },
+    {
+      "id": "w-list36-南宋",
+      "name_zh": "南宋",
+      "name_en": null,
+      "original_title": "南宋",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-南宋"
+      }
+    },
+    {
+      "id": "w-list36-从秦始皇到汉武帝",
+      "name_zh": "从秦始皇到汉武帝",
+      "name_en": null,
+      "original_title": "从秦始皇到汉武帝",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-从秦始皇到汉武帝"
+      }
+    },
+    {
+      "id": "w-list36-大明宫",
+      "name_zh": "大明宫",
+      "name_en": null,
+      "original_title": "大明宫",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-大明宫"
+      }
+    },
+    {
+      "id": "w-list36-故宫",
+      "name_zh": "故宫",
+      "name_en": null,
+      "original_title": "故宫",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-故宫"
+      }
+    },
+    {
+      "id": "w-list36-三国的世界",
+      "name_zh": "三国的世界",
+      "name_en": null,
+      "original_title": "三国的世界",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-三国的世界"
+      }
+    },
+    {
+      "id": "w-list36-航拍中国",
+      "name_zh": "航拍中国",
+      "name_en": null,
+      "original_title": "航拍中国",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-航拍中国"
+      }
+    },
+    {
+      "id": "w-list36-第三极",
+      "name_zh": "第三极",
+      "name_en": null,
+      "original_title": "第三极",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-第三极"
+      }
+    },
+    {
+      "id": "w-list36-了不起的村落",
+      "name_zh": "了不起的村落",
+      "name_en": null,
+      "original_title": "了不起的村落",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-了不起的村落"
+      }
+    },
+    {
+      "id": "w-list36-河西走廊",
+      "name_zh": "河西走廊",
+      "name_en": null,
+      "original_title": "河西走廊",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/f49db2e8e7b7.jpg",
+      "image_note": "维基共享资源上的海报或标题图（河西走廊 (纪录片)）",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-河西走廊"
+      }
+    },
+    {
+      "id": "w-list36-美丽中国",
+      "name_zh": "美丽中国",
+      "name_en": null,
+      "original_title": "美丽中国",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/d04d087f42cf.jpg",
+      "image_note": "维基共享资源上的海报或标题图（美丽中国）",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-美丽中国"
+      }
+    },
+    {
+      "id": "w-list36-天山脚下",
+      "name_zh": "天山脚下",
+      "name_en": null,
+      "original_title": "天山脚下",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-天山脚下"
+      }
+    },
+    {
+      "id": "w-list36-此画怎讲",
+      "name_zh": "此画怎讲",
+      "name_en": null,
+      "original_title": "此画怎讲",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-此画怎讲"
+      }
+    },
+    {
+      "id": "w-list36-啊！设计",
+      "name_zh": "啊！设计",
+      "name_en": null,
+      "original_title": "啊！设计",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-啊！设计"
+      }
+    },
+    {
+      "id": "w-list36-艺术创世记",
+      "name_zh": "艺术创世记",
+      "name_en": null,
+      "original_title": "艺术创世记",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-艺术创世记"
+      }
+    },
+    {
+      "id": "w-list36-文明",
+      "name_zh": "文明",
+      "name_en": null,
+      "original_title": "文明",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": "https://www.bbc.co.uk/programmes/p05xxp5j",
+      "video_note": "维基数据登记的官方网站",
+      "image_path": null,
+      "image_note": "未找到可下载的海报或标题图。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-文明"
+      }
+    },
+    {
+      "id": "w-list36-现代艺术大师",
+      "name_zh": "现代艺术大师",
+      "name_en": null,
+      "original_title": "现代艺术大师",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-现代艺术大师"
+      }
+    },
+    {
+      "id": "w-list36-卢浮宫的珍宝",
+      "name_zh": "卢浮宫的珍宝",
+      "name_en": null,
+      "original_title": "卢浮宫的珍宝",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-卢浮宫的珍宝"
+      }
+    },
+    {
+      "id": "w-list36-七个世界，一个星球",
+      "name_zh": "七个世界，一个星球",
+      "name_en": null,
+      "original_title": "七个世界，一个星球",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-七个世界，一个星球"
+      }
+    },
+    {
+      "id": "w-list36-王朝",
+      "name_zh": "王朝",
+      "name_en": null,
+      "original_title": "王朝",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-王朝"
+      }
+    },
+    {
+      "id": "w-list36-植物王国",
+      "name_zh": "植物王国",
+      "name_en": null,
+      "original_title": "植物王国",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-植物王国"
+      }
+    },
+    {
+      "id": "w-list36-种出个地球",
+      "name_zh": "种出个地球",
+      "name_en": null,
+      "original_title": "种出个地球",
+      "kind": "纪录片",
+      "category": "自然类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-种出个地球"
+      }
+    },
+    {
+      "id": "w-list36-意大利花园",
+      "name_zh": "意大利花园",
+      "name_en": null,
+      "original_title": "意大利花园",
+      "kind": "纪录片",
+      "category": "人文类",
+      "age_bucket": "unspecified",
+      "age_label": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": null,
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "list36-意大利花园"
+      }
+    },
+    {
+      "id": "w-what-if",
+      "name_zh": "What If",
+      "name_en": "What If",
+      "original_title": "What If",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-what-if.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "what-if"
+      }
+    },
+    {
+      "id": "w-story-of-maths",
+      "name_zh": "数学的故事",
+      "name_en": null,
+      "original_title": "数学的故事",
+      "kind": "纪录片",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "往期推荐里出现两次。原文是：BBC 科普《数学的故事》（4 集，中英文），跳出公式，换个角度看数字背后的逻辑。没有写年龄，也没有播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-story-of-maths.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "story-of-maths"
+      }
+    },
+    {
+      "id": "w-dr-ping",
+      "name_zh": "平博士密码",
+      "name_en": null,
+      "original_title": "平博士密码",
+      "kind": "动画",
+      "category": "学习类",
+      "age_bucket": "unspecified",
+      "age_label": "未标明年龄",
+      "description_zh": "出现在《人体奥奇实验室》文末的往期推荐。原文是：全球首部诺贝尔科普题材动画《平博士密码》（52 集，中英文），把看不见的科学讲明白。没有写年龄，也没有播放链接。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_path": "images/w-dr-ping.jpg",
+      "image_note": "微信文章里的配图。不是单独核对过的官方海报。",
+      "from": [
+        "wechat"
+      ],
+      "source_ids": {
+        "wechat": "dr-ping"
+      }
+    }
+  ]
+}

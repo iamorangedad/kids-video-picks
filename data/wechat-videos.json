@@ -1,0 +1,2929 @@
+{
+  "updated": "2026-11-06",
+  "scope": "只收录这27篇微信文章里点名的视频。同一篇里的每一部都单独成条。描述不超出文章原文。分类按内容，年龄仍照文章所写。",
+  "fetch": {
+    "succeeded": [
+      {
+        "no": 1,
+        "title": "豆瓣9.5分《万物运转的秘密》（26集中英文）把机械原理变故事，孩子看一眼就停不下来",
+        "url": "https://mp.weixin.qq.com/s/avLRvdVMXnPOaVbRW418CA"
+      },
+      {
+        "no": 2,
+        "title": "国家级出品：100集宝藏纪录片Hello China《你好中国》，用英语介绍中国文化特色！",
+        "url": "https://mp.weixin.qq.com/s/dslJ5aUjENI_CwzopVM2Sg"
+      },
+      {
+        "no": 3,
+        "title": "迪士尼9.0分神作《漫游数学奇境》|数学无聊？孩子看完就不这么想了",
+        "url": "https://mp.weixin.qq.com/s/MOZwqN65Jkq0XRtZ5E0qyQ"
+      },
+      {
+        "no": 4,
+        "title": "豆瓣评分9.3！芬兰国宝级治愈动画《Moominvalley》，收获爱的教育 ！",
+        "url": "https://mp.weixin.qq.com/s/nVy3SrmgSITwT-6pOLgruA"
+      },
+      {
+        "no": 5,
+        "title": "《海底两万里》(10集+)|用动画带孩子入门科幻经典",
+        "url": "https://mp.weixin.qq.com/s/xIBZbBPtG6ybBpwzQP_3ow"
+      },
+      {
+        "no": 6,
+        "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
+        "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+      },
+      {
+        "no": 7,
+        "title": "9.5高评分！《万物运转的秘密》家长圈疯传的物理科普动画神作！",
+        "url": "https://mp.weixin.qq.com/s/JLfW5GcNqZjFjPqpOzKXHw"
+      },
+      {
+        "no": 8,
+        "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
+        "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+      },
+      {
+        "no": 9,
+        "title": "豆瓣9.4动画《尽管我们的手中空无一物》：原来跟孩子聊死亡还可以这样暖心，看完只想抱抱宝贝！",
+        "url": "https://mp.weixin.qq.com/s/llZzyHjpLUUGo9Nb-N6Kkw"
+      },
+      {
+        "no": 10,
+        "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+        "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+      },
+      {
+        "no": 11,
+        "title": "9部孩子必看的成长电影，治愈孩子一生",
+        "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+      },
+      {
+        "no": 12,
+        "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+        "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+      },
+      {
+        "no": 13,
+        "title": "数学圈公认的数论殿堂级科普神作，豆瓣9.1高分，小学生都能轻松入门，入门经典首选！",
+        "url": "https://mp.weixin.qq.com/s/BVQhtXK4acFuGzq3fh9nsA"
+      },
+      {
+        "no": 14,
+        "title": "免费绘本不用愁：这个网站有上万本童书，399种语言，还能打印",
+        "url": "https://mp.weixin.qq.com/s/QjVLOpcDbqqpiWCygq58iA"
+      },
+      {
+        "no": 15,
+        "title": "豆瓣高分动画《远在天边》：关于孤独、归属和幸福，给孩子讲不明白的道理，就看它",
+        "url": "https://mp.weixin.qq.com/s/mLsTKPOHMdEYURdaalx2HQ"
+      },
+      {
+        "no": 16,
+        "title": "这些高分纪录片，唤醒孩子学习内驱力（附观看链接）",
+        "url": "https://mp.weixin.qq.com/s/Dnb9KDiYCP9RZzQSdzqETw"
+      },
+      {
+        "no": 17,
+        "title": "强烈推荐36部儿童必看顶级纪录片",
+        "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+      },
+      {
+        "no": 18,
+        "title": "TED-Ed《了不起的自然》128集宝藏科普动画，让孩子爱上自然的最好方式！",
+        "url": "https://mp.weixin.qq.com/s/OVAalp0Bxej8u2Q7FDJFgg"
+      },
+      {
+        "no": 19,
+        "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+        "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+      },
+      {
+        "no": 20,
+        "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
+        "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+      },
+      {
+        "no": 21,
+        "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+        "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+      },
+      {
+        "no": 22,
+        "title": "入迷了，娃最近大呼好看的儿童电影",
+        "url": "https://mp.weixin.qq.com/s/1zcUZOanOLPia36GlVYinA"
+      },
+      {
+        "no": 23,
+        "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+        "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+      },
+      {
+        "no": 24,
+        "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+        "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+      },
+      {
+        "no": 25,
+        "title": "【观影】《埃及王子》：耗资一亿、花四年做十分钟红海，这部28年前的动画至今无人超越",
+        "url": "https://mp.weixin.qq.com/s/MgcsNGCON5gTlKMhDjqGTQ"
+      },
+      {
+        "no": 26,
+        "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+        "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+      },
+      {
+        "no": 27,
+        "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+        "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+      }
+    ],
+    "failed": []
+  },
+  "non_video": [
+    {
+      "article_no": 13,
+      "title": "数学圈公认的数论殿堂级科普神作，豆瓣9.1高分，小学生都能轻松入门，入门经典首选！",
+      "url": "https://mp.weixin.qq.com/s/BVQhtXK4acFuGzq3fh9nsA",
+      "note": "这篇推荐的是书《数学女王的邀请：初等数论入门》（远山启著，逸宁译），不是视频。"
+    },
+    {
+      "article_no": 14,
+      "title": "免费绘本不用愁：这个网站有上万本童书，399种语言，还能打印",
+      "url": "https://mp.weixin.qq.com/s/QjVLOpcDbqqpiWCygq58iA",
+      "note": "这篇推荐的是免费绘本网站 StoryWeaver（Pratham Books），不是视频。"
+    }
+  ],
+  "entries": [
+    {
+      "id": "way-things-work",
+      "name_zh": "万物运转的秘密",
+      "name_en": "The Way Things Work",
+      "kind": "动画",
+      "age_group": "6岁以上",
+      "description_zh": "文章说这部片根据大卫·麦考利的同名书改编，26集，每集约13分钟。故事发生在猛犸象小岛：挤奶时讲滑轮，打捞沉船铁轨时讲电磁铁。文章写它适合6岁以上，没有中文配音，是英文原声加中英文字幕。另一篇同样推荐了这部，并补充科学家旁白、每集13分钟。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMyO6ajJX6PuIZ2cryTibsdeAQewQsk79Nk7LVIkM2RiaHiboibht0c7BDYTz6f0Jpd4EEpsNQyXjH6bCdjUbmjn1ptibzYlSCNxUZpE/0?wx_fmt=jpeg",
+      "image_note": "文章封面。正文没有单独剧照。",
+      "sources": [
+        {
+          "article_no": 1,
+          "title": "豆瓣9.5分《万物运转的秘密》（26集中英文）把机械原理变故事，孩子看一眼就停不下来",
+          "url": "https://mp.weixin.qq.com/s/avLRvdVMXnPOaVbRW418CA"
+        },
+        {
+          "article_no": 7,
+          "title": "9.5高评分！《万物运转的秘密》家长圈疯传的物理科普动画神作！",
+          "url": "https://mp.weixin.qq.com/s/JLfW5GcNqZjFjPqpOzKXHw"
+        },
+        {
+          "article_no": 6,
+          "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
+          "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+        },
+        {
+          "article_no": 20,
+          "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
+          "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-way-things-work.jpg"
+    },
+    {
+      "id": "hello-china",
+      "name_zh": "你好中国",
+      "name_en": "Hello China",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章说这套片由国家广电总局牵头，100集，每集几分钟，用一个代表中国的词讲历史、文化、地理和经济，例子包括筷子、长城、饺子、七夕、功夫、算盘、孔子、火锅和糖葫芦。全英文配音，带中英双语字幕，画风被写成水墨。文章没有写年龄。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/SeWBVyE5nnBBxUGN0xBS27ib1pcvp0iaFJO28f2MhibH1LibrZ0gibmAFzQsJ1QBSGx53UAHJFE8sw7NiaXqP7Z548Iw/640?wx_fmt=jpeg",
+      "sources": [
+        {
+          "article_no": 2,
+          "title": "国家级出品：100集宝藏纪录片Hello China《你好中国》，用英语介绍中国文化特色！",
+          "url": "https://mp.weixin.qq.com/s/dslJ5aUjENI_CwzopVM2Sg"
+        }
+      ],
+      "video_url": null,
+      "video_note": "没有找到标题和类型都对得上、并且能打开的正版页面。",
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/w-hello-china.jpg"
+    },
+    {
+      "id": "donald-mathmagic",
+      "name_zh": "唐老鸭漫游数学奇境",
+      "name_en": "Donald in Mathmagic Land",
+      "kind": "动画",
+      "age_group": "5-10岁",
+      "description_zh": "文章写这是1集、约27分钟的迪士尼动画，中文和英文都有，适合5–10岁。它不把计算题搬进动画，而是讲数学有什么用、数学的美在哪里。迪士尼电影页写首映日期为1959年6月26日。",
+      "video_url": "https://movies.disney.com/donald-in-mathmagic-land",
+      "video_note": "迪士尼电影官方介绍页，页面标注有 DVD，不代表在线可播。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zPQhETG3LfTKeMLpib7KS1A6IAqAJfj7Bk4MuObdkc52ic6Y4ibU5d3acSia2pHwWmwIrib8z520sbMOyYzAFOR0xbib43yW0T0GYr43Wq6lmXdUc/0?wx_fmt=jpeg",
+      "image_note": "文章封面。正文没有单独剧照。",
+      "sources": [
+        {
+          "article_no": 3,
+          "title": "迪士尼9.0分神作《漫游数学奇境》|数学无聊？孩子看完就不这么想了",
+          "url": "https://mp.weixin.qq.com/s/MOZwqN65Jkq0XRtZ5E0qyQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-donald-mathmagic.jpg"
+    },
+    {
+      "id": "moominvalley",
+      "name_zh": "姆明山谷",
+      "name_en": "Moominvalley",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "文章推荐的是芬兰动画《姆明山谷》，并写豆瓣9.3。它说新版一共三季、每季13集、每集22分钟，讲害羞的白色小精灵姆明和家人、朋友在山谷里过日子，没有打打杀杀。姆明官网写这部剧由托芙·扬松的故事改编，第一季2019年播出。文章说成片是英文字幕，没有写明确年龄。",
+      "video_url": "https://www.moomin.com/en/moominvalley/",
+      "video_note": "姆明官方剧集介绍页，不是播放器。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/QpEnBiadxtgiczYlsYreqNU4aFCo53NCqOuOGjKwia55no6Eiaqx8mT92T3OW8eBlEMqLvPLYdwiagyYRCJow2VnAAP6VDLuCNhI8m7HqHCMrS1Q/640?wx_fmt=jpeg",
+      "sources": [
+        {
+          "article_no": 4,
+          "title": "豆瓣评分9.3！芬兰国宝级治愈动画《Moominvalley》，收获爱的教育 ！",
+          "url": "https://mp.weixin.qq.com/s/nVy3SrmgSITwT-6pOLgruA"
+        }
+      ],
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-moominvalley.jpg"
+    },
+    {
+      "id": "twenty-thousand-leagues",
+      "name_zh": "海底两万里",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "3-12岁",
+      "description_zh": "文章推荐的是动画版，写明10集、每集10–15分钟，适合3–12岁。故事按原著：1866年海怪传闻引出追捕，阿龙纳斯、康塞尔和尼德兰落水后登上尼摩船长的潜艇，开始深海旅行。文章没有给出这一版动画的制作公司，也没有播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/zPQhETG3LfSyrzOfIbv1iaibMJv9Med2pYic61YMgrF74PTNnibFHAsBFXBUQgBulib7y1yyTSEcXPz9vlMoqrRdJ3LMVb7Qp2ZDLT7lDaZDSibT4/0?wx_fmt=jpeg",
+      "image_note": "文章封面。正文没有单独剧照。",
+      "sources": [
+        {
+          "article_no": 5,
+          "title": "《海底两万里》(10集+)|用动画带孩子入门科幻经典",
+          "url": "https://mp.weixin.qq.com/s/xIBZbBPtG6ybBpwzQP_3ow"
+        }
+      ],
+      "video_url": "https://www.iqiyi.com/v_15ygwsghm5o.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《海底两万里》的页面（频道：少儿综艺,15）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/w-twenty-thousand-leagues.jpg"
+    },
+    {
+      "id": "love-monster",
+      "name_zh": "小怪兽阿蒙",
+      "name_en": "Love Monster",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "文章说这是 BBC 少儿频道的《Love Monster》，中文名《小怪兽阿蒙》，并在标题里写75集、中英文。毛茸茸的小怪兽住在可爱村，一直希望有人喜欢他、陪着他、接受他本来的样子。文章用分食物等很小的事讲爱，没有写数字年龄。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/love-monster",
+      "video_note": "BBC CBeebies 官方节目页。能否点播取决于地区。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMw3Y9UpdaRITDFOib7ODPtfYDUUf6XGhBdz5vrYPLazc3xpfEgAGoc6fUgcicsluSrUActH2dRicaXcePLD6bia2Wnlu1VrBiaSzRv8/0?wx_fmt=jpeg",
+      "image_note": "文章封面。正文没有单独剧照。",
+      "sources": [
+        {
+          "article_no": 6,
+          "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
+          "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+        },
+        {
+          "article_no": 8,
+          "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
+          "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        },
+        {
+          "article_no": 20,
+          "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
+          "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-love-monster.jpg"
+    },
+    {
+      "id": "operation-ouch",
+      "name_zh": "人体奥奇实验室",
+      "name_en": "Operation Ouch!",
+      "kind": "真人科普",
+      "age_group": "6-15岁",
+      "description_zh": "文章推荐 BBC 的《Operation Ouch!》，中文译名《人体奥奇实验室》，并写一共14季、6到15岁都适合。主持人是双胞胎医生克里斯和克斯。文中举例：克里斯吞下带摄像头的药丸，镜头从嘴进入食道、胃和小肠，孩子因此说胃像搅拌机。这是真人医学节目，不是动画片。",
+      "video_url": "https://www.bbc.co.uk/cbbc/shows/operation-ouch",
+      "video_note": "BBC CBBC 官方节目页，页内有短视频。完整季是否可看取决于地区。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Cu3arSAIaMwRJobiciaQXymdALKZA6NUwGDbtL3ChrPGjLII3ayicR9n0DN5jibiacQm7A6Ey44WlcKbN2ETrRic8bzhjicyIzibS9Y6JhptKVhhtUk/0?wx_fmt=jpeg",
+      "image_note": "文章封面。正文没有单独剧照。",
+      "sources": [
+        {
+          "article_no": 8,
+          "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
+          "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-operation-ouch.jpg"
+    },
+    {
+      "id": "empty-hands",
+      "name_zh": "尽管我们的手中空无一物",
+      "name_en": null,
+      "kind": "动画短片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章介绍的短片：小羊去世后在去天堂的路上排队，过天河时身上的东西都会消失。它剃掉羊毛搓成绳子逃回家，又被狼守卫抓回去。羊妈妈一直在屋外织毛衣。结尾是狼守卫顺着绳子把毛衣送到小羊身边，绳子化作满天繁星。文章说它表面上讲死亡，落点是爱。没有写年龄，也没有英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/6bfwibRiappSTsAVkOOBfpsae8bg1ZuG60JJaVMkEkKN5ibrhPaX4Mx8jbhTU8QqfLzNBamsqNRiagLwaf0A2k3F1BGy5ITPHkt9KiabJebaSroI/640?wx_fmt=png",
+      "sources": [
+        {
+          "article_no": 9,
+          "title": "豆瓣9.4动画《尽管我们的手中空无一物》：原来跟孩子聊死亡还可以这样暖心，看完只想抱抱宝贝！",
+          "url": "https://mp.weixin.qq.com/s/llZzyHjpLUUGo9Nb-N6Kkw"
+        },
+        {
+          "article_no": 21,
+          "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+          "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+        }
+      ],
+      "video_url": "https://www.iqiyi.com/v_19rqq2132k.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《尽管我们的手中空无一物》的页面（频道：unknown,-1）。",
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-empty-hands.jpg"
+    },
+    {
+      "id": "far-away",
+      "name_zh": "远在天边",
+      "name_en": null,
+      "kind": "动画短片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章说这是一个小男孩送企鹅回家的短片。男孩独自住在港口小镇，企鹅敲门而入。他起初厌烦，想把企鹅送到失物招领处或丢在宠物店，最后还是划船送它回南极。暴风雨里两人互相救援；章鱼没有攻击他们，只把行李放回船上，并把船推向企鹅的家。文章没有写年龄和英文名。另一篇在文末也点了这个名字。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/6bfwibRiappSSez8ibnGMiakMbic6HqQM8uRhbFklmTDNhRqauAZ1Q92x6ibpQXXRq5e3IxLfeBgIqZrs7x43AEfR444tvwkkTibkib7ZNa0EZIAzxs/640?wx_fmt=png",
+      "sources": [
+        {
+          "article_no": 15,
+          "title": "豆瓣高分动画《远在天边》：关于孤独、归属和幸福，给孩子讲不明白的道理，就看它",
+          "url": "https://mp.weixin.qq.com/s/mLsTKPOHMdEYURdaalx2HQ"
+        },
+        {
+          "article_no": 9,
+          "title": "豆瓣9.4动画《尽管我们的手中空无一物》：原来跟孩子聊死亡还可以这样暖心，看完只想抱抱宝贝！",
+          "url": "https://mp.weixin.qq.com/s/llZzyHjpLUUGo9Nb-N6Kkw"
+        },
+        {
+          "article_no": 21,
+          "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+          "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+        }
+      ],
+      "video_url": "https://www.iqiyi.com/v_21kzjy4huj4.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《远在天边》的页面（频道：动漫,4）。",
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-far-away.jpg"
+    },
+    {
+      "id": "ted-ed-nature",
+      "name_zh": "了不起的自然",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "文章把一套128集、每集约五分钟的科普动画称为《了不起的自然》，并写制作方是 TED-Ed。选题来自中小学科学老师，由动物学家、海洋科学家、地质学家供稿，再做成手绘动画。例子包括树懒为什么慢、燕子如何找回家、静电、捕蝇草和壁虎断尾。文章没有给出对应的单一英文剧名，所以这里不把它安到某一套现成英文系列上。",
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/9TOlbmicibtkMLwUv1gyKNlRc0SfAnpiceqJCfrWtaryrAKVibTOhkAKLcPkwSL5MFkABtgozJ24WnGiakYbcJngq1w/640?wx_fmt=png",
+      "sources": [
+        {
+          "article_no": 18,
+          "title": "TED-Ed《了不起的自然》128集宝藏科普动画，让孩子爱上自然的最好方式！",
+          "url": "https://mp.weixin.qq.com/s/OVAalp0Bxej8u2Q7FDJFgg"
+        }
+      ],
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-ted-ed-nature.jpg"
+    },
+    {
+      "id": "cosmos-odyssey",
+      "name_zh": "宇宙时空之旅",
+      "name_en": "Cosmos: A SpaceTime Odyssey",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写解说是泰森，用“想象号飞船”从微观走到宇宙边缘，并把138亿年压成一年：1月1日大爆炸，人类文明只有这年的最后14秒。也讲了哈雷和彗星、法拉第让观众看见磁场。文章写豆瓣9.7、已播出两季，标题里写25集。主持者本人的节目页写2014年3月开播、共13集。集数以文章和该页各自的说法并列，这里不把两边合成一个数字。文章没有写年龄。36部纪录片清单里也有这个名字。",
+      "video_url": "https://neildegrassetyson.com/shows/2014-03-cosmos-spacetime-odyssey/",
+      "video_note": "主持者 Neil deGrasse Tyson 官网的节目介绍，不是播放器。该页写13集、2014年3月由国家地理与福克斯首播。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMwG1AOqLUtAicDKWse0lSFfGyxCx8pJBSiaf8yDROrqUUjZ8RAwCSQ5bGdCB1k44HApT3UlgNr23xaUGus2N6LhryqQjz2EvKeqw/0?wx_fmt=jpeg",
+      "image_note": "单篇介绍文的封面。",
+      "sources": [
+        {
+          "article_no": 20,
+          "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
+          "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        },
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/w-cosmos-odyssey.jpg"
+    },
+    {
+      "id": "afternoon",
+      "name_zh": "午后时光",
+      "name_en": null,
+      "kind": "动画短片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章说这是一部约9分钟、几乎没有对白的动画。穿红衣服的老奶奶在客厅喝下午茶，她患有阿尔茨海默症，不断掉进回忆：海边的父亲、少女时代的朋友、热恋、有了女儿。结尾她想起照顾自己的人就是女儿，两人相拥。文章特别写到回忆中的老奶奶没有脖子，用来表现记忆和身体的连接断了。没有写年龄和英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/6bfwibRiappSTYGJ6Qoj9DJZvQiaAiaBlBRlo5libZj13ib87bMtyM0tePj0CDJQ3dt9meCSrISfGd2YenmxhHicl18icOn3getSP1FqkAqmspcIFcM/640?wx_fmt=png",
+      "sources": [
+        {
+          "article_no": 21,
+          "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+          "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+        }
+      ],
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-afternoon.jpg"
+    },
+    {
+      "id": "hugo-world",
+      "name_zh": "雨果带你看世界",
+      "kind": "动画",
+      "age_group": "3-8岁",
+      "description_zh": "文章把它放在思维启蒙，写豆瓣9.2、适合3–8岁、BBC 出品、单集约5分钟。它问什么是朋友、什么是公平、害怕是什么、什么才算大，雨果不给标准答案。文章没有英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "这篇推荐了8部，正文没有给每部单独配图，这里用文章封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rzfmbew0.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《雨果带你看世界》的页面（频道：少儿综艺,15）。",
+      "also_in_prior_research": false,
+      "category": "益智动画类",
+      "image_path": "images/w-hugo-world.jpg"
+    },
+    {
+      "id": "luna-pixar",
+      "name_zh": "月神",
+      "kind": "动画短片",
+      "age_group": "4岁以上",
+      "description_zh": "文章写豆瓣9.0、适合4岁以上，是皮克斯约7分钟短片。男孩第一次跟爷爷和爸爸到月亮上清扫星辰。爷爷要用耙子，爸爸坚持用扫帚，男孩自己观察，敲开星辰。文章没有写英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-luna-pixar.jpg"
+    },
+    {
+      "id": "numberblocks-wx",
+      "name_zh": "数字积木",
+      "name_en": "Numberblocks",
+      "kind": "动画",
+      "age_group": "2-6岁",
+      "description_zh": "文章写豆瓣9.6、适合2–6岁、BBC 制作、每集约5分钟。数字是积木小人，1和2叠在一起变成3。此前单独整理的研究片单里已有这部，这里按微信文章再记一条，不并进那份研究正文。 第23篇也把它放在6岁主攻片单里，说6岁看不幼稚，2岁看画面也喜欢。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/numberblocks",
+      "video_note": "BBC CBeebies 节目页。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "also_in_prior_research": true,
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        },
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/r-numberblocks.jpg"
+    },
+    {
+      "id": "fixies",
+      "name_zh": "螺丝钉",
+      "kind": "动画",
+      "age_group": "3-6岁",
+      "description_zh": "文章写豆瓣9.4、适合3–6岁，称它是俄罗斯动画：家电里住着修理小精灵，用故事讲冰箱为什么制冷、遥控器如何发信号、洗衣机怎样洗净衣服。文章没有英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rro5db60.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《螺丝钉》的页面（频道：少儿综艺,15）。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-fixies.jpg"
+    },
+    {
+      "id": "the-cave-pixar",
+      "name_zh": "洞穴",
+      "kind": "动画短片",
+      "age_group": "4岁以上",
+      "description_zh": "文章写豆瓣8.8、适合4岁以上，是皮克斯短片。怕社交的小兔子往地下挖洞，挖穿了鼹鼠、老鼠和蚂蚁的家，最后遇到麻烦才向邻居求助，大家一起把洞穴重建好。文章没有英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-the-cave-pixar.jpg"
+    },
+    {
+      "id": "lost-and-found-school",
+      "name_zh": "失物招领",
+      "kind": "动画短片",
+      "age_group": "5岁以上",
+      "description_zh": "文章写豆瓣8.4、适合5岁以上。失物招领箱里的小精灵发现爱欺负人的男孩 JJ 自己的东西也曾被抢走，于是帮他把抢走的东西还回去，并找回毛绒玩具。文章没有英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "没有找到标题和类型都对得上、并且能打开的正版页面。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-lost-and-found-school.jpg"
+    },
+    {
+      "id": "thirty-six-characters",
+      "name_zh": "三十六个字",
+      "kind": "动画短片",
+      "age_group": "5岁以上",
+      "description_zh": "文章写豆瓣8.7、适合5岁以上，上海美术电影制片厂短片。父亲用36个象形字串成故事，日、月、山、水、木、林从字变成画面。文章写它得过萨格勒布国际动画电影节教育片奖。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/w-thirty-six-characters.jpg"
+    },
+    {
+      "id": "chinese-poetry",
+      "name_zh": "中国唱诗班",
+      "kind": "动画",
+      "age_group": "4岁以上",
+      "description_zh": "文章写豆瓣9.1、适合4岁以上，全系列6集，单集5至15分钟，用动画讲古诗背后的事：《元日》《相思》《游子吟》。文章没有给播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
+      "image_note": "8部共用这篇的封面。",
+      "sources": [
+        {
+          "article_no": 12,
+          "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
+          "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/w-chinese-poetry.jpg"
+    },
+    {
+      "id": "doc10-喜马拉雅",
+      "name_zh": "喜马拉雅",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写豆瓣9.6。雪豹在岩壁上等猎物，金雕迎风飞，用来讲高原上的坚持。文章没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/iceBicGYj4xsDb1lwdoEpfhsPRialLBicIhESP7FpibFZUiajAZVzLWBvsHJQiaxLicjl4ibD0SUV6R9cMTkO2hmkHVzsUIyh3jho3N6mcwGX8BuuC14/640?wx_fmt=png",
+      "image_note": "豆瓣条目《喜马拉雅》（1999）的海报。",
+      "sources": [
+        {
+          "article_no": 10,
+          "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+          "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc10-喜马拉雅.jpg"
+    },
+    {
+      "id": "doc10-亚马逊深渊",
+      "name_zh": "亚马逊深渊",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写豆瓣9.3。镜头进到亚马逊雨林和水下，用来讲好奇和探索。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/iceBicGYj4xsASNs8PicFFrg3VvF2Tb8qoAqiaEvbXibo89FeR9Yliaic9WDhyC141SpiaNCOZ3qS8K3QgmYGVaSY7m7zhwQs9bNaw27Yv6TkMqCzAE/640?wx_fmt=png",
+      "image_note": "豆瓣条目《亚马逊深渊》（2005）的海报。",
+      "sources": [
+        {
+          "article_no": 10,
+          "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+          "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rrklgd6w.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《亚马逊深渊》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc10-亚马逊深渊.jpg"
+    },
+    {
+      "id": "doc10-大堡礁",
+      "name_zh": "大堡礁",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写豆瓣9.4。珊瑚礁和海洋生物，并写到珊瑚白化。正文这一条没有单独配图。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/iceBicGYj4xsBJZXfUIQWmqiaHFuk04H8nCbymZq4KL6YuCm5ecx2P7rGz8z7L7Bic5XaBJ7MogCK6vwW8DYt1ib58WntKYxYyXDAsvJlURIgrLU/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《大堡礁》（2012）的海报。",
+      "sources": [
+        {
+          "article_no": 10,
+          "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+          "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_1higiumhhnc.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《大堡礁》的页面（频道：少儿综艺,15）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc10-大堡礁.jpg"
+    },
+    {
+      "id": "doc10-野性非洲",
+      "name_zh": "野性非洲",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写豆瓣9.7。草原上的迁徙、捕猎和抢领地。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/iceBicGYj4xsDiaiciaNJib2hw00wsTLAxibicQKRkQLibUDt2NQxgjeEwUmcHicvibiarTAmFORxSBT5XxZfBkN1D3Sq4eb5U33OqiclaY7h7iasFLMEeP1c/640?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《野性非洲》（2001）的海报。",
+      "sources": [
+        {
+          "article_no": 10,
+          "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+          "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_1hn0p06sn0o.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《野性非洲》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc10-野性非洲.jpg"
+    },
+    {
+      "id": "doc10-黄石公园",
+      "name_zh": "黄石公园",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写豆瓣9.5。间歇泉、森林、野生动物和四季。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/iceBicGYj4xsCibo0nVgBmibASxicV0hAaCS5ia1rGJYrhmLeVc32HoibGR0ewYK4FjEzan4S442z78qZPqTK6nuM5x0rnwVF0SGroUA2FnU3XjSVI/640?wx_fmt=png",
+      "image_note": "配图出现在《黄石公园》的推荐理由之前。",
+      "sources": [
+        {
+          "article_no": 10,
+          "title": "影响孩子一生的5部纪录片，唤醒他内心的力量",
+          "url": "https://mp.weixin.qq.com/s/iJUG9KyR1p1kObJEEZ_oPQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": null
+    },
+    {
+      "id": "penguins-spy",
+      "name_zh": "企鹅群里有特务",
+      "name_en": "Penguins: Spy in the Huddle",
+      "kind": "纪录片",
+      "age_group": "3-6岁",
+      "description_zh": "文章写语言是汉语普通话，适合3–6岁。BBC 摄影队用近一年跟踪洪堡企鹅、跳岩企鹅和帝企鹅。三集标题被写成《漫漫长路》《蹒跚学步》《成长的烦恼》。BBC 纪录片页写2013年、3集，导演 John Downer。36部清单里也有这个名字。",
+      "video_url": "https://www.bbc.com/video/docs/series/10167741",
+      "video_note": "BBC 纪录片系列页，列出3集。能否播放取决于地区。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Wc7QXicfZyvkSpbiaMevGf1N1nAhNB3uaB8pqIuLfHL9vAvb4697iabGvYGFBft3eP2PFA8mqN8UQQdPMCFZ2rHkAE3ZEGDuWc9B1u30S6QFPM/640?wx_fmt=jpeg",
+      "sources": [
+        {
+          "article_no": 16,
+          "title": "这些高分纪录片，唤醒孩子学习内驱力（附观看链接）",
+          "url": "https://mp.weixin.qq.com/s/Dnb9KDiYCP9RZzQSdzqETw"
+        },
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/w-penguins-spy.jpg"
+    },
+    {
+      "id": "tiny-world",
+      "name_zh": "小小世界",
+      "name_en": "Tiny World",
+      "kind": "纪录片",
+      "age_group": "4-8岁",
+      "description_zh": "文章写语言是英语，适合4–8岁，并写它在 Apple TV。用很小的动物走一段“英雄旅程”。列出的章节是草原、丛林、岛屿、内陆、林地。",
+      "video_url": "https://www.iqiyi.com/v_1hmit867sy0.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《小小世界》的页面（频道：教育,12）。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/Wc7QXicfZyvlzhicSiasic6ZZ4MPmEZthJEvq087kfKNlr1UGGMPfnPYc2SwHf47VfMUzIqg3XdUIfGuqyJFBN1a56W9GC91kEQ8xpbiaAAtBjyk/640?wx_fmt=png",
+      "sources": [
+        {
+          "article_no": 16,
+          "title": "这些高分纪录片，唤醒孩子学习内驱力（附观看链接）",
+          "url": "https://mp.weixin.qq.com/s/Dnb9KDiYCP9RZzQSdzqETw"
+        }
+      ],
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/w-tiny-world.jpg"
+    },
+    {
+      "id": "everything-nothing",
+      "name_zh": "万物与虚无",
+      "name_en": "Everything and Nothing",
+      "kind": "纪录片",
+      "age_group": "8岁以上",
+      "description_zh": "文章写语言是英语，适合8岁以上。吉姆·阿尔-哈利里讲“万物是什么、虚无是什么”，分上部《万物》和下部《虚无》。BBC Four 节目页的介绍与此相符，并写目前不在 iPlayer 上。",
+      "video_url": "https://www.bbc.co.uk/programmes/b00zw0n6",
+      "video_note": "BBC 节目页。页面写 On iPlayer: Not available。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Wc7QXicfZyvlAzGx9AA7BVXb6k2HepN34X4513A2k63cTp2rT71yDej1SzP4j3t31DR6VdMebgYjiaTfA3zFIkBhmwlfdx1iac64NaJhiaKSIxQ/640?wx_fmt=jpeg",
+      "sources": [
+        {
+          "article_no": 16,
+          "title": "这些高分纪录片，唤醒孩子学习内驱力（附观看链接）",
+          "url": "https://mp.weixin.qq.com/s/Dnb9KDiYCP9RZzQSdzqETw"
+        }
+      ],
+      "image_note": "图来自该微信文章。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/w-everything-nothing.jpg"
+    },
+    {
+      "id": "doc19-鸟瞰地球",
+      "name_zh": "鸟瞰地球",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章的推荐理由是换一种视角看世界：航拍飞越六大洲，记录动物迁徙和地貌。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/tJMoMaNt359QSibNSKNdXwPBFU5Y35TA50DttKCG9u2YMdlrOIq4KrPrjegD5xSuzmfJ8uGyotCmibb2egtBPF4g8at64SpEic8I0XETyC11rI/640?wx_fmt=png",
+      "image_note": "豆瓣条目《鸟瞰地球》（2011）的海报。",
+      "sources": [
+        {
+          "article_no": 19,
+          "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+          "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc19-鸟瞰地球.jpg"
+    },
+    {
+      "id": "doc19-隐形世界",
+      "name_zh": "隐形世界",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写用高速摄影和显微镜头看昆虫翅膀、碎掉的水滴和植物的细小结构。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/tJMoMaNt3598qPTiawvXqfCow70WWfxoynNtUPy70AHByI8YlM9Lxll2NA5uKnQQ6rNZDoJqlv0xGYlyY03cp9dDarIfcW2Em2cmO3S5t8nM/640?wx_fmt=png",
+      "image_note": "豆瓣条目《隐形世界》（1979）的海报。",
+      "sources": [
+        {
+          "article_no": 19,
+          "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+          "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc19-隐形世界.jpg"
+    },
+    {
+      "id": "doc19-南太平洋",
+      "name_zh": "南太平洋",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写镜头去南太平洋孤岛，看生命在隔绝环境里长成别的样子。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/tJMoMaNt35iczwYdgwR19icLH8ZFs5gib4reVsicVGMHkldqo6Homw4DJ1T0iaZsHzJ2hUNYVvYSFz5XNSgQjOj3ys7lgqFypWdcz9wth30rmyc4/640?wx_fmt=png",
+      "image_note": "豆瓣条目《南太平洋》（2009）的海报。",
+      "sources": [
+        {
+          "article_no": 19,
+          "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+          "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rrkfkngc.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《南太平洋》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc19-南太平洋.jpg"
+    },
+    {
+      "id": "doc19-地球一年",
+      "name_zh": "地球一年",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章写跟着四季看动植物生长、繁殖和蛰伏。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/tJMoMaNt359JHdzYnBYMuVul3eZicqdTyNN6qGTR1mgUoGcouNzEibibMb3Xo7do8hW6BuZ0vPa2R25YvJrjFLbkmMEpSWYDydXgLe5dzhqGr8/640?wx_fmt=png",
+      "image_note": "配图与文中五部的顺序一致。",
+      "sources": [
+        {
+          "article_no": 19,
+          "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+          "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": null
+    },
+    {
+      "id": "doc19-极地",
+      "name_zh": "极地",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章称它是国产纪录片，记录极寒地方的人怎样和自然一起生活。没有英文名，也没有年龄。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/tJMoMaNt35ib7rAXSvywk5ibCErMGzqObYnnZK3ibHHFichoSXDIr3bnQmLSxLFeaBoicO4AmcxFTAXiaAjIeGL7bvQHlHClpE2ORlzYy35wpyYt0/640?wx_fmt=png",
+      "image_note": "豆瓣条目《极地》（2017）的海报。",
+      "sources": [
+        {
+          "article_no": 19,
+          "title": "影响孩子一生的5部纪录片：见过世面的孩子，内心更强大",
+          "url": "https://mp.weixin.qq.com/s/kRsiPOrFLWvTttOiqRRL6w"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-doc19-极地.jpg"
+    },
+    {
+      "id": "film-小鞋子",
+      "name_zh": "小鞋子",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaB9iacicUGMm40ORT28FMxaefFHNibWylK8UvMXdJU2hGGp3WzibffaKY1GGgHxzhHJaEATOLjEoXe5Q2do1kG9qLlorXoDnNiaI/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《小鞋子》（1997）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-小鞋子.jpg"
+    },
+    {
+      "id": "film-地球上的星星",
+      "name_zh": "地球上的星星",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：每个孩子都是不一样的星星，不必跟风比较。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaBic3icdDxNICLC0M9va3EOmicOia2TqLEWla4iblP1kh2kf3G5kQic2ibD7v9aITXKTKUtQUsWVzneXAsn0KIoS1PWTTKV8AdCy/0?wx_fmt=jpeg",
+      "image_note": "文章是图片帖。图集前9张按正文9个片名的顺序附上；页面没有在每张图下写片名，若顺序不一致，以原文图集为准。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-film.jpg"
+    },
+    {
+      "id": "film-放牛班的春天",
+      "name_zh": "放牛班的春天",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：没有真正的坏孩子，只有需要被看见的孩子。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaB9cicTMHiac2o68vJeQHn6q2ldZfITxN16tG45EVibib1mZhvVJkX80tlgNlXsxhTgfvWrrQDYIXhvQRyYsvGqnhbphtMmhYchR/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《放牛班的春天》（2004）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-放牛班的春天.jpg"
+    },
+    {
+      "id": "film-听见天堂",
+      "name_zh": "听见天堂",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：生活有缺憾，仍然可以用心感受世界。文章没有写这是哪一版电影的英文名。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaBiclianqbmatGK5utp1E2Vl6oJnOWeJUN1MYpAowkWy5r0HjfFUOBia2yrsuHg4PQ6e52Y0pqKbQf4SkUKQcjse8mzPrOujH1Px/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《听见天堂》（2006）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_13yup4e85j4.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《听见天堂》的页面（频道：片花,10）。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-听见天堂.jpg"
+    },
+    {
+      "id": "film-追风筝的人",
+      "name_zh": "追风筝的人",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：成长是直面过错、弥补遗憾。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaB9qg8tWQ3rxRdLbrQdg7uia8zEcdZudjvUwxPNqSUfKQbhgJMFYTFx6YHDhqWq3kroHmqTWfSYyuibcibZb6oC8uMA1J3CRX9pE/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《追风筝的人》（2007）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_12ew3xbom2s.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《追风筝的人》的页面（频道：片花,10）。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-追风筝的人.jpg"
+    },
+    {
+      "id": "film-何以为家",
+      "name_zh": "何以为家",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：幸福不是理所当然，要珍惜被爱和被守护。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/TkPfDAMKaB9yh631zj7ap3KAYmSRQvv9ojMZpxNmZtQNzRcgiah5xp3Z2NAuX83a3GCO1L9W8Tq0994AvIobCWZcRsfCkZxT98VdfUV3w/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《何以为家》（2018）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_293e0qk7dbc.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《何以为家》的页面（频道：片花,10）。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-何以为家.jpg"
+    },
+    {
+      "id": "film-天堂电影院",
+      "name_zh": "天堂电影院",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：童年的光会照亮以后的路。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/TkPfDAMKaBibxZyJ5KWC8ucc2Gv6KnaHk1ErnTbruafRf0icE2V6u8DcAicicjQt7x0YVkr693q0ibsWzqcwDI4jcsf6g3Micd8O6UQCHPQ0/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《天堂电影院》（1988）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-天堂电影院.jpg"
+    },
+    {
+      "id": "film-大卫·科波菲尔",
+      "name_zh": "大卫·科波菲尔",
+      "kind": "电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：生活有风雨，本心不能丢。文章没有写是哪一个改编版本。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/TkPfDAMKaB9bSOicHxmibP2wgSPicaia5jrian2ic4IlhmFG8b6vROPlDWd06eq9xVw3jAics5uxTJWI5ZHFXfE4eyua3sV1fGZXibeu0/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《大卫·科波菲尔》（年份未标）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/wx-film-大卫·科波菲尔.jpg"
+    },
+    {
+      "id": "film-地球脉动",
+      "name_zh": "地球脉动",
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：万物生长各有快慢，孩子的成长也一样。36部清单里也有这个名字。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/TkPfDAMKaBibyHJAPErjReofG70ENfRVwpSkiah3oIfdQZJ6hh2NicTH6HY4hJBP4WUicricpu3MF3wecTia80brUNqnkxCxdVrKN2JSt/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《地球脉动 第一季》（2006）的海报。",
+      "sources": [
+        {
+          "article_no": 11,
+          "title": "9部孩子必看的成长电影，治愈孩子一生",
+          "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        },
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rrkrq74k.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《地球脉动》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-film-地球脉动.jpg"
+    },
+    {
+      "id": "funny-physics",
+      "name_zh": "爆笑物理",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "只在《万物运转的秘密》文末作为往期推荐出现，原文是：清华附《爆笑物理》（144集），孩子趣味学物理。没有进一步介绍，也没有链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMyO6ajJX6PuIZ2cryTibsdeAQewQsk79Nk7LVIkM2RiaHiboibht0c7BDYTz6f0Jpd4EEpsNQyXjH6bCdjUbmjn1ptibzYlSCNxUZpE/0?wx_fmt=jpeg",
+      "image_note": "没有单独配图，用的是那篇文章的封面。",
+      "sources": [
+        {
+          "article_no": 1,
+          "title": "豆瓣9.5分《万物运转的秘密》（26集中英文）把机械原理变故事，孩子看一眼就停不下来",
+          "url": "https://mp.weixin.qq.com/s/avLRvdVMXnPOaVbRW418CA"
+        },
+        {
+          "article_no": 20,
+          "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
+          "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-funny-physics.jpg"
+    },
+    {
+      "id": "fun-science",
+      "name_zh": "趣味科学",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "只在同一篇文末作为往期推荐出现，原文是：央视推荐《趣味科学》（1–8季，中英文）。没有进一步介绍，也没有链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMyO6ajJX6PuIZ2cryTibsdeAQewQsk79Nk7LVIkM2RiaHiboibht0c7BDYTz6f0Jpd4EEpsNQyXjH6bCdjUbmjn1ptibzYlSCNxUZpE/0?wx_fmt=jpeg",
+      "image_note": "没有单独配图，用的是那篇文章的封面。",
+      "sources": [
+        {
+          "article_no": 1,
+          "title": "豆瓣9.5分《万物运转的秘密》（26集中英文）把机械原理变故事，孩子看一眼就停不下来",
+          "url": "https://mp.weixin.qq.com/s/avLRvdVMXnPOaVbRW418CA"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-fun-science.jpg"
+    },
+    {
+      "id": "runaway-robot",
+      "name_zh": "逃跑机器人",
+      "kind": "未说明",
+      "age_group": "未标明年龄",
+      "description_zh": "只在《尽管我们的手中空无一物》文末被点名。原文说它改编自国际大奖小说，并写到和平与两难时的抉择。没有年龄、集数和链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/6bfwibRiappSTsAVkOOBfpsae8bg1ZuG60JJaVMkEkKN5ibrhPaX4Mx8jbhTU8QqfLzNBamsqNRiagLwaf0A2k3F1BGy5ITPHkt9KiabJebaSroI/640?wx_fmt=png",
+      "image_note": "没有单独配图，用的是该文主片的第一张图。",
+      "sources": [
+        {
+          "article_no": 9,
+          "title": "豆瓣9.4动画《尽管我们的手中空无一物》：原来跟孩子聊死亡还可以这样暖心，看完只想抱抱宝贝！",
+          "url": "https://mp.weixin.qq.com/s/llZzyHjpLUUGo9Nb-N6Kkw"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-runaway-robot.jpg"
+    },
+    {
+      "id": "long-holiday",
+      "name_zh": "悠悠长假",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "只在《远在天边》文末被点名。原文写豆瓣9.5，画风明媚，并说它让孩子想到生活在和平环境里。没有年龄和链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/6bfwibRiappSSez8ibnGMiakMbic6HqQM8uRhbFklmTDNhRqauAZ1Q92x6ibpQXXRq5e3IxLfeBgIqZrs7x43AEfR444tvwkkTibkib7ZNa0EZIAzxs/640?wx_fmt=png",
+      "image_note": "没有单独配图，用的是该文主片的第一张图。",
+      "sources": [
+        {
+          "article_no": 15,
+          "title": "豆瓣高分动画《远在天边》：关于孤独、归属和幸福，给孩子讲不明白的道理，就看它",
+          "url": "https://mp.weixin.qq.com/s/mLsTKPOHMdEYURdaalx2HQ"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-long-holiday.jpg"
+    },
+    {
+      "id": "super-soap",
+      "name_zh": "超级肥皂",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "只在《午后时光》文末作为往期出现。原文写：40年前的国产动画，讲消费主义、营销套路和群体盲从。没有链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/6bfwibRiappSTYGJ6Qoj9DJZvQiaAiaBlBRlo5libZj13ib87bMtyM0tePj0CDJQ3dt9meCSrISfGd2YenmxhHicl18icOn3getSP1FqkAqmspcIFcM/640?wx_fmt=png",
+      "image_note": "没有单独配图，用的是该文主片的第一张图。",
+      "sources": [
+        {
+          "article_no": 21,
+          "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+          "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_1upd8l2p10k.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《超级肥皂》的页面（频道：少儿综艺,15）。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-super-soap.jpg"
+    },
+    {
+      "id": "after-rain",
+      "name_zh": "雨后",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "只在《午后时光》文末作为往期出现。原文写：法国获奖动画，关于自然循环、责任与传承。没有链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_png/6bfwibRiappSTYGJ6Qoj9DJZvQiaAiaBlBRlo5libZj13ib87bMtyM0tePj0CDJQ3dt9meCSrISfGd2YenmxhHicl18icOn3getSP1FqkAqmspcIFcM/640?wx_fmt=png",
+      "image_note": "没有单独配图，用的是该文主片的第一张图。",
+      "sources": [
+        {
+          "article_no": 21,
+          "title": "豆瓣高分动画《午后时光》：父母不是一个角色，而是一场波澜壮阔的人生",
+          "url": "https://mp.weixin.qq.com/s/ggJPptYppMBlsS4ui7jsqw"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "image_path": "images/w-after-rain.jpg"
+    },
+    {
+      "id": "list36-宇宙的奇迹",
+      "name_zh": "宇宙的奇迹",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPKPAvxQwEfYAJCeqmn38CIlyC5Cpz9R5Sd45wS16x5HHEXPVXtoUmZDzvAVXIJBXA6YAiaia9Z8Ygp4t6zrdyjWLqzib4KRv/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《宇宙的奇迹》（2011）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rrkljxvs.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《宇宙的奇迹》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-宇宙的奇迹.jpg"
+    },
+    {
+      "id": "list36-生命的奇迹",
+      "name_zh": "生命的奇迹",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPKPAvxQwEfYAJCeqmn38CIlyC5Cpz9R5Sd45wS16x5HHEXPVXtoUmZDzvAVXIJBXA6YAiaia9Z8Ygp4t6zrdyjWLqzib4KRv/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《生命的奇迹》（2017）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_cuba3w9gt4.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《生命的奇迹》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-生命的奇迹.jpg"
+    },
+    {
+      "id": "list36-从太空看地球",
+      "name_zh": "从太空看地球",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPKPAvxQwEfYAJCeqmn38CIlyC5Cpz9R5Sd45wS16x5HHEXPVXtoUmZDzvAVXIJBXA6YAiaia9Z8Ygp4t6zrdyjWLqzib4KRv/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《从太空看地球》（2019）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://v.qq.com/x/cover/d9e6n4htz2yliu2/f0031yjtqtq.html",
+      "video_note": "腾讯视频页面。爱奇艺搜索里标题正好是《从太空看地球》，并跳到这个地址。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-从太空看地球.jpg"
+    },
+    {
+      "id": "list36-太阳系的奇迹",
+      "name_zh": "太阳系的奇迹",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPKPAvxQwEfYAJCeqmn38CIlyC5Cpz9R5Sd45wS16x5HHEXPVXtoUmZDzvAVXIJBXA6YAiaia9Z8Ygp4t6zrdyjWLqzib4KRv/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《太阳系的奇迹》（2010）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-太阳系的奇迹.jpg"
+    },
+    {
+      "id": "list36-人类宇宙",
+      "name_zh": "人类宇宙",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「宇宙探索」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPKPAvxQwEfYAJCeqmn38CIlyC5Cpz9R5Sd45wS16x5HHEXPVXtoUmZDzvAVXIJBXA6YAiaia9Z8Ygp4t6zrdyjWLqzib4KRv/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《人类宇宙》（2014）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-人类宇宙.jpg"
+    },
+    {
+      "id": "list36-生命之色",
+      "name_zh": "生命之色",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLFibl5iaCML3icOGhmxkE6rhtSxslcD42lWVJ5Dko4LKKB93Ih9nI7qb5gtNjz9sxBD8ahIbQ7CALIRB6kDZSibLepN4aib/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《生命之色》（2021）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-生命之色.jpg"
+    },
+    {
+      "id": "list36-地球改变之年",
+      "name_zh": "地球改变之年",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLFibl5iaCML3icOGhmxkE6rhtSxslcD42lWVJ5Dko4LKKB93Ih9nI7qb5gtNjz9sxBD8ahIbQ7CALIRB6kDZSibLepN4aib/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《地球改变之年》（2021）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_f04zzex7h0.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《地球改变之年》的页面（频道：片花,10）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-地球改变之年.jpg"
+    },
+    {
+      "id": "list36-绿色星球",
+      "name_zh": "绿色星球",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLFibl5iaCML3icOGhmxkE6rhtSxslcD42lWVJ5Dko4LKKB93Ih9nI7qb5gtNjz9sxBD8ahIbQ7CALIRB6kDZSibLepN4aib/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《绿色星球》（2022）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_j3j8483uok.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《绿色星球》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-绿色星球.jpg"
+    },
+    {
+      "id": "list36-家园",
+      "name_zh": "家园",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLFibl5iaCML3icOGhmxkE6rhtSxslcD42lWVJ5Dko4LKKB93Ih9nI7qb5gtNjz9sxBD8ahIbQ7CALIRB6kDZSibLepN4aib/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《家园》（2009）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-家园.jpg"
+    },
+    {
+      "id": "list36-自然的力量",
+      "name_zh": "自然的力量",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「自然科普」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLFibl5iaCML3icOGhmxkE6rhtSxslcD42lWVJ5Dko4LKKB93Ih9nI7qb5gtNjz9sxBD8ahIbQ7CALIRB6kDZSibLepN4aib/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《自然的力量》（2016）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_120jhgchoog.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《自然的力量》的页面（频道：unknown,-1）。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-自然的力量.jpg"
+    },
+    {
+      "id": "list36-世界遗产在中国",
+      "name_zh": "世界遗产在中国",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《世界遗产在中国》（2008）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-世界遗产在中国.jpg"
+    },
+    {
+      "id": "list36-南宋",
+      "name_zh": "南宋",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《南宋》（2015）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-南宋.jpg"
+    },
+    {
+      "id": "list36-从秦始皇到汉武帝",
+      "name_zh": "从秦始皇到汉武帝",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《从秦始皇到汉武帝》（2016）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_21cda6wrha4.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《从秦始皇到汉武帝》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-从秦始皇到汉武帝.jpg"
+    },
+    {
+      "id": "list36-大明宫",
+      "name_zh": "大明宫",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《大明宫》（2009）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_1rs6w1r6nb0.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《大明宫》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-大明宫.jpg"
+    },
+    {
+      "id": "list36-故宫",
+      "name_zh": "故宫",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《故宫》（2005）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-故宫.jpg"
+    },
+    {
+      "id": "list36-三国的世界",
+      "name_zh": "三国的世界",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「历史文化」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPJpFsXC9su9vn9IHhf5sNWEvF2V2oBHCASQ1ajmIzg10Fl0KFMjbbCmSgBic5qYxLXtZIBXtEzicyrnMAhZRO0GJRV3XXN9S/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《三国的世界》（2018）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_nsry7bet4w.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《三国的世界》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-三国的世界.jpg"
+    },
+    {
+      "id": "list36-航拍中国",
+      "name_zh": "航拍中国",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《航拍中国 第一季》（2017）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_1xe2qpncpz0.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《航拍中国》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-航拍中国.jpg"
+    },
+    {
+      "id": "list36-第三极",
+      "name_zh": "第三极",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《第三极》（2015）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_29cn79rnyw4.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《第三极》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-第三极.jpg"
+    },
+    {
+      "id": "list36-了不起的村落",
+      "name_zh": "了不起的村落",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《了不起的村落 第一季》（2017）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://v.qq.com/x/cover/ys125s721vqcgo5/n0534bc3wcf.html",
+      "video_note": "腾讯视频页面。爱奇艺搜索里标题正好是《了不起的村落》，并跳到这个地址。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-了不起的村落.jpg"
+    },
+    {
+      "id": "list36-河西走廊",
+      "name_zh": "河西走廊",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《河西走廊》（2015）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_svhjbuubps.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《河西走廊》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-河西走廊.jpg"
+    },
+    {
+      "id": "list36-美丽中国",
+      "name_zh": "美丽中国",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《美丽中国》（2008）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rrjt2elk.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《美丽中国》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-美丽中国.jpg"
+    },
+    {
+      "id": "list36-天山脚下",
+      "name_zh": "天山脚下",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《天山脚下》（2018）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.iqiyi.com/v_19rr1xgrn8.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《天山脚下》的页面（频道：纪录片,3）。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-天山脚下.jpg"
+    },
+    {
+      "id": "list36-此画怎讲",
+      "name_zh": "此画怎讲",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《此画怎讲》（2020）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://v.qq.com/x/cover/mzc00200r8ravfe/b0034jr2q96.html",
+      "video_note": "腾讯视频页面。爱奇艺搜索里标题正好是《此画怎讲》，并跳到这个地址。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-此画怎讲.jpg"
+    },
+    {
+      "id": "list36-啊！设计",
+      "name_zh": "啊！设计",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《啊！设计》（2011）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-啊！设计.jpg"
+    },
+    {
+      "id": "list36-艺术创世记",
+      "name_zh": "艺术创世记",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "文章是图片帖，图集有7张。这里让「艺术美学」里没有单独介绍的片共用图集第5张。页面没有标注每张图对应哪一部。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": null
+    },
+    {
+      "id": "list36-文明",
+      "name_zh": "文明",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《文明》（2018）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": "https://www.bbc.co.uk/programmes/p05xxp5j",
+      "video_note": "维基数据登记的官方网站",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-文明.jpg"
+    },
+    {
+      "id": "list36-现代艺术大师",
+      "name_zh": "现代艺术大师",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《现代艺术大师》（2010）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-现代艺术大师.jpg"
+    },
+    {
+      "id": "list36-卢浮宫的珍宝",
+      "name_zh": "卢浮宫的珍宝",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「艺术美学」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIic1ib6BBoprEVfW7iaxI6PtIDrEfLzzkA3KAwJeq0UvLDkpZkAbc12Zd70YSP2iblGNNN3XKNYzpmQSE0mib1iajBmhiaxpth/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《卢浮宫的珍宝》（2013）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-卢浮宫的珍宝.jpg"
+    },
+    {
+      "id": "list36-七个世界，一个星球",
+      "name_zh": "七个世界，一个星球",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIuDpBLPMWBTVUoGhnew2PxC4cIf3po4t3h4yPDjwSicDLT39DFx8FjIfbO34iaqsSUjd0QPicF4HewA2GDLhYlkb7iczOZAhzW/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《七个世界，一个星球》（2019）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-七个世界，一个星球.jpg"
+    },
+    {
+      "id": "list36-王朝",
+      "name_zh": "王朝",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIuDpBLPMWBTVUoGhnew2PxC4cIf3po4t3h4yPDjwSicDLT39DFx8FjIfbO34iaqsSUjd0QPicF4HewA2GDLhYlkb7iczOZAhzW/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《王朝 第一季》（2018）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-王朝.jpg"
+    },
+    {
+      "id": "list36-植物王国",
+      "name_zh": "植物王国",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIuDpBLPMWBTVUoGhnew2PxC4cIf3po4t3h4yPDjwSicDLT39DFx8FjIfbO34iaqsSUjd0QPicF4HewA2GDLhYlkb7iczOZAhzW/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《植物王国》（2012）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-植物王国.jpg"
+    },
+    {
+      "id": "list36-种出个地球",
+      "name_zh": "种出个地球",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIuDpBLPMWBTVUoGhnew2PxC4cIf3po4t3h4yPDjwSicDLT39DFx8FjIfbO34iaqsSUjd0QPicF4HewA2GDLhYlkb7iczOZAhzW/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《种出个地球》（2012）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "image_path": "images/wx-list36-种出个地球.jpg"
+    },
+    {
+      "id": "list36-意大利花园",
+      "name_zh": "意大利花园",
+      "kind": "纪录片",
+      "age_group": "只列片名",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「植物动物世界」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Dbr7hULyqPIuDpBLPMWBTVUoGhnew2PxC4cIf3po4t3h4yPDjwSicDLT39DFx8FjIfbO34iaqsSUjd0QPicF4HewA2GDLhYlkb7iczOZAhzW/0?wx_fmt=jpeg",
+      "image_note": "豆瓣条目《意大利花园》（2011）的海报。",
+      "sources": [
+        {
+          "article_no": 17,
+          "title": "强烈推荐36部儿童必看顶级纪录片",
+          "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        }
+      ],
+      "name_en": null,
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "image_path": "images/wx-list36-意大利花园.jpg"
+    },
+    {
+      "id": "what-if",
+      "name_zh": "What If",
+      "name_en": "What If",
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMw3Y9UpdaRITDFOib7ODPtfYDUUf6XGhBdz5vrYPLazc3xpfEgAGoc6fUgcicsluSrUActH2dRicaXcePLD6bia2Wnlu1VrBiaSzRv8/0?wx_fmt=jpeg",
+      "image_note": "这篇没有给它单独配图，用的是点名它的那篇文章封面。",
+      "sources": [
+        {
+          "article_no": 6,
+          "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
+          "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+        }
+      ],
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-what-if.jpg"
+    },
+    {
+      "id": "story-of-maths",
+      "name_zh": "数学的故事",
+      "name_en": null,
+      "kind": "纪录片",
+      "age_group": "未标明年龄",
+      "description_zh": "往期推荐里出现两次。原文是：BBC 科普《数学的故事》（4 集，中英文），跳出公式，换个角度看数字背后的逻辑。没有写年龄，也没有播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Cu3arSAIaMwRJobiciaQXymdALKZA6NUwGDbtL3ChrPGjLII3ayicR9n0DN5jibiacQm7A6Ey44WlcKbN2ETrRic8bzhjicyIzibS9Y6JhptKVhhtUk/0?wx_fmt=jpeg",
+      "image_note": "两篇都没有给它单独配图。图用的是其中一篇（《人体奥奇实验室》）的封面。",
+      "sources": [
+        {
+          "article_no": 6,
+          "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
+          "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+        },
+        {
+          "article_no": 8,
+          "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
+          "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        }
+      ],
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-story-of-maths.jpg"
+    },
+    {
+      "id": "dr-ping",
+      "name_zh": "平博士密码",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "未标明年龄",
+      "description_zh": "出现在《人体奥奇实验室》文末的往期推荐。原文是：全球首部诺贝尔科普题材动画《平博士密码》（52 集，中英文），把看不见的科学讲明白。没有写年龄，也没有播放链接。",
+      "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Cu3arSAIaMwRJobiciaQXymdALKZA6NUwGDbtL3ChrPGjLII3ayicR9n0DN5jibiacQm7A6Ey44WlcKbN2ETrRic8bzhjicyIzibS9Y6JhptKVhhtUk/0?wx_fmt=jpeg",
+      "image_note": "这篇没有给它单独配图，用的是点名它的那篇文章封面。",
+      "sources": [
+        {
+          "article_no": 8,
+          "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
+          "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        }
+      ],
+      "video_url": null,
+      "video_note": "未找到可打开的正版预告或播放页。",
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "image_path": "images/w-dr-ping.jpg"
+    },
+    {
+      "id": "how-to-train-your-dragon",
+      "name_zh": "驯龙高手",
+      "name_en": "How to Train Your Dragon",
+      "kind": "动画电影",
+      "age_group": "未标明年龄",
+      "description_zh": "文章说孩子在趣配音里看了片段后想把整部电影看完，正文介绍的就是这一部。维京部落世世代代把龙当敌人。首领的儿子 Hiccup 瘦弱，不像其他维京人。他遇见罕见的夜煞 Night Fury，给它取名 Toothless。两人从互相试探到互相信任，Hiccup 拒绝再屠龙，最后和 Toothless 一起对付真正的威胁。文章写电影和原著不完全对应。同页还介绍了 Cressida Cowell 的同名书，那是书，不是视频。文章没有写具体岁数。",
+      "video_url": "https://www.youtube.com/watch?v=zzT3Rhcwq2Y",
+      "video_note": "维基数据为 2010 年电影登记的 YouTube 视频，本环境打开返回 200。梦工厂影片页 https://www.dreamworks.com/movies/how-to-train-your-dragon 也同样打开了。",
+      "image_url": "https://img9.doubanio.com/view/photo/l/public/p2210954024.jpg",
+      "image_note": "豆瓣条目《驯龙高手》（2010）的海报。",
+      "image_path": "images/w-how-to-train-your-dragon.jpg",
+      "sources": [
+        {
+          "article_no": 22,
+          "title": "入迷了，娃最近大呼好看的儿童电影",
+          "url": "https://mp.weixin.qq.com/s/1zcUZOanOLPia36GlVYinA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "super-jojo",
+      "name_zh": "超级宝贝 JoJo",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "2岁左右",
+      "description_zh": "文章把它放在2岁英文磨耳朵的三样之一。有中文版和英文版。贴近吃饭、洗澡、收玩具、坐厕这些生活场景，节奏慢，英文句子短。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "yina-qiaqia",
+      "name_zh": "依娜和恰恰",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "2岁左右",
+      "description_zh": "文章说中文、英文版本都有，画风柔和，情节简单，两岁孩子跟着哼就能有语感。这个阶段看动画是为了对英语不陌生，不是为了看懂剧情。",
+      "video_url": "https://www.iqiyi.com/v_b8m056zdyw.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《依娜和恰恰》的页面（频道：少儿综艺,15）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《依娜和恰恰》（2024）的海报。",
+      "image_path": "images/wx-yina-qiaqia.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "sss-songs",
+      "name_zh": "SSS 英文儿歌",
+      "name_en": null,
+      "kind": "儿歌",
+      "age_group": "2岁左右",
+      "description_zh": "文章写明这不是动画片，而是低龄启蒙的儿歌：数字、颜色、身体部位、动物，每首歌配动作。作者把它和两部动画并列为2岁只看的三样。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "big-muzzy",
+      "name_zh": "玛泽的故事",
+      "name_en": "Big Muzzy",
+      "kind": "动画",
+      "age_group": "6岁，文章写幼儿园段、约5–6岁",
+      "description_zh": "文章说这是 BBC 给非英语母语孩子做的教学动画，一共15集，语速比《小猪佩奇》慢，铺数字、颜色和基础句型。作者当精看来用，一周一两集，会重复看。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《玛泽的故事》（1987）的海报。",
+      "image_path": "images/wx-big-muzzy.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "wow-english",
+      "name_zh": "Wow English",
+      "name_en": "Wow English",
+      "kind": "真人与手偶",
+      "age_group": "6岁，文章写幼儿园段",
+      "description_zh": "文章说这是真人加手偶的英语教学片，老师 Steve 表演夸张。语法和词汇逐层递进，看完一集能在生活里用上几句。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "little-fox",
+      "name_zh": "Little Fox 分级动画",
+      "name_en": "Little Fox",
+      "kind": "分级动画库",
+      "age_group": "6岁，文章写从1阶或2阶起步",
+      "description_zh": "文章说它按难度分1到9阶，有四千多篇，每篇配电子书、音频和词汇表。作者主要在 B 站搜 “Little Fox” 看。第1阶举例是《汽车城学校》《恐龙兄弟》，大约到小学一二年级是第2–3阶。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "car-town-school",
+      "name_zh": "汽车城学校",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "文章把它当作 Little Fox 第1阶例子",
+      "description_zh": "文章没有单独讲剧情，只把它写为 Little Fox 第1阶（学龄前）的例子之一，和《恐龙兄弟》并列。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "dino-brothers",
+      "name_zh": "恐龙兄弟",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "文章把它当作 Little Fox 第1阶例子",
+      "description_zh": "文章没有单独讲剧情，只把它写为 Little Fox 第1阶的例子之一。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "bluey-wx",
+      "name_zh": "布鲁伊",
+      "name_en": "Bluey",
+      "kind": "动画",
+      "age_group": "6岁，文章写两岁妹妹看画面也乐",
+      "description_zh": "文章说豆瓣9.8，每集7分钟，讲澳洲一家四口怎么玩。作者认为它不是教英语的，而是教家长跟孩子玩什么，看完可以照着做亲子游戏。家里目前中文看得多，英文跟不上。",
+      "video_url": "https://www.bluey.tv/",
+      "video_note": "官方网站 bluey.tv。若本环境能打开则保留。",
+      "image_url": null,
+      "image_note": "豆瓣条目《布鲁伊 第一季》（2018）的海报。",
+      "image_path": "images/w-bluey-wx.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "yakka-dee",
+      "name_zh": "亚克迪",
+      "name_en": "Yakka Dee",
+      "kind": "动画",
+      "age_group": "文章准备给2岁孩子试",
+      "description_zh": "文章把它放在“想补的片单”。BBC 出品，每集只教一个词，重复率高，用来让孩子开口。",
+      "video_url": "https://www.iqiyi.com/v_1es6loytne0.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《亚克迪》的页面（频道：少儿综艺,15）。",
+      "image_url": null,
+      "image_note": "未找到可下载的海报。",
+      "image_path": null,
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "alphablocks-wx",
+      "name_zh": "字母积木",
+      "name_en": "Alphablocks",
+      "kind": "动画",
+      "age_group": "文章准备留给大女儿幼小衔接",
+      "description_zh": "文章说它和《数字积木》同系列，每个字母是会说话的小人，拉手就能拼出单词，用来做自然拼读启蒙。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/alphablocks",
+      "video_note": "BBC CBeebies 节目页。",
+      "image_url": null,
+      "image_note": "豆瓣条目《字母积木 第一季》（2010）的海报。",
+      "image_path": "images/wx-alphablocks-wx.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "maisy-wx",
+      "name_zh": "小鼠波波",
+      "name_en": "Maisy",
+      "kind": "动画",
+      "age_group": "文章说适合两岁段补充",
+      "description_zh": "文章把它和《蓝色小考拉》放在一起：画风柔和、语速极慢，主题是睡觉、洗澡、上学这类生活场景。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《小鼠波波和他的朋友们》（1999）的海报。",
+      "image_path": "images/wx-maisy-wx.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "penelope",
+      "name_zh": "蓝色小考拉",
+      "name_en": "Penelope",
+      "kind": "动画",
+      "age_group": "文章说适合两岁段补充",
+      "description_zh": "文章只写了画风柔和、语速极慢、生活场景，没有单独讲一集的情节。和《小鼠波波》并列，作为两岁段可以补的片子。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《蓝色小考拉》（2008）的海报。",
+      "image_path": "images/wx-penelope.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "octonauts-wx",
+      "name_zh": "海底小纵队",
+      "name_en": "Octonauts",
+      "kind": "动画",
+      "age_group": "文章说先放着，等词汇量上来再看",
+      "description_zh": "文章说它偏科普，海洋动物知识多，但语速偏快，作者暂时不给现在的孩子看。",
+      "video_url": "https://www.iqiyi.com/v_19rrhnf7go.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《海底小纵队》的页面（频道：少儿综艺,15）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《海底小纵队 第一季》（2014）的海报。",
+      "image_path": "images/wx-octonauts-wx.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类"
+    },
+    {
+      "id": "journey-west-en",
+      "name_zh": "西游记",
+      "name_en": null,
+      "kind": "动画",
+      "age_group": "文章说等英语进阶再安排",
+      "description_zh": "文章只写了一句：英文动画片，等英语进阶了再安排。没有写是哪一个版本。",
+      "video_url": null,
+      "video_note": "没有找到标题和类型都对得上、并且能打开的正版页面。",
+      "image_url": null,
+      "image_note": "豆瓣条目《西游记》（1986）的海报。",
+      "image_path": "images/wx-journey-west-en.jpg",
+      "sources": [
+        {
+          "article_no": 23,
+          "title": "两个女儿6岁和2岁，我们只看这8部动画片",
+          "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类"
+    },
+    {
+      "id": "klaus",
+      "name_zh": "克劳斯：圣诞节的秘密",
+      "name_en": "Klaus",
+      "kind": "动画电影",
+      "age_group": "文章24写6岁以上；文章27写6岁+",
+      "description_zh": "文章24：邮政学徒贾斯帕被派到常年对立的北极小岛，遇见做玩具的樵夫克劳斯，两人用送信和礼物慢慢化解小镇的对立。文章27补充英文名 Klaus，并引用 “A true selfless act always sparks another.”",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《克劳斯：圣诞节的秘密》（2019）的海报。",
+      "image_path": "images/w-klaus.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        },
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "rons-gone-wrong",
+      "name_zh": "天赐灵机",
+      "name_en": "Ron's Gone Wrong",
+      "kind": "动画电影",
+      "age_group": "6岁以上",
+      "description_zh": "文章写豆瓣8.1。未来世界里每个孩子都有智能机器人，内向的巴尼分到一个会出错的“小笨蛋”。这个有缺陷的机器人陪他冒险，文章用它讲不必完美。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "没有找到标题和类型都对得上、并且能打开的正版页面。",
+      "image_url": null,
+      "image_note": "豆瓣条目《天赐灵机》（2021）的海报。",
+      "image_path": "images/w-rons-gone-wrong.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "turning-red",
+      "name_zh": "青春变形记",
+      "name_en": "Turning Red",
+      "kind": "动画电影",
+      "age_group": "文章24写7岁以上；文章27写9岁+",
+      "description_zh": "13岁的华裔女孩情绪激动时会变成红色小熊猫。文章24把它写成青春期和母女和解。文章27补充这是家族女性代代相传的变化，妈妈后来道歉，女孩选择把熊猫留下来。",
+      "video_url": "https://www.iqiyi.com/v_26ytlpx77tk.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《青春变形记》的页面（频道：片花,10）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《青春变形记》（2022）的海报。",
+      "image_path": "images/w-turning-red.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        },
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "maquia",
+      "name_zh": "朝花夕誓",
+      "name_en": null,
+      "kind": "动画电影",
+      "age_group": "9岁以上",
+      "description_zh": "文章写豆瓣7.3。寿命很长的少女玛奇亚在战乱中捡到婴儿，孩子会长大变老，她的样子却不变。文章用它讲陪伴、守护和放手，并引了“是你教会了我什么是爱”。没有给英文名。",
+      "video_url": "https://www.iqiyi.com/v_1x7vmewomgw.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《朝花夕誓》的页面（频道：动漫,4）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《朝花夕誓》（2018）的海报。",
+      "image_path": "images/w-maquia.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "walter-mitty",
+      "name_zh": "白日梦想家",
+      "name_en": "The Secret Life of Walter Mitty",
+      "kind": "电影",
+      "age_group": "10岁以上",
+      "description_zh": "文章写豆瓣8.7，并称它是治愈的成人励志片。内向的上班族沃特沉在白日梦里，一张底片失踪后他走出家门。文章没有说它是动画，也没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "没有找到标题和类型都对得上、并且能打开的正版页面。",
+      "image_url": null,
+      "image_note": "豆瓣条目《白日梦想家》（2013）的海报。",
+      "image_path": "images/w-walter-mitty.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "big-bad-fox",
+      "name_zh": "大坏狐狸的故事",
+      "name_en": "Le Grand Méchant Renard et autres contes...",
+      "kind": "动画电影",
+      "age_group": "5岁以上",
+      "description_zh": "文章写豆瓣8.2，手绘水彩，法国凯撒奖，入围奥斯卡。狐狸偷了三颗蛋，小鸡却认它当妈妈。三个农场小故事。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": "https://www.iqiyi.com/v_16c0ikjdt70.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《大坏狐狸的故事》的页面（频道：少儿综艺,15）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《大坏狐狸的故事》（2017）的海报。",
+      "image_path": "images/w-big-bad-fox.jpg",
+      "sources": [
+        {
+          "article_no": 24,
+          "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
+          "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "prince-of-egypt",
+      "name_zh": "埃及王子",
+      "name_en": "The Prince of Egypt",
+      "kind": "动画电影",
+      "age_group": "文章没有写岁数",
+      "description_zh": "文章写1998年梦工厂动画，豆瓣评分栏没有填数字。摩西本可以继续当埃及王子，却选择回到族人那边。十分钟红海镜头做了四年。配乐歌 When You Believe 获奥斯卡最佳原创歌曲。文章写可以从腾讯视频或爱奇艺搜索，但没有给出具体播放地址。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《埃及王子》（1998）的海报。",
+      "image_path": "images/w-prince-of-egypt.jpg",
+      "sources": [
+        {
+          "article_no": 25,
+          "title": "【观影】《埃及王子》：耗资一亿、花四年做十分钟红海，这部28年前的动画至今无人超越",
+          "url": "https://mp.weixin.qq.com/s/MgcsNGCON5gTlKMhDjqGTQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "ethel-ernest",
+      "name_zh": "伦敦一家人",
+      "name_en": "Ethel & Ernest",
+      "kind": "动画电影",
+      "age_group": "7岁+",
+      "description_zh": "文章写豆瓣8.8，手绘水彩。1928年一个女仆和一个送奶工一见钟情，后来躲空袭、等儿子回家。台词来自作者父母说过的话，片尾有他们的照片。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《伦敦一家人》（2016）的海报。",
+      "image_path": "images/w-ethel-ernest.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "marona",
+      "name_zh": "马茹娜的非凡旅程",
+      "name_en": "L'extraordinaire voyage de Marona",
+      "kind": "动画电影",
+      "age_group": "7岁+",
+      "description_zh": "文章写豆瓣8.6。小狗被马戏团小丑、建筑工人和独居老人先后捡到又遗弃，仍然相信人。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《马茹娜的非凡旅程》（2019）的海报。",
+      "image_path": "images/w-marona.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "marnie",
+      "name_zh": "记忆中的玛妮",
+      "name_en": null,
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣8.0，吉卜力。社恐的杏奈在乡下遇见金发女孩玛妮，结尾揭开陪伴以另一种方式回来。适合心思敏感的孩子。文章没有给英文名。",
+      "video_url": "https://www.iqiyi.com/v_24597srybyc.html",
+      "video_note": "爱奇艺搜索结果里标题正好是《记忆中的玛妮》的页面（频道：动漫,4）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《记忆中的玛妮》（2014）的海报。",
+      "image_path": "images/w-marnie.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "revolting-rhymes",
+      "name_zh": "反叛的童谣",
+      "name_en": "Revolting Rhymes",
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣8.7，英国动画，约57分钟，奥斯卡提名。把《小红帽》《白雪公主》《灰姑娘》揉碎重讲。这三则是片中的童话，不是另外三部片子。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《反叛的童谣》（2016）的海报。",
+      "image_path": "images/w-revolting-rhymes.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "memoir-snail",
+      "name_zh": "蜗牛回忆录",
+      "name_en": "Memoir of a Snail",
+      "kind": "动画电影",
+      "age_group": "10岁+",
+      "description_zh": "文章写豆瓣8.6，2024年安锡最佳动画长片，奥斯卡最佳动画长片提名。黏土动画。女孩格蕾丝因外貌被欺凌，把自己关在壳里，老奶奶萍奇用口头禅 BAGA 让她面对破碎。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《蜗牛回忆录》（2024）的海报。",
+      "image_path": "images/w-memoir-snail.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "versailles",
+      "name_zh": "我住在凡尔赛的日子",
+      "name_en": "La vie de château - Mon enfance à Versailles",
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣8.2。8岁的维奥丽特失去父母，投奔在凡尔赛宫做维修的孤僻舅舅。法式水彩。提名法国凯撒奖最佳动画片。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《我住在凡尔赛的日子》（2025）的海报。",
+      "image_path": "images/w-versailles.jpg",
+      "sources": [
+        {
+          "article_no": 26,
+          "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
+          "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "lilo-stitch",
+      "name_zh": "星际宝贝",
+      "name_en": "Lilo & Stitch",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "文章写夏威夷女孩莉萝和姐姐娜妮相依为命，把逃出来的外星实验体当成狗，取名史迪奇，教它的第一个词是家人。金句是 Ohana means family。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《星际宝贝》（2002）的海报。",
+      "image_path": "images/w-lilo-stitch.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "mulan-1998",
+      "name_zh": "花木兰",
+      "name_en": "Mulan",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "文章写明是1998年动画版。父亲腿有旧伤，木兰夜里剪发，穿上父亲的盔甲去从军。文章用它谈“我是谁”和“我为谁而做”。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《花木兰》（2020）的海报。",
+      "image_path": "images/w-mulan-1998.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "song-of-the-sea",
+      "name_zh": "海洋之歌",
+      "name_en": "Song of the Sea",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "文章写爱尔兰灯塔边的兄妹。母亲在妹妹出生那夜回到海里。妹妹是海豹精灵，要找回被父亲扔进海里的海豹皮才能唱歌。文章说难过要留着，不是拿掉。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《海洋之歌》（2014）的海报。",
+      "image_path": "images/w-song-of-the-sea.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "meet-the-robinsons",
+      "name_zh": "拜见罗宾逊一家",
+      "name_en": "Meet the Robinsons",
+      "kind": "动画电影",
+      "age_group": "7岁+",
+      "description_zh": "文章写孤儿院里的小发明家路易斯为了找母亲造记忆扫描机，被来自未来的威尔伯拉上时光机。金句 Keep moving forward。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《拜见罗宾逊一家》（2007）的海报。",
+      "image_path": "images/w-meet-the-robinsons.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "sea-beast",
+      "name_zh": "海兽猎人",
+      "name_en": "The Sea Beast",
+      "kind": "动画电影",
+      "age_group": "7岁+",
+      "description_zh": "文章写孤女梅茜溜上猎兽船，和传说中的大红海兽困在岛上，发现海兽和她听到的故事不一样。金句 Maybe you can be a hero and still be wrong.",
+      "video_url": "https://www.iqiyi.com/v_1iuco1v6b9s.html?playertype=immersiveShort",
+      "video_note": "爱奇艺搜索结果里标题正好是《海兽猎人》的页面（频道：动漫,4）。",
+      "image_url": null,
+      "image_note": "豆瓣条目《海兽猎人》（2022）的海报。",
+      "image_path": "images/w-sea-beast.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "wild-robot",
+      "name_zh": "荒野机器人",
+      "name_en": "The Wild Robot",
+      "kind": "动画电影",
+      "age_group": "7岁+",
+      "description_zh": "文章写机器人罗兹漂到荒岛，意外成了一只小雁的妈妈，要在秋天前教会它飞。她没有“当妈妈的程序”，是硬着头皮学会的。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《荒野机器人》（2024）的海报。",
+      "image_path": "images/w-wild-robot.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "kubo",
+      "name_zh": "魔弦传说",
+      "name_en": "Kubo and the Two Strings",
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写独眼男孩库博用琴和会动的纸片在集市说书，天黑前必须回家。母亲被击倒后，他和会说话的猴子、甲虫去找父亲留下的盔甲。定格动画。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《魔弦传说》（2016）的海报。",
+      "image_path": "images/w-kubo.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    },
+    {
+      "id": "elemental",
+      "name_zh": "疯狂元素城",
+      "name_en": "Elemental",
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写火族姑娘小焰被父亲当接班人，自己喜欢玻璃艺术却不敢说。水族男孩阿波闯进店里。父亲后来说：店从来不是梦想，你才是。",
+      "video_url": null,
+      "video_note": "文章没有给出具体播放地址。",
+      "image_url": null,
+      "image_note": "豆瓣条目《疯狂元素城》（2023）的海报。",
+      "image_path": "images/w-elemental.jpg",
+      "sources": [
+        {
+          "article_no": 27,
+          "title": "陪女儿看的1000部电影——10部脑洞大开又温暖治愈的动画电影",
+          "url": "https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类"
+    }
+  ],
+  "categories": [
+    {
+      "name": "学习类",
+      "count": 11,
+      "file": "docs/wechat/学习类.md"
+    },
+    {
+      "name": "自然类",
+      "count": 29,
+      "file": "docs/wechat/自然类.md"
+    },
+    {
+      "name": "人文类",
+      "count": 23,
+      "file": "docs/wechat/人文类.md"
+    },
+    {
+      "name": "情感品格类",
+      "count": 21,
+      "file": "docs/wechat/情感品格类.md"
+    },
+    {
+      "name": "益智动画类",
+      "count": 1,
+      "file": "docs/wechat/益智动画类.md"
+    }
+  ]
+}
