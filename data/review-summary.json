@@ -1,0 +1,30 @@
+{
+  "entries": 438,
+  "original_entries": 121,
+  "article_28_mentions": 330,
+  "article_28_new_entries": 317,
+  "article_28_with_independent_review": 54,
+  "pending_article_28": 263,
+  "by_category": {
+    "学习类": 24,
+    "人文类": 23,
+    "情感品格类": 43,
+    "自然类": 30,
+    "益智动画类": 1,
+    "动画娱乐类": 317
+  },
+  "by_verdict": {
+    "有保留": 361,
+    "推荐": 57,
+    "强烈推荐": 13,
+    "不推荐": 7
+  },
+  "with_image": 438,
+  "with_independent_review_poster": 93,
+  "with_original_image_only": 73,
+  "with_title_card": 272,
+  "official_reference_links": 10,
+  "unverified_candidate_links": 41,
+  "full_playback_verified": 0,
+  "with_independent_evidence": 98
+}

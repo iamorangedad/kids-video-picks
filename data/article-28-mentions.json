@@ -1,0 +1,2320 @@
+{
+  "source": {
+    "article_no": 28,
+    "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
+    "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+  },
+  "mentions": [
+    {
+      "order": 1,
+      "label": "白雪公主和七个小矮人(1937)",
+      "article_year": 1937,
+      "entry_id": "wx28-a167b05a1293",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 2,
+      "label": "幻想曲(1940)",
+      "article_year": 1940,
+      "entry_id": "wx28-5b14dbeb6319",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 3,
+      "label": "木偶奇遇记(1940)",
+      "article_year": 1940,
+      "entry_id": "wx28-3ec80e6e97ad",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 4,
+      "label": "小飞象(1941)",
+      "article_year": 1941,
+      "entry_id": "wx28-c28101eca1cb",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 5,
+      "label": "小鹿斑比1(1942)",
+      "article_year": 1942,
+      "entry_id": "wx28-25eaea27e9c5",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 6,
+      "label": "三骑士(1944)",
+      "article_year": 1944,
+      "entry_id": "wx28-c7d773e04cdb",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 7,
+      "label": "仙履奇缘1(1950)",
+      "article_year": 1950,
+      "entry_id": "wx28-ff8679bade9b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 8,
+      "label": "爱丽丝梦游仙境1(1951)",
+      "article_year": 1951,
+      "entry_id": "wx28-376b0dcd09c8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 9,
+      "label": "小飞侠1(1953)",
+      "article_year": 1953,
+      "entry_id": "wx28-2bf698e87339",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 10,
+      "label": "小姐与流浪汉1(1955)",
+      "article_year": 1955,
+      "entry_id": "wx28-a7135cb5eafd",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 11,
+      "label": "睡美人(1959)",
+      "article_year": 1959,
+      "entry_id": "wx28-127de5c1e0fc",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 12,
+      "label": "101忠狗1(1961)",
+      "article_year": 1961,
+      "entry_id": "wx28-1c9b2c768d7c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 13,
+      "label": "石中剑(1963)",
+      "article_year": 1963,
+      "entry_id": "wx28-57739451b27d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 14,
+      "label": "欢乐满人间(1964)",
+      "article_year": 1964,
+      "entry_id": "wx28-1ca6661ded98",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 15,
+      "label": "森林王子1(1967)",
+      "article_year": 1967,
+      "entry_id": "wx28-eb055c910e17",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 16,
+      "label": "猫儿历险记(1970)",
+      "article_year": 1970,
+      "entry_id": "wx28-b5d3c985992d",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 17,
+      "label": "罗宾汉(1973)",
+      "article_year": 1973,
+      "entry_id": "wx28-4e48f6afae12",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 18,
+      "label": "小熊维尼历险记(1977)",
+      "article_year": 1977,
+      "entry_id": "wx28-c9f19e87f9c3",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 19,
+      "label": "救难小英雄(1977)",
+      "article_year": 1977,
+      "entry_id": "wx28-58acda0caf91",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 20,
+      "label": "狐狸与猎狗1(1981)",
+      "article_year": 1981,
+      "entry_id": "wx28-b729be5885fb",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 21,
+      "label": "米奇的圣诞颂歌(1983)",
+      "article_year": 1983,
+      "entry_id": "wx28-071691642cb5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 22,
+      "label": "妙妙探(1986)",
+      "article_year": 1986,
+      "entry_id": "wx28-391f6ad7baba",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 23,
+      "label": "奥丽华历险记(1988)",
+      "article_year": 1988,
+      "entry_id": "wx28-1d4ded54fe45",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 24,
+      "label": "小美人鱼(1989)",
+      "article_year": 1989,
+      "entry_id": "wx28-7a6eecd8f5e4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 25,
+      "label": "超级无敌掌门狗：月球野餐记(1989)",
+      "article_year": 1989,
+      "entry_id": "wx28-13fdcb822335",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 26,
+      "label": "救难小英雄：澳洲历险记(1990)",
+      "article_year": 1990,
+      "entry_id": "wx28-3aea742c87d0",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 27,
+      "label": "美女与野兽1(1991)",
+      "article_year": 1991,
+      "entry_id": "wx28-7482404264c0",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 28,
+      "label": "阿拉丁1(1992)",
+      "article_year": 1992,
+      "entry_id": "wx28-6f2269724e07",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 29,
+      "label": "圣诞夜惊魂(1993)",
+      "article_year": 1993,
+      "entry_id": "wx28-4c1805c0422e",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 30,
+      "label": "狮子王(1994)",
+      "article_year": 1994,
+      "entry_id": "wx28-72b20b5661d5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 31,
+      "label": "阿拉丁2(1994)",
+      "article_year": 1994,
+      "entry_id": "wx28-426ce93a2a9c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 32,
+      "label": "玩具总动员(1995)",
+      "article_year": 1995,
+      "entry_id": "wx28-d1c2bda06d41",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 33,
+      "label": "超级无敌掌门狗：剃刀边缘(1995)",
+      "article_year": 1995,
+      "entry_id": "wx28-80b82d1d70f2",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 34,
+      "label": "风中奇缘1(1995)",
+      "article_year": 1995,
+      "entry_id": "wx28-65b7ea1e34af",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 35,
+      "label": "钟楼怪人1(1996)",
+      "article_year": 1996,
+      "entry_id": "wx28-81d9c934c3d6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 36,
+      "label": "阿拉丁3(1996)",
+      "article_year": 1996,
+      "entry_id": "wx28-7278ea6c07a1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 37,
+      "label": "大力士(1997)",
+      "article_year": 1997,
+      "entry_id": "wx28-2d808d4f23fd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 38,
+      "label": "幽灵公主(1997)",
+      "article_year": 1997,
+      "entry_id": "wx28-c0dd7899647d",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 39,
+      "label": "美女与野兽之贝儿的心愿(1997)",
+      "article_year": 1997,
+      "entry_id": "wx28-b402753949bf",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 40,
+      "label": "狮子王2：辛巴的荣耀(1998)",
+      "article_year": 1998,
+      "entry_id": "wx28-5bf89fbdbb59",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 41,
+      "label": "花木兰1(1998)",
+      "article_year": 1998,
+      "entry_id": "mulan-1998",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 42,
+      "label": "虫虫危机(1998)",
+      "article_year": 1998,
+      "entry_id": "wx28-bd95c7dedaac",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 43,
+      "label": "风中奇缘2(1998)",
+      "article_year": 1998,
+      "entry_id": "wx28-80a58be13e00",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 44,
+      "label": "幻想曲2000(1999)",
+      "article_year": 1999,
+      "entry_id": "wx28-dc2b25bf3af5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 45,
+      "label": "泰山1(1999)",
+      "article_year": 1999,
+      "entry_id": "wx28-b65e4a96f6b2",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 46,
+      "label": "玩具总动员2(1999)",
+      "article_year": 1999,
+      "entry_id": "wx28-c56fd3792a6e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 47,
+      "label": "变身国王1(2000)",
+      "article_year": 2000,
+      "entry_id": "wx28-729861094e16",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 48,
+      "label": "小美人鱼2：重返大海(2000)",
+      "article_year": 2000,
+      "entry_id": "wx28-c9faaf5c62bc",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 49,
+      "label": "恐龙(2000)",
+      "article_year": 2000,
+      "entry_id": "wx28-edb7069f07ce",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 50,
+      "label": "跳跳虎历险记(2000)",
+      "article_year": 2000,
+      "entry_id": "wx28-8706a21f9682",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 51,
+      "label": "亚特兰蒂斯1：失落的帝国(2001)",
+      "article_year": 2001,
+      "entry_id": "wx28-0f3f411622c9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 52,
+      "label": "千与千寻(2001)",
+      "article_year": 2001,
+      "entry_id": "wx28-f22721df3fc1",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 53,
+      "label": "小姐与流浪汉2：狗儿逃家记(2001)",
+      "article_year": 2001,
+      "entry_id": "wx28-0df43546ec21",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 54,
+      "label": "怪兽电力公司(2001)",
+      "article_year": 2001,
+      "entry_id": "wx28-fec0c6af4716",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 55,
+      "label": "怪物史瑞克1(2001)",
+      "article_year": 2001,
+      "entry_id": "wx28-c33a3067d7a0",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 56,
+      "label": "仙履奇缘2：美梦成真(2002)",
+      "article_year": 2002,
+      "entry_id": "wx28-adc9eb8456ef",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 57,
+      "label": "冰川时代1(2002)",
+      "article_year": 2002,
+      "entry_id": "wx28-595a3f4ee3ae",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 58,
+      "label": "小飞侠2：梦不落帝国(2002)",
+      "article_year": 2002,
+      "entry_id": "wx28-3c8dcd88a12a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 59,
+      "label": "星银岛(2002)",
+      "article_year": 2002,
+      "entry_id": "wx28-13d0b9058869",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 60,
+      "label": "星际宝贝1(2002)",
+      "article_year": 2002,
+      "entry_id": "lilo-stitch",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 61,
+      "label": "钟楼怪人2：老实钟的秘密(2002)",
+      "article_year": 2002,
+      "entry_id": "wx28-4105b37af3c3",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 62,
+      "label": "101忠狗续集：伦敦大冒险(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-a73dd0bd730e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 63,
+      "label": "亚特兰蒂斯2：神秘的水晶(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-8b4c6938b48c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 64,
+      "label": "小猪大行动(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-d17ab8a288f3",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 65,
+      "label": "星际宝贝史迪奇(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-17275d6c15d8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 66,
+      "label": "森林王子2(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-e9ab705b6bbd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 67,
+      "label": "海底总动员1(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-a2d3d00f2150",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 68,
+      "label": "熊的传说1(2003)",
+      "article_year": 2003,
+      "entry_id": "wx28-b88e3662a5c4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 69,
+      "label": "加菲猫1(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-bd958b554db4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 70,
+      "label": "怪物史瑞克2(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-0119e701fa22",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 71,
+      "label": "极地特快(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-5807919a6a30",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 72,
+      "label": "母牛总动员(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-ea36176cc151",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 73,
+      "label": "海绵宝宝历险记1(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-c3c105f02c06",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 74,
+      "label": "狮子王3(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-27ac4849670d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 75,
+      "label": "花木兰2(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-8edb042571ac",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 76,
+      "label": "超人总动员1(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-187e1c1e4fc8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 77,
+      "label": "鲨鱼黑帮(2004)",
+      "article_year": 2004,
+      "entry_id": "wx28-f97dae4711ac",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 78,
+      "label": "僵尸新娘(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-db40d5f40428",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 79,
+      "label": "变身国王2：高刚外传(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-433846621f38",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 80,
+      "label": "四眼天鸡(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-03b107c34adf",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 81,
+      "label": "战鸽总动员(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-206d7ac4a159",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 82,
+      "label": "星际宝贝2：史迪奇有问题(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-b73673924d9d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 83,
+      "label": "机器人历险记(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-316a84d1f8b1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 84,
+      "label": "泰山2(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-9017e277066b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 85,
+      "label": "马达加斯加1(2005)",
+      "article_year": 2005,
+      "entry_id": "wx28-1f3d9346edd1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 86,
+      "label": "丛林大反攻1(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-79a41ddf8ba6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 87,
+      "label": "冰川时代2(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-507d41c888d4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 88,
+      "label": "别惹蚂蚁(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-babbdb2d76b2",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 89,
+      "label": "加菲猫2(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-4f36a7ce44f5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 90,
+      "label": "夏洛特的网(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-b21330ff4b25",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 91,
+      "label": "小鹿斑比2(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-ce1556afca1d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 92,
+      "label": "快乐的大脚1(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-3e94581e691b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 93,
+      "label": "怪兽屋(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-d0d7dc0b1197",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 94,
+      "label": "熊的传说2(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-f581af3c3a0c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 95,
+      "label": "狐狸与猎狗2：永远的朋友(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-f76ea9a38bd9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 96,
+      "label": "赛车总动员1(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-d739216f9efe",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 97,
+      "label": "鼠国流浪记(2006)",
+      "article_year": 2006,
+      "entry_id": "wx28-c17ec7039bd5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 98,
+      "label": "仙履奇缘3：时间魔法(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-a82413a4c13f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 99,
+      "label": "冲浪企鹅1(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-1947cc11a11f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 100,
+      "label": "忍者神龟(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-e5b67f83f0ff",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 101,
+      "label": "怪物史瑞克3(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-33cb43c74054",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 102,
+      "label": "拜见罗宾逊一家(2007)",
+      "article_year": 2007,
+      "entry_id": "meet-the-robinsons",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 103,
+      "label": "泰若星球(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-5ab092f06e7a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 104,
+      "label": "美食总动员(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-4fd2436f18b6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 105,
+      "label": "蜜蜂总动员(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-55cc623a0e73",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 106,
+      "label": "鼠来宝1(2007)",
+      "article_year": 2007,
+      "entry_id": "wx28-67c4e43067f6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 107,
+      "label": "丛林大反攻2(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-2de52c9cec5c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 108,
+      "label": "功夫熊猫1(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-6385ff05a208",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 109,
+      "label": "小美人鱼3：爱丽儿的起源(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-963c50e828d8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 110,
+      "label": "机器人总动员(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-87c6637160a8",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 111,
+      "label": "浪漫鼠德佩罗(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-eced0511ffb1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 112,
+      "label": "芭比之圣诞颂歌(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-57815af7b9ec",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 113,
+      "label": "闪电狗(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-a05f8e72b2f5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 114,
+      "label": "霍顿与无名氏(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-835223505be1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 115,
+      "label": "马达加斯加2：逃往非洲(2008)",
+      "article_year": 2008,
+      "entry_id": "wx28-aeb86a22a512",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 116,
+      "label": "了不起的狐狸爸爸(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-7bef0069035d",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 117,
+      "label": "公主与青蛙(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-7e5fdb15166c",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 118,
+      "label": "冰川时代3(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-116157c24cef",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 119,
+      "label": "凯尔经的秘密(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-141f1d43cfb1",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 120,
+      "label": "圣诞颂歌(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-524f9d8aa4cc",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 121,
+      "label": "天降美食1(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-e731e851e5a9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 122,
+      "label": "小叮当与失去的宝藏(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-bf575c7826ee",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 123,
+      "label": "机器人9号(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-e48b6f3866df",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 124,
+      "label": "飞屋环游记(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-ef1fba7c5337",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 125,
+      "label": "鬼妈妈(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-ec1dbcc19e9a",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 126,
+      "label": "鼠来宝2：明星俱乐部(2009)",
+      "article_year": 2009,
+      "entry_id": "wx28-3f75da02e57a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 127,
+      "label": "丛林大反攻3(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-ae8e081f7881",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 128,
+      "label": "小叮当：拯救精灵大作战(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-f46954b6c57e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 129,
+      "label": "怪物史瑞克4(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-62e431152239",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 130,
+      "label": "玩具总动员3(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-b99b761fcfff",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 131,
+      "label": "神偷奶爸(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-4ad8c79affd5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 132,
+      "label": "超级大坏蛋(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-a8bf0f2c9c27",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 133,
+      "label": "驯龙高手1(2010)",
+      "article_year": 2010,
+      "entry_id": "how-to-train-your-dragon",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 134,
+      "label": "魔发奇缘(2010)",
+      "article_year": 2010,
+      "entry_id": "wx28-cd40a1dd679a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 135,
+      "label": "亚瑟·圣诞(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-79abd73e1737",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 136,
+      "label": "兰戈(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-f71e9a5dcf1e",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 137,
+      "label": "功夫熊猫2(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-af14d335b46d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 138,
+      "label": "吉诺密欧与朱丽叶(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-298e05b67d6c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 139,
+      "label": "小叮当与精灵杯大赛(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-4d64b8ca454e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 140,
+      "label": "小熊维尼(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-e1ae170a6637",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 141,
+      "label": "快乐的大脚2(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-9989e948b4ce",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 142,
+      "label": "穿靴子的猫(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-b5e7eb7c9c99",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 143,
+      "label": "芭比之完美圣诞(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-ce9e87fbef3e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 144,
+      "label": "蓝精灵1(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-d9f7aca40395",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 145,
+      "label": "赛车总动员2(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-d099a1fa273f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 146,
+      "label": "里约大冒险1(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-bca7a0a2af90",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 147,
+      "label": "鼠来宝3(2011)",
+      "article_year": 2011,
+      "entry_id": "wx28-b3a97f711e3b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 148,
+      "label": "冰川时代4(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-60ceba6c8e71",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 149,
+      "label": "勇敢传说(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-a5ed1524fe59",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 150,
+      "label": "守护者联盟(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-f6a7ee02ea24",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 151,
+      "label": "小叮当：羽翼之谜(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-4834029419ce",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 152,
+      "label": "无敌破坏王1(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-601583875802",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 153,
+      "label": "神奇海盗团(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-6390234259a1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 154,
+      "label": "科学怪狗(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-26793f40d418",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 155,
+      "label": "秘鲁大冒险1(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-b84c25c404c6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 156,
+      "label": "精灵旅社1(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-f0de6830d0df",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 157,
+      "label": "老雷斯的故事(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-ec0b4db44a78",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 158,
+      "label": "蝙蝠侠：黑暗骑士归来(上)(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-7499de9bf1ce",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 159,
+      "label": "马达加斯加3(2012)",
+      "article_year": 2012,
+      "entry_id": "wx28-4a3b3c7cbe09",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 160,
+      "label": "冰雪奇缘1(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-365bc2d21bdd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 161,
+      "label": "天降美食2(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-3937b4a144d8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 162,
+      "label": "怪兽大学(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-a450b5078d0a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 163,
+      "label": "斑马总动员(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-c002ef6b27a1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 164,
+      "label": "极速蜗牛(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-4d1bf1227aca",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 165,
+      "label": "森林战士(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-76d0f0e60189",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 166,
+      "label": "火鸡总动员(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-c2bba53a2b9e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 167,
+      "label": "疯狂原始人1(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-d303900e5cbb",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 168,
+      "label": "神偷奶爸2(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-fbbb13834134",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 169,
+      "label": "蓝精灵2(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-1f69bb2233ef",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 170,
+      "label": "蝙蝠侠：黑暗骑士归来(下)(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-4312938e9673",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 171,
+      "label": "飞机总动员1(2013)",
+      "article_year": 2013,
+      "entry_id": "wx28-03d1b7d39057",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 172,
+      "label": "天才眼镜狗(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-aca753f7fe0d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 173,
+      "label": "小叮当与海盗仙子(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-a3ea61776241",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 174,
+      "label": "帕丁顿熊1(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-0bcadd332662",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 175,
+      "label": "抢劫坚果店1(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-25502bda5043",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 176,
+      "label": "海洋之歌(2014)",
+      "article_year": 2014,
+      "entry_id": "song-of-the-sea",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 177,
+      "label": "玩具总动员：遗忘的时光(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-17ecaca86ff7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 178,
+      "label": "生命之书(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-b86f972a79f6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 179,
+      "label": "盒子怪(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-7f4b9b6dee0b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 180,
+      "label": "超能陆战队(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-17fe7acce137",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 181,
+      "label": "里约大冒险2(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-21408815380a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 182,
+      "label": "飞机总动员2：火线救援(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-ad06c5077898",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 183,
+      "label": "马达加斯加的企鹅(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-e2f8838a6911",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 184,
+      "label": "驯龙高手2(2014)",
+      "article_year": 2014,
+      "entry_id": "wx28-821a9e0caeaa",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 185,
+      "label": "丛林大反攻4：吓傻了(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-374a2bb0b2e2",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 186,
+      "label": "头脑特工队1(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-c0746ef341a2",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 187,
+      "label": "小王子(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-27c60d711ede",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 188,
+      "label": "小黄人大眼萌(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-8e5799bd01c1",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 189,
+      "label": "恐龙当家(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-11043ab9f170",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 190,
+      "label": "海绵宝宝2(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-dc51a202d944",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 191,
+      "label": "疯狂外星人(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-50bc64b701ae",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 192,
+      "label": "精灵旅社2(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-d3a371906bfd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 193,
+      "label": "诺亚方舟漂流记1(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-96cdc838a5e4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 194,
+      "label": "鼠来宝4：萌在囧途(2015)",
+      "article_year": 2015,
+      "entry_id": "wx28-c22be95f2486",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 195,
+      "label": "了不起的菲丽西(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-1c6e9e08cadf",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 196,
+      "label": "冰川时代5：星际碰撞(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-e1f9410bfdb7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 197,
+      "label": "功夫熊猫3(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-3b09225277b5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 198,
+      "label": "反叛的童谣1(2016)",
+      "article_year": 2016,
+      "entry_id": "revolting-rhymes",
+      "status": "与已有条目合并；上下篇仍保留各自来源标签"
+    },
+    {
+      "order": 199,
+      "label": "反叛的童谣2(2016)",
+      "article_year": 2016,
+      "entry_id": "revolting-rhymes",
+      "status": "与已有条目合并；上下篇仍保留各自来源标签"
+    },
+    {
+      "order": 200,
+      "label": "圆梦巨人(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-f745522bcb8b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 201,
+      "label": "愤怒的小鸟1(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-f8aa5522b884",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 202,
+      "label": "欢乐好声音1(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-927bc862ad9b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 203,
+      "label": "海底总动员2：多莉去哪儿(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-74801c45c635",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 204,
+      "label": "海洋奇缘1(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-87a96c32ff66",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 205,
+      "label": "爱宠大机密1(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-36a5b16cfb45",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 206,
+      "label": "疯狂动物城1(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-30c8ba6f829a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 207,
+      "label": "魔弦传说(2016)",
+      "article_year": 2016,
+      "entry_id": "kubo",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 208,
+      "label": "鲁滨逊漂流记(2016)",
+      "article_year": 2016,
+      "entry_id": "wx28-4755661ce4d2",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 209,
+      "label": "冲浪企鹅2(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-4874c570ac45",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 210,
+      "label": "圣诞星(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-bad9ebf9ca6e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 211,
+      "label": "宝贝老板1(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-7b922f4d4ec8",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 212,
+      "label": "寻梦环游记(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-351506d951f9",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 213,
+      "label": "帕丁顿熊2(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-d99af05970ab",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 214,
+      "label": "抢劫坚果店2(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-20ebebd40f2d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 215,
+      "label": "神偷奶爸3(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-94084049ae65",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 216,
+      "label": "秘鲁大冒险2(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-0c3b68ef0aa9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 217,
+      "label": "蓝精灵3：寻找神秘村(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-306f9aea95d7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 218,
+      "label": "赛车总动员3：极速挑战(2017)",
+      "article_year": 2017,
+      "entry_id": "wx28-35e014551165",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 219,
+      "label": "三傻闹地球(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-1b4cba6b8b0b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 220,
+      "label": "克里斯托弗·罗宾(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-18a3370978bb",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 221,
+      "label": "无敌破坏王2(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-659cbb012c70",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 222,
+      "label": "精灵旅社3：疯狂假期(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-0dfb82379a13",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 223,
+      "label": "蜘蛛侠：平行宇宙(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-36a0b3ab2d78",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 224,
+      "label": "超人总动员2(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-acdafe69a136",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 225,
+      "label": "雪怪大冒险(2018)",
+      "article_year": 2018,
+      "entry_id": "wx28-e05e9570bbd4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 226,
+      "label": "亚当斯一家(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-7ec1c563d87a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 227,
+      "label": "克劳斯：圣诞节的秘密(2019)",
+      "article_year": 2019,
+      "entry_id": "klaus",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 228,
+      "label": "冰雪奇缘2(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-fb98bd7c42bd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 229,
+      "label": "变身特工(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-71924864a0ce",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 230,
+      "label": "哪吒之魔童降世(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-94448d64e170",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 231,
+      "label": "小羊肖恩2(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-6f52412eabd3",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 232,
+      "label": "愤怒的小鸟2(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-0ac7f393854f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 233,
+      "label": "沉睡魔咒2(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-acc63e56322e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 234,
+      "label": "爱宠大机密2(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-c83c8245ac07",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 235,
+      "label": "狮子王(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-9e37754bc186",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 236,
+      "label": "玩具总动员4(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-e519026e3947",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 237,
+      "label": "白蛇：缘起(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-d556d6a3bb48",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 238,
+      "label": "罗小黑战记1(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-7c343de32e37",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 239,
+      "label": "雪人奇缘(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-c24898674c93",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 240,
+      "label": "驯龙高手3(2019)",
+      "article_year": 2019,
+      "entry_id": "wx28-8a55b604cbf3",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 241,
+      "label": "二分之一的魔法(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-7690323ec9a9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 242,
+      "label": "刺猬索尼克1(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-c19f4cbf0b29",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 243,
+      "label": "姜子牙(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-56edad1459d7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 244,
+      "label": "心灵奇旅(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-470d416a514d",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 245,
+      "label": "狼行者(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-d649a41291a8",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 246,
+      "label": "疯狂原始人2(2020)",
+      "article_year": 2020,
+      "entry_id": "wx28-e2054a640a40",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 247,
+      "label": "亚当斯一家2(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-7455c859d832",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 248,
+      "label": "夏日友晴天(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-0801b22f1fe1",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 249,
+      "label": "宝贝老板2(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-578a77d6f938",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 250,
+      "label": "寻龙传说(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-adac5e57dfd4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 251,
+      "label": "小屁孩日记1(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-1608fb24ca76",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 252,
+      "label": "巨怪猎人：泰坦的觉醒(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-96f8952c2cd5",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 253,
+      "label": "希尔达与山丘之王(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-be6e0b51594e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 254,
+      "label": "怪物家族2：人无完人(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-e4400a08be8f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 255,
+      "label": "智能大反攻(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-ed724213eee5",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 256,
+      "label": "欢乐好声音2(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-6c15f7b27c2d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 257,
+      "label": "重返大荒野(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-afece8cb1c87",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 258,
+      "label": "魔法满屋(2021)",
+      "article_year": 2021,
+      "entry_id": "wx28-2f869b5d5982",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 259,
+      "label": "了不起的莫里斯(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-64a2eb4f482f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 260,
+      "label": "刺猬索尼克2(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-0ccc30813a2c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 261,
+      "label": "坏蛋联盟1(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-461f941d50d4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 262,
+      "label": "奇异世界(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-2c69b20f458f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 263,
+      "label": "小屁孩日记2(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-ee600a47c051",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 264,
+      "label": "小黄人大眼萌：神偷奶爸前传(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-98536faa98b7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 265,
+      "label": "新神榜：杨戬(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-a983c7b94747",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 266,
+      "label": "熊出没·重返地球(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-09a98ae69fa0",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 267,
+      "label": "祝你好运(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-85e3410fc34d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 268,
+      "label": "穿靴子的猫2(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-3228d1934c54",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 269,
+      "label": "精灵旅社4：变身大冒险(2022)",
+      "article_year": 2022,
+      "entry_id": "wx28-25b8e46d2826",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 270,
+      "label": "青春变形记(2022)",
+      "article_year": 2022,
+      "entry_id": "turning-red",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 271,
+      "label": "你想活出怎样的人生(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-2411fa16f253",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 272,
+      "label": "奇迹少女(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-832b529cb342",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 273,
+      "label": "小屁孩日记3(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-10267c3cfc35",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 274,
+      "label": "小鸡快跑2：鸡块新时代(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-032753da5373",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 275,
+      "label": "星愿(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-a1ef345408c4",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 276,
+      "label": "真人快打传奇：牢笼对决(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-8f88e758b4f9",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 277,
+      "label": "蜘蛛侠：纵横宇宙(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-89e036b99f37",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 278,
+      "label": "蟹群大比拼(2023)",
+      "article_year": 2023,
+      "entry_id": "wx28-d8724a474fb7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 279,
+      "label": "海绵宝宝：营救大冒险",
+      "article_year": null,
+      "entry_id": "wx28-7b8a1e1fc68a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 280,
+      "label": "刺猬索尼克3(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-9d960f5c5bf0",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 281,
+      "label": "功夫熊猫4(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-2cd5be75b5fc",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 282,
+      "label": "加菲猫家族(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-cf1a93ae7382",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 283,
+      "label": "十条命(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-a65e3f2a1c83",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 284,
+      "label": "变形金刚：起源(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-4a05792e4812",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 285,
+      "label": "头脑特工队2(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-dd4b70f5084e",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 286,
+      "label": "守龙者(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-461a25ea2630",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 287,
+      "label": "帕丁顿熊3：秘鲁大冒险(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-c7d7b2918c4d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 288,
+      "label": "我的好朋友黑漆漆(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-5c02f192cd92",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 289,
+      "label": "指环王：洛汗之战(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-a656382005ce",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 290,
+      "label": "海洋奇缘2(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-a2f0c31b6aef",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 291,
+      "label": "独角兽塞尔玛(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-8189478bd46b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 292,
+      "label": "狮子王：木法沙传奇(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-a7e7e3fa893d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 293,
+      "label": "神偷奶爸4(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-19e8d454acc6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 294,
+      "label": "老虎的学徒(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-c998ec123d3c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 295,
+      "label": "荒野机器人(2024)",
+      "article_year": 2024,
+      "entry_id": "wild-robot",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 296,
+      "label": "蜗牛回忆录(2024)",
+      "article_year": 2024,
+      "entry_id": "memoir-snail",
+      "status": "与已有条目合并"
+    },
+    {
+      "order": 297,
+      "label": "超级无敌掌门狗：企鹅的复仇(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-99da6e11ecdf",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 298,
+      "label": "辛普森一家(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-a3383dfe7513",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 299,
+      "label": "那年圣诞不一样(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-f2ca85e78c63",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 300,
+      "label": "魔咒奇缘(2024)",
+      "article_year": 2024,
+      "entry_id": "wx28-37eda566b90a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 301,
+      "label": "K-POP：猎魔女团(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-a80eb8a74c21",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 302,
+      "label": "哪吒之魔童闹海(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-795dc49689f6",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 303,
+      "label": "地球特派员(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-1ec64d5b2517",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 304,
+      "label": "坏蛋联盟2(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-7b6ba7a99f77",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 305,
+      "label": "大卫(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-2618d339fe6d",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 306,
+      "label": "小屁孩日记4(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-14c1989e73c9",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 307,
+      "label": "我的世界大电影(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-c9bb21bf2217",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 308,
+      "label": "新·驯龙高手(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-32c715442976",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 309,
+      "label": "星际宝贝史迪奇(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-1e135f4eaf4e",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 310,
+      "label": "海绵宝宝：深海大冒险(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-7587b35b90ff",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 311,
+      "label": "海绵宝宝：皮老板大电影(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-91273db27511",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 312,
+      "label": "猎魔人：深渊海妖(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-db566937a262",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 313,
+      "label": "猎魔女团(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-a80eb8a74c21",
+      "status": "同片别名，合并；仍保留原文标签"
+    },
+    {
+      "order": 314,
+      "label": "疯狂动物城2(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-46c961e6cd9f",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 315,
+      "label": "白日梦奇遇记(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-12be9be9ac2b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 316,
+      "label": "神探狗狗(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-697b50e2bed7",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 317,
+      "label": "罗小黑战记2(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-cf0528c9b001",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 318,
+      "label": "蠢特夫妇(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-3c645dd31abf",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 319,
+      "label": "阿兹特克蝙蝠侠：帝国冲突(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-799bc2185b3a",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 320,
+      "label": "雄狗狗大冒险(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-a0ec0cbc3999",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 321,
+      "label": "魔法蓝精灵(2025)",
+      "article_year": 2025,
+      "entry_id": "wx28-f0891d943e81",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 322,
+      "label": "奇迹梦之队(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-84271cd509dd",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 323,
+      "label": "小黄人与大怪兽(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-f751a358aa2c",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 324,
+      "label": "汪汪队立大功大电影3：勇闯恐龙岛(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-2744606d6b0b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 325,
+      "label": "河狸变身计划(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-c6df29ef8c89",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 326,
+      "label": "玩具总动员5(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-094f8bf8860a",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 327,
+      "label": "超级马力欧银河大电影(2026)",
+      "article_year": 2026,
+      "entry_id": "wx28-3be0021050d2",
+      "status": "独立评测初审"
+    },
+    {
+      "order": 328,
+      "label": "超级无敌掌门狗：引鹅入室",
+      "article_year": null,
+      "entry_id": "wx28-800d1bf55197",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 329,
+      "label": "超级无敌掌门狗：人兔的诅咒",
+      "article_year": null,
+      "entry_id": "wx28-b8030a98a07b",
+      "status": "已逐项留档，待作品级核验"
+    },
+    {
+      "order": 330,
+      "label": "超级无敌掌门狗：面包与死亡事件",
+      "article_year": null,
+      "entry_id": "wx28-f93e99930467",
+      "status": "已逐项留档，待作品级核验"
+    }
+  ],
+  "method": "年代主列表327个标签，补充段3个，共330；保留所有原文标签和年份。猎魔女团别名合并；反叛的童谣上下两部分关联原有同一系列卡片。"
+}
