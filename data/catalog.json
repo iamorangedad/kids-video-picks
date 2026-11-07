@@ -3,7 +3,7 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 444,
+    "entries": 476,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -15,23 +15,25 @@
       "情感品格类": 43,
       "自然类": 30,
       "益智动画类": 1,
-      "动画娱乐类": 323
+      "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 365,
-      "推荐": 59,
-      "强烈推荐": 13,
-      "不推荐": 7
+      "有保留": 374,
+      "推荐": 67,
+      "强烈推荐": 14,
+      "不推荐": 21
     },
-    "with_image": 444,
-    "with_independent_review_poster": 98,
+    "with_image": 476,
+    "with_independent_review_poster": 127,
     "with_original_image_only": 73,
-    "with_title_card": 272,
+    "with_title_card": 275,
     "official_reference_links": 10,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 104,
-    "article_29_new_entries": 6
+    "with_independent_evidence": 133,
+    "article_29_new_entries": 6,
+    "article_30_mentions": 38,
+    "article_30_new_entries": 32
   },
   "entries": [
     {
@@ -25668,6 +25670,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -25731,6 +25738,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -25794,6 +25806,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -25857,6 +25874,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -25918,6 +25940,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -25981,6 +26008,11 @@
           "article_no": 29,
           "title": "陪孩子看的英文动画，6部 纯英文字幕",
           "url": "https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg"
+        },
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
         }
       ],
       "category": "动画娱乐类",
@@ -26007,6 +26039,2047 @@
             "scope": "单部作品",
             "work_title": "Lilo & Stitch: The Series",
             "age": "6+",
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-zootopia-plus",
+      "name_zh": "疯狂动物城+",
+      "name_en": "Zootopia+",
+      "kind": "动画剧集",
+      "age_group": "文章分组：零基础启蒙",
+      "description_zh": "文章30把它列入“零基础启蒙”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/zootopia",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/zootopia",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-zootopia-plus.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+，为电影衍生的短篇集，轻松幽默、险情较轻。注意这是剧集，不是文章28已收录的两部电影；单集短适合小学生，“零基础启蒙”的语言难度为文章说法。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+，为电影衍生的短篇集，轻松幽默、险情较轻。注意这是剧集，不是文章28已收录的两部电影；单集短适合小学生，“零基础启蒙”的语言难度为文章说法。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/zootopia",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Zootopia+",
+            "age": "8+",
+            "editorial_score": "3.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-bee-and-puppycat",
+      "name_zh": "蜂妹与狗狗猫",
+      "name_en": "Bee and PuppyCat",
+      "kind": "动画剧集",
+      "age_group": "文章分组：零基础启蒙",
+      "description_zh": "文章30把它列入“零基础启蒙”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/bee-and-puppycat",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/bee-and-puppycat",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-bee-and-puppycat.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评13+，节奏怪诞，含成人向笑话与较复杂情绪；文章把它放进“零基础启蒙”是明显错配，不列入0—12岁日常片单。",
+      "reviewed_age": "13+（CSM；非原文“零基础启蒙”）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评13+，节奏怪诞，含成人向笑话与较复杂情绪；文章把它放进“零基础启蒙”是明显错配，不列入0—12岁日常片单。",
+        "recommended_age": "13+（CSM；非原文“零基础启蒙”）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/bee-and-puppycat",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Bee and PuppyCat",
+            "age": "13+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-over-the-garden-wall",
+      "name_zh": "花园墙外",
+      "name_en": "Over the Garden Wall",
+      "kind": "动画剧集",
+      "age_group": "文章分组：零基础启蒙",
+      "description_zh": "文章30把它列入“零基础启蒙”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/over-the-garden-wall",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/over-the-garden-wall",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-over-the-garden-wall.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+，迷你剧制作精良，但有阴森氛围与惊吓场面；不是低龄“启蒙”片，建议成人陪看较大孩子。",
+      "reviewed_age": "8+（CSM；敏感儿童10+）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+，迷你剧制作精良，但有阴森氛围与惊吓场面；不是低龄“启蒙”片，建议成人陪看较大孩子。",
+        "recommended_age": "8+（CSM；敏感儿童10+）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/over-the-garden-wall",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Over the Garden Wall",
+            "age": "8+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-we-bare-bears",
+      "name_zh": "咱们裸熊",
+      "name_en": "We Bare Bears",
+      "kind": "动画剧集",
+      "age_group": "文章分组：零基础启蒙",
+      "description_zh": "文章30把它列入“零基础启蒙”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/we-bare-bears",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/we-bare-bears",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-we-bare-bears.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+，三兄弟熊的友情喜剧，攻击性内容少，有网络/社交媒体相关笑料。适合小学生共看；对白不算慢，零基础孩子未必跟得上。",
+      "reviewed_age": "8+（CSM；原文零基础）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+，三兄弟熊的友情喜剧，攻击性内容少，有网络/社交媒体相关笑料。适合小学生共看；对白不算慢，零基础孩子未必跟得上。",
+        "recommended_age": "8+（CSM；原文零基础）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/we-bare-bears",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "We Bare Bears",
+            "age": "8+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-last-kids-on-earth",
+      "name_zh": "地球上最后的孩子",
+      "name_en": "The Last Kids on Earth",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（3季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/the-last-kids-on-earth",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/the-last-kids-on-earth",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-last-kids-on-earth.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评9+，末日怪物题材，有怪物打斗与惊吓，编辑评分一般（3/5）。娱乐为主，敏感儿童慎看。",
+      "reviewed_age": "9+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评9+，末日怪物题材，有怪物打斗与惊吓，编辑评分一般（3/5）。娱乐为主，敏感儿童慎看。",
+        "recommended_age": "9+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/the-last-kids-on-earth",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "The Last Kids on Earth",
+            "age": "9+",
+            "editorial_score": "3.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-avatar-last-airbender",
+      "name_zh": "降世神通",
+      "name_en": "Avatar: The Last Airbender",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1-3季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/avatar-the-last-airbender",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/avatar-the-last-airbender",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-avatar-last-airbender.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评8+，人物成长与和平、责任主题扎实；有战争与武打，但不血腥。叙事完整、适合家庭共看讨论，是本篇最可靠的一部。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评8+，人物成长与和平、责任主题扎实；有战争与武打，但不血腥。叙事完整、适合家庭共看讨论，是本篇最可靠的一部。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/avatar-the-last-airbender",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Avatar: The Last Airbender",
+            "age": "8+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-legend-of-korra",
+      "name_zh": "降世神通：科拉传奇",
+      "name_en": "The Legend of Korra",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/the-legend-of-korra",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/the-legend-of-korra",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-legend-of-korra.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+，女主刚强、信息正面；后几季涉及恐怖主义、创伤与更强暴力，较《降世神通》成熟。",
+      "reviewed_age": "8+（CSM；后期更成熟，建议10+）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+，女主刚强、信息正面；后几季涉及恐怖主义、创伤与更强暴力，较《降世神通》成熟。",
+        "recommended_age": "8+（CSM；后期更成熟，建议10+）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/the-legend-of-korra",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "The Legend of Korra",
+            "age": "8+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-infinity-train",
+      "name_zh": "空灵之境",
+      "name_en": "Infinity Train",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/infinity-train",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/infinity-train",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-infinity-train.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑5/5、评10+，以列车奇幻处理家庭破裂与自我认同，有惊悚段落。适合较大孩子，建议成人预看后讨论。",
+      "reviewed_age": "10+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑5/5、评10+，以列车奇幻处理家庭破裂与自我认同，有惊悚段落。适合较大孩子，建议成人预看后讨论。",
+        "recommended_age": "10+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/infinity-train",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Infinity Train",
+            "age": "10+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-amphibia",
+      "name_zh": "奇幻沼泽",
+      "name_en": "Amphibia",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1-3季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/amphibia",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/amphibia",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-amphibia.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑5/5、评8+，以友情为核心、惊吓较轻；后期剧情更紧张。娱乐为主，不以学习效果论。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑5/5、评8+，以友情为核心、惊吓较轻；后期剧情更紧张。娱乐为主，不以学习效果论。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/amphibia",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Amphibia",
+            "age": "8+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-carmen-sandiego",
+      "name_zh": "神偷卡门",
+      "name_en": "Carmen Sandiego",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/carmen-sandiego",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/carmen-sandiego",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-carmen-sandiego.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评7+，环球冒险附带地理文化元素，打斗为卡通式。地理知识是点缀而非系统课程；主角“侠盗”设定可与孩子讨论。",
+      "reviewed_age": "7+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评7+，环球冒险附带地理文化元素，打斗为卡通式。地理知识是点缀而非系统课程；主角“侠盗”设定可与孩子讨论。",
+        "recommended_age": "7+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/carmen-sandiego",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Carmen Sandiego",
+            "age": "7+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-ben-10",
+      "name_zh": "宇宙小子",
+      "name_en": "Ben 10",
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（5季（版本未核实）），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/ben-10",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/ben-10",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-ben-10.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM编辑3/5、评8+，以变身打斗为主，暴力重复。文章“5季”与各版本季数对不上，具体是哪一版未核实。",
+      "reviewed_age": "8+（CSM，对应版本未核实）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM编辑3/5、评8+，以变身打斗为主，暴力重复。文章“5季”与各版本季数对不上，具体是哪一版未核实。",
+        "recommended_age": "8+（CSM，对应版本未核实）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/ben-10",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Ben 10",
+            "age": "8+",
+            "editorial_score": "3.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-ben-10-future",
+      "name_zh": "宇宙小子：未来",
+      "name_en": null,
+      "kind": "动画剧集",
+      "age_group": "文章分组：青少年冒险",
+      "description_zh": "文章30把它列入“青少年冒险”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/title-cards/wx30-ben-10-future.svg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "“宇宙小子：未来”1季对应哪部Ben 10衍生作未能确认（Omniverse为多季，CSM评8+且称偏暴力），不借用其他版本的评价。",
+      "reviewed_age": "未核实",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "“宇宙小子：未来”1季对应哪部Ben 10衍生作未能确认（Omniverse为多季，CSM评8+且称偏暴力），不借用其他版本的评价。",
+        "recommended_age": "未核实",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-06",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-spongebob",
+      "name_zh": "海绵宝宝",
+      "name_en": "SpongeBob SquarePants",
+      "kind": "动画剧集",
+      "age_group": "文章分组：合家欢常青",
+      "description_zh": "文章30把它列入“合家欢常青”组（1-15季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/spongebob-squarepants",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/spongebob-squarepants",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-spongebob.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评6+，友情主题，但CSM称其“edgy, frenetic”：节奏快、恶搞与轻度粗鲁笑料多。15季跨度大，不宜当长时间背景播放；与文章28的电影是不同条目。",
+      "reviewed_age": "6+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评6+，友情主题，但CSM称其“edgy, frenetic”：节奏快、恶搞与轻度粗鲁笑料多。15季跨度大，不宜当长时间背景播放；与文章28的电影是不同条目。",
+        "recommended_age": "6+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/spongebob-squarepants",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "SpongeBob SquarePants",
+            "age": "6+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-dream-productions",
+      "name_zh": "梦境制片厂",
+      "name_en": "Dream Productions",
+      "kind": "动画剧集",
+      "age_group": "文章分组：合家欢常青",
+      "description_zh": "文章30把它列入“合家欢常青”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/dream-productions",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/dream-productions",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-dream-productions.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+，《头脑特工队》衍生迷你剧，人物有层次、险情轻微；编辑评分3/5，属温和娱乐。",
+      "reviewed_age": "6+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评6+，《头脑特工队》衍生迷你剧，人物有层次、险情轻微；编辑评分3/5，属温和娱乐。",
+        "recommended_age": "6+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/dream-productions",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Dream Productions",
+            "age": "6+",
+            "editorial_score": "3.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-haunted-hotel",
+      "name_zh": "闹鬼酒店",
+      "name_en": "Haunted Hotel",
+      "kind": "动画剧集",
+      "age_group": "文章分组：合家欢常青",
+      "description_zh": "文章30把它列入“合家欢常青”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/haunted-hotel",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/haunted-hotel",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-haunted-hotel.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评14+，指出血腥画面与流血死亡；文章称“大人小孩坐一起看也不尴尬”与独立评测相反。",
+      "reviewed_age": "14+（CSM；非原文“合家欢”）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评14+，指出血腥画面与流血死亡；文章称“大人小孩坐一起看也不尴尬”与独立评测相反。",
+        "recommended_age": "14+（CSM；非原文“合家欢”）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/haunted-hotel",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Haunted Hotel",
+            "age": "14+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-adventure-time",
+      "name_zh": "探险活宝",
+      "name_en": "Adventure Time",
+      "kind": "动画剧集",
+      "age_group": "文章分组：合家欢常青",
+      "description_zh": "文章30把它列入“合家欢常青”组（1-10季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/adventure-time",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/adventure-time",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-adventure-time.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评10+，原创但无厘头，有武器打斗与诡异画面；后期主题更深。适合较大孩子，不是低龄合家欢。",
+      "reviewed_age": "10+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评10+，原创但无厘头，有武器打斗与诡异画面；后期主题更深。适合较大孩子，不是低龄合家欢。",
+        "recommended_age": "10+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/adventure-time",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Adventure Time",
+            "age": "10+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-fionna-cake",
+      "name_zh": "探险活宝：菲奥娜与蛋糕",
+      "name_en": "Adventure Time: Fionna and Cake",
+      "kind": "动画剧集",
+      "age_group": "文章分组：合家欢常青",
+      "description_zh": "文章30把它列入“合家欢常青”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/adventure-time-fionna-cake",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/adventure-time-fionna-cake",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-fionna-cake.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评12+，明确比原作更成熟，含存在危机、暴力与成人情绪；放在“合家欢”不妥，仅限青少年。",
+      "reviewed_age": "12+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评12+，明确比原作更成熟，含存在危机、暴力与成人情绪；放在“合家欢”不妥，仅限青少年。",
+        "recommended_age": "12+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/adventure-time-fionna-cake",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Adventure Time: Fionna and Cake",
+            "age": "12+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-futurama",
+      "name_zh": "飞出个未来",
+      "name_en": "Futurama",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-13季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/futurama",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/futurama",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-futurama.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评13+，有暴力、饮酒与性笑话；成人讽刺喜剧，不列入0—12岁片单。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评13+，有暴力、饮酒与性笑话；成人讽刺喜剧，不列入0—12岁片单。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/futurama",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Futurama",
+            "age": "13+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-pacific-rim-black",
+      "name_zh": "环太平洋：黑色禁区",
+      "name_en": "Pacific Rim: The Black",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/pacific-rim-the-black",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/pacific-rim-the-black",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-pacific-rim-black.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评13+，怪兽杀戮与死亡较多，虽有家庭情感主题，不进0—12岁日常片单。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评13+，怪兽杀戮与死亡较多，虽有家庭情感主题，不进0—12岁日常片单。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/pacific-rim-the-black",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Pacific Rim: The Black",
+            "age": "13+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-rick-and-morty",
+      "name_zh": "瑞克和莫蒂",
+      "name_en": "Rick and Morty",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-9季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/rick-and-morty",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/rick-and-morty",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-rick-and-morty.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评16+，称其粗俗、酗酒，对多数青少年都太过；成人动画，不适合儿童。",
+      "reviewed_age": "16+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评16+，称其粗俗、酗酒，对多数青少年都太过；成人动画，不适合儿童。",
+        "recommended_age": "16+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/rick-and-morty",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Rick and Morty",
+            "age": "16+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-cyberpunk-edgerunners",
+      "name_zh": "赛博朋克：边缘行者",
+      "name_en": "Cyberpunk: Edgerunners",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/cyberpunk-edgerunners",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/cyberpunk-edgerunners",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-cyberpunk-edgerunners.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评17+，明确“isn't for kids”：血腥暴力、裸露与药物。",
+      "reviewed_age": "17+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评17+，明确“isn't for kids”：血腥暴力、裸露与药物。",
+        "recommended_age": "17+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/cyberpunk-edgerunners",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Cyberpunk: Edgerunners",
+            "age": "17+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-pantheon",
+      "name_zh": "万神殿",
+      "name_en": "Pantheon",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/pantheon",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/pantheon",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-pantheon.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评13+，意识上传、死亡与危险主题沉重；适合青少年讨论科技伦理，不列入儿童片单。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评13+，意识上传、死亡与危险主题沉重；适合青少年讨论科技伦理，不列入儿童片单。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/pantheon",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Pantheon",
+            "age": "13+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-arcane",
+      "name_zh": "英雄联盟：双城之战",
+      "name_en": "Arcane",
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/arcane",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/arcane",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-arcane.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM编辑5/5，但评14+：暴力、药物、死亡与粗口。高质量不等于适合儿童。",
+      "reviewed_age": "14+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM编辑5/5，但评14+：暴力、药物、死亡与粗口。高质量不等于适合儿童。",
+        "recommended_age": "14+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/arcane",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Arcane",
+            "age": "14+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-corporate-office",
+      "name_zh": "阴谋职场",
+      "name_en": null,
+      "kind": "动画剧集",
+      "age_group": "文章分组：脑洞科幻",
+      "description_zh": "文章30把它列入“脑洞科幻”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/title-cards/wx30-corporate-office.svg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "作品身份未能确认，无独立评测；文章仅列片名。处于“脑洞科幻”组且与成人剧并列，默认不作儿童推荐。",
+      "reviewed_age": "未核实",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "作品身份未能确认，无独立评测；文章仅列片名。处于“脑洞科幻”组且与成人剧并列，默认不作儿童推荐。",
+        "recommended_age": "未核实",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-06",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-hazbin-hotel",
+      "name_zh": "地狱客栈",
+      "name_en": "Hazbin Hotel",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/hazbin-hotel",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/hazbin-hotel",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-hazbin-hotel.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评17+：泛滥的性内容、粗口与暴力。文章自己也归入成人向。",
+      "reviewed_age": "17+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评17+：泛滥的性内容、粗口与暴力。文章自己也归入成人向。",
+        "recommended_age": "17+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/hazbin-hotel",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Hazbin Hotel",
+            "age": "17+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-family-guy",
+      "name_zh": "恶搞之家",
+      "name_en": "Family Guy",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-24季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/family-guy",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/family-guy",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-family-guy.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评14+，称“这不是家庭节目”；粗俗与冒犯性笑话密集。",
+      "reviewed_age": "14+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评14+，称“这不是家庭节目”；粗俗与冒犯性笑话密集。",
+        "recommended_age": "14+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/family-guy",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Family Guy",
+            "age": "14+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-villain-boss",
+      "name_zh": "极恶老大",
+      "name_en": null,
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-2季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/title-cards/wx30-villain-boss.svg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "中文译名对应作品未能确认，无独立评测；文章归为成人向，默认不作儿童推荐。",
+      "reviewed_age": "未核实",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "中文译名对应作品未能确认，无独立评测；文章归为成人向，默认不作儿童推荐。",
+        "recommended_age": "未核实",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-06",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-bobs-burgers",
+      "name_zh": "开心汉堡店",
+      "name_en": "Bob's Burgers",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-14季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/bobs-burgers",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/bobs-burgers",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-bobs-burgers.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评13+，讽刺幽默有时冒犯，含性暗示笑话；适合青少年以上。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评13+，讽刺幽默有时冒犯，含性暗示笑话；适合青少年以上。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/bobs-burgers",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Bob's Burgers",
+            "age": "13+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-bojack-horseman",
+      "name_zh": "马男波杰克",
+      "name_en": "BoJack Horseman",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-6季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/bojack-horseman",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/bojack-horseman",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-bojack-horseman.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评15+：药物、性与存在主义的黑暗。艺术价值高，但不是儿童内容。",
+      "reviewed_age": "15+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评15+：药物、性与存在主义的黑暗。艺术价值高，但不是儿童内容。",
+        "recommended_age": "15+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/bojack-horseman",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "BoJack Horseman",
+            "age": "15+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-paradise-pd",
+      "name_zh": "天堂镇警局",
+      "name_en": "Paradise PD",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/paradise-pd",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/paradise-pd",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-paradise-pd.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评16+，编辑3/5，粗口、毒品与低俗笑料；文章称“成人向高分”也缺乏依据。",
+      "reviewed_age": "16+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评16+，编辑3/5，粗口、毒品与低俗笑料；文章称“成人向高分”也缺乏依据。",
+        "recommended_age": "16+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/paradise-pd",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Paradise PD",
+            "age": "16+",
+            "editorial_score": "3.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-invincible",
+      "name_zh": "无敌少侠",
+      "name_en": "Invincible",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/invincible",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/invincible",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-invincible.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评16+，极度血腥的超级英雄暴力。卡通画风不代表儿童向。",
+      "reviewed_age": "16+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评16+，极度血腥的超级英雄暴力。卡通画风不代表儿童向。",
+        "recommended_age": "16+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/invincible",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "Invincible",
+            "age": "16+",
+            "editorial_score": "5.0",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx30-simpsons-series",
+      "name_zh": "辛普森一家（剧集）",
+      "name_en": "The Simpsons",
+      "kind": "动画剧集",
+      "age_group": "文章分组：成人向高分",
+      "description_zh": "文章30把它列入“成人向高分”组（1-37季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
+      "image_url": "https://www.commonsensemedia.org/tv-reviews/the-simpsons",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识，不代表开放授权。",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/the-simpsons",
+      "sources": [
+        {
+          "article_no": 30,
+          "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
+          "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx30-simpsons-series.jpg",
+      "origin_group": "article-30",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评12+，聪明快节奏但笑点尖刻；适合较大孩子与家长共看部分集。与文章28所列电影版分开记录。",
+      "reviewed_age": "12+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评12+，聪明快节奏但笑点尖刻；适合较大孩子与家长共看部分集。与文章28所列电影版分开记录。",
+        "recommended_age": "12+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-06",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/the-simpsons",
+            "checked_date": "2026-11-06",
+            "scope": "单部作品",
+            "work_title": "The Simpsons",
+            "age": "12+",
+            "editorial_score": "4.0",
+            "score_scale": 5,
             "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
           }
         ],

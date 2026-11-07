@@ -715,3 +715,45 @@ https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg
 6. [星际宝贝（剧集）](wechat/动画娱乐类.md#wx29-lilo-stitch-series)（1–2季）
 
 来源质量：推广“超清纯英字视频＋MP3＋台词本”资源包，属引流式文章；“听多自然会用”“越早越好”无证据。文章自身提醒“不是英语课”、不要连续看，较克制。年龄分段为作者说法，本项目以CSM为准。
+
+## 30. 纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本
+
+https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw
+
+**视频数：38**（新增32；6部与第29篇重复：希尔达、怪诞小镇、内裤队长传奇、小蜘蛛卢卡斯、猫头鹰魔法社、星际宝贝剧集）
+
+新增条目（剧集与文章28的同名电影分开记录）：
+1. [疯狂动物城+](wechat/动画娱乐类.md#wx30-zootopia-plus)（推荐）
+2. [蜂妹与狗狗猫](wechat/not-recommended.md#wx30-bee-and-puppycat)（不推荐）
+3. [花园墙外](wechat/动画娱乐类.md#wx30-over-the-garden-wall)（推荐）
+4. [咱们裸熊](wechat/动画娱乐类.md#wx30-we-bare-bears)（推荐）
+5. [地球上最后的孩子](wechat/动画娱乐类.md#wx30-last-kids-on-earth)（有保留）
+6. [降世神通](wechat/动画娱乐类.md#wx30-avatar-last-airbender)（强烈推荐）
+7. [降世神通：科拉传奇](wechat/动画娱乐类.md#wx30-legend-of-korra)（推荐）
+8. [空灵之境](wechat/动画娱乐类.md#wx30-infinity-train)（推荐）
+9. [奇幻沼泽](wechat/动画娱乐类.md#wx30-amphibia)（推荐）
+10. [神偷卡门](wechat/动画娱乐类.md#wx30-carmen-sandiego)（推荐）
+11. [宇宙小子](wechat/动画娱乐类.md#wx30-ben-10)（有保留）
+12. [宇宙小子：未来](wechat/动画娱乐类.md#wx30-ben-10-future)（有保留）
+13. [海绵宝宝](wechat/动画娱乐类.md#wx30-spongebob)（有保留）
+14. [梦境制片厂](wechat/动画娱乐类.md#wx30-dream-productions)（推荐）
+15. [闹鬼酒店](wechat/not-recommended.md#wx30-haunted-hotel)（不推荐）
+16. [探险活宝](wechat/动画娱乐类.md#wx30-adventure-time)（有保留）
+17. [探险活宝：菲奥娜与蛋糕](wechat/动画娱乐类.md#wx30-fionna-cake)（有保留）
+18. [飞出个未来](wechat/not-recommended.md#wx30-futurama)（不推荐）
+19. [环太平洋：黑色禁区](wechat/not-recommended.md#wx30-pacific-rim-black)（不推荐）
+20. [瑞克和莫蒂](wechat/not-recommended.md#wx30-rick-and-morty)（不推荐）
+21. [赛博朋克：边缘行者](wechat/not-recommended.md#wx30-cyberpunk-edgerunners)（不推荐）
+22. [万神殿](wechat/not-recommended.md#wx30-pantheon)（不推荐）
+23. [英雄联盟：双城之战](wechat/not-recommended.md#wx30-arcane)（不推荐）
+24. [阴谋职场](wechat/动画娱乐类.md#wx30-corporate-office)（有保留）
+25. [地狱客栈](wechat/not-recommended.md#wx30-hazbin-hotel)（不推荐）
+26. [恶搞之家](wechat/not-recommended.md#wx30-family-guy)（不推荐）
+27. [极恶老大](wechat/动画娱乐类.md#wx30-villain-boss)（有保留）
+28. [开心汉堡店](wechat/not-recommended.md#wx30-bobs-burgers)（不推荐）
+29. [马男波杰克](wechat/not-recommended.md#wx30-bojack-horseman)（不推荐）
+30. [天堂镇警局](wechat/not-recommended.md#wx30-paradise-pd)（不推荐）
+31. [无敌少侠](wechat/not-recommended.md#wx30-invincible)（不推荐）
+32. [辛普森一家（剧集）](wechat/动画娱乐类.md#wx30-simpsons-series)（有保留）
+
+来源质量：资源包引流文（视频+MP3+台词本，“发剧名给我”），把《瑞克和莫蒂》《马男波杰克》《地狱客栈》等成人动画与儿童片混列；“合家欢”组里的《闹鬼酒店》CSM为14+，“零基础启蒙”组的《蜂妹与狗狗猫》CSM为13+，分组不可信。“越早越好”“动画门槛更低”等说法无独立证据。
