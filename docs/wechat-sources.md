@@ -700,3 +700,18 @@ https://mp.weixin.qq.com/s/5TG375Bph1OhKcTfKC1OMQ
 | 328 | 超级无敌掌门狗：引鹅入室 | [超级无敌掌门狗：引鹅入室](wechat/pending-article-28.md#wx28-800d1bf55197) | 已逐项留档，待作品级核验 |
 | 329 | 超级无敌掌门狗：人兔的诅咒 | [超级无敌掌门狗：人兔的诅咒](wechat/pending-article-28.md#wx28-b8030a98a07b) | 已逐项留档，待作品级核验 |
 | 330 | 超级无敌掌门狗：面包与死亡事件 | [超级无敌掌门狗：面包与死亡事件](wechat/pending-article-28.md#wx28-f93e99930467) | 已逐项留档，待作品级核验 |
+
+## 29. 陪孩子看的英文动画，6部 纯英文字幕
+
+https://mp.weixin.qq.com/s/X9krmKAuulTvIIAGGieWEg
+
+**视频数：6**（全部新增；《星际宝贝》指2003年剧集，不与已收录的2002年电影合并；《希尔达》剧集不与文章28的电影《希尔达与山丘之王》合并）
+
+1. [希尔达](wechat/动画娱乐类.md#wx29-hilda)（1–3季）
+2. [怪诞小镇](wechat/动画娱乐类.md#wx29-gravity-falls)（1–2季）
+3. [内裤队长传奇](wechat/动画娱乐类.md#wx29-captain-underpants)（1–4季）
+4. [小蜘蛛卢卡斯](wechat/动画娱乐类.md#wx29-lucas-the-spider)（1季）
+5. [猫头鹰魔法社](wechat/动画娱乐类.md#wx29-owl-house)（1–3季）
+6. [星际宝贝（剧集）](wechat/动画娱乐类.md#wx29-lilo-stitch-series)（1–2季）
+
+来源质量：推广“超清纯英字视频＋MP3＋台词本”资源包，属引流式文章；“听多自然会用”“越早越好”无证据。文章自身提醒“不是英语课”、不要连续看，较克制。年龄分段为作者说法，本项目以CSM为准。
