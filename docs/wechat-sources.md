@@ -834,3 +834,13 @@ https://mp.weixin.qq.com/s/yVGlKVHZwhUz5PmmlvEP-g
 1. [奇怪但真实 / Weird But True!](wechat/学习类.md#wx36-weird-but-true)（推荐）
 
 来源质量：艾美奖获奖与CSM评测吻合，主体可信；但“全部真实可考证、不用担心错误科普”是过度保证，“看完会主动找原版书”是推广说法。无资源领取引流。
+
+## 37. 爆笑！国家地理儿童频道《Just Joking》，把大自然变成了脱口秀
+
+https://mp.weixin.qq.com/s/wpVf_2x_Lnk65ik8EnTnGA
+
+**视频数：1**（新增1）
+
+1. [开怀大笑：国家地理冷笑话 / Just Joking—LOL](wechat/学习类.md#wx37-just-joking)（有保留）
+
+来源质量：节目真实存在（Nat Geo Kids官方播放列表）；文章把笑话短片拔高为“绝佳词汇语料库”，未提双关梗对初学者门槛高。无资源领取引流。

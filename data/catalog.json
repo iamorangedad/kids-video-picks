@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 488,
+    "entries": 489,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 35,
+      "学习类": 36,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 31,
@@ -18,16 +18,16 @@
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 383,
+      "有保留": 384,
       "推荐": 69,
       "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 488,
+    "with_image": 489,
     "with_independent_review_poster": 130,
     "with_original_image_only": 73,
     "with_title_card": 278,
-    "official_reference_links": 19,
+    "official_reference_links": 20,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
     "with_independent_evidence": 137,
@@ -36,10 +36,11 @@
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 7,
+    "with_official_source_only": 8,
     "article_33_new_entries": 7,
     "article_35_new_entries": 2,
-    "article_36_new_entries": 1
+    "article_36_new_entries": 1,
+    "article_37_new_entries": 1
   },
   "entries": [
     {
@@ -28918,6 +28919,68 @@
         },
         "pacing": "未逐镜测量。"
       }
+    },
+    {
+      "id": "wx37-just-joking",
+      "name_zh": "开怀大笑：国家地理冷笑话",
+      "name_en": "Just Joking—LOL (Nat Geo Kids)",
+      "kind": "短视频系列",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章称国家地理儿童频道“Just Joking—LOL”系列，30多集、每集不到2分钟，把动物和自然拍成短片，配大量冷笑话、脑筋急转弯和英语双关语、谐音梗，举例葡萄bunch、24 carrots/karats、Olive you、Neptunes、月球餐厅no atmosphere。",
+      "video_url": "https://www.youtube.com/playlist?list=PLQlnTldJs0ZSwXZodadqpS_vv0NXXB-GC",
+      "video_note": "已核实Nat Geo Kids官方YouTube播放列表（2026-11-07），可免费观看；“30多集”未核实。",
+      "image_url": "https://i.ytimg.com/vi/JCHAZF1xusc/hqdefault.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 37,
+          "title": "爆笑！国家地理儿童频道《Just Joking》，把大自然变成了脱口秀",
+          "url": "https://mp.weixin.qq.com/s/wpVf_2x_Lnk65ik8EnTnGA"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx37-just-joking.jpg",
+      "origin_group": "article-37",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Nat Geo Kids官方YouTube播放列表已核实，免费、每集很短，动物画面配英语冷笑话。但这是笑话短片而非科普：双关、谐音（carrots/karats、Olive you）需要较好的英语和文化背景，初学者看不懂笑点，“磨耳朵”价值有限；文章“跨越语言字面意思”属拔高。无独立适龄评测，节奏快、可作为偶尔的家庭英语游戏。",
+      "reviewed_age": "8+（编辑暂议；需一定英语基础）",
+      "original_image_path": null,
+      "image_kind": "官方页面视频缩略图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Nat Geo Kids官方YouTube播放列表已核实，免费、每集很短，动物画面配英语冷笑话。但这是笑话短片而非科普：双关、谐音（carrots/karats、Olive you）需要较好的英语和文化背景，初学者看不懂笑点，“磨耳朵”价值有限；文章“跨越语言字面意思”属拔高。无独立适龄评测，节奏快、可作为偶尔的家庭英语游戏。",
+        "recommended_age": "8+（编辑暂议；需一定英语基础）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Nat Geo Kids官方YouTube播放列表",
+            "url": "https://www.youtube.com/playlist?list=PLQlnTldJs0ZSwXZodadqpS_vv0NXXB-GC",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认播放列表标题“Just Joking—LOL | Nat Geo Kids”；集数未核实。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.youtube.com/playlist?list=PLQlnTldJs0ZSwXZodadqpS_vv0NXXB-GC",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     }
   ]
 }
