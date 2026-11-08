@@ -757,3 +757,15 @@ https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw
 32. [辛普森一家（剧集）](wechat/动画娱乐类.md#wx30-simpsons-series)（有保留）
 
 来源质量：资源包引流文（视频+MP3+台词本，“发剧名给我”），把《瑞克和莫蒂》《马男波杰克》《地狱客栈》等成人动画与儿童片混列；“合家欢”组里的《闹鬼酒店》CSM为14+，“零基础启蒙”组的《蜂妹与狗狗猫》CSM为13+，分组不可信。“越早越好”“动画门槛更低”等说法无独立证据。
+
+## 31. TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍
+
+https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw
+
+**视频数：3**（新增1；文末“往期推荐”的2部已收录）
+
+1. [揭秘身体奥秘 / Getting Under Our Skin](wechat/学习类.md#wx31-getting-under-our-skin)（新增，有保留）
+2. [万物运转的秘密](wechat/学习类.md#way-things-work)（往期推荐，已收录）
+3. [爆笑物理](wechat/学习类.md#funny-physics)（往期推荐，已收录）
+
+来源质量：标题“比唠叨管用100倍”“主动坐直早睡”为夸张营销，依据仅为作者家庭轶事；文末“后台回复领取”属资源引流。“150集中英文”未核实。作品本身为TED-Ed官方免费系列，可直接从官方页观看。

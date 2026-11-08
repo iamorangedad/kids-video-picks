@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 476,
+    "entries": 477,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 24,
+      "学习类": 25,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 30,
@@ -18,22 +18,23 @@
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 374,
+      "有保留": 375,
       "推荐": 67,
       "强烈推荐": 14,
       "不推荐": 21
     },
-    "with_image": 476,
+    "with_image": 477,
     "with_independent_review_poster": 127,
     "with_original_image_only": 73,
     "with_title_card": 275,
-    "official_reference_links": 10,
+    "official_reference_links": 11,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 133,
+    "with_independent_evidence": 134,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
-    "article_30_new_entries": 32
+    "article_30_new_entries": 32,
+    "article_31_new_entries": 1
   },
   "entries": [
     {
@@ -67,6 +68,11 @@
           "article_no": 20,
           "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
           "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        },
+        {
+          "article_no": 31,
+          "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
+          "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
         }
       ],
       "also_in_prior_research": false,
@@ -2805,6 +2811,11 @@
           "article_no": 20,
           "title": "豆瓣 9.7 科普《宇宙时空之旅》（25集）孩子的宇宙启蒙课，看这一部就够了",
           "url": "https://mp.weixin.qq.com/s/-5VGJkhfqgD0lcveZ1_sbg"
+        },
+        {
+          "article_no": 31,
+          "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
+          "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
         }
       ],
       "name_en": null,
@@ -28081,6 +28092,68 @@
             "editorial_score": "4.0",
             "score_scale": 5,
             "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx31-getting-under-our-skin",
+      "name_zh": "揭秘身体奥秘",
+      "name_en": "Getting Under Our Skin",
+      "kind": "科普动画短片系列",
+      "age_group": "文章以5岁半女儿及更大的儿子为例，未明确年龄",
+      "description_zh": "TED-Ed出品，文章称150集、每集3–5分钟、中英文。把人体画成城市：心脏是水泵、血管是水管，癌细胞像蒲公英种子顺血管和淋巴管扩散，坐姿与腰椎压力，深度睡眠时大脑清理代谢废物。文末“后台回复【揭秘】”领取资源。",
+      "video_url": "https://ed.ted.com/series/getting-under-our-skin",
+      "video_note": "已核实TED-Ed官方系列页，可免费观看单集（YouTube）；150集与“中英文”为文章说法，未核实。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://i.ytimg.com/vi/tLsFl6QiFh4/hqdefault.jpg",
+      "image_source": "https://ed.ted.com/series/getting-under-our-skin",
+      "image_note": "TED-Ed官方系列页所用视频缩略图，480像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 31,
+          "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
+          "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx31-getting-under-our-skin.jpg",
+      "origin_group": "article-31",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "TED-Ed官方系列，免费、单集短，用城市等比喻讲人体，制作方可信；但无CSM等独立适龄评测，集目含癌症转移、自闭症诊断、禽流感等，面向较大学生。“看完主动坐直早睡”“比唠叨管用100倍”是个人轶事，无证据；5岁半看懂癌症扩散需谨慎，建议10岁左右挑集共看。",
+      "reviewed_age": "10+（编辑暂议；逐集挑选）",
+      "original_image_path": null,
+      "image_kind": "官方页面视频缩略图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "TED-Ed官方系列，免费、单集短，用城市等比喻讲人体，制作方可信；但无CSM等独立适龄评测，集目含癌症转移、自闭症诊断、禽流感等，面向较大学生。“看完主动坐直早睡”“比唠叨管用100倍”是个人轶事，无证据；5岁半看懂癌症扩散需谨慎，建议10岁左右挑集共看。",
+        "recommended_age": "10+（编辑暂议；逐集挑选）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "TED-Ed官方系列页",
+            "url": "https://ed.ted.com/series/getting-under-our-skin",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在及集目题材（含癌症、自闭症、禽流感等）。"
           }
         ],
         "douban": {
