@@ -3,7 +3,7 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 505,
+    "entries": 513,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -12,25 +12,25 @@
     "by_category": {
       "学习类": 47,
       "人文类": 23,
-      "情感品格类": 43,
+      "情感品格类": 51,
       "自然类": 36,
       "益智动画类": 1,
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 400,
-      "推荐": 69,
+      "有保留": 404,
+      "推荐": 72,
       "强烈推荐": 15,
-      "不推荐": 21
+      "不推荐": 22
     },
-    "with_image": 505,
-    "with_independent_review_poster": 130,
+    "with_image": 513,
+    "with_independent_review_poster": 135,
     "with_original_image_only": 73,
-    "with_title_card": 294,
+    "with_title_card": 297,
     "official_reference_links": 31,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 137,
+    "with_independent_evidence": 142,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -42,7 +42,8 @@
     "article_36_new_entries": 1,
     "article_37_new_entries": 1,
     "article_38_new_entries": 5,
-    "article_39_new_entries": 11
+    "article_39_new_entries": 11,
+    "article_40_new_entries": 8
   },
   "entries": [
     {
@@ -6658,6 +6659,11 @@
           "article_no": 24,
           "title": "6部治愈亲子电影：不用讲道理，只陪孩子纯粹快乐大笑",
           "url": "https://mp.weixin.qq.com/s/emCL8FTZgeWRNQoj8Fki6Q"
+        },
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
         }
       ],
       "also_in_prior_research": false,
@@ -10754,6 +10760,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
         }
       ],
       "origin_group": "article-28",
@@ -29919,6 +29930,487 @@
         "pacing": "未逐镜测量。"
       },
       "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx40-heidi-2015",
+      "name_zh": "海蒂和爷爷",
+      "name_en": "Heidi (2015)",
+      "kind": "电影",
+      "age_group": "6岁+",
+      "description_zh": "文章写豆瓣9.3、适合6岁+：海蒂失去双亲后与古怪的爷爷住在阿尔卑斯山，后被送到法兰克福陪伴克拉拉，因思念患梦游，最终回到山上，克拉拉也站了起来。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/heidi-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx40-heidi-2015.jpg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评7+、编辑4/5，2015年版是对原著的温和改编，有离别与思乡情绪及少量险情。注意CSM另有1937年秀兰·邓波儿版（6+），不要混淆。原文6+略低，豆瓣9.3未核实。",
+      "reviewed_age": "7+（CSM；原文6+）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评7+、编辑4/5，2015年版是对原著的温和改编，有离别与思乡情绪及少量险情。注意CSM另有1937年秀兰·邓波儿版（6+），不要混淆。原文6+略低，豆瓣9.3未核实。",
+        "recommended_age": "7+（CSM；原文6+）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/heidi-2015",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Heidi (2015)",
+            "age": "7+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/heidi-2015"
+    },
+    {
+      "id": "wx40-hachi",
+      "name_zh": "忠犬八公的故事",
+      "name_en": "Hachi: A Dog's Tale",
+      "kind": "电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣9.4、适合8岁+：教授帕克收养走失的秋田犬八公，八公每天到车站等他；帕克病逝后八公仍等了九年。真实故事改编。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/hachi-dvd.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx40-hachi.jpg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评10+、编辑4/5，称其温和但情感冲击强烈：主人猝逝与狗长年等待至死。对低龄或刚经历丧失的孩子可能过于悲伤，宜家长陪看并聊死亡与陪伴。原文8+偏低，豆瓣9.4未核实。",
+      "reviewed_age": "10+（CSM；原文8+偏低）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评10+、编辑4/5，称其温和但情感冲击强烈：主人猝逝与狗长年等待至死。对低龄或刚经历丧失的孩子可能过于悲伤，宜家长陪看并聊死亡与陪伴。原文8+偏低，豆瓣9.4未核实。",
+        "recommended_age": "10+（CSM；原文8+偏低）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/hachi-a-dogs-tale",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Hachi: A Dog's Tale",
+            "age": "10+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/hachi-a-dogs-tale"
+    },
+    {
+      "id": "wx40-front-of-the-class",
+      "name_zh": "叫我第一名",
+      "name_en": "Front of the Class",
+      "kind": "电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣8.6、适合8岁+：患妥瑞氏症的布莱德被同学嘲笑、老师处罚、父亲嫌弃，立志当老师，被24所学校拒绝后获聘，成为年度最佳新教师。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/front-of-the-class-movie-poster.jpeg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx40-front-of-the-class.jpg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评10+、编辑5/5，Hallmark电视电影，据真人Brad Cohen经历改编，有欺凌情节。适合讨论接纳差异与坚持；“你的缺陷不是你的错，但放弃是你的选择”这类口号可能对有障碍的孩子构成压力，宜引导。",
+      "reviewed_age": "10+（CSM；原文8+偏低）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评10+、编辑5/5，Hallmark电视电影，据真人Brad Cohen经历改编，有欺凌情节。适合讨论接纳差异与坚持；“你的缺陷不是你的错，但放弃是你的选择”这类口号可能对有障碍的孩子构成压力，宜引导。",
+        "recommended_age": "10+（CSM；原文8+偏低）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/front-of-the-class",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Front of the Class",
+            "age": "10+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/front-of-the-class"
+    },
+    {
+      "id": "wx40-gifted",
+      "name_zh": "天才少女",
+      "name_en": "Gifted",
+      "kind": "电影",
+      "age_group": "9岁+",
+      "description_zh": "文章写豆瓣8.3、适合9岁+：7岁数学天才玛丽，外婆想送她进特殊学校培养成数学家，舅舅弗兰克想让她过普通童年，引发监护权之争。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/gifted-poster0.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx40-gifted.jpg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评12+：虽以二年级女孩为主角，但涉及自杀、父母遗弃，有亲吻及暗示性关系和粗口，更适合较大的少年。原文9+明显偏低；家庭讨论价值高，但不宜给低龄孩子当“治愈片”。",
+      "reviewed_age": "12+（CSM；原文9+偏低）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评12+：虽以二年级女孩为主角，但涉及自杀、父母遗弃，有亲吻及暗示性关系和粗口，更适合较大的少年。原文9+明显偏低；家庭讨论价值高，但不宜给低龄孩子当“治愈片”。",
+        "recommended_age": "12+（CSM；原文9+偏低）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/gifted",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Gifted",
+            "age": "12+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/gifted"
+    },
+    {
+      "id": "wx40-gattaca",
+      "name_zh": "千钧一发",
+      "name_en": "Gattaca",
+      "kind": "电影",
+      "age_group": "12岁+",
+      "description_zh": "文章写豆瓣8.8、适合12岁+：基因决定论的未来社会，“基因有缺陷”的文森特借用完美基因身份追求太空梦。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/gpytuvhqvp7v5f1tqt2iqwr3y7i.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx40-gattaca.jpg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "CSM评14+，有成熟主题、暴力（含谋杀调查）、饮酒吸烟等。科幻与生命伦理讨论价值高，适合初中以上，不列入0—12岁日常片单。",
+      "reviewed_age": "14+（CSM；原文12+）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "CSM评14+，有成熟主题、暴力（含谋杀调查）、饮酒吸烟等。科幻与生命伦理讨论价值高，适合初中以上，不列入0—12岁日常片单。",
+        "recommended_age": "14+（CSM；原文12+）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/gattaca",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Gattaca",
+            "age": "14+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/gattaca"
+    },
+    {
+      "id": "wx40-central-station",
+      "name_zh": "中央车站",
+      "name_en": "Central Station",
+      "kind": "电影",
+      "age_group": "10岁+",
+      "description_zh": "文章写豆瓣8.7、适合10岁+：里约车站代写书信的退休女教师朵拉，冷漠甚至撕掉顾客的信，被迫带男孩约书亚踏上寻父之旅，两人逐渐互相信任。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/title-cards/wx40-central-station.svg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "1998年巴西剧情片，独立儿童适龄评测未取得。剧情涉及孩子母亲车祸身亡、贩卖儿童的情节与成人语言，需家长预看；豆瓣8.7未核实。",
+      "reviewed_age": "未核实（原文10+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "1998年巴西剧情片，独立儿童适龄评测未取得。剧情涉及孩子母亲车祸身亡、贩卖儿童的情节与成人语言，需家长预看；豆瓣8.7未核实。",
+        "recommended_age": "未核实（原文10+）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx40-margueritte",
+      "name_zh": "与玛格丽特的午后",
+      "name_en": "My Afternoons with Margueritte",
+      "kind": "电影",
+      "age_group": "10岁+",
+      "description_zh": "文章写豆瓣9.0、适合10岁+：识字困难的大叔在公园偶遇95岁的玛格丽特，她为他读小说，两人结成忘年交，阅读打开了他的世界。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/title-cards/wx40-margueritte.svg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "2010年法国剧情片，未取得独立儿童适龄评测；以成人生活、家庭创伤和衰老为主，节奏慢，更适合较大孩子或家长自看。豆瓣9.0未核实。",
+      "reviewed_age": "未核实（原文10+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "2010年法国剧情片，未取得独立儿童适龄评测；以成人生活、家庭创伤和衰老为主，节奏慢，更适合较大孩子或家长自看。豆瓣9.0未核实。",
+        "recommended_age": "未核实（原文10+）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx40-kikujiro",
+      "name_zh": "菊次郎的夏天",
+      "name_en": "Kikujiro",
+      "kind": "电影",
+      "age_group": "8岁+",
+      "description_zh": "文章写豆瓣8.8、适合8岁+：孤独男孩正男暑假想去找妈妈，邻居的游手好闲丈夫菊次郎陪他上路，两人在旅途中互相陪伴；久石让配乐。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 40,
+          "title": "一定要带孩子看的10部电影，巨治愈！",
+          "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/title-cards/wx40-kikujiro.svg",
+      "origin_group": "article-40",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "1999年北野武作品，未取得独立儿童适龄评测。片中成人角色有赌博、粗暴言行、暴力，并有陌生成人对孩子图谋不轨的段落，母亲另组家庭的结局也可能令孩子难过；原文8+需家长先看再决定。豆瓣8.8未核实。",
+      "reviewed_age": "未核实（原文8+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "1999年北野武作品，未取得独立儿童适龄评测。片中成人角色有赌博、粗暴言行、暴力，并有陌生成人对孩子图谋不轨的段落，母亲另组家庭的结局也可能令孩子难过；原文8+需家长先看再决定。豆瓣8.8未核实。",
+        "recommended_age": "未核实（原文8+）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
     }
   ]
 }
