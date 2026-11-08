@@ -779,6 +779,6 @@ https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg
 1. [分钟地球 / MinuteEarth](wechat/自然类.md#wx32-minuteearth)（新增，有保留）
 2. [What If](wechat/学习类.md#what-if)（往期推荐，已收录）
 3. [揭秘身体奥秘](wechat/学习类.md#wx31-getting-under-our-skin)（往期推荐，已收录）
-4. [数学的故事](wechat/人文类.md#story-of-maths)（往期推荐，已收录）
+4. [数学的故事](wechat/学习类.md#story-of-maths)（往期推荐，已收录）
 
 来源质量：“YouTube高分”“全球好几亿人看过”无出处；“语速不快”与频道一贯的快节奏旁白不符；效果依据仅为家庭轶事；文末“后台回复【地球】”属资源引流。作品本身为官方免费频道。
