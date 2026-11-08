@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 485,
+    "entries": 487,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 32,
+      "学习类": 34,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 31,
@@ -18,26 +18,27 @@
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 381,
+      "有保留": 383,
       "推荐": 68,
       "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 485,
+    "with_image": 487,
     "with_independent_review_poster": 129,
     "with_original_image_only": 73,
-    "with_title_card": 277,
-    "official_reference_links": 18,
+    "with_title_card": 278,
+    "official_reference_links": 19,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 135,
+    "with_independent_evidence": 136,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 6,
-    "article_33_new_entries": 7
+    "with_official_source_only": 7,
+    "article_33_new_entries": 7,
+    "article_35_new_entries": 2
   },
   "entries": [
     {
@@ -5139,6 +5140,11 @@
           "article_no": 32,
           "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
           "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
+        },
+        {
+          "article_no": 35,
+          "title": "BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！",
+          "url": "https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA"
         }
       ],
       "video_url": null,
@@ -28699,6 +28705,135 @@
         "confidence": "低",
         "reviewed_date": "2026-11-07",
         "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx35-newton-avenue",
+      "name_zh": "牛顿大道1号",
+      "name_en": "Number 1 Newton Avenue",
+      "kind": "真人儿童剧＋动画（学前数学）",
+      "age_group": "文章未写年龄，以年幼女儿和儿子为例",
+      "description_zh": "文章说BBC短剧共26集、单集约7分钟，四个孩子住在牛顿大道1号，用找袜子（配对）、晾球衣（红蓝规律）、车库停车（加一）、捉迷藏（三明治三角形）等日常小事讲数学；台词是简单英式口语、语速不快。文末“后台回复【牛顿】”领取资源。",
+      "video_url": "https://www.bbc.co.uk/iplayer/episodes/m000z2n6/number-1-newton-avenue",
+      "video_note": "已核实BBC iPlayer节目页（26集、每集7分钟，2026-11-07读取），英国以外通常不能播放。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1200x675/p09sgstg.jpg",
+      "image_source": "https://www.bbc.co.uk/iplayer/episodes/m000z2n6/number-1-newton-avenue",
+      "image_note": "BBC iPlayer节目页配图，缩至600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 35,
+          "title": "BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！",
+          "url": "https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx35-newton-avenue.jpg",
+      "origin_group": "article-35",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "BBC iPlayer与CBeebies官方页已核实：26集、每集7分钟，真人儿童演出加动画歌曲，覆盖数数、规律、测量、图形、方向，学前数学目标清楚。无CSM等独立评测，属BBC官方学前节目；“打通数学思路”是营销说法，看后在家做同款活动更关键。部分地区无法用iPlayer播放。",
+      "reviewed_age": "3–6岁（编辑暂议；BBC学前节目）",
+      "original_image_path": null,
+      "image_kind": "官方节目页配图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "BBC iPlayer与CBeebies官方页已核实：26集、每集7分钟，真人儿童演出加动画歌曲，覆盖数数、规律、测量、图形、方向，学前数学目标清楚。无CSM等独立评测，属BBC官方学前节目；“打通数学思路”是营销说法，看后在家做同款活动更关键。部分地区无法用iPlayer播放。",
+        "recommended_age": "3–6岁（编辑暂议；BBC学前节目）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "BBC iPlayer",
+            "url": "https://www.bbc.co.uk/iplayer/episodes/m000z2n6/number-1-newton-avenue",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认26集×7分钟及每集数学主题。"
+          },
+          {
+            "source": "CBeebies节目页",
+            "url": "https://www.bbc.co.uk/cbeebies/shows/number-one-newton-avenue",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认CBeebies学前节目与配套歌曲、测验。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx35-nhk-the-body",
+      "name_zh": "人体的微观世界",
+      "name_en": "The Body (NHK, 2018)",
+      "kind": "纪录片",
+      "age_group": "文章（往期推荐）未写年龄；称“孩子越早了解越好”",
+      "description_zh": "出现在文末“往期推荐”（重复列出两次）：称豆瓣9.6、8集，“孩子越早了解身体真相，越懂得珍惜健康”。",
+      "video_url": null,
+      "video_note": "未找到正版官方播放页；网上多为网盘或转载，不采用。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 35,
+          "title": "BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！",
+          "url": "https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx35-nhk-the-body.svg",
+      "origin_group": "article-35",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "NHK 2018年8集纪录片，每集约50分钟，讲信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体等前沿医学，观众短评也说“观看有一定门槛”。文章“越早了解越好”与内容难度不符，适合初中以上；产前一集含孕育内容。豆瓣9.6未核实，未找到正版官方播放页。",
+      "reviewed_age": "12+（编辑暂议；原文“越早越好”不成立）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "NHK 2018年8集纪录片，每集约50分钟，讲信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体等前沿医学，观众短评也说“观看有一定门槛”。文章“越早了解越好”与内容难度不符，适合初中以上；产前一集含孕育内容。豆瓣9.6未核实，未找到正版官方播放页。",
+        "recommended_age": "12+（编辑暂议；原文“越早越好”不成立）",
+        "status": "作品级证据初审",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "豆瓣条目（短评页）",
+            "url": "https://movie.douban.com/subject/36036108/",
+            "checked_date": "2026-11-07",
+            "scope": "观众条目，非适龄评测",
+            "note": "确认NHK 2018年8集；评分与人数未核实。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,

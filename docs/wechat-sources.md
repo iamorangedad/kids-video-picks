@@ -812,3 +812,15 @@ https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ
 4. [宇宙时空之旅](wechat/自然类.md#cosmos-odyssey)（往期推荐）
 
 来源质量：标题“轻松从零到听懂会说”与正文“适合已学过自然拼读的6–10岁”矛盾；“国外不少小学课堂会用”无出处；效果依据为家庭轶事；文末“后台回复【女孩】”属资源引流。本轮补上WordGirl、Cyberchase的PBS KIDS官方节目页。
+
+## 35. BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！
+
+https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA
+
+**视频数：3**（新增2；《人体的微观世界》在文末重复列出两次，按1部计；What If已收录）
+
+1. [牛顿大道1号 / Number 1 Newton Avenue](wechat/学习类.md#wx35-newton-avenue)（新增，有保留）
+2. [What If](wechat/学习类.md#what-if)（往期推荐，已收录）
+3. [人体的微观世界 / The Body (NHK)](wechat/学习类.md#wx35-nhk-the-body)（往期推荐，新增，有保留）
+
+来源质量：正文描述与BBC官方集目基本吻合（26集×7分钟、规律/测量/图形等），较可信；但“打通数学思路”属夸张，效果依据为家庭轶事，文末“后台回复【牛顿】”属资源引流。往期推荐把成人级医学纪录片《人体的微观世界》包装成“孩子越早了解越好”，不成立。
