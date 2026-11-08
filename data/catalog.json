@@ -27,7 +27,7 @@
     "with_independent_review_poster": 129,
     "with_original_image_only": 73,
     "with_title_card": 277,
-    "official_reference_links": 16,
+    "official_reference_links": 18,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
     "with_independent_evidence": 135,
@@ -760,6 +760,11 @@
           "article_no": 17,
           "title": "强烈推荐36部儿童必看顶级纪录片",
           "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        },
+        {
+          "article_no": 34,
+          "title": "孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说",
+          "url": "https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ"
         }
       ],
       "also_in_prior_research": false,
@@ -28519,8 +28524,8 @@
       "kind": "动画剧集",
       "age_group": "文章（往期推荐）未写年龄",
       "description_zh": "出现在文末“往期推荐”：称豆瓣9.7、三季120集、“别的动画费眼，这部费脑”。",
-      "video_url": null,
-      "video_note": "未核实正版播放地址；不提供原文资源包。",
+      "video_url": "https://pbskids.org/cyberchase",
+      "video_note": "已核实PBS KIDS官方节目页（2026-11-07），不代表能在当前地区免费播放全部剧集。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/cyberchase-poster.jpg",
       "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
       "sources": [
@@ -28528,6 +28533,11 @@
           "article_no": 33,
           "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
           "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        },
+        {
+          "article_no": 34,
+          "title": "孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说",
+          "url": "https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ"
         }
       ],
       "category": "学习类",
@@ -28575,17 +28585,18 @@
         },
         "pacing": "未逐镜测量。"
       },
-      "image_source": "https://www.commonsensemedia.org/tv-reviews/cyberchase"
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/cyberchase",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     },
     {
       "id": "wx33-wordgirl",
       "name_zh": "超级单词女孩",
       "name_en": "WordGirl",
       "kind": "动画剧集",
-      "age_group": "文章（往期推荐）未写年龄",
-      "description_zh": "出现在文末“往期推荐”：称PBS出品，跟着超级英雄让孩子“轻松从零到听懂会说”。",
-      "video_url": null,
-      "video_note": "未核实正版播放地址；不提供原文资源包。",
+      "age_group": "文章（往期推荐）未写年龄；第34篇写6–10岁、已学过自然拼读",
+      "description_zh": "出现在文末“往期推荐”：称PBS出品，跟着超级英雄让孩子“轻松从零到听懂会说”。 第34篇专文介绍：主角Becky是五年级女孩，变身单词女孩，猴子搭档Huggy Face；反派用错词闹笑话，例词enormous、mystery、cooperate；每集约11分钟。",
+      "video_url": "https://pbskids.org/videos/wordgirl",
+      "video_note": "已核实PBS KIDS官方节目页（2026-11-07），不代表能在当前地区免费播放全部剧集。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/wordgirl.jpg",
       "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
       "sources": [
@@ -28593,6 +28604,11 @@
           "article_no": 33,
           "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
           "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        },
+        {
+          "article_no": 34,
+          "title": "孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说",
+          "url": "https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ"
         }
       ],
       "category": "学习类",
@@ -28600,13 +28616,13 @@
       "origin_group": "article-33",
       "pending_verification": false,
       "verdict": "推荐",
-      "review_rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；“从零到听懂会说”是营销说法。",
+      "review_rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；第34篇标题“从零到听懂会说”与其正文“适合已学过自然拼读的6–10岁”自相矛盾，效果依据为家庭轶事。",
       "reviewed_age": "5+（CSM）",
       "original_image_path": null,
       "image_kind": "独立评测页所标本片海报（版权归原权利人）",
       "review": {
         "verdict": "推荐",
-        "rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；“从零到听懂会说”是营销说法。",
+        "rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；第34篇标题“从零到听懂会说”与其正文“适合已学过自然拼读的6–10岁”自相矛盾，效果依据为家庭轶事。",
         "recommended_age": "5+（CSM）",
         "status": "作品级证据初审",
         "confidence": "中",
@@ -28640,7 +28656,8 @@
         },
         "pacing": "未逐镜测量。"
       },
-      "image_source": "https://www.commonsensemedia.org/tv-reviews/wordgirl"
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/wordgirl",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     },
     {
       "id": "wx33-baoxiao-chemistry",
@@ -28658,6 +28675,11 @@
           "article_no": 33,
           "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
           "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        },
+        {
+          "article_no": 34,
+          "title": "孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说",
+          "url": "https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ"
         }
       ],
       "category": "学习类",

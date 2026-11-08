@@ -799,3 +799,16 @@ https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg
 8. [爆笑化学](wechat/学习类.md#wx33-baoxiao-chemistry)（往期推荐，有保留）
 
 来源质量：标题与每部都挂豆瓣分（9.3/9.2/9.1/8.9/8.5），均未核实；年龄建议（7+看四维几何、9+看混沌）普遍偏低；《统计的乐趣》“246个国家”与常见的“200个国家、200年”说法不符；《费马大定理》叙事有简化；效果依据为家庭轶事；文末“后台回复【纪录片】”属资源引流。片单本身多为BBC/官方正规作品，质量较前几篇资源包文高。
+
+## 34. 孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说
+
+https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ
+
+**视频数：4**（新增0；均已收录）
+
+1. [超级单词女孩 / WordGirl](wechat/学习类.md#wx33-wordgirl)（正文主推，推荐）
+2. [数学荒岛历险记 / Cyberchase](wechat/学习类.md#wx33-cyberchase)（往期推荐）
+3. [爆笑化学](wechat/学习类.md#wx33-baoxiao-chemistry)（往期推荐）
+4. [宇宙时空之旅](wechat/自然类.md#cosmos-odyssey)（往期推荐）
+
+来源质量：标题“轻松从零到听懂会说”与正文“适合已学过自然拼读的6–10岁”矛盾；“国外不少小学课堂会用”无出处；效果依据为家庭轶事；文末“后台回复【女孩】”属资源引流。本轮补上WordGirl、Cyberchase的PBS KIDS官方节目页。
