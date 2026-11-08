@@ -3,7 +3,7 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 489,
+    "entries": 494,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -13,20 +13,20 @@
       "学习类": 36,
       "人文类": 23,
       "情感品格类": 43,
-      "自然类": 31,
+      "自然类": 36,
       "益智动画类": 1,
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 384,
+      "有保留": 389,
       "推荐": 69,
       "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 489,
+    "with_image": 494,
     "with_independent_review_poster": 130,
     "with_original_image_only": 73,
-    "with_title_card": 278,
+    "with_title_card": 283,
     "official_reference_links": 20,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
@@ -40,7 +40,8 @@
     "article_33_new_entries": 7,
     "article_35_new_entries": 2,
     "article_36_new_entries": 1,
-    "article_37_new_entries": 1
+    "article_37_new_entries": 1,
+    "article_38_new_entries": 5
   },
   "entries": [
     {
@@ -28981,6 +28982,266 @@
       },
       "image_source": "https://www.youtube.com/playlist?list=PLQlnTldJs0ZSwXZodadqpS_vv0NXXB-GC",
       "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx38-wild-south-america",
+      "name_zh": "野性南美洲",
+      "name_en": null,
+      "kind": "自然纪录片（版本未核实）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章写豆瓣9.3，介绍安第斯山脉、亚马逊雨林等物种丰富的大陆；推荐理由为“打破固有认知”“积累作文素材”等。文章没有写出品方、年份、英文名、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 38,
+          "title": "影响孩子一生的5部纪录片，悄悄打开孩子的眼界",
+          "url": "https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/title-cards/wx38-wild-south-america.svg",
+      "origin_group": "article-38",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.3也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+      "reviewed_age": "未核实（自然纪录片一般8+共看）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.3也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+        "recommended_age": "未核实（自然纪录片一般8+共看）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx38-galapagos",
+      "name_zh": "加拉帕戈斯",
+      "name_en": null,
+      "kind": "自然纪录片（版本未核实）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章写豆瓣9.6，介绍达尔文进化思想之岛，海鬣蜥、蓝脚鲣鸟；推荐理由为“打破固有认知”“积累作文素材”等。文章没有写出品方、年份、英文名、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 38,
+          "title": "影响孩子一生的5部纪录片，悄悄打开孩子的眼界",
+          "url": "https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/title-cards/wx38-galapagos.svg",
+      "origin_group": "article-38",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.6也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+      "reviewed_age": "未核实（自然纪录片一般8+共看）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.6也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+        "recommended_age": "未核实（自然纪录片一般8+共看）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx38-wild-australia",
+      "name_zh": "野性澳洲",
+      "name_en": null,
+      "kind": "自然纪录片（版本未核实）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章写豆瓣9.4，介绍长期隔离的澳洲大陆与袋鼠、考拉等有袋动物；推荐理由为“打破固有认知”“积累作文素材”等。文章没有写出品方、年份、英文名、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 38,
+          "title": "影响孩子一生的5部纪录片，悄悄打开孩子的眼界",
+          "url": "https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/title-cards/wx38-wild-australia.svg",
+      "origin_group": "article-38",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.4也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+      "reviewed_age": "未核实（自然纪录片一般8+共看）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.4也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+        "recommended_age": "未核实（自然纪录片一般8+共看）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx38-andes",
+      "name_zh": "安第斯山脉",
+      "name_en": null,
+      "kind": "自然纪录片（版本未核实）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章写豆瓣9.5，介绍绵延七千多公里的山脉、地貌及人与野生动物；推荐理由为“打破固有认知”“积累作文素材”等。文章没有写出品方、年份、英文名、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 38,
+          "title": "影响孩子一生的5部纪录片，悄悄打开孩子的眼界",
+          "url": "https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/title-cards/wx38-andes.svg",
+      "origin_group": "article-38",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.5也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+      "reviewed_age": "未核实（自然纪录片一般8+共看）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.5也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+        "recommended_age": "未核实（自然纪录片一般8+共看）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx38-wild-caribbean",
+      "name_zh": "野性加勒比",
+      "name_en": null,
+      "kind": "自然纪录片（版本未核实）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章写豆瓣9.2，介绍珊瑚与海洋生物；推荐理由为“打破固有认知”“积累作文素材”等。文章没有写出品方、年份、英文名、年龄或播放链接。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 38,
+          "title": "影响孩子一生的5部纪录片，悄悄打开孩子的眼界",
+          "url": "https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/title-cards/wx38-wild-caribbean.svg",
+      "origin_group": "article-38",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.2也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+      "reviewed_age": "未核实（自然纪录片一般8+共看）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "同名自然纪录片有多个版本（BBC等），文章未给出品方和年份，作品身份未核实，豆瓣9.2也未核实。自然纪录片通常含捕食与死亡镜头，需按具体版本预看；“影响一生”“作文更有灵气”是无证据的营销说法。",
+        "recommended_age": "未核实（自然纪录片一般8+共看）",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
     }
   ]
 }

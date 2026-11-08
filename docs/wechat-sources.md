@@ -844,3 +844,17 @@ https://mp.weixin.qq.com/s/wpVf_2x_Lnk65ik8EnTnGA
 1. [开怀大笑：国家地理冷笑话 / Just Joking—LOL](wechat/学习类.md#wx37-just-joking)（有保留）
 
 来源质量：节目真实存在（Nat Geo Kids官方播放列表）；文章把笑话短片拔高为“绝佳词汇语料库”，未提双关梗对初学者门槛高。无资源领取引流。
+
+## 38. 影响孩子一生的5部纪录片，悄悄打开孩子的眼界
+
+https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw
+
+**视频数：5**（新增5）
+
+1. [野性南美洲](wechat/自然类.md#wx38-wild-south-america)（有保留）
+2. [加拉帕戈斯](wechat/自然类.md#wx38-galapagos)（有保留）
+3. [野性澳洲](wechat/自然类.md#wx38-wild-australia)（有保留）
+4. [安第斯山脉](wechat/自然类.md#wx38-andes)（有保留）
+5. [野性加勒比](wechat/自然类.md#wx38-wild-caribbean)（有保留）
+
+来源质量：标题“影响孩子一生”、开头用“眼界差距”制造焦虑，“老师精心挑选”无署名；五部只写片名和豆瓣分（9.2—9.6，均未核实），不写出品方、年份、年龄，无法确认具体版本；推荐理由集中于“作文素材”，不是对内容的评价。无资源领取引流，但以评论区互动收尾。
