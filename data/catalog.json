@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 494,
+    "entries": 505,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 36,
+      "学习类": 47,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 36,
@@ -18,16 +18,16 @@
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 389,
+      "有保留": 400,
       "推荐": 69,
       "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 494,
+    "with_image": 505,
     "with_independent_review_poster": 130,
     "with_original_image_only": 73,
-    "with_title_card": 283,
-    "official_reference_links": 20,
+    "with_title_card": 294,
+    "official_reference_links": 31,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
     "with_independent_evidence": 137,
@@ -36,12 +36,13 @@
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 8,
+    "with_official_source_only": 19,
     "article_33_new_entries": 7,
     "article_35_new_entries": 2,
     "article_36_new_entries": 1,
     "article_37_new_entries": 1,
-    "article_38_new_entries": 5
+    "article_38_new_entries": 5,
+    "article_39_new_entries": 11
   },
   "entries": [
     {
@@ -5699,6 +5700,11 @@
           "article_no": 23,
           "title": "两个女儿6岁和2岁，我们只看这8部动画片",
           "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        },
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
         }
       ],
       "also_in_prior_research": false,
@@ -29242,6 +29248,677 @@
         },
         "pacing": "未逐镜测量。"
       }
+    },
+    {
+      "id": "wx39-lf-tire-town-school",
+      "name_zh": "Little Fox：汽车学校",
+      "name_en": "Tire Town School",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：蓝色小卡车Eddy和小伙伴的校园故事，单词极简、重复率高。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-tire-town-school.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "3+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "3+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、72个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-bat-and-friends",
+      "name_zh": "Little Fox：蝙蝠和朋友们",
+      "name_en": "Bat and Friends",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：小蝙蝠和农场动物，动物词与日常句重复。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-bat-and-friends.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "3+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "3+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、72个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-mrs-kellys-class",
+      "name_zh": "Little Fox：凯莉老师的课",
+      "name_en": "Mrs. Kelly's Class",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：一集约50秒，单词配动作（jump、touch）。官方目录显示36个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-mrs-kellys-class.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第1级、36个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "3+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第1级、36个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "3+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、36个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-dino-buddies",
+      "name_zh": "Little Fox：恐龙小伙伴",
+      "name_en": "Dino Buddies",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：四只小恐龙的冒险，句子简短重复。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-dino-buddies.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "3+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第1级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "3+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、72个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-big-green-forest",
+      "name_zh": "Little Fox：大绿森林",
+      "name_en": "Big Green Forest",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：一集聚焦一个动词，当“会动的单词卡”。官方目录显示24个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-big-green-forest.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第1级、24个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "3+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第1级、24个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "3+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、24个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-bird-and-kip",
+      "name_zh": "Little Fox：小鸟和基普",
+      "name_en": "Bird and Kip",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第2级“必看”：安静的小鸟与捣蛋花栗鼠Kip做邻居，从单词过渡到句子。官方目录显示120个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-bird-and-kip.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第2级、120个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第2级、120个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、120个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-meet-the-animals",
+      "name_zh": "Little Fox：认识动物",
+      "name_en": "Meet the Animals",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第2级“必看”：实拍动物加动画讲解。官方目录显示76个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-meet-the-animals.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第2级、76个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第2级、76个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、76个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-peter-rabbit",
+      "name_zh": "Little Fox：彼得兔和朋友们",
+      "name_en": "Peter Rabbit and Friends",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第2级“必看”：经典IP改编，开始有故事感。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-peter-rabbit.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第2级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第2级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、72个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-wizard-and-cat",
+      "name_zh": "Little Fox：巫师和猫",
+      "name_en": "Wizard and Cat",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第3级“必看”：爱闯祸的小巫师Tom和聪明猫，一集一个小反转。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-wizard-and-cat.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第3级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第3级、72个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、72个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-wind-in-the-willows",
+      "name_zh": "Little Fox：柳林风声",
+      "name_en": "Wind in the Willows",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第3级“必看”：名著改编，句子明显加长。官方目录显示100个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-wind-in-the-willows.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第3级、100个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第3级、100个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、100个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx39-lf-cinderella",
+      "name_zh": "Little Fox：灰姑娘",
+      "name_en": "Cinderella",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L1—L3约2—6岁",
+      "description_zh": "文章把它列为Little Fox第3级“必看”：熟悉的童话，用已知剧情猜英文。官方目录显示12个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 39,
+          "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
+          "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx39-lf-cinderella.svg",
+      "origin_group": "article-39",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第3级、12个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+      "reviewed_age": "4+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第3级、12个故事）。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。文章“英语启蒙天花板”“2岁看到初中”“别开中文字幕”为营销或个人主张，2岁幼儿屏幕时间应很少，看后仍需真人互动与共读。",
+        "recommended_age": "4+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列存在、12个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     }
   ]
 }

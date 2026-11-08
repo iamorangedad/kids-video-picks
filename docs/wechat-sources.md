@@ -858,3 +858,26 @@ https://mp.weixin.qq.com/s/-JA3Qvw8Jv0qHDrT41bGvw
 5. [野性加勒比](wechat/自然类.md#wx38-wild-caribbean)（有保留）
 
 来源质量：标题“影响孩子一生”、开头用“眼界差距”制造焦虑，“老师精心挑选”无署名；五部只写片名和豆瓣分（9.2—9.6，均未核实），不写出品方、年份、年龄，无法确认具体版本；推荐理由集中于“作文素材”，不是对内容的评价。无资源领取引流，但以评论区互动收尾。
+
+## 39. 英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画
+
+https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A
+
+**视频数：12**（Little Fox整库1条已收录；正文点名L1—L3共11个系列，全部新增）
+
+0. [Little Fox 分级动画（整库）](wechat/学习类.md#little-fox)（已收录）
+1. [Little Fox：汽车学校 / Tire Town School](wechat/学习类.md#wx39-lf-tire-town-school)（第1级，有保留）
+2. [Little Fox：蝙蝠和朋友们 / Bat and Friends](wechat/学习类.md#wx39-lf-bat-and-friends)（第1级，有保留）
+3. [Little Fox：凯莉老师的课 / Mrs. Kelly's Class](wechat/学习类.md#wx39-lf-mrs-kellys-class)（第1级，有保留）
+4. [Little Fox：恐龙小伙伴 / Dino Buddies](wechat/学习类.md#wx39-lf-dino-buddies)（第1级，有保留）
+5. [Little Fox：大绿森林 / Big Green Forest](wechat/学习类.md#wx39-lf-big-green-forest)（第1级，有保留）
+6. [Little Fox：小鸟和基普 / Bird and Kip](wechat/学习类.md#wx39-lf-bird-and-kip)（第2级，有保留）
+7. [Little Fox：认识动物 / Meet the Animals](wechat/学习类.md#wx39-lf-meet-the-animals)（第2级，有保留）
+8. [Little Fox：彼得兔和朋友们 / Peter Rabbit and Friends](wechat/学习类.md#wx39-lf-peter-rabbit)（第2级，有保留）
+9. [Little Fox：巫师和猫 / Wizard and Cat](wechat/学习类.md#wx39-lf-wizard-and-cat)（第3级，有保留）
+10. [Little Fox：柳林风声 / Wind in the Willows](wechat/学习类.md#wx39-lf-wind-in-the-willows)（第3级，有保留）
+11. [Little Fox：灰姑娘 / Cinderella](wechat/学习类.md#wx39-lf-cinderella)（第3级，有保留）
+
+文末另提到高级别的Rocket Girl、108集英文版西游记、福尔摩斯、海底两万里，只是预告、未作推荐，未建条目（前三者在官方目录中可查到同名系列）。
+
+来源质量：“英语启蒙的天花板”“圈内都叫磨耳神器”“能从2岁看到初中”属营销；称参考“新浪育儿、头条育儿测评和妈妈群亲测”但无链接；“100多个系列、5000多集”未核实；文末“留言区打‘动画’发你”属资源引流。点名系列与官方目录吻合，集数说法（如Bat and Friends 72集）与官方一致。
