@@ -3,7 +3,7 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 477,
+    "entries": 478,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -13,28 +13,30 @@
       "学习类": 25,
       "人文类": 23,
       "情感品格类": 43,
-      "自然类": 30,
+      "自然类": 31,
       "益智动画类": 1,
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 375,
+      "有保留": 376,
       "推荐": 67,
       "强烈推荐": 14,
       "不推荐": 21
     },
-    "with_image": 477,
+    "with_image": 478,
     "with_independent_review_poster": 127,
     "with_original_image_only": 73,
     "with_title_card": 275,
-    "official_reference_links": 11,
+    "official_reference_links": 12,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 134,
+    "with_independent_evidence": 133,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
-    "article_31_new_entries": 1
+    "article_31_new_entries": 1,
+    "article_32_new_entries": 1,
+    "with_official_source_only": 2
   },
   "entries": [
     {
@@ -5126,6 +5128,11 @@
           "article_no": 6,
           "title": "BBC科普动画！《Love Monster》（75集中英文） 让胆小爱闹脾气的孩子，悄悄学会爱和情绪表达",
           "url": "https://mp.weixin.qq.com/s/chL3s5Cy86w0a_Ykz0VNLg"
+        },
+        {
+          "article_no": 32,
+          "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
+          "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
         }
       ],
       "video_url": null,
@@ -5184,6 +5191,11 @@
           "article_no": 8,
           "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
           "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        },
+        {
+          "article_no": 32,
+          "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
+          "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
         }
       ],
       "video_url": null,
@@ -28129,6 +28141,11 @@
           "article_no": 31,
           "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
           "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
+        },
+        {
+          "article_no": 32,
+          "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
+          "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
         }
       ],
       "category": "学习类",
@@ -28171,6 +28188,75 @@
           "status": "未单独核实"
         },
         "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx32-minuteearth",
+      "name_zh": "分钟地球",
+      "name_en": "MinuteEarth",
+      "kind": "科普动画短片频道",
+      "age_group": "文章以女儿（年龄未写）和儿子为例，未明确年龄",
+      "description_zh": "文章称2013年起更新、300多集、每集2—3分钟、中英文。举例讲河流为何弯曲（侵蚀、沉积、截弯取直形成牛轭湖）、雷声长短、树叶为何是绿的、蜜蜂跳舞等；称兼作英语输入。文末“后台回复【地球】”领取资源。",
+      "video_url": "https://www.youtube.com/@MinuteEarth",
+      "video_note": "已核实MinuteEarth官方YouTube频道（约599万订阅，2026-11-07读取），可免费观看；300集与中文字幕版为文章说法，未核实。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_katEIhwNI2gGmuRx4MGjzfCAn_VT96ty5YxNLQCY-MjQ=s900-c-k-c0x00ffffff-no-rj",
+      "image_source": "https://www.youtube.com/@MinuteEarth",
+      "image_note": "官方频道头像，缩至600像素，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 32,
+          "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
+          "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/review/wx32-minuteearth.jpg",
+      "origin_group": "article-32",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "官方YouTube频道免费、单集2—3分钟，选题从生活疑问出发，河流弯曲、雷声等解释有科学依据；但无CSM等独立适龄评测，“全球好几亿人看过”“YouTube高分”未核实。旁白信息密度高、语速偏快，与文章“语速不快”的说法不符（未测量），低龄孩子需家长暂停讲解；部分集涉及死亡、气候灾害等，宜挑集。",
+      "reviewed_age": "8+（编辑暂议；低龄需共看）",
+      "original_image_path": null,
+      "image_kind": "官方频道头像（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "官方YouTube频道免费、单集2—3分钟，选题从生活疑问出发，河流弯曲、雷声等解释有科学依据；但无CSM等独立适龄评测，“全球好几亿人看过”“YouTube高分”未核实。旁白信息密度高、语速偏快，与文章“语速不快”的说法不符（未测量），低龄孩子需家长暂停讲解；部分集涉及死亡、气候灾害等，宜挑集。",
+        "recommended_age": "8+（编辑暂议；低龄需共看）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "MinuteEarth官方YouTube频道",
+            "url": "https://www.youtube.com/@MinuteEarth",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认频道存在，约599万订阅；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "MinuteEarth官网",
+            "url": "https://www.minuteearth.com/",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认制作方官网。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量；旁白语速未测量。"
       }
     }
   ]

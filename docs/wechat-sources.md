@@ -769,3 +769,16 @@ https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw
 3. [爆笑物理](wechat/学习类.md#funny-physics)（往期推荐，已收录）
 
 来源质量：标题“比唠叨管用100倍”“主动坐直早睡”为夸张营销，依据仅为作者家庭轶事；文末“后台回复领取”属资源引流。“150集中英文”未核实。作品本身为TED-Ed官方免费系列，可直接从官方页观看。
+
+## 32. YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”
+
+https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg
+
+**视频数：4**（新增1；文末“往期推荐”的3部已收录）
+
+1. [分钟地球 / MinuteEarth](wechat/自然类.md#wx32-minuteearth)（新增，有保留）
+2. [What If](wechat/学习类.md#what-if)（往期推荐，已收录）
+3. [揭秘身体奥秘](wechat/学习类.md#wx31-getting-under-our-skin)（往期推荐，已收录）
+4. [数学的故事](wechat/人文类.md#story-of-maths)（往期推荐，已收录）
+
+来源质量：“YouTube高分”“全球好几亿人看过”无出处；“语速不快”与频道一贯的快节奏旁白不符；效果依据仅为家庭轶事；文末“后台回复【地球】”属资源引流。作品本身为官方免费频道。
