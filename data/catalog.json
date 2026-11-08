@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 487,
+    "entries": 488,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 34,
+      "学习类": 35,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 31,
@@ -19,18 +19,18 @@
     },
     "by_verdict": {
       "有保留": 383,
-      "推荐": 68,
+      "推荐": 69,
       "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 487,
-    "with_independent_review_poster": 129,
+    "with_image": 488,
+    "with_independent_review_poster": 130,
     "with_original_image_only": 73,
     "with_title_card": 278,
     "official_reference_links": 19,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 136,
+    "with_independent_evidence": 137,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -38,7 +38,8 @@
     "article_32_new_entries": 1,
     "with_official_source_only": 7,
     "article_33_new_entries": 7,
-    "article_35_new_entries": 2
+    "article_35_new_entries": 2,
+    "article_36_new_entries": 1
   },
   "entries": [
     {
@@ -28847,6 +28848,73 @@
         "awards": {
           "verified_items": [],
           "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx36-weird-but-true",
+      "name_zh": "奇怪但真实",
+      "name_en": "Weird But True!",
+      "kind": "真人科普节目",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章称国家地理出品、获艾美奖最佳教育节目，兄妹主持，每集一个主题（火山、太空岩石、动物、感官、天气、食物等），实地探访、动手实验。举例：恐龙国家纪念碑挖化石、恐龙有羽毛；太空营失重训练、塑料瓶小苏打水火箭；毒蛇毒蜘蛛与野外安全。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址（Disney+/国家地理平台可能可播，未核实地区与授权）。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/weird-but-true-tv-poster-image0.jpg",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/weird-but-true",
+      "image_note": "源页标注本作品；仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 36,
+          "title": "艾美奖！国家地理科普节目《Weird But True！》，那些奇怪但真实的科学冷知识！",
+          "url": "https://mp.weixin.qq.com/s/yVGlKVHZwhUz5PmmlvEP-g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx36-weird-but-true.jpg",
+      "origin_group": "article-36",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑4/5，确认为获艾美奖的系列、主持人Charlie与Kirby Engelman姐弟，喜剧加科学适合小学中高年级。文章“所有知识点全部真实可考证、不用担心错误科普”属过度保证，冷知识节目仍可能简化；“看完主动找原版书”为推广说法。做小苏打水火箭等实验需成人在场。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+、编辑4/5，确认为获艾美奖的系列、主持人Charlie与Kirby Engelman姐弟，喜剧加科学适合小学中高年级。文章“所有知识点全部真实可考证、不用担心错误科普”属过度保证，冷知识节目仍可能简化；“看完主动找原版书”为推广说法。做小苏打水火箭等实验需成人在场。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/weird-but-true",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Weird But True!",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，并提及该系列获艾美奖；不是观众评分或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "艾美奖（据CSM评测页表述，具体奖项名称未单独核实）"
+          ],
+          "status": "部分核实"
         },
         "pacing": "未逐镜测量。"
       }

@@ -824,3 +824,13 @@ https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA
 3. [人体的微观世界 / The Body (NHK)](wechat/学习类.md#wx35-nhk-the-body)（往期推荐，新增，有保留）
 
 来源质量：正文描述与BBC官方集目基本吻合（26集×7分钟、规律/测量/图形等），较可信；但“打通数学思路”属夸张，效果依据为家庭轶事，文末“后台回复【牛顿】”属资源引流。往期推荐把成人级医学纪录片《人体的微观世界》包装成“孩子越早了解越好”，不成立。
+
+## 36. 艾美奖！国家地理科普节目《Weird But True！》，那些奇怪但真实的科学冷知识！
+
+https://mp.weixin.qq.com/s/yVGlKVHZwhUz5PmmlvEP-g
+
+**视频数：1**（新增1）
+
+1. [奇怪但真实 / Weird But True!](wechat/学习类.md#wx36-weird-but-true)（推荐）
+
+来源质量：艾美奖获奖与CSM评测吻合，主体可信；但“全部真实可考证、不用担心错误科普”是过度保证，“看完会主动找原版书”是推广说法。无资源领取引流。
