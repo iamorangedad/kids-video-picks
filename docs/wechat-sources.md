@@ -782,3 +782,20 @@ https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg
 4. [数学的故事](wechat/学习类.md#story-of-maths)（往期推荐，已收录）
 
 来源质量：“YouTube高分”“全球好几亿人看过”无出处；“语速不快”与频道一贯的快节奏旁白不符；效果依据仅为家庭轶事；文末“后台回复【地球】”属资源引流。作品本身为官方免费频道。
+
+## 33. 豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'
+
+https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg
+
+**视频数：8**（正文5部＋文末“往期推荐”3部；新增7，《数学的故事》已收录）
+
+1. [维度：数学漫步](wechat/学习类.md#wx33-dimensions)（有保留）
+2. [费马大定理](wechat/学习类.md#wx33-fermat-horizon)（有保留）
+3. [神秘的混沌理论](wechat/学习类.md#wx33-secret-life-of-chaos)（有保留）
+4. [数学的故事](wechat/学习类.md#story-of-maths)（已收录）
+5. [统计的乐趣](wechat/学习类.md#wx33-joy-of-stats)（有保留）
+6. [数学荒岛历险记 / Cyberchase](wechat/学习类.md#wx33-cyberchase)（往期推荐，强烈推荐）
+7. [超级单词女孩 / WordGirl](wechat/学习类.md#wx33-wordgirl)（往期推荐，推荐）
+8. [爆笑化学](wechat/学习类.md#wx33-baoxiao-chemistry)（往期推荐，有保留）
+
+来源质量：标题与每部都挂豆瓣分（9.3/9.2/9.1/8.9/8.5），均未核实；年龄建议（7+看四维几何、9+看混沌）普遍偏低；《统计的乐趣》“246个国家”与常见的“200个国家、200年”说法不符；《费马大定理》叙事有简化；效果依据为家庭轶事；文末“后台回复【纪录片】”属资源引流。片单本身多为BBC/官方正规作品，质量较前几篇资源包文高。

@@ -3,14 +3,14 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 478,
+    "entries": 485,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 54,
     "pending_article_28": 263,
     "by_category": {
-      "学习类": 25,
+      "学习类": 32,
       "人文类": 23,
       "情感品格类": 43,
       "自然类": 31,
@@ -18,25 +18,26 @@
       "动画娱乐类": 355
     },
     "by_verdict": {
-      "有保留": 376,
-      "推荐": 67,
-      "强烈推荐": 14,
+      "有保留": 381,
+      "推荐": 68,
+      "强烈推荐": 15,
       "不推荐": 21
     },
-    "with_image": 478,
-    "with_independent_review_poster": 127,
+    "with_image": 485,
+    "with_independent_review_poster": 129,
     "with_original_image_only": 73,
-    "with_title_card": 275,
-    "official_reference_links": 12,
+    "with_title_card": 277,
+    "official_reference_links": 16,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 133,
+    "with_independent_evidence": 135,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 2
+    "with_official_source_only": 6,
+    "article_33_new_entries": 7
   },
   "entries": [
     {
@@ -5196,6 +5197,11 @@
           "article_no": 32,
           "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
           "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
+        },
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
         }
       ],
       "video_url": null,
@@ -28257,6 +28263,435 @@
           "status": "未单独核实"
         },
         "pacing": "未逐镜测量；旁白语速未测量。"
+      }
+    },
+    {
+      "id": "wx33-dimensions",
+      "name_zh": "维度：数学漫步",
+      "name_en": "Dimensions: A Walk Through Mathematics!",
+      "kind": "数学纪录动画",
+      "age_group": "7岁以上",
+      "description_zh": "文章写豆瓣9.3，法国人拍，用3D动画呈现四维空间、分形几何、拓扑学；超立方体旋转投影的镜头让孩子着迷；建议7岁以上挑画面看、家长陪看。",
+      "video_url": "https://www.dimensions-math.org/",
+      "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx33-dimensions.svg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "官方网站可免费观看，数学可视化质量高；但内容为高维几何、复数、纤维化等大学级概念，章节较长、讲解密集。7岁可以看画面“惊叹”，不等于理解；无独立适龄评测，豆瓣9.3未核实。",
+      "reviewed_age": "10+（编辑暂议；挑章节）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "官方网站可免费观看，数学可视化质量高；但内容为高维几何、复数、纤维化等大学级概念，章节较长、讲解密集。7岁可以看画面“惊叹”，不等于理解；无独立适龄评测，豆瓣9.3未核实。",
+        "recommended_age": "10+（编辑暂议；挑章节）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Dimensions官方网站",
+            "url": "https://www.dimensions-math.org/",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认作品存在及制作方；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx33-fermat-horizon",
+      "name_zh": "费马大定理",
+      "name_en": "Horizon: Fermat's Last Theorem",
+      "kind": "纪录片",
+      "age_group": "10岁以上",
+      "description_zh": "文章写豆瓣9.2，讲费马1637年留下猜想、安德鲁·怀尔斯秘密研究七年于1994年完成证明，镜头里他落泪；建议10岁以上当故事看。",
+      "video_url": "https://www.bbc.co.uk/programmes/b0074rxx",
+      "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1200x675/p01gyvvd.jpg",
+      "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx33-fermat-horizon.jpg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "BBC Horizon官方节目页已核实（1995—1996季）。坚持与求索的故事有激励价值，但数学细节（椭圆曲线、模形式）远超小学；文中“1994年站在讲台上解开”简化了1993年发表、发现漏洞再于1994年修正的过程。无独立适龄评测，豆瓣9.2未核实。",
+      "reviewed_age": "10+（编辑暂议；需讲解）",
+      "original_image_path": null,
+      "image_kind": "官方节目页配图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "BBC Horizon官方节目页已核实（1995—1996季）。坚持与求索的故事有激励价值，但数学细节（椭圆曲线、模形式）远超小学；文中“1994年站在讲台上解开”简化了1993年发表、发现漏洞再于1994年修正的过程。无独立适龄评测，豆瓣9.2未核实。",
+        "recommended_age": "10+（编辑暂议；需讲解）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "BBC Programmes",
+            "url": "https://www.bbc.co.uk/programmes/b0074rxx",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认作品存在及制作方；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.bbc.co.uk/programmes/b0074rxx",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx33-secret-life-of-chaos",
+      "name_zh": "神秘的混沌理论",
+      "name_en": "The Secret Life of Chaos",
+      "kind": "纪录片",
+      "age_group": "9岁以上",
+      "description_zh": "文章写豆瓣9.1，讲蝴蝶效应、雪花形状、心跳和天气预报的不确定性，主持人生活化；建议9岁以上，看完去公园找自然中的例子。",
+      "video_url": "https://www.bbc.co.uk/programmes/b00pv1c3",
+      "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1200x675/p01gmqzp.jpg",
+      "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx33-secret-life-of-chaos.jpg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "BBC Four官方节目页已核实（Jim Al-Khalili主持）。涉及图灵、反馈与演化等抽象内容，约一小时，9岁偏早；文中“心跳会乱”等例子不宜当医学结论。无独立适龄评测，豆瓣9.1未核实。",
+      "reviewed_age": "12+（编辑暂议；原文9+偏低）",
+      "original_image_path": null,
+      "image_kind": "官方节目页配图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "BBC Four官方节目页已核实（Jim Al-Khalili主持）。涉及图灵、反馈与演化等抽象内容，约一小时，9岁偏早；文中“心跳会乱”等例子不宜当医学结论。无独立适龄评测，豆瓣9.1未核实。",
+        "recommended_age": "12+（编辑暂议；原文9+偏低）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "BBC Programmes",
+            "url": "https://www.bbc.co.uk/programmes/b00pv1c3",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认作品存在及制作方；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.bbc.co.uk/programmes/b00pv1c3",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx33-joy-of-stats",
+      "name_zh": "统计的乐趣",
+      "name_en": "The Joy of Stats",
+      "kind": "纪录片",
+      "age_group": "7岁以上",
+      "description_zh": "文章写豆瓣8.5，汉斯·罗斯林用动画、数据可视化讲平均数、标准差、相关性；称经典片段用246个国家数据在4分钟展示全球健康变迁；建议7岁以上。",
+      "video_url": "https://www.bbc.co.uk/programmes/b00wgq0l",
+      "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1200x675/p01gykwy.jpg",
+      "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx33-joy-of-stats.jpg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "BBC Four官方节目页已核实。罗斯林的数据可视化确有启发；但该名场面通常称“200个国家、200年、4分钟”，文中“246个国家”有误。内容涉及贫困、死亡率等，7岁偏早；无独立适龄评测，豆瓣8.5未核实。",
+      "reviewed_age": "10+（编辑暂议；原文7+偏低）",
+      "original_image_path": null,
+      "image_kind": "官方节目页配图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "BBC Four官方节目页已核实。罗斯林的数据可视化确有启发；但该名场面通常称“200个国家、200年、4分钟”，文中“246个国家”有误。内容涉及贫困、死亡率等，7岁偏早；无独立适龄评测，豆瓣8.5未核实。",
+        "recommended_age": "10+（编辑暂议；原文7+偏低）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "BBC Programmes",
+            "url": "https://www.bbc.co.uk/programmes/b00wgq0l",
+            "checked_date": "2026-11-07",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认作品存在及制作方；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.bbc.co.uk/programmes/b00wgq0l",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx33-cyberchase",
+      "name_zh": "数学荒岛历险记",
+      "name_en": "Cyberchase",
+      "kind": "动画剧集",
+      "age_group": "文章（往期推荐）未写年龄",
+      "description_zh": "出现在文末“往期推荐”：称豆瓣9.7、三季120集、“别的动画费眼，这部费脑”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/cyberchase-poster.jpg",
+      "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx33-cyberchase.jpg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评5+，PBS出品，以数学推理解决问题为主线，教育目标明确。“三季120集”与实际多季规模不符；豆瓣9.7未核实。适合小学低中年级，看后用实际问题练习更有效。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评5+，PBS出品，以数学推理解决问题为主线，教育目标明确。“三季120集”与实际多季规模不符；豆瓣9.7未核实。适合小学低中年级，看后用实际问题练习更有效。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/cyberchase",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "Cyberchase",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/cyberchase"
+    },
+    {
+      "id": "wx33-wordgirl",
+      "name_zh": "超级单词女孩",
+      "name_en": "WordGirl",
+      "kind": "动画剧集",
+      "age_group": "文章（往期推荐）未写年龄",
+      "description_zh": "出现在文末“往期推荐”：称PBS出品，跟着超级英雄让孩子“轻松从零到听懂会说”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/wordgirl.jpg",
+      "image_note": "源页配图，缩至约600像素宽，仅作辨识。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx33-wordgirl.jpg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；“从零到听懂会说”是营销说法。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评5+、编辑4/5，借超级英雄故事教词汇，有卡通打斗。它面向英语母语儿童扩充词汇，不是零基础英语课；“从零到听懂会说”是营销说法。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/wordgirl",
+            "checked_date": "2026-11-07",
+            "scope": "单部作品",
+            "work_title": "WordGirl",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/wordgirl"
+    },
+    {
+      "id": "wx33-baoxiao-chemistry",
+      "name_zh": "爆笑化学",
+      "name_en": null,
+      "kind": "科普动画",
+      "age_group": "文章（往期推荐）未写年龄",
+      "description_zh": "出现在文末“往期推荐”：称“清华附”出品、172集、趣味学化学、家长辅导不焦虑。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址；不提供原文资源包。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 33,
+          "title": "豆瓣9.3！这5部数学纪录片，让孩子发现'数学之美'",
+          "url": "https://mp.weixin.qq.com/s/OQYM-V4pi28WVwmz01oHUg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx33-baoxiao-chemistry.svg",
+      "origin_group": "article-33",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "制作方与“清华附”的关系、集数、内容准确性均未核实，无独立评测；“家长辅导不焦虑”为营销语。需先确认出品方和知识准确性，且应提醒不在家模仿实验。",
+      "reviewed_age": "未核实",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "制作方与“清华附”的关系、集数、内容准确性均未核实，无独立评测；“家长辅导不焦虑”为营销语。需先确认出品方和知识准确性，且应提醒不在家模仿实验。",
+        "recommended_age": "未核实",
+        "status": "证据不足，编辑保守初筛",
+        "confidence": "低",
+        "reviewed_date": "2026-11-07",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
       }
     }
   ]
