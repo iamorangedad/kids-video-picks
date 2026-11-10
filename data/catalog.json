@@ -3,34 +3,34 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 514,
+    "entries": 524,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
-    "article_28_with_independent_review": 57,
-    "pending_article_28": 260,
+    "article_28_with_independent_review": 63,
+    "pending_article_28": 254,
     "by_category": {
       "学习类": 47,
-      "人文类": 23,
-      "情感品格类": 51,
+      "人文类": 24,
+      "情感品格类": 53,
       "自然类": 36,
       "益智动画类": 1,
-      "动画娱乐类": 356
+      "动画娱乐类": 363
     },
     "by_verdict": {
-      "有保留": 402,
-      "推荐": 75,
-      "强烈推荐": 15,
-      "不推荐": 22
+      "有保留": 400,
+      "推荐": 84,
+      "强烈推荐": 17,
+      "不推荐": 23
     },
-    "with_image": 514,
-    "with_independent_review_poster": 139,
+    "with_image": 524,
+    "with_independent_review_poster": 152,
     "with_original_image_only": 73,
-    "with_title_card": 294,
+    "with_title_card": 288,
     "official_reference_links": 31,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 146,
+    "with_independent_evidence": 162,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -44,7 +44,8 @@
     "article_38_new_entries": 5,
     "article_39_new_entries": 11,
     "article_40_new_entries": 8,
-    "article_41_new_entries": 1
+    "article_41_new_entries": 1,
+    "article_42_new_entries": 10
   },
   "entries": [
     {
@@ -6872,7 +6873,7 @@
       "name_en": "Ethel & Ernest",
       "kind": "动画电影",
       "age_group": "7岁+",
-      "description_zh": "文章写豆瓣8.8，手绘水彩。1928年一个女仆和一个送奶工一见钟情，后来躲空袭、等儿子回家。台词来自作者父母说过的话，片尾有他们的照片。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "description_zh": "文章写豆瓣8.8，手绘水彩。1928年一个女仆和一个送奶工一见钟情，后来躲空袭、等儿子回家。台词来自作者父母说过的话，片尾有他们的照片。 英文名来自豆瓣该条目的外文名，不是文章原文。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "文章没有给出具体播放地址。",
       "image_url": null,
@@ -6883,6 +6884,11 @@
           "article_no": 26,
           "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
           "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "also_in_prior_research": false,
@@ -9574,37 +9580,54 @@
     {
       "id": "wx28-72b20b5661d5",
       "name_zh": "狮子王",
-      "name_en": null,
+      "name_en": "The Lion King (1994)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 1994,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-72b20b5661d5.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-lion-king-poster0.jpg",
+      "image_path": "images/review/wx28-72b20b5661d5.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+、编辑4/5（1994动画版）：讲希望、牺牲与责任；但比其他迪士尼动画更暗，木法沙被兽群踩死、幼年辛巴发现遗体，有谋害家人的情节和威胁吃掉主角的鬣狗。文章5+略低，丧父场面需家长陪看。",
+      "reviewed_age": "6+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "6+（CSM）",
+        "rationale_zh": "CSM评6+、编辑4/5（1994动画版）：讲希望、牺牲与责任；但比其他迪士尼动画更暗，木法沙被兽群踩死、幼年辛巴发现遗体，有谋害家人的情节和威胁吃掉主角的鬣狗。文章5+略低，丧父场面需家长陪看。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-lion-king-1994",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "The Lion King (1994)",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -9622,8 +9645,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-lion-king-1994"
     },
     {
       "id": "wx28-426ce93a2a9c",
@@ -9688,7 +9712,7 @@
       "article_year": 1995,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "牛仔玩具与新来的太空玩具从竞争走向合作。",
+      "description_zh": "牛仔玩具与新来的太空玩具从竞争走向合作。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/toy-story-resized-opt.jpg",
@@ -9698,6 +9722,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -10040,7 +10069,7 @@
       "article_year": 1997,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "少年在森林神灵与采铁城镇的冲突中寻找共存之路。",
+      "description_zh": "少年在森林神灵与采铁城镇的冲突中寻找共存之路。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/princess-mononoke-poster.jpg",
@@ -10050,6 +10079,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -10756,7 +10790,7 @@
       "article_year": 2001,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "女孩误入神灵世界，为救父母学习工作与勇气。",
+      "description_zh": "女孩误入神灵世界，为救父母学习工作与勇气。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/1453-orig.jpg",
@@ -10771,6 +10805,11 @@
           "article_no": 40,
           "title": "一定要带孩子看的10部电影，巨治愈！",
           "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -10877,37 +10916,54 @@
     {
       "id": "wx28-fec0c6af4716",
       "name_zh": "怪兽电力公司",
-      "name_en": null,
+      "name_en": "Monsters, Inc.",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2001,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-fec0c6af4716.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/monsters-cover.jpg",
+      "image_path": "images/review/wx28-fec0c6af4716.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评5+、编辑4/5：怪兽其实温和、照顾小女孩；有一段反派把孩子绑在椅子上要“偷尖叫”的紧张场面，3D版更强烈。文章“低龄友好”大致成立，但敏感幼儿可能害怕。",
+      "reviewed_age": "5+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "5+（CSM）",
+        "rationale_zh": "CSM评5+、编辑4/5：怪兽其实温和、照顾小女孩；有一段反派把孩子绑在椅子上要“偷尖叫”的紧张场面，3D版更强烈。文章“低龄友好”大致成立，但敏感幼儿可能害怕。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/monsters-inc",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Monsters, Inc.",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -10925,8 +10981,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/monsters-inc"
     },
     {
       "id": "wx28-c33a3067d7a0",
@@ -13529,37 +13586,54 @@
     {
       "id": "wx28-4fd2436f18b6",
       "name_zh": "美食总动员",
-      "name_en": null,
+      "name_en": "Ratatouille",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2007,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-4fd2436f18b6.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/ratatouille-resized-opt.jpg",
+      "image_path": "images/review/wx28-4fd2436f18b6.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+、编辑4/5：励志追梦；有老鼠被持枪人类追赶等中度险境（下水道段落和持枪老奶奶尤其紧张），两处亲吻、少量“stupid”“loser”等轻度辱骂和一次“hell”。文章6+与CSM一致。",
+      "reviewed_age": "6+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "6+（CSM）",
+        "rationale_zh": "CSM评6+、编辑4/5：励志追梦；有老鼠被持枪人类追赶等中度险境（下水道段落和持枪老奶奶尤其紧张），两处亲吻、少量“stupid”“loser”等轻度辱骂和一次“hell”。文章6+与CSM一致。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/ratatouille",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Ratatouille",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -13577,8 +13651,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/ratatouille"
     },
     {
       "id": "wx28-55cc623a0e73",
@@ -13859,7 +13934,7 @@
       "article_year": 2008,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "清洁机器人与探测机器人寻找地球和人类未来的可能。",
+      "description_zh": "清洁机器人与探测机器人寻找地球和人类未来的可能。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/walle-pi.jpg",
@@ -13869,6 +13944,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -14685,7 +14765,7 @@
       "article_year": 2009,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "丧偶老人带着会飞的房子，与男孩和伙伴们旅行。",
+      "description_zh": "丧偶老人带着会飞的房子，与男孩和伙伴们旅行。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/up-pi.jpg",
@@ -14695,6 +14775,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -16639,37 +16724,54 @@
     {
       "id": "wx28-365bc2d21bdd",
       "name_zh": "冰雪奇缘1",
-      "name_en": null,
+      "name_en": "Frozen (2013)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2013,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-365bc2d21bdd.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/frozen-poster-min-min.jpg",
+      "image_path": "images/review/wx28-365bc2d21bdd.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评5+、编辑4/5：姐妹无条件的爱、做真实的自己；有父母死亡、持武器的人、狼群、雪怪和角色几乎冻死等场面。文章5+与CSM一致。",
+      "reviewed_age": "5+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "5+（CSM）",
+        "rationale_zh": "CSM评5+、编辑4/5：姐妹无条件的爱、做真实的自己；有父母死亡、持武器的人、狼群、雪怪和角色几乎冻死等场面。文章5+与CSM一致。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/frozen-0",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Frozen",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -16687,8 +16789,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/frozen-0"
     },
     {
       "id": "wx28-3937b4a144d8",
@@ -18023,7 +18126,7 @@
       "article_year": 2015,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。",
+      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/inside-out-min.jpg",
@@ -18033,6 +18136,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -19039,37 +19147,54 @@
     {
       "id": "wx28-30c8ba6f829a",
       "name_zh": "疯狂动物城1",
-      "name_en": null,
+      "name_en": "Zootopia",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2016,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-30c8ba6f829a.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/zootopia-poster-min.jpg",
+      "image_path": "images/review/wx28-30c8ba6f829a.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑4/5：讲团队合作与坚持、反刻板印象；但有激烈追逐、捕食者突袭的惊吓、绑架、黑帮式威胁和较多“stupid/dumb”类辱骂。文章“5岁+、老少皆宜”明显偏低。",
+      "reviewed_age": "8+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "8+（CSM）",
+        "rationale_zh": "CSM评8+、编辑4/5：讲团队合作与坚持、反刻板印象；但有激烈追逐、捕食者突袭的惊吓、绑架、黑帮式威胁和较多“stupid/dumb”类辱骂。文章“5岁+、老少皆宜”明显偏低。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/zootopia",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Zootopia",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -19087,8 +19212,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/zootopia"
     },
     {
       "id": "wx28-4755661ce4d2",
@@ -19315,7 +19441,7 @@
       "article_year": 2017,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "爱音乐的男孩进入亡灵世界，重新理解家族记忆。",
+      "description_zh": "爱音乐的男孩进入亡灵世界，重新理解家族记忆。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/coco-resized-opt.jpg",
@@ -19325,6 +19451,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -20715,37 +20846,54 @@
     {
       "id": "wx28-7c343de32e37",
       "name_zh": "罗小黑战记1",
-      "name_en": null,
+      "name_en": "The Legend of Hei (2019)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2019,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-7c343de32e37.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/thelegendofhei-movie-poster.jpg",
+      "image_path": "images/review/wx28-7c343de32e37.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评10+、编辑4/5，涉及人类破坏森林的环保主题；但有频繁的奇幻打斗（拳脚、刀剑、法术、城市陷入危险）、短暂枪战、虎妖给幼年小黑递酒和少量粗口。文章称“没有激烈的冲突”“7岁+”与CSM不符。",
+      "reviewed_age": "10+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "10+（CSM）",
+        "rationale_zh": "CSM评10+、编辑4/5，涉及人类破坏森林的环保主题；但有频繁的奇幻打斗（拳脚、刀剑、法术、城市陷入危险）、短暂枪战、虎妖给幼年小黑递酒和少量粗口。文章称“没有激烈的冲突”“7岁+”与CSM不符。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-legend-of-hei",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "The Legend of Hei",
+            "age": "10+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -20763,8 +20911,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-legend-of-hei"
     },
     {
       "id": "wx28-c24898674c93",
@@ -21045,7 +21194,7 @@
       "article_year": 2020,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "音乐教师在生死之间重新思考生活和目标。",
+      "description_zh": "音乐教师在生死之间重新思考生活和目标。 第42篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/soul-movie-cover.jpeg",
@@ -21055,6 +21204,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
         }
       ],
       "origin_group": "article-28",
@@ -30536,6 +30690,644 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://www.commonsensemedia.org/movie-reviews/curious-george-2006"
+    },
+    {
+      "id": "wx42-totoro",
+      "name_zh": "龙猫",
+      "name_en": "My Neighbor Totoro (1988)",
+      "kind": "动画电影",
+      "age_group": "4岁+（低龄宝宝首选）",
+      "description_zh": "宫崎骏/吉卜力作品：姐妹俩随父亲迁居乡下、等待生病的妈妈回家，遇见森林精灵龙猫。文章称“无反派、无冲突、无惊险剧情”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/my-neighbor-totoro-resized-opt.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-totoro.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM评5+、编辑5/5：适合全家，示范勇气、好奇与同情；提醒开头有略吓人的“灰尘精灵”、母亲住院（医院场景不压抑），以及孩子独自走远的自由度可能让部分家长不安。文章4+略低于CSM。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM评5+、编辑5/5：适合全家，示范勇气、好奇与同情；提醒开头有略吓人的“灰尘精灵”、母亲住院（医院场景不压抑），以及孩子独自走远的自由度可能让部分家长不安。文章4+略低于CSM。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/my-neighbor-totoro",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "My Neighbor Totoro",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/my-neighbor-totoro"
+    },
+    {
+      "id": "wx42-castle-in-the-sky",
+      "name_zh": "天空之城",
+      "name_en": "Castle in the Sky (1986)",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "吉卜力早期作品：少年巴鲁与少女希达因飞行石结缘，寻找天空之城拉普达。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/castle.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-castle-in-the-sky.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑4/5：主角勇敢、合作；但有街头斗殴、常对准儿童的枪击、炮火、死亡射线和类似氢弹的画面（不见尸体）。文章“没有绝对的利益纷争”不符，6+偏低，建议8岁以上。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+、编辑4/5：主角勇敢、合作；但有街头斗殴、常对准儿童的枪击、炮火、死亡射线和类似氢弹的画面（不见尸体）。文章“没有绝对的利益纷争”不符，6+偏低，建议8岁以上。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/castle-in-the-sky",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Castle in the Sky",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/castle-in-the-sky"
+    },
+    {
+      "id": "wx42-kiki",
+      "name_zh": "魔女宅急便",
+      "name_en": "Kiki's Delivery Service (1989)",
+      "kind": "动画电影",
+      "age_group": "5岁+",
+      "description_zh": "13岁小魔女琪琪独自到陌生城市修行，靠飞行送货谋生，经历挫折后成长。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/kikis-delivery-service-resized.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-kiki.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM评5+、编辑5/5，称其适合全家、没有宫崎骏其他片中的吓人角色；只有轻微调情和几次飞行险情，主题为勇气、同理心与谦逊。文章5+与CSM一致。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM评5+、编辑5/5，称其适合全家、没有宫崎骏其他片中的吓人角色；只有轻微调情和几次飞行险情，主题为勇气、同理心与谦逊。文章5+与CSM一致。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/kikis-delivery-service",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Kiki's Delivery Service",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/kikis-delivery-service"
+    },
+    {
+      "id": "wx42-howl",
+      "name_zh": "哈尔的移动城堡",
+      "name_en": "Howl's Moving Castle (2004)",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "少女苏菲被诅咒变老，进入魔法师哈尔的移动城堡；文章以“浪漫”“双向救赎”“真正的偏爱”定位。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/13kol2v0nd2olbvshnhk8gufeho-1-1.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-howl.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑5/5，同情是核心主题；有轻度吓人的形象（无脸团块人、幽灵般巫师、爆炸与背景战争）和几段黑暗夜景。文章6+偏低，且以爱情观为卖点，对低龄孩子并非核心收获。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+、编辑5/5，同情是核心主题；有轻度吓人的形象（无脸团块人、幽灵般巫师、爆炸与背景战争）和几段黑暗夜景。文章6+偏低，且以爱情观为卖点，对低龄孩子并非核心收获。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/howls-moving-castle",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Howl's Moving Castle",
+            "age": "8+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/howls-moving-castle"
+    },
+    {
+      "id": "wx42-arrietty",
+      "name_zh": "借东西的小人阿莉埃蒂",
+      "name_en": "The Secret World of Arrietty (2010)",
+      "kind": "动画电影",
+      "age_group": "6岁+",
+      "description_zh": "吉卜力根据《借东西的小人》改编：十厘米高的小人一族寄居人类家中，阿莉埃蒂与患心脏病的少年相遇。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-secret-world-of-arrietty-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-arrietty.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评5+、编辑4/5：讲同理心与勇气，患病少年不被塑造成受害者；有小人被关进玻璃罐、被猫抓等紧张场面，角色短暂拿酒杯。文章6+比CSM略保守。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评5+、编辑4/5：讲同理心与勇气，患病少年不被塑造成受害者；有小人被关进玻璃罐、被猫抓等紧张场面，角色短暂拿酒杯。文章6+比CSM略保守。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-secret-world-of-arrietty",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "The Secret World of Arrietty",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-secret-world-of-arrietty"
+    },
+    {
+      "id": "wx42-mary-and-max",
+      "name_zh": "玛丽和马克思",
+      "name_en": "Mary and Max (2009)",
+      "kind": "动画电影",
+      "age_group": "10岁+（大龄孩子深度感悟）",
+      "description_zh": "黏土动画：8岁孤独女孩玛丽与44岁、患阿斯伯格的马克思二十年笔友友谊。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/mary-and-max-dvd.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx42-mary-and-max.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "不作0—12岁片单。CSM评14+、编辑4/5，明确称不适合年幼儿童：涉及性、物质滥用、身体形象、重度抑郁和自杀，角色常喝酒抽烟。文章写10+并说适合“青春期、有情绪困惑的孩子”，明显偏低；更适合成熟青少年与家长一起看。",
+      "reviewed_age": "14+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "不作0—12岁片单。CSM评14+、编辑4/5，明确称不适合年幼儿童：涉及性、物质滥用、身体形象、重度抑郁和自杀，角色常喝酒抽烟。文章写10+并说适合“青春期、有情绪困惑的孩子”，明显偏低；更适合成熟青少年与家长一起看。",
+        "recommended_age": "14+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/mary-and-max",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Mary and Max",
+            "age": "14+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/mary-and-max"
+    },
+    {
+      "id": "wx42-zucchini",
+      "name_zh": "西葫芦的生活",
+      "name_en": "My Life as a Zucchini (2016)",
+      "kind": "动画电影",
+      "age_group": "8岁+",
+      "description_zh": "瑞法定格动画：失去母亲的男孩“西葫芦”进入寄养机构，与有创伤经历的孩子们相处。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/my-life-as-a-zucchini-poster0.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx42-zucchini.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评11+、编辑4/5，有家庭、友谊和同理心主题和圆满结局；但涉及酗酒母亲之死，并提及性、虐待、暴力、自杀、驱逐出境，孩子们会搞笑讨论性。文章8+明显偏低，适合大龄儿童且最好家长陪看。",
+      "reviewed_age": "11+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评11+、编辑4/5，有家庭、友谊和同理心主题和圆满结局；但涉及酗酒母亲之死，并提及性、虐待、暴力、自杀、驱逐出境，孩子们会搞笑讨论性。文章8+明显偏低，适合大龄儿童且最好家长陪看。",
+        "recommended_age": "11+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/my-life-as-a-zucchini",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "My Life as a Zucchini",
+            "age": "11+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/my-life-as-a-zucchini"
+    },
+    {
+      "id": "wx42-havoc-in-heaven",
+      "name_zh": "大闹天宫",
+      "name_en": "Havoc in Heaven / Uproar in Heaven (1961–1964)",
+      "kind": "动画电影",
+      "age_group": "5岁+",
+      "description_zh": "上海美术电影制片厂经典动画长片，改编自《西游记》前段孙悟空故事；文章称“京剧画风”“六十年无人超越”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/zh/c/c5/The_Monkey_King.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-havoc-in-heaven.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "中国动画经典地位与获奖记录有百科资料支持；但未取得CSM等适龄评测，打斗场面强度未核实。文章“六十年依旧无人超越”属主观夸张；建议家长先看片段再定年龄。",
+      "reviewed_age": "未取得独立适龄评测（原文5+）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "中国动画经典地位与获奖记录有百科资料支持；但未取得CSM等适龄评测，打斗场面强度未核实。文章“六十年依旧无人超越”属主观夸张；建议家长先看片段再定年龄。",
+        "recommended_age": "未取得独立适龄评测（原文5+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB",
+            "checked_date": "2026-11-10",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "维基百科确认：上海美影1961—1964年制作、分上下集；记载获1962年卡罗维发利电影节短片特别奖、1963年第二届百花奖最佳美术片等。未取得儿童适龄评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB"
+    },
+    {
+      "id": "wx42-sealed-book",
+      "name_zh": "天书奇谭",
+      "name_en": "The Legend of the Sealed Book (1983)",
+      "kind": "动画电影",
+      "age_group": "5岁+",
+      "description_zh": "上海美影1983年动画长片，袁公将天书传给蛋生、蛋生与狐狸精斗法。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/zh/b/be/%E5%A4%A9%E4%B9%A6%E5%A5%87%E8%B0%AD.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx42-sealed-book.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "作品身份、出品与修复版信息有百科支持；未取得适龄或内容评测，狐狸精等妖怪与斗法场面对低龄儿童的惊吓程度未核实。文章“天花板”“三观超正”是评价而非证据。",
+      "reviewed_age": "未取得独立适龄评测（原文5+）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "作品身份、出品与修复版信息有百科支持；未取得适龄或内容评测，狐狸精等妖怪与斗法场面对低龄儿童的惊吓程度未核实。文章“天花板”“三观超正”是评价而非证据。",
+        "recommended_age": "未取得独立适龄评测（原文5+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B9%A6%E5%A5%87%E8%B0%AD",
+            "checked_date": "2026-11-10",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "维基百科确认：1983年上海美术电影制片厂出品，王树忱、钱运达导演，据《平妖传》片段改编，全长90分钟；2019年修复版、2021年4K纪念版上映。未取得儿童适龄评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B9%A6%E5%A5%87%E8%B0%AD"
+    },
+    {
+      "id": "wx42-chang-an",
+      "name_zh": "长安三万里",
+      "name_en": "Chang An (2023)",
+      "kind": "动画电影",
+      "age_group": "8岁+（小学生必看）",
+      "description_zh": "追光动画2023年历史动画，以高适回忆与李白的交往为线，背景为盛唐到安史之乱；文章称“融入48首经典唐诗”“行走的唐诗教科书”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/zh/f/f4/Chang%27an_san_wan_li_poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 42,
+          "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
+          "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/review/wx42-chang-an.jpg",
+      "origin_group": "article-42",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "诗词与历史启发价值有一定依据，但片长168分钟、以安史之乱战争为背景，对低年级孩子负担大；战争场面强度未取得适龄评测。“小学生必看”“唐诗教科书”属营销式定位，百科记载片中唐诗为50首而非文章所说48首。",
+      "reviewed_age": "未取得独立适龄评测（原文8+）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "诗词与历史启发价值有一定依据，但片长168分钟、以安史之乱战争为背景，对低年级孩子负担大；战争场面强度未取得适龄评测。“小学生必看”“唐诗教科书”属营销式定位，百科记载片中唐诗为50首而非文章所说48首。",
+        "recommended_age": "未取得独立适龄评测（原文8+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C",
+            "checked_date": "2026-11-10",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "维基百科确认：2023年追光动画出品，片长168分钟；片中及片末共出现50首唐诗（文章写48首）；入围第96届奥斯卡最佳动画片角逐名单（非提名）。未取得儿童适龄评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C"
     }
   ]
 }

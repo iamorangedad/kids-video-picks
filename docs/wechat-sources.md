@@ -914,3 +914,37 @@ https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g
 5. [海洋奇缘 / Moana](wechat/动画娱乐类.md#wx28-87a96c32ff66)（已收录，本轮核验：推荐）
 
 来源质量：标题“狂刷”“半年后让孩子流利说英语”无任何证据；“英语老师精心推荐”无署名；结尾“小编整理了100部影片”引流评论。三级难度划分未给依据，且《恐龙当家》台词少的特点被当成优点，与“练开口”目标矛盾。
+
+## 42. 关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看
+
+https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A
+
+**视频数：25**（新增10；15部已收录，其中6部原为第28篇待核验条目，本轮补做CSM核验并移出待核验）
+
+1. [千与千寻](wechat/动画娱乐类.md#wx28-f22721df3fc1)（已收录，推荐；CSM 9+，原文7+）
+2. [龙猫 / My Neighbor Totoro](wechat/动画娱乐类.md#wx42-totoro)（新增，强烈推荐，CSM 5+）
+3. [天空之城 / Castle in the Sky](wechat/动画娱乐类.md#wx42-castle-in-the-sky)（新增，推荐，CSM 8+，原文6+）
+4. [魔女宅急便 / Kiki's Delivery Service](wechat/动画娱乐类.md#wx42-kiki)（新增，强烈推荐，CSM 5+）
+5. [哈尔的移动城堡 / Howl's Moving Castle](wechat/动画娱乐类.md#wx42-howl)（新增，推荐，CSM 8+，原文6+）
+6. [幽灵公主](wechat/动画娱乐类.md#wx28-c0dd7899647d)（已收录，有保留；12+，原文8+）
+7. [借东西的小人阿莉埃蒂 / The Secret World of Arrietty](wechat/动画娱乐类.md#wx42-arrietty)（新增，推荐，CSM 5+）
+8. [寻梦环游记](wechat/动画娱乐类.md#wx28-351506d951f9)（已收录，强烈推荐）
+9. [飞屋环游记](wechat/动画娱乐类.md#wx28-ef1fba7c5337)（已收录，推荐）
+10. [机器人总动员](wechat/动画娱乐类.md#wx28-87c6637160a8)（已收录，强烈推荐）
+11. [头脑特工队](wechat/动画娱乐类.md#wx28-c0746ef341a2)（已收录，强烈推荐）
+12. [怪兽电力公司 / Monsters, Inc.](wechat/动画娱乐类.md#wx28-fec0c6af4716)（已收录，本轮核验：推荐，CSM 5+）
+13. [玩具总动员](wechat/动画娱乐类.md#wx28-d1c2bda06d41)（已收录，强烈推荐）
+14. [美食总动员 / Ratatouille](wechat/动画娱乐类.md#wx28-4fd2436f18b6)（已收录，本轮核验：推荐，CSM 6+）
+15. [心灵奇旅](wechat/动画娱乐类.md#wx28-470d416a514d)（已收录，推荐）
+16. [狮子王（1994） / The Lion King](wechat/动画娱乐类.md#wx28-72b20b5661d5)（已收录，本轮核验：推荐，CSM 6+，原文5+）
+17. [疯狂动物城 / Zootopia](wechat/动画娱乐类.md#wx28-30c8ba6f829a)（已收录，本轮核验：推荐，CSM 8+，原文5+）
+18. [冰雪奇缘 / Frozen](wechat/动画娱乐类.md#wx28-365bc2d21bdd)（已收录，本轮核验：推荐，CSM 5+）
+19. [玛丽和马克思 / Mary and Max](wechat/not-recommended.md#wx42-mary-and-max)（新增，不推荐，CSM 14+，原文10+）
+20. [西葫芦的生活 / My Life as a Zucchini](wechat/情感品格类.md#wx42-zucchini)（新增，有保留，CSM 11+，原文8+）
+21. [伦敦一家人](wechat/情感品格类.md#ethel-ernest)（已收录，有保留；编辑暂议10+，原文7+）
+22. [大闹天宫](wechat/动画娱乐类.md#wx42-havoc-in-heaven)（新增，有保留，无适龄评测）
+23. [天书奇谭](wechat/动画娱乐类.md#wx42-sealed-book)（新增，有保留，无适龄评测）
+24. [长安三万里](wechat/人文类.md#wx42-chang-an)（新增，有保留，无适龄评测；片长168分钟）
+25. [罗小黑战记 / The Legend of Hei](wechat/动画娱乐类.md#wx28-7c343de32e37)（已收录，本轮核验：推荐，CSM 10+，原文7+）
+
+来源质量：署名“天使爸”、转载自“墨小多生活记”。标题“关掉垃圾动画片”“顶级”“零差评”属营销；25部均配豆瓣分，本轮均未核实。有CSM评测的片中，原文年龄多处偏低（天空之城6+→8+、哈尔6+→8+、疯狂动物城5+→8+、罗小黑7+→10+、西葫芦8+→11+、玛丽和马克思10+→14+），《罗小黑战记》“没有激烈的冲突”、《天空之城》“没有利益纷争”与CSM所述不符；《长安三万里》“48首唐诗”与维基百科所载50首不一致；《千与千寻》“首个金熊奖动画”本轮未核实。“附上正版高清观看渠道”只写平台名、无链接，未核实。文末“推荐阅读”含BrainPOP数学动画课抢购推广和作者畅销书购买链接（“阅读原文”），属带货，未作为视频条目收录。
