@@ -3,34 +3,34 @@
   "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 513,
+    "entries": 514,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
-    "article_28_with_independent_review": 54,
-    "pending_article_28": 263,
+    "article_28_with_independent_review": 57,
+    "pending_article_28": 260,
     "by_category": {
       "学习类": 47,
       "人文类": 23,
       "情感品格类": 51,
       "自然类": 36,
       "益智动画类": 1,
-      "动画娱乐类": 355
+      "动画娱乐类": 356
     },
     "by_verdict": {
-      "有保留": 404,
-      "推荐": 72,
+      "有保留": 402,
+      "推荐": 75,
       "强烈推荐": 15,
       "不推荐": 22
     },
-    "with_image": 513,
-    "with_independent_review_poster": 135,
+    "with_image": 514,
+    "with_independent_review_poster": 139,
     "with_original_image_only": 73,
-    "with_title_card": 297,
+    "with_title_card": 294,
     "official_reference_links": 31,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 142,
+    "with_independent_evidence": 146,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -43,7 +43,8 @@
     "article_37_new_entries": 1,
     "article_38_new_entries": 5,
     "article_39_new_entries": 11,
-    "article_40_new_entries": 8
+    "article_40_new_entries": 8,
+    "article_41_new_entries": 1
   },
   "entries": [
     {
@@ -5332,6 +5333,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 41,
+          "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
+          "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
         }
       ],
       "also_in_prior_research": false,
@@ -12789,37 +12795,54 @@
     {
       "id": "wx28-b21330ff4b25",
       "name_zh": "夏洛特的网",
-      "name_en": null,
+      "name_en": "Charlotte's Web (2006)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2006,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第41篇也推荐此片（作为英语“开口”电影）。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-b21330ff4b25.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/charlotte-cover.jpg",
+      "image_path": "images/review/wx28-b21330ff4b25.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 41,
+          "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
+          "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评5+、编辑4/5，忠于E.B. White原著；有屠宰威胁和夏洛死亡等可能令幼儿难过的情节，少量骂人话（stupid、hideous）。文章未写版本，第28篇记录为2006年版，按此对应；1973年动画版CSM同为5+。",
+      "reviewed_age": "5+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "5+（CSM）",
+        "rationale_zh": "CSM评5+、编辑4/5，忠于E.B. White原著；有屠宰威胁和夏洛死亡等可能令幼儿难过的情节，少量骂人话（stupid、hideous）。文章未写版本，第28篇记录为2006年版，按此对应；1973年动画版CSM同为5+。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/charlottes-web-2006",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Charlotte's Web (2006)",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -12837,8 +12860,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/charlottes-web-2006"
     },
     {
       "id": "wx28-ce1556afca1d",
@@ -18169,37 +18193,54 @@
     {
       "id": "wx28-11043ab9f170",
       "name_zh": "恐龙当家",
-      "name_en": null,
+      "name_en": "The Good Dinosaur",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2015,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第41篇也推荐此片（作为英语“开口”电影）。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-11043ab9f170.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-good-dinosaur-0-min.jpg",
+      "image_path": "images/review/wx28-11043ab9f170.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 41,
+          "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
+          "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
+      "pending_verification": false,
       "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "review_rationale_zh": "CSM评7+、编辑3/5：画面出色、有忠诚与勇敢的主题，但有大量险境和丧失情节（阿洛的父亲死亡）。文章称“台词少、一半时间在看”，这恰恰意味着英语输入有限，与“练开口”定位矛盾。",
+      "reviewed_age": "7+（CSM）",
       "review": {
         "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "recommended_age": "7+（CSM）",
+        "rationale_zh": "CSM评7+、编辑3/5：画面出色、有忠诚与勇敢的主题，但有大量险境和丧失情节（阿洛的父亲死亡）。文章称“台词少、一半时间在看”，这恰恰意味着英语输入有限，与“练开口”定位矛盾。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-good-dinosaur",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "The Good Dinosaur",
+            "age": "7+",
+            "editorial_score": "3",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -18217,8 +18258,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-good-dinosaur"
     },
     {
       "id": "wx28-dc51a202d944",
@@ -18871,37 +18913,54 @@
     {
       "id": "wx28-87a96c32ff66",
       "name_zh": "海洋奇缘1",
-      "name_en": null,
+      "name_en": "Moana",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2016,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第41篇也推荐此片（作为英语“开口”电影）。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-87a96c32ff66.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/moana-resized-opt.jpg",
+      "image_path": "images/review/wx28-87a96c32ff66.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 41,
+          "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
+          "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+、编辑4/5；有几段黑暗和可能吓人的场面（巨大熔岩怪等），无粗口。歌曲助记属合理用法，但“流利脱口而出、纯正语调”是营销说法。",
+      "reviewed_age": "6+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "6+（CSM）",
+        "rationale_zh": "CSM评6+、编辑4/5；有几段黑暗和可能吓人的场面（巨大熔岩怪等），无粗口。歌曲助记属合理用法，但“流利脱口而出、纯正语调”是营销说法。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/moana",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Moana",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -18919,8 +18978,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/moana"
     },
     {
       "id": "wx28-36a5b16cfb45",
@@ -30411,6 +30471,71 @@
         },
         "pacing": "未逐镜测量。"
       }
+    },
+    {
+      "id": "wx41-curious-george",
+      "name_zh": "好奇的乔治",
+      "name_en": "Curious George (2006)",
+      "kind": "动画电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章把它列为“第一级：入门”：经典绘本改编动画电影，小猴子乔治在城市里闹出小插曲；称旁白像耐心的解说员、一句一顿，能学到日常动词名词。未写年份，按动画电影推定为2006年版。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/curious-george-2006-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 41,
+          "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
+          "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx41-curious-george.jpg",
+      "origin_group": "article-41",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评4+、编辑4/5，适合学前儿童；CSM指出明显的植入广告（Dole水果、大众汽车）、少量调情与一段情绪强烈的场面。文章“旁白一句一顿”“半年流利说英语”未经核实，属营销。",
+      "reviewed_age": "4+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评4+、编辑4/5，适合学前儿童；CSM指出明显的植入广告（Dole水果、大众汽车）、少量调情与一段情绪强烈的场面。文章“旁白一句一顿”“半年流利说英语”未经核实，属营销。",
+        "recommended_age": "4+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-07",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/curious-george-2006",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Curious George (2006)",
+            "age": "4+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/curious-george-2006"
     }
   ]
 }
