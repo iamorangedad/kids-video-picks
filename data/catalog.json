@@ -1,42 +1,42 @@
 {
-  "updated": "2026-11-06",
-  "scope": "WeChat-only; one row per deduplicated work; see pending_verification and verdict.",
+  "updated": "2026-11-10",
+  "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 524,
+    "entries": 558,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 63,
     "pending_article_28": 254,
     "by_category": {
-      "学习类": 47,
-      "人文类": 24,
-      "情感品格类": 53,
-      "自然类": 36,
+      "学习类": 62,
+      "人文类": 31,
+      "情感品格类": 57,
+      "自然类": 42,
       "益智动画类": 1,
-      "动画娱乐类": 363
+      "动画娱乐类": 365
     },
     "by_verdict": {
-      "有保留": 400,
-      "推荐": 84,
-      "强烈推荐": 17,
+      "有保留": 406,
+      "推荐": 104,
+      "强烈推荐": 25,
       "不推荐": 23
     },
-    "with_image": 524,
-    "with_independent_review_poster": 152,
+    "with_image": 558,
+    "with_independent_review_poster": 181,
     "with_original_image_only": 73,
-    "with_title_card": 288,
-    "official_reference_links": 31,
+    "with_title_card": 292,
+    "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 162,
+    "with_independent_evidence": 192,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 19,
+    "with_official_source_only": 23,
     "article_33_new_entries": 7,
     "article_35_new_entries": 2,
     "article_36_new_entries": 1,
@@ -45,7 +45,9 @@
     "article_39_new_entries": 11,
     "article_40_new_entries": 8,
     "article_41_new_entries": 1,
-    "article_42_new_entries": 10
+    "article_42_new_entries": 10,
+    "web_search_2026_11_10_new_entries": 34,
+    "web_search_2026_11_10_existing_source_appended": 3
   },
   "entries": [
     {
@@ -1042,6 +1044,11 @@
           "article_no": 23,
           "title": "两个女儿6岁和2岁，我们只看这8部动画片",
           "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        },
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://github.com/iamorangedad/kids-video-picks/blob/main/docs/web-search-sources.md"
         }
       ],
       "category": "学习类",
@@ -5872,6 +5879,11 @@
           "article_no": 23,
           "title": "两个女儿6岁和2岁，我们只看这8部动画片",
           "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        },
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://github.com/iamorangedad/kids-video-picks/blob/main/docs/web-search-sources.md"
         }
       ],
       "also_in_prior_research": false,
@@ -6028,6 +6040,11 @@
           "article_no": 23,
           "title": "两个女儿6岁和2岁，我们只看这8部动画片",
           "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        },
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://github.com/iamorangedad/kids-video-picks/blob/main/docs/web-search-sources.md"
         }
       ],
       "also_in_prior_research": false,
@@ -31328,6 +31345,2320 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C"
+    },
+    {
+      "id": "web-sesame-street",
+      "name_zh": "芝麻街",
+      "name_en": "Sesame Street",
+      "kind": "教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "美国公共电视长期学前教育节目，覆盖早期识字、数学、科学，并用音乐、语言和故事介绍多元文化。可从PBS KIDS官方站与Sesame Street官网进入。CSM评2+、编辑5/5。节目也会处理情绪和社会议题，适合由成人共看，而不是让幼儿独自连刷。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/sesame",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/sesame-street-tv-poster-image.jpeg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-sesame-street.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/sesame-street",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/sesame"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评2+，评测页标注Common Sense Selection，肯定其早期学习内容仍然成立。年龄标签不是把节目当作两岁以下幼儿的常规娱乐屏幕；按AAP既有政策，18个月以下一般避免娱乐屏幕，18—24个月若看需成人共看优质内容。不能把节目效果宣传成保证提高成绩或语言能力。",
+      "reviewed_age": "2+（CSM；需共看）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评2+，评测页标注Common Sense Selection，肯定其早期学习内容仍然成立。年龄标签不是把节目当作两岁以下幼儿的常规娱乐屏幕；按AAP既有政策，18个月以下一般避免娱乐屏幕，18—24个月若看需成人共看优质内容。不能把节目效果宣传成保证提高成绩或语言能力。",
+        "recommended_age": "2+（CSM；需共看）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/sesame-street",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Sesame Street",
+            "age": "2+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-sesame-street.jpg"
+    },
+    {
+      "id": "web-peg-cat",
+      "name_zh": "佩格和猫",
+      "name_en": "Peg + Cat",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS KIDS学前数学动画：佩格和猫用计数、排序、分组等基础数学解决日常问题。可从PBS KIDS官方节目页进入。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/peg",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/peg-cat-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-peg-cat.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/peg-cat",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/peg"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。短集适合共看后用实物数一数、排一排，不能指望只看电视就掌握数学。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。短集适合共看后用实物数一数、排一排，不能指望只看电视就掌握数学。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/peg-cat",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Peg + Cat",
+            "age": "3+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-peg-cat.jpg"
+    },
+    {
+      "id": "web-odd-squad",
+      "name_zh": "奇探小队",
+      "name_en": "Odd Squad",
+      "kind": "真人与动画结合",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS KIDS小学低年级数学探案节目，孩子探员用加法、减法、规律和数的关系解决怪事。可从PBS KIDS官方节目页进入。CSM评5+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/oddsquad",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/odd-squad-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-odd-squad.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/odd-squad",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/oddsquad"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评5+，肯定把年级数学概念放进活泼的多媒体探案里，适合小学低中年级，而不是学前班起步。看后用实际问题练一练比连刷更有价值。官方页不保证当前地区可看全部正片。",
+      "reviewed_age": "5+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评5+，肯定把年级数学概念放进活泼的多媒体探案里，适合小学低中年级，而不是学前班起步。看后用实际问题练一练比连刷更有价值。官方页不保证当前地区可看全部正片。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/odd-squad",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Odd Squad",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-odd-squad.jpg"
+    },
+    {
+      "id": "web-work-it-out-wombats",
+      "name_zh": "袋熊开动脑筋",
+      "name_en": "Work It Out Wombats!",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS KIDS学前动画，三只袋熊兄妹用计算思维（分解问题、尝试办法）解决生活挑战。可从PBS KIDS官方节目页进入。CSM评4+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/wombats",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/work-it-out-wombats.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-work-it-out-wombats.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/work-it-out-wombats",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/wombats"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评4+，评测页标注Common Sense Selection，肯定其解决问题和计算思维，而不是教孩子写代码。适合学前到小学低年级共看，看后一起拆任务、试办法，比把节目当背景声更符合其长处。",
+      "reviewed_age": "4+（CSM）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评4+，评测页标注Common Sense Selection，肯定其解决问题和计算思维，而不是教孩子写代码。适合学前到小学低年级共看，看后一起拆任务、试办法，比把节目当背景声更符合其长处。",
+        "recommended_age": "4+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/work-it-out-wombats",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Work It Out Wombats!",
+            "age": "4+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-work-it-out-wombats.jpg"
+    },
+    {
+      "id": "web-blues-clues-you",
+      "name_zh": "蓝色线索与你",
+      "name_en": "Blue's Clues & You!",
+      "kind": "教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "《蓝色线索》的重制版，主持人邀请孩子一起找线索、解谜，侧重学前准备阅读技能。已核实官方YouTube频道可打开。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.youtube.com/@bluesclues",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/blues-clues-you-tv-poster-image.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-blues-clues-you.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/blues-clues-you",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.youtube.com/@bluesclues"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定重制版延续互动解谜和早期读写方向。YouTube频道有广告、自动播放和评论风险，应用官方应用或成人先排队播放，而不是放开自动连播。互动效果取决于孩子是否被邀请开口回答，而不是“看了就会识字”。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定重制版延续互动解谜和早期读写方向。YouTube频道有广告、自动播放和评论风险，应用官方应用或成人先排队播放，而不是放开自动连播。互动效果取决于孩子是否被邀请开口回答，而不是“看了就会识字”。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/blues-clues-you",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Blue's Clues & You!",
+            "age": "3+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-blues-clues-you.jpg"
+    },
+    {
+      "id": "web-ask-the-storybots",
+      "name_zh": "问故事机器人",
+      "name_en": "Ask the StoryBots",
+      "kind": "教育动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "儿童提出大问题，故事机器人去寻找答案，节目中有音乐、采访和幽默段落。CSM评3+、编辑4/5，评测页列出的平台包括Netflix。本轮未核实可打开的特定正片播放页（不猜测平台片号），故链接栏留空。此次为2026年11月全网检索收录。",
+      "video_url": null,
+      "video_note": "CSM评测页提到Netflix等平台，但本轮未核实可打开且与作品对应的官方播放页；不猜测片号。",
+      "video_kind": "未核实",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/storybots-vertical-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-ask-the-storybots.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/ask-the-storybots",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.commonsensemedia.org/tv-reviews/ask-the-storybots"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，肯定它能把孩子的大问题讲得有趣，家长也愿意共看。杂志式结构里有歌曲和穿插段落，节奏因集而异。没有已核实的官方免费正片入口，不把商业流媒体目录当成已验证可播。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，肯定它能把孩子的大问题讲得有趣，家长也愿意共看。杂志式结构里有歌曲和穿插段落，节奏因集而异。没有已核实的官方免费正片入口，不把商业流媒体目录当成已验证可播。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/ask-the-storybots",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Ask the StoryBots",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-G"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-ask-the-storybots.jpg"
+    },
+    {
+      "id": "web-ada-twist-scientist",
+      "name_zh": "科学家艾达",
+      "name_en": "Ada Twist, Scientist",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "根据同名绘本改编的学前科学动画，主角是喜欢提问的黑人女孩科学家。CSM评3+、编辑4/5。本轮未核实可打开的特定正片播放页，故链接栏留空。此次为2026年11月全网检索收录。",
+      "video_url": null,
+      "video_note": "本轮未核实可打开且与作品对应的官方播放页；不猜测流媒体片号。",
+      "video_kind": "未核实",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/ada-twist-tv-poster-image.jpeg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-ada-twist-scientist.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/ada-twist-scientist",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.commonsensemedia.org/tv-reviews/ada-twist-scientist"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定它能激发学前儿童对科学的兴趣，并提供积极的角色表征。它是故事化的科学启蒙，不是系统科学课程；每集有两个要用科学解决的问题，仍需成人帮助把好奇落到观察和动手上。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定它能激发学前儿童对科学的兴趣，并提供积极的角色表征。它是故事化的科学启蒙，不是系统科学课程；每集有两个要用科学解决的问题，仍需成人帮助把好奇落到观察和动手上。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/ada-twist-scientist",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Ada Twist, Scientist",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-ada-twist-scientist.jpg"
+    },
+    {
+      "id": "web-bill-nye",
+      "name_zh": "比尔教科学",
+      "name_en": "Bill Nye the Science Guy",
+      "kind": "真人科普",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "1990年代经典科学节目，比尔·奈用幽默和演示讲生物多样性、磁学、太空等，单集约25分钟。已核实其个人官网可打开，内有The Science Guy相关入口。CSM评7+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.billnye.com/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/bill-nye-the-science-guy-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-bill-nye.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/bill-nye-the-science-guy",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.billnye.com/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑5/5、评7+，评测页标注Common Sense Selection，肯定其把科学讲得有趣。节目年代较早，部分知识点或演示需对照更新资料，不能当作最新教材。官网是人物与作品入口，不代表能在当前地区免费看完全部正片。",
+      "reviewed_age": "7+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑5/5、评7+，评测页标注Common Sense Selection，肯定其把科学讲得有趣。节目年代较早，部分知识点或演示需对照更新资料，不能当作最新教材。官网是人物与作品入口，不代表能在当前地区免费看完全部正片。",
+        "recommended_age": "7+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/bill-nye-the-science-guy",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Bill Nye the Science Guy",
+            "age": "7+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-bill-nye.jpg"
+    },
+    {
+      "id": "web-ted-ed",
+      "name_zh": "TED-Ed",
+      "name_en": "TED-Ed",
+      "kind": "教育频道",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "非营利教育机构TED-Ed的动画短视频频道，题材跨科学、历史、艺术、健康和谜题。已核实YouTube官方频道与ed.ted.com可打开。CSM评9+、编辑5/5。此次为2026年11月全网检索收录。库中已有的TED-Ed相关合集《揭秘身体奥秘》《了不起的自然》不在此重复建条。",
+      "video_url": "https://www.youtube.com/@TEDEd",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://ed.ted.com/teded-logo-600-600.png",
+      "image_note": "来自TED-Ed官网的标识图，约600像素，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-ted-ed.jpg",
+      "image_kind": "官方页面标识（版权归原权利人）",
+      "image_source": "https://ed.ted.com/",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.youtube.com/@TEDEd"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM对频道整体评9+、编辑5/5，肯定制作质量与选题广度，同时也写明部分集目涉及性教育、心理健康和历史阴暗面，需要成人挑选或共看。合集不能用一个年龄给所有视频背书，低龄儿童不宜当日常频道浏览。YouTube有广告和自动播放，建议关闭自动播放并按主题选看。",
+      "reviewed_age": "9+（CSM；须挑集）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM对频道整体评9+、编辑5/5，肯定制作质量与选题广度，同时也写明部分集目涉及性教育、心理健康和历史阴暗面，需要成人挑选或共看。合集不能用一个年龄给所有视频背书，低龄儿童不宜当日常频道浏览。YouTube有广告和自动播放，建议关闭自动播放并按主题选看。",
+        "recommended_age": "9+（CSM；须挑集）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/youtube-reviews/ted-ed",
+            "checked_date": "2026-11-10",
+            "scope": "频道整体，不是每一集的单独认证",
+            "work_title": "TED-Ed",
+            "age": "9+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑对YouTube频道的评测，不是每一集的适龄认证，也不是学习效果实验证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-ted-ed.jpg"
+    },
+    {
+      "id": "web-super-why",
+      "name_zh": "超级为什么",
+      "name_en": "Super WHY!",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS学前识字动画，小英雄进入故事里辨认字母和单词。CSM评3+、编辑4/5。注意：pbskids.org/superwhy 在本轮会跳转到衍生节目《Super Why's Comic Book Adventures》，不是原版页面；本条采用已打开的原版视频页 pbskids.org/videos/super-why。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/videos/super-why",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/super-why-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-super-why.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/super-why",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/videos/super-why"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，肯定其早期读写和友谊、合作主题，并写明没有需要回避的不良内容。识字动画不能代替真人共读。官方站点路径可能指向衍生节目，选看时要核对该集是否为原版《Super WHY!》。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，肯定其早期读写和友谊、合作主题，并写明没有需要回避的不良内容。识字动画不能代替真人共读。官方站点路径可能指向衍生节目，选看时要核对该集是否为原版《Super WHY!》。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/super-why",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Super WHY!",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-super-why.jpg"
+    },
+    {
+      "id": "web-magic-school-bus",
+      "name_zh": "神奇校车",
+      "name_en": "The Magic School Bus",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "1990年代经典科学动画：弗里兹老师带学生进行奇幻实地考察。本条对应原版系列，CSM评5+、编辑3/5。2017年重制《The Magic School Bus Rides Again》由CSM另页评5+、编辑4/5，不把两版评分混用。本轮未核实可打开的特定正片播放页。此次为2026年11月全网检索收录。",
+      "video_url": null,
+      "video_note": "本轮未核实可打开且对应1990年代原版的官方播放页；不把2017重制版页面当作原版入口。",
+      "video_kind": "未核实",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/the-magic-school-bus-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-magic-school-bus.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/the-magic-school-bus",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.commonsensemedia.org/tv-reviews/the-magic-school-bus"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM对原版评5+、编辑3/5，认为好玩、节奏快且有教育性，但也指出有时课程不太好跟上。奇幻冒险里会有看似危险的场景。1990年代科学内容需对照更新资料。重制版是另一部作品，已另查CSM，不在本条下替换评分。",
+      "reviewed_age": "5+（CSM；原版）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM对原版评5+、编辑3/5，认为好玩、节奏快且有教育性，但也指出有时课程不太好跟上。奇幻冒险里会有看似危险的场景。1990年代科学内容需对照更新资料。重制版是另一部作品，已另查CSM，不在本条下替换评分。",
+        "recommended_age": "5+（CSM；原版）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/the-magic-school-bus",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "The Magic School Bus",
+            "age": "5+",
+            "editorial_score": "3",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-G"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-magic-school-bus.jpg"
+    },
+    {
+      "id": "web-ms-rachel",
+      "name_zh": "瑞秋老师",
+      "name_en": "Ms. Rachel",
+      "kind": "教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "先在YouTube流行、后有流媒体汇编的婴幼儿语言与音乐短片，鼓励跟唱、跟做。已核实官方YouTube频道可打开。CSM所评的是按发育水平汇编的版本，评2+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.youtube.com/@msrachel",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/msrachel-tv-posterimage.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-ms-rachel.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/ms-rachel",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.youtube.com/@msrachel"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑5/5、评2+，评测页标注Common Sense Selection，肯定其用歌曲和互动促进语言学习。CSM也提到有一集出现推广向的学前主持嘉宾。2+不是建议把节目当作两岁以下的日常背景电视；18个月以下一般避免娱乐屏幕，即便共看也要限量。YouTube广告和自动播放需要成人管控。",
+      "reviewed_age": "2+（CSM；须共看，非婴儿常规屏幕）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑5/5、评2+，评测页标注Common Sense Selection，肯定其用歌曲和互动促进语言学习。CSM也提到有一集出现推广向的学前主持嘉宾。2+不是建议把节目当作两岁以下的日常背景电视；18个月以下一般避免娱乐屏幕，即便共看也要限量。YouTube广告和自动播放需要成人管控。",
+        "recommended_age": "2+（CSM；须共看，非婴儿常规屏幕）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/ms-rachel",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Ms. Rachel",
+            "age": "2+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-ms-rachel.jpg"
+    },
+    {
+      "id": "web-xiaoxiao-zhihuishu",
+      "name_zh": "小小智慧树",
+      "name_en": null,
+      "kind": "电视栏目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "中央电视台少儿频道原创杂志型益智栏目。官方栏目页写明自2008年起、在多元智能框架下为1—3岁幼儿制作，工作日早间播出，页面可打开并有完整视频入口。无Common Sense Media等独立适龄评测。此次为2026年11月全网检索收录。",
+      "video_url": "https://tv.cctv.cn/lm/xxzhs/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": null,
+      "image_note": "官方页配图偏小或难以确认为本栏目海报，改用文字资料卡。",
+      "image_path": "images/title-cards/web-xiaoxiao-zhihuishu.svg",
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://tv.cctv.cn/lm/xxzhs/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "有官方栏目定位和可打开的节目页，但只有制作方说明，不能当作独立儿童内容评测。官方起始年龄为1岁，低于常见儿科媒体使用建议中的娱乐屏幕起点，婴儿阶段更不宜把节目当看护工具。具体环节质量需家长按集预看，不把“总台出品”等同于已验证适龄或学习效果。",
+      "reviewed_age": "官方写1—3岁；18个月以下不建议作为娱乐屏幕（AAP既有政策），须成人共看",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "有官方栏目定位和可打开的节目页，但只有制作方说明，不能当作独立儿童内容评测。官方起始年龄为1岁，低于常见儿科媒体使用建议中的娱乐屏幕起点，婴儿阶段更不宜把节目当看护工具。具体环节质量需家长按集预看，不把“总台出品”等同于已验证适龄或学习效果。",
+        "recommended_age": "官方写1—3岁；18个月以下不建议作为娱乐屏幕（AAP既有政策），须成人共看",
+        "status": "只有制作方官方页面（不算独立参考）",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/title-cards/web-xiaoxiao-zhihuishu.svg"
+    },
+    {
+      "id": "web-zhihuishu",
+      "name_zh": "智慧树",
+      "name_en": null,
+      "kind": "电视栏目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "中央电视台少儿频道益智栏目。官方栏目页写明创办于2003年，以游戏承载教育理念，面向3—6岁学龄前儿童，工作日下午在少儿频道播出，页面可打开。无独立适龄评测。此次为2026年11月全网检索收录。",
+      "video_url": "https://tv.cctv.cn/lm/zhs/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": null,
+      "image_note": "官方页配图未能确认为稳定的栏目海报，改用文字资料卡。",
+      "image_path": "images/title-cards/web-zhihuishu.svg",
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://tv.cctv.cn/lm/zhs/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "官方页对年龄和栏目定位有说明，且可打开，但没有作品级独立评测，不能据此给强烈推荐或保证教育效果。适合作为国内学前节目的官方入口之一，由成人按集选择，而不是把整档栏目当作已核验的优质课。",
+      "reviewed_age": "3+（官方栏目定位；无独立评测）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "官方页对年龄和栏目定位有说明，且可打开，但没有作品级独立评测，不能据此给强烈推荐或保证教育效果。适合作为国内学前节目的官方入口之一，由成人按集选择，而不是把整档栏目当作已核验的优质课。",
+        "recommended_age": "3+（官方栏目定位；无独立评测）",
+        "status": "只有制作方官方页面（不算独立参考）",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/title-cards/web-zhihuishu.svg"
+    },
+    {
+      "id": "web-kuaile-tiyan",
+      "name_zh": "快乐体验",
+      "name_en": null,
+      "kind": "纪实现场节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "CCTV-14栏目。官方页面说明用纪实手法，让中学生以自己的身份和视角进入设定情境，做角色互换、行业体验和自然探索。节目页可打开。不宜当作低幼节目。此次为2026年11月全网检索收录。",
+      "video_url": "https://tv.cctv.cn/lm/klty/index.shtml",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": null,
+      "image_note": "官方页og图为频道通用标识，不能当本栏目海报，改用文字资料卡。",
+      "image_path": "images/title-cards/web-kuaile-tiyan.svg",
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://tv.cctv.cn/lm/klty/index.shtml"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "学习类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "官方明确写的是中学生视角，不是幼儿或小学低年级栏目。没有独立适龄评测，具体集目（野外训练、职业体验等）强度需成人预看。不能因为它出现在少儿频道就把适龄下调到学龄前。",
+      "reviewed_age": "11+（编辑暂议，依据官方“中学生”表述；无独立评测）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "官方明确写的是中学生视角，不是幼儿或小学低年级栏目。没有独立适龄评测，具体集目（野外训练、职业体验等）强度需成人预看。不能因为它出现在少儿频道就把适龄下调到学龄前。",
+        "recommended_age": "11+（编辑暂议，依据官方“中学生”表述；无独立评测）",
+        "status": "只有制作方官方页面（不算独立参考）",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/title-cards/web-kuaile-tiyan.svg"
+    },
+    {
+      "id": "web-wild-kratts",
+      "name_zh": "克拉特兄弟",
+      "name_en": "Wild Kratts",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "真实动物学家克里斯与马丁·克拉特为动画中的自己配音，讲野生动物行为、栖息地和适应。可从PBS KIDS官方节目页进入。CSM评6+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/wildkratts",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/wild-kratts-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-wild-kratts.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/wild-kratts",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/wildkratts"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评6+，肯定其动物与科学内容。这是带着冒险情节的科普动画，不是纯粹纪录，可能有追逐或看似危险的场面，因此起点高于许多学前自然片。不能用它代替户外观察，英语词汇对低龄听力也有门槛。",
+      "reviewed_age": "6+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评6+，肯定其动物与科学内容。这是带着冒险情节的科普动画，不是纯粹纪录，可能有追逐或看似危险的场面，因此起点高于许多学前自然片。不能用它代替户外观察，英语词汇对低龄听力也有门槛。",
+        "recommended_age": "6+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/wild-kratts",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Wild Kratts",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-wild-kratts.jpg"
+    },
+    {
+      "id": "web-dinosaur-train",
+      "name_zh": "恐龙列车",
+      "name_en": "Dinosaur Train",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS学前动画，小恐龙乘火车认识不同史前物种，并介绍假设、食性等简单科学词。可从PBS KIDS官方节目页进入。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/dinosaurtrain",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/dinosaur-train-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-dinosaur-train.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/dinosaur-train",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/dinosaurtrain"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，肯定它保护好奇心并用故事解释基础科学词语。内容是古生物科普故事，不是最新古生物学论文；部分物种或场景仍可能让特别敏感的幼儿紧张，成人可按集预看。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，肯定它保护好奇心并用故事解释基础科学词语。内容是古生物科普故事，不是最新古生物学论文；部分物种或场景仍可能让特别敏感的幼儿紧张，成人可按集预看。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/dinosaur-train",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Dinosaur Train",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-dinosaur-train.jpg"
+    },
+    {
+      "id": "web-jonathan-bird-blue-world",
+      "name_zh": "乔纳森·伯德的蓝色世界",
+      "name_en": "Jonathan Bird's Blue World",
+      "kind": "自然纪录片",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "水下摄影师乔纳森·伯德主持的家庭向海洋探险系列，介绍鲨鱼、海牛、鲸等海洋生物。已核实官方网站可打开。CSM评5+、编辑4/5，电视分级TV-G。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.blueworldtv.com/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/p413197-b-v7-ac.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-jonathan-bird-blue-world.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/jonathan-birds-blue-world",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.blueworldtv.com/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评5+，肯定其把海洋生物多样性讲得适合全家。片中会近距离出现大型海洋动物，对怕水或怕鲨鱼的孩子需要预告。官网是节目与教育资源入口，不代表当前地区可免费看完全部正片。",
+      "reviewed_age": "5+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评5+，肯定其把海洋生物多样性讲得适合全家。片中会近距离出现大型海洋动物，对怕水或怕鲨鱼的孩子需要预告。官网是节目与教育资源入口，不代表当前地区可免费看完全部正片。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/jonathan-birds-blue-world",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Jonathan Bird's Blue World",
+            "age": "5+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-G"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-jonathan-bird-blue-world.jpg"
+    },
+    {
+      "id": "web-nature-pbs",
+      "name_zh": "自然（PBS）",
+      "name_en": "Nature",
+      "kind": "自然纪录片",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS长期自然纪录片系列，题材跨动物、地质与气象，画面精美，也不回避残酷一面。已核实官方站点可打开。CSM评7+、编辑4/5，分级TV-PG。官方站另有Nature Jr.等合集，本条只评主系列，不把Jr.的适龄套用过来。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.pbs.org/wnet/nature/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/nature-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-nature-pbs.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/nature",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.pbs.org/wnet/nature/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评7+，称其为出色的自然观察，同时明确提醒可能出现动物被杀和灾难场面，建议先在官网预看集目。内容深浅不一，不适合作为幼儿日常自然启蒙。主系列与Nature Jr.不能混为一个年龄。",
+      "reviewed_age": "7+（CSM；须按集预看）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评7+，称其为出色的自然观察，同时明确提醒可能出现动物被杀和灾难场面，建议先在官网预看集目。内容深浅不一，不适合作为幼儿日常自然启蒙。主系列与Nature Jr.不能混为一个年龄。",
+        "recommended_age": "7+（CSM；须按集预看）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/nature",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Nature",
+            "age": "7+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-PG"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-nature-pbs.jpg"
+    },
+    {
+      "id": "web-puffin-rock",
+      "name_zh": "海鹦岩",
+      "name_en": "Puffin Rock",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "爱尔兰学前动画，小海鹦乌娜和弟弟在岛上认识不同动物的习性与关系，叙事温和。已核实官方网站可打开。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://puffinrock.com/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/puffin-rock-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-puffin-rock.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/puffin-rock",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://puffinrock.com/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其用探索介绍基本自然概念，并呈现关爱的家庭和朋友关系。它是温柔的拟人故事，不是野生动物纪录。官网有观看入口说明，仍不代表当前地区可免费看完全部季集。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其用探索介绍基本自然概念，并呈现关爱的家庭和朋友关系。它是温柔的拟人故事，不是野生动物纪录。官网有观看入口说明，仍不代表当前地区可免费看完全部季集。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/puffin-rock",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Puffin Rock",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-puffin-rock.jpg"
+    },
+    {
+      "id": "web-nat-geo-kids",
+      "name_zh": "国家地理儿童",
+      "name_en": "National Geographic Kids",
+      "kind": "网站与视频",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "国家地理面向儿童的网站，有短视频、动物资料、游戏和杂志相关内容。已核实官网可打开。CSM对网站评8+、编辑4/5，指出广告和推广多，部分视频有捕食场面，部分内容需付费订阅。此次为2026年11月全网检索收录。这不是单一部剧集。",
+      "video_url": "https://kids.nationalgeographic.com/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_x_y_medium/public/product-images/csm-website/nationalgeographickids-website-icon-image.jpg",
+      "image_note": "来自CSM网站评测页的标识图，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-nat-geo-kids.jpg",
+      "image_kind": "独立评测页所标网站图标（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/website-reviews/national-geographic-kids",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://kids.nationalgeographic.com/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "自然类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM肯定其动物和地理内容质量，也明确批评广告、促销和付费墙，并提醒有动物捕猎画面。作为网站整体评测，不能给每一条视频或游戏同一个年龄。不宜让儿童独自在充满推广信息的页面里自由点选。",
+      "reviewed_age": "8+（CSM网站评测）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM肯定其动物和地理内容质量，也明确批评广告、促销和付费墙，并提醒有动物捕猎画面。作为网站整体评测，不能给每一条视频或游戏同一个年龄。不宜让儿童独自在充满推广信息的页面里自由点选。",
+        "recommended_age": "8+（CSM网站评测）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/website-reviews/national-geographic-kids",
+            "checked_date": "2026-11-10",
+            "scope": "网站整体，不是单部影片认证",
+            "work_title": "National Geographic Kids",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑对网站的评测，不是每一条视频的适龄认证；评测提到广告、促销、部分付费内容和捕食画面。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-nat-geo-kids.jpg"
+    },
+    {
+      "id": "web-almas-way",
+      "name_zh": "阿尔玛的方式",
+      "name_en": "Alma's Way",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "由《芝麻街》的索尼娅·曼萨诺创作，讲述布朗克斯六岁波多黎各裔女孩阿尔玛如何思考问题和看待身边文化。可从PBS KIDS官方节目页进入。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/almasway",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/almas-way-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-almas-way.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/almas-way",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/almasway"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其对波多黎各文化和解决问题过程的呈现。它是文化与社交启蒙，不是系统人文课。适合共看后聊聊“她是怎么想的”，而不是只当背景动画。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其对波多黎各文化和解决问题过程的呈现。它是文化与社交启蒙，不是系统人文课。适合共看后聊聊“她是怎么想的”，而不是只当背景动画。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/almas-way",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Alma's Way",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-almas-way.jpg"
+    },
+    {
+      "id": "web-lets-go-luna",
+      "name_zh": "出发吧，露娜",
+      "name_en": "Let's Go, Luna!",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "三个小动物随马戏团环球旅行，在各地接触饮食、音乐、建筑和简单语句。可从PBS KIDS官方节目页进入。CSM评4+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/luna",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/lets-go-luna-poster0.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-lets-go-luna.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/lets-go-luna",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/luna"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评4+，评测页标注Common Sense Selection，肯定其用旅行故事介绍世界文化、音乐和地理。每集只能带出有限的文化片段，难免简化，不能代替真实交流或更完整的文化学习。适合对艺术和人文感兴趣的学前到小学低年级共看。",
+      "reviewed_age": "4+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评4+，评测页标注Common Sense Selection，肯定其用旅行故事介绍世界文化、音乐和地理。每集只能带出有限的文化片段，难免简化，不能代替真实交流或更完整的文化学习。适合对艺术和人文感兴趣的学前到小学低年级共看。",
+        "recommended_age": "4+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/lets-go-luna",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Let's Go, Luna!",
+            "age": "4+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-lets-go-luna.jpg"
+    },
+    {
+      "id": "web-molly-of-denali",
+      "name_zh": "德纳利的莫莉",
+      "name_en": "Molly of Denali",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS动画，阿拉斯加原住民女孩莫莉在当代生活里认识阿萨巴斯卡等原住民族的文化与历史。创作团队包含原住民顾问和配音。可从PBS KIDS官方节目页进入。CSM评5+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/molly",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/molly-of-denali-tv-product-image.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-molly-of-denali.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/molly-of-denali",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/molly"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评5+，评测页标注Common Sense Selection，肯定其文化呈现的认真态度。评测也提醒，寄宿学校等历史话题可能需要成人额外解释。适合小学阶段共看讨论，而不是把复杂历史简化成“看过就懂”。",
+      "reviewed_age": "5+（CSM；部分历史话题需成人解释）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评5+，评测页标注Common Sense Selection，肯定其文化呈现的认真态度。评测也提醒，寄宿学校等历史话题可能需要成人额外解释。适合小学阶段共看讨论，而不是把复杂历史简化成“看过就懂”。",
+        "recommended_age": "5+（CSM；部分历史话题需成人解释）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/molly-of-denali",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Molly of Denali",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "NR"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-molly-of-denali.jpg"
+    },
+    {
+      "id": "web-reading-rainbow",
+      "name_zh": "阅读彩虹",
+      "name_en": "Reading Rainbow",
+      "kind": "教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "1980年代起在PBS播出的经典导读节目，把绘本朗读和实地短片结合起来鼓励阅读。本条对应CSM所评的经典系列（评4+、编辑5/5）。已核实PBS节目页可打开；另有组织网站，可能包含后续产品，不与经典系列混为一谈。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.pbs.org/show/reading-rainbow/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/reading-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-reading-rainbow.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/reading-rainbow",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.pbs.org/show/reading-rainbow/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑5/5、评4+，肯定其让读书变得丰富有趣。经典系列的地区播出版权和集目现状需按PBS页与当地站点核对，不保证能免费看完全部旧集。不为官网或转述中的奖项计数作独立核验。",
+      "reviewed_age": "4+（CSM；经典系列）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑5/5、评4+，肯定其让读书变得丰富有趣。经典系列的地区播出版权和集目现状需按PBS页与当地站点核对，不保证能免费看完全部旧集。不为官网或转述中的奖项计数作独立核验。",
+        "recommended_age": "4+（CSM；经典系列）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/reading-rainbow",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Reading Rainbow",
+            "age": "4+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-reading-rainbow.jpg"
+    },
+    {
+      "id": "web-jacks-big-music-show",
+      "name_zh": "杰克的音乐大秀",
+      "name_en": "Jack's Big Music Show",
+      "kind": "音乐教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "2005年Nick Jr.木偶音乐节目，用节奏、歌词和乐器介绍音乐，常有儿童音乐家嘉宾。CSM评2+、编辑4/5。本轮未找到仍在维护且能打开的官方节目页，链接栏留空。此次为2026年11月全网检索收录。",
+      "video_url": null,
+      "video_note": "本轮未找到仍在维护、能打开且确认对应本节目的官方播放或节目页。",
+      "video_kind": "未核实",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/k7hzzmpzlev19cw6vlkjinccuth.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-jacks-big-music-show.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/jacks-big-music-show",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.commonsensemedia.org/tv-reviews/jacks-big-music-show"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评2+，评测页标注Common Sense Selection，肯定它让幼儿接触乐器和不同风格，并鼓励跟着动起来。节目较旧，正版播放渠道需另行确认，不提供非官方来源。2+仍须成人共看，不宜当作婴儿背景电视。",
+      "reviewed_age": "2+（CSM；须共看）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评2+，评测页标注Common Sense Selection，肯定它让幼儿接触乐器和不同风格，并鼓励跟着动起来。节目较旧，正版播放渠道需另行确认，不提供非官方来源。2+仍须成人共看，不宜当作婴儿背景电视。",
+        "recommended_age": "2+（CSM；须共看）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/jacks-big-music-show",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Jack's Big Music Show",
+            "age": "2+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-jacks-big-music-show.jpg"
+    },
+    {
+      "id": "web-xavier-riddle",
+      "name_zh": "泽维尔与秘密博物馆",
+      "name_en": "Xavier Riddle and the Secret Museum",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS动画，三个孩子进入秘密博物馆，回到过去见历史人物小时候的样子，改编自Ordinary People Change the World书系。可从PBS KIDS官方节目页进入。CSM评8+、编辑3/5，标题就指出历史可能不够严谨。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/xavier",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/xavier-riddle-and-the-secret-museum-tv-poster-image0.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-xavier-riddle.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/xavier-riddle-and-the-secret-museum",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/xavier"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM只给3/5，并写明冒险有趣但史实可能不足，时间旅行段落还可能吓到更小的孩子，因此年龄提到8+。可作引发兴趣的入口，但历史细节必须另找可靠材料核对，不宜当作历史课教材或给低龄儿童当常规片。",
+      "reviewed_age": "8+（CSM）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM只给3/5，并写明冒险有趣但史实可能不足，时间旅行段落还可能吓到更小的孩子，因此年龄提到8+。可作引发兴趣的入口，但历史细节必须另找可靠材料核对，不宜当作历史课教材或给低龄儿童当常规片。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/xavier-riddle-and-the-secret-museum",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Xavier Riddle and the Secret Museum",
+            "age": "8+",
+            "editorial_score": "3",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-G"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-xavier-riddle.jpg"
+    },
+    {
+      "id": "web-dafengche",
+      "name_zh": "大风车",
+      "name_en": null,
+      "kind": "电视栏目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "中央电视台少儿栏目，官方页写创建于1995年6月1日，使命为“尊重、支持、引导、快乐”儿童，并给出少儿频道播出时段，页面可打开。没有独立适龄评测，也未写具体起始年龄。此次为2026年11月全网检索收录。",
+      "video_url": "https://tv.cctv.cn/lm/dfc/index.shtml",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": null,
+      "image_note": "官方页og图为频道通用标识，不能当本栏目海报，改用文字资料卡。",
+      "image_path": "images/title-cards/web-dafengche.svg",
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://tv.cctv.cn/lm/dfc/index.shtml"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "人文类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "它是有官方页面的长期少儿栏目，但本轮只能确认栏目沿革、口号和播出时间，不能确认当前各子栏目的具体内容和适龄。制作方自我定位不能代替独立评测，故仅作有保留存档，供家长按集选择，不进入精选推荐。",
+      "reviewed_age": "未取得独立适龄评测；官方定位为少儿栏目，未写起始年龄",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "它是有官方页面的长期少儿栏目，但本轮只能确认栏目沿革、口号和播出时间，不能确认当前各子栏目的具体内容和适龄。制作方自我定位不能代替独立评测，故仅作有保留存档，供家长按集选择，不进入精选推荐。",
+        "recommended_age": "未取得独立适龄评测；官方定位为少儿栏目，未写起始年龄",
+        "status": "只有制作方官方页面（不算独立参考）",
+        "confidence": "低",
+        "reviewed_date": "2026-11-10",
+        "evidence": [],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/title-cards/web-dafengche.svg"
+    },
+    {
+      "id": "web-daniel-tiger",
+      "name_zh": "小老虎丹尼尔",
+      "name_en": "Daniel Tiger's Neighborhood",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "弗雷德·罗杰斯公司出品，把《罗杰斯先生的邻居》的温和社交策略做成学前动画，用短歌帮助孩子处理情绪和日常挑战。可从PBS KIDS官方节目页进入。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/daniel",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/daniel-tigers-neighborhood-poster.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-daniel-tiger.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/daniel-tigers-neighborhood",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/daniel"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定其继承罗杰斯式的社交策略。价值主要在共看后一起练习那些短歌和说法，而不是把动画当情绪问题的自动治疗。有些集涉及打针、分离等真实压力，仍需成人在场。",
+      "reviewed_age": "3+（CSM；需共看练习）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定其继承罗杰斯式的社交策略。价值主要在共看后一起练习那些短歌和说法，而不是把动画当情绪问题的自动治疗。有些集涉及打针、分离等真实压力，仍需成人在场。",
+        "recommended_age": "3+（CSM；需共看练习）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/daniel-tigers-neighborhood",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Daniel Tiger's Neighborhood",
+            "age": "3+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-daniel-tiger.jpg"
+    },
+    {
+      "id": "web-mister-rogers",
+      "name_zh": "罗杰斯先生的邻居",
+      "name_en": "Mister Rogers' Neighborhood",
+      "kind": "教育节目",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "1960年代起播出的经典儿童节目，用谈话、音乐和装扮剧场讨论尊重、诚实和自我价值。已核实官方网站可打开，站点写明现在也可在YouTube观看。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.misterrogers.org/",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/qhberyvg120cbmc9xvgxvk6emjf-1.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-mister-rogers.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/mister-rogers-neighborhood",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.misterrogers.org/"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定其关于责任、尊重和自尊的信息今天仍然成立。节奏慢、谈话多，对习惯快节奏剪辑的孩子可能需要适应，这不是缺点。官网入口不等于已在本机实测完整正片。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定其关于责任、尊重和自尊的信息今天仍然成立。节奏慢、谈话多，对习惯快节奏剪辑的孩子可能需要适应，这不是缺点。官网入口不等于已在本机实测完整正片。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/mister-rogers-neighborhood",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Mister Rogers' Neighborhood",
+            "age": "3+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-mister-rogers.jpg"
+    },
+    {
+      "id": "web-donkey-hodie",
+      "name_zh": "小驴霍迪",
+      "name_en": "Donkey Hodie",
+      "kind": "木偶剧",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "罗杰斯世界衍生的学前木偶剧，小驴霍迪和朋友一起解决问题，每集围绕“frustrated”“fair”一类可用的词。可从PBS KIDS官方节目页进入。CSM评2+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/donkeyhodie",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/donkey-hodie-tv-poster-image.jpeg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-donkey-hodie.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/donkey-hodie",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/donkeyhodie"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评2+，评测页标注Common Sense Selection，肯定其坚持尝试和求助朋友的态度。2+仍须成人共看；它比《小老虎丹尼尔》更偏幽默试错，不能替代更系统的情绪语言练习，但作为学前社交短剧是稳妥选择。",
+      "reviewed_age": "2+（CSM；须共看）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评2+，评测页标注Common Sense Selection，肯定其坚持尝试和求助朋友的态度。2+仍须成人共看；它比《小老虎丹尼尔》更偏幽默试错，不能替代更系统的情绪语言练习，但作为学前社交短剧是稳妥选择。",
+        "recommended_age": "2+（CSM；须共看）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/donkey-hodie",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Donkey Hodie",
+            "age": "2+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-donkey-hodie.jpg"
+    },
+    {
+      "id": "web-arthur",
+      "name_zh": "亚瑟",
+      "name_en": "Arthur",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "PBS长期动画，改编自马克·布朗绘本，用小学生亚瑟和朋友、妹妹的日常讨论友谊、不安和家庭矛盾。可从PBS KIDS官方节目页进入。CSM评5+、编辑5/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://pbskids.org/arthur",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/arthur.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-arthur.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/arthur",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://pbskids.org/arthur"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "情感品格类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM编辑5/5、评5+，评测页标注Common Sense Selection，认为其社交课题比多数卡通更具体，5岁以上更能理解。兄妹争吵有时会显得真实而吵闹，需要成人帮助讨论，而不是回避。不能因为画风可爱就降到学前最小龄。",
+      "reviewed_age": "5+（CSM）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM编辑5/5、评5+，评测页标注Common Sense Selection，认为其社交课题比多数卡通更具体，5岁以上更能理解。兄妹争吵有时会显得真实而吵闹，需要成人帮助讨论，而不是回避。不能因为画风可爱就降到学前最小龄。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/arthur",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Arthur",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "TV-Y"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-arthur.jpg"
+    },
+    {
+      "id": "web-hey-duggee",
+      "name_zh": "嗨，道奇",
+      "name_en": "Hey Duggee",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "英国学前动画，友善的大狗道奇带领松鼠俱乐部的孩子们完成任务、获得徽章。已核实BBC CBeebies官方节目页可打开。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/hey-duggee",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/duggee.jpg",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-hey-duggee.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/hey-duggee",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.bbc.co.uk/cbeebies/shows/hey-duggee"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "动画娱乐类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其用主动探索和合作完成任务，教育内容并不说教。CBeebies页面在部分地区可看片段或正片，不保证中国大陆可免费观看。短集适合共看后去户外做类似的小事，而不是连刷徽章集。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，评测页标注Common Sense Selection，肯定其用主动探索和合作完成任务，教育内容并不说教。CBeebies页面在部分地区可看片段或正片，不保证中国大陆可免费观看。短集适合共看后去户外做类似的小事，而不是连刷徽章集。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/hey-duggee",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Hey Duggee",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "NR"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-hey-duggee.jpg"
+    },
+    {
+      "id": "web-sarah-and-duck",
+      "name_zh": "莎拉和鸭子",
+      "name_en": "Sarah & Duck",
+      "kind": "动画",
+      "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
+      "description_zh": "英国温和学前动画，讲述小女孩莎拉和鸭子朋友在邻里的日常好奇。已核实BBC CBeebies官方节目页可打开。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "video_url": "https://www.bbc.co.uk/cbeebies/shows/sarah-and-duck",
+      "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
+      "video_kind": "官方介绍／节目入口，非已验证正片",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/sarah-and-duck-opt.png",
+      "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
+      "image_path": "images/review/web-sarah-and-duck.jpg",
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/sarah-duck",
+      "sources": [
+        {
+          "label": "全网检索",
+          "title": "2026-11-10 全网检索优质儿童视频资源",
+          "url": "https://www.bbc.co.uk/cbeebies/shows/sarah-and-duck"
+        }
+      ],
+      "also_in_prior_research": false,
+      "category": "动画娱乐类",
+      "origin_group": "web-search-2026-11-10",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM编辑4/5、评3+，肯定其节奏轻、故事贴近幼儿经验并保护好奇心。适合作为安静共看的选择。CBeebies页面不保证当前地区可看全部正片。",
+      "reviewed_age": "3+（CSM）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM编辑4/5、评3+，肯定其节奏轻、故事贴近幼儿经验并保护好奇心。适合作为安静共看的选择。CBeebies页面不保证当前地区可看全部正片。",
+        "recommended_age": "3+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-10",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/sarah-duck",
+            "checked_date": "2026-11-10",
+            "scope": "单部作品",
+            "work_title": "Sarah & Duck",
+            "age": "3+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
+            "legal_rating": "NR"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [
+            "CSM评测页标注 Common Sense Selection（来自同一评测页，不是另行核查的外部奖项）"
+          ],
+          "status": "评测页标识已记录"
+        },
+        "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
+      },
+      "original_image_path": "images/review/web-sarah-and-duck.jpg"
     }
   ]
 }
