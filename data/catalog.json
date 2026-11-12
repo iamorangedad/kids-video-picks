@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 558,
+    "entries": 562,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -12,25 +12,25 @@
     "by_category": {
       "学习类": 62,
       "人文类": 31,
-      "情感品格类": 57,
+      "情感品格类": 61,
       "自然类": 42,
       "益智动画类": 1,
       "动画娱乐类": 365
     },
     "by_verdict": {
-      "有保留": 406,
-      "推荐": 104,
-      "强烈推荐": 25,
+      "有保留": 408,
+      "推荐": 105,
+      "强烈推荐": 26,
       "不推荐": 23
     },
-    "with_image": 558,
-    "with_independent_review_poster": 181,
+    "with_image": 562,
+    "with_independent_review_poster": 184,
     "with_original_image_only": 73,
     "with_title_card": 292,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 192,
+    "with_independent_evidence": 196,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -47,7 +47,8 @@
     "article_41_new_entries": 1,
     "article_42_new_entries": 10,
     "web_search_2026_11_10_new_entries": 34,
-    "web_search_2026_11_10_existing_source_appended": 3
+    "web_search_2026_11_10_existing_source_appended": 3,
+    "article_43_new_entries": 4
   },
   "entries": [
     {
@@ -2193,7 +2194,7 @@
       "name_zh": "小鞋子",
       "kind": "电影",
       "age_group": "未标明年龄",
-      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。 第43篇也推荐此片。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/children-of-heaven-poster.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -2201,6 +2202,11 @@
           "article_no": 11,
           "title": "9部孩子必看的成长电影，治愈孩子一生",
           "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "name_en": null,
@@ -2260,7 +2266,7 @@
       "name_zh": "地球上的星星",
       "kind": "电影",
       "age_group": "未标明年龄",
-      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：每个孩子都是不一样的星星，不必跟风比较。",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：每个孩子都是不一样的星星，不必跟风比较。 第43篇也推荐此片。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/puhrt6raovm5ujgcdwlwvrv4nhu.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -2268,6 +2274,11 @@
           "article_no": 11,
           "title": "9部孩子必看的成长电影，治愈孩子一生",
           "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "name_en": null,
@@ -2327,7 +2338,7 @@
       "name_zh": "放牛班的春天",
       "kind": "电影",
       "age_group": "未标明年龄",
-      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：没有真正的坏孩子，只有需要被看见的孩子。",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：没有真正的坏孩子，只有需要被看见的孩子。 第43篇也推荐此片。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/3453-orig.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -2335,6 +2346,11 @@
           "article_no": 11,
           "title": "9部孩子必看的成长电影，治愈孩子一生",
           "url": "https://mp.weixin.qq.com/s/oKG9Fhp_e-YAl2DMdq5_QQ"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "name_en": null,
@@ -30168,7 +30184,7 @@
       "name_en": "Heidi (2015)",
       "kind": "电影",
       "age_group": "6岁+",
-      "description_zh": "文章写豆瓣9.3、适合6岁+：海蒂失去双亲后与古怪的爷爷住在阿尔卑斯山，后被送到法兰克福陪伴克拉拉，因思念患梦游，最终回到山上，克拉拉也站了起来。",
+      "description_zh": "文章写豆瓣9.3、适合6岁+：海蒂失去双亲后与古怪的爷爷住在阿尔卑斯山，后被送到法兰克福陪伴克拉拉，因思念患梦游，最终回到山上，克拉拉也站了起来。 第43篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/heidi-poster.jpg",
@@ -30178,6 +30194,11 @@
           "article_no": 40,
           "title": "一定要带孩子看的10部电影，巨治愈！",
           "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "category": "情感品格类",
@@ -30233,7 +30254,7 @@
       "name_en": "Hachi: A Dog's Tale",
       "kind": "电影",
       "age_group": "8岁+",
-      "description_zh": "文章写豆瓣9.4、适合8岁+：教授帕克收养走失的秋田犬八公，八公每天到车站等他；帕克病逝后八公仍等了九年。真实故事改编。",
+      "description_zh": "文章写豆瓣9.4、适合8岁+：教授帕克收养走失的秋田犬八公，八公每天到车站等他；帕克病逝后八公仍等了九年。真实故事改编。 第43篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/hachi-dvd.jpg",
@@ -30243,6 +30264,11 @@
           "article_no": 40,
           "title": "一定要带孩子看的10部电影，巨治愈！",
           "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "category": "情感品格类",
@@ -30597,7 +30623,7 @@
       "name_en": "Kikujiro",
       "kind": "电影",
       "age_group": "8岁+",
-      "description_zh": "文章写豆瓣8.8、适合8岁+：孤独男孩正男暑假想去找妈妈，邻居的游手好闲丈夫菊次郎陪他上路，两人在旅途中互相陪伴；久石让配乐。",
+      "description_zh": "文章写豆瓣8.8、适合8岁+：孤独男孩正男暑假想去找妈妈，邻居的游手好闲丈夫菊次郎陪他上路，两人在旅途中互相陪伴；久石让配乐。 第43篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": null,
@@ -30607,6 +30633,11 @@
           "article_no": 40,
           "title": "一定要带孩子看的10部电影，巨治愈！",
           "url": "https://mp.weixin.qq.com/s/ySOlBb_APh8QBi6UUOZ9hg"
+        },
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
         }
       ],
       "category": "情感品格类",
@@ -33659,6 +33690,262 @@
         "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
       },
       "original_image_path": "images/review/web-sarah-and-duck.jpg"
+    },
+    {
+      "id": "wx43-charlie-chocolate-factory",
+      "name_zh": "查理和巧克力工厂",
+      "name_en": "Charlie and the Chocolate Factory (2005)",
+      "kind": "电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "蒂姆·波顿2005年版：五个孩子抽中金奖券参观旺卡的巧克力工厂，被宠坏的孩子相继出局，家境贫寒的查理留到最后；文章以“什么是足够”定位。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/charlie-and-the-chocolate-factory-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx43-charlie-chocolate-factory.jpg",
+      "origin_group": "article-43",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑4/5；但与原著一样有强烈场面：讨厌的孩子被奥柏伦柏人嘲讽并“处理掉”（变成大蓝莓、被吸进管道、被松鼠按倒扔下垃圾道），开头有玩偶燃烧、眼珠掉出；整体基调比1971年版更暗，旺卡本人似乎看不起家庭。文章未提这些，低龄敏感孩子需家长判断。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+、编辑4/5；但与原著一样有强烈场面：讨厌的孩子被奥柏伦柏人嘲讽并“处理掉”（变成大蓝莓、被吸进管道、被松鼠按倒扔下垃圾道），开头有玩偶燃烧、眼珠掉出；整体基调比1971年版更暗，旺卡本人似乎看不起家庭。文章未提这些，低龄敏感孩子需家长判断。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/charlie-and-the-chocolate-factory-2005",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "Charlie and the Chocolate Factory (2005)",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/charlie-and-the-chocolate-factory-2005"
+    },
+    {
+      "id": "wx43-wonder",
+      "name_zh": "奇迹男孩",
+      "name_en": "Wonder (2017)",
+      "kind": "电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "改编自R.J. Palacio同名小说：面部先天差异的男孩奥吉第一次上学，遭遇霸凌也收获友谊；多视角叙事。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/wonder-poster0.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx43-wonder.jpg",
+      "origin_group": "article-43",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM评10+、编辑5/5：选择善良、尊重差异、真正友谊、同理与坚持的信息很明确。CSM提醒有少年间打架、涉及失去的悲伤情节，“freak”“deformed”等辱骂词，少年接吻，以及一名少女喝掉母亲剩下的葡萄酒。适合10岁以上与家长共看。",
+      "reviewed_age": "10+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM评10+、编辑5/5：选择善良、尊重差异、真正友谊、同理与坚持的信息很明确。CSM提醒有少年间打架、涉及失去的悲伤情节，“freak”“deformed”等辱骂词，少年接吻，以及一名少女喝掉母亲剩下的葡萄酒。适合10岁以上与家长共看。",
+        "recommended_age": "10+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/wonder",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "Wonder",
+            "age": "10+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/wonder"
+    },
+    {
+      "id": "wx43-pursuit-of-happyness",
+      "name_zh": "当幸福来敲门",
+      "name_en": "The Pursuit of Happyness (2006)",
+      "kind": "电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "根据克里斯·加德纳经历改编：失业的父亲带着儿子露宿、住收容所，同时争取股票经纪实习机会。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-pursuit-of-happyness-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx43-pursuit-of-happyness.jpg",
+      "origin_group": "article-43",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评12+、编辑4/5，励志但情绪压抑：母亲离家，父亲因小事吼儿子并打架把孩子吓哭，CSM提醒处在依恋期的孩子可能不安；有“damn”“s--t”等粗口，涂鸦上的“f--k”引发讨论且儿子说出口。更适合12岁以上；文章“父爱教科书”未提这些。",
+      "reviewed_age": "12+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评12+、编辑4/5，励志但情绪压抑：母亲离家，父亲因小事吼儿子并打架把孩子吓哭，CSM提醒处在依恋期的孩子可能不安；有“damn”“s--t”等粗口，涂鸦上的“f--k”引发讨论且儿子说出口。更适合12岁以上；文章“父爱教科书”未提这些。",
+        "recommended_age": "12+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-pursuit-of-happyness",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "The Pursuit of Happyness",
+            "age": "12+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-pursuit-of-happyness"
+    },
+    {
+      "id": "wx43-little-nicholas",
+      "name_zh": "巴黎淘气帮",
+      "name_en": "Little Nicholas / Le Petit Nicolas (2009)",
+      "kind": "电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "法国2009年家庭喜剧，Laurent Tirard导演，改编自Goscinny与Sempé的《小淘气尼古拉》：尼古拉误以为父母要生弟弟、自己会被抛弃，和伙伴们展开“拯救行动”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/2/29/Le_Petit_Nicolas_poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 43,
+          "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
+          "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx43-little-nicholas.jpg",
+      "origin_group": "article-43",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "作品身份与剧情由维基百科确认；未找到CSM等适龄评测。维基剧情显示孩子们的“计划”包括打算雇黑帮把婴儿弄走、卖“神力药水”赚钱、骗管家偷开同学父亲的汽车（最终放弃），文章只写“荒诞又可爱”。属喜剧夸张，但建议家长陪看并讨论。",
+      "reviewed_age": "未取得独立适龄评测",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "作品身份与剧情由维基百科确认；未找到CSM等适龄评测。维基剧情显示孩子们的“计划”包括打算雇黑帮把婴儿弄走、卖“神力药水”赚钱、骗管家偷开同学父亲的汽车（最终放弃），文章只写“荒诞又可爱”。属喜剧夸张，但建议家长陪看并讨论。",
+        "recommended_age": "未取得独立适龄评测",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/Little_Nicholas",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认2009年法国家庭喜剧、导演与原著；剧情含误以为要添弟弟、雇黑帮、偷车等情节。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/Little_Nicholas"
     }
   ]
 }
