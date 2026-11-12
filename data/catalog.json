@@ -3,34 +3,34 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 562,
+    "entries": 563,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
-    "article_28_with_independent_review": 63,
-    "pending_article_28": 254,
+    "article_28_with_independent_review": 65,
+    "pending_article_28": 252,
     "by_category": {
       "学习类": 62,
       "人文类": 31,
-      "情感品格类": 61,
+      "情感品格类": 62,
       "自然类": 42,
       "益智动画类": 1,
       "动画娱乐类": 365
     },
     "by_verdict": {
-      "有保留": 408,
-      "推荐": 105,
+      "有保留": 407,
+      "推荐": 107,
       "强烈推荐": 26,
       "不推荐": 23
     },
-    "with_image": 562,
-    "with_independent_review_poster": 184,
+    "with_image": 563,
+    "with_independent_review_poster": 186,
     "with_original_image_only": 73,
-    "with_title_card": 292,
+    "with_title_card": 290,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 196,
+    "with_independent_evidence": 199,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -48,7 +48,8 @@
     "article_42_new_entries": 10,
     "web_search_2026_11_10_new_entries": 34,
     "web_search_2026_11_10_existing_source_appended": 3,
-    "article_43_new_entries": 4
+    "article_43_new_entries": 4,
+    "article_44_new_entries": 1
   },
   "entries": [
     {
@@ -2194,7 +2195,7 @@
       "name_zh": "小鞋子",
       "kind": "电影",
       "age_group": "未标明年龄",
-      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。 第43篇也推荐此片。",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：清贫生活里兄妹互相体谅，想让孩子懂得知足和共情。 第43篇也推荐此片。 第44篇也推荐此片。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/children-of-heaven-poster.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -2207,6 +2208,11 @@
           "article_no": 43,
           "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
           "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "name_en": null,
@@ -5341,7 +5347,7 @@
       "name_en": "How to Train Your Dragon",
       "kind": "动画电影",
       "age_group": "未标明年龄",
-      "description_zh": "文章说孩子在趣配音里看了片段后想把整部电影看完，正文介绍的就是这一部。维京部落世世代代把龙当敌人。首领的儿子 Hiccup 瘦弱，不像其他维京人。他遇见罕见的夜煞 Night Fury，给它取名 Toothless。两人从互相试探到互相信任，Hiccup 拒绝再屠龙，最后和 Toothless 一起对付真正的威胁。文章写电影和原著不完全对应。同页还介绍了 Cressida Cowell 的同名书，那是书，不是视频。文章没有写具体岁数。",
+      "description_zh": "文章说孩子在趣配音里看了片段后想把整部电影看完，正文介绍的就是这一部。维京部落世世代代把龙当敌人。首领的儿子 Hiccup 瘦弱，不像其他维京人。他遇见罕见的夜煞 Night Fury，给它取名 Toothless。两人从互相试探到互相信任，Hiccup 拒绝再屠龙，最后和 Toothless 一起对付真正的威胁。文章写电影和原著不完全对应。同页还介绍了 Cressida Cowell 的同名书，那是书，不是视频。文章没有写具体岁数。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "本轮未独立确认具体作品、完整正片、上传授权或地区可播性；不把HTTP 200当成功播放。原链接仅在数据候选字段保留。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/how-to-train-your-dragon-poster-min.jpg",
@@ -5362,6 +5368,11 @@
           "article_no": 41,
           "title": "孩子开口就卡壳？狂刷这5部英文电影，半年后让孩子流利说英语！",
           "url": "https://mp.weixin.qq.com/s/M-ZdobFaqohYn2I2BV7M8g"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "also_in_prior_research": false,
@@ -9619,7 +9630,7 @@
       "article_year": 1994,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第42篇也推荐此片。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-lion-king-poster0.jpg",
@@ -9634,6 +9645,11 @@
           "article_no": 42,
           "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
           "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "origin_group": "article-28",
@@ -10823,7 +10839,7 @@
       "article_year": 2001,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "女孩误入神灵世界，为救父母学习工作与勇气。 第42篇也推荐此片。",
+      "description_zh": "女孩误入神灵世界，为救父母学习工作与勇气。 第42篇也推荐此片。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/1453-orig.jpg",
@@ -10843,6 +10859,11 @@
           "article_no": 42,
           "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
           "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "origin_group": "article-28",
@@ -13853,37 +13874,54 @@
     {
       "id": "wx28-6385ff05a208",
       "name_zh": "功夫熊猫1",
-      "name_en": null,
+      "name_en": "Kung Fu Panda (2008)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2008,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-6385ff05a208.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/kung-fu-panda-b.jpg",
+      "image_path": "images/review/wx28-6385ff05a208.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
-      "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+、编辑4/5：幽默，讲做自己和相信自己；但CSM批评对阿宝的肥胖嘲讽（他人和自嘲）削弱了信息，中国文化呈现欠真实；有大量快节奏打斗（拳脚、武器、爆炸），反派越狱一段对最小的孩子可能太吓人。文章“低年级也能坐住”大致可信。",
+      "reviewed_age": "6+（CSM）",
       "review": {
-        "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "verdict": "推荐",
+        "recommended_age": "6+（CSM）",
+        "rationale_zh": "CSM评6+、编辑4/5：幽默，讲做自己和相信自己；但CSM批评对阿宝的肥胖嘲讽（他人和自嘲）削弱了信息，中国文化呈现欠真实；有大量快节奏打斗（拳脚、武器、爆炸），反派越狱一段对最小的孩子可能太吓人。文章“低年级也能坐住”大致可信。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/kung-fu-panda",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "Kung Fu Panda",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -13901,8 +13939,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/kung-fu-panda"
     },
     {
       "id": "wx28-963c50e828d8",
@@ -18159,7 +18198,7 @@
       "article_year": 2015,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。 第42篇也推荐此片。",
+      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。 第42篇也推荐此片。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/inside-out-min.jpg",
@@ -18174,6 +18213,11 @@
           "article_no": 42,
           "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
           "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "origin_group": "article-28",
@@ -20433,37 +20477,54 @@
     {
       "id": "wx28-94448d64e170",
       "name_zh": "哪吒之魔童降世",
-      "name_en": null,
+      "name_en": "Ne Zha (2019)",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2019,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-94448d64e170.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/nezha-movie-poster-imagejpg-min.jpg",
+      "image_path": "images/review/wx28-94448d64e170.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
+      "pending_verification": false,
       "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "review_rationale_zh": "CSM评11+、编辑4/5，有坚持与自控的正面信息；但奇幻暴力很多（被打、被烧、勒、刺、被怪物吃等），幼儿角色受威胁、父母以为他死去时撕心裂肺的尖叫可能让敏感孩子难受；还有“bastard”“moron”等粗口和屎尿屁笑料（呕吐、喝鼻涕、当众小便）。文章把它列为低年级先看的动画之一、称“代入最快”，年龄明显偏低。",
+      "reviewed_age": "11+（CSM）",
       "review": {
         "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "recommended_age": "11+（CSM）",
+        "rationale_zh": "CSM评11+、编辑4/5，有坚持与自控的正面信息；但奇幻暴力很多（被打、被烧、勒、刺、被怪物吃等），幼儿角色受威胁、父母以为他死去时撕心裂肺的尖叫可能让敏感孩子难受；还有“bastard”“moron”等粗口和屎尿屁笑料（呕吐、喝鼻涕、当众小便）。文章把它列为低年级先看的动画之一、称“代入最快”，年龄明显偏低。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/ne-zha",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "Ne Zha",
+            "age": "11+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -20481,8 +20542,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/ne-zha"
     },
     {
       "id": "wx28-6f52412eabd3",
@@ -33762,7 +33824,7 @@
       "name_en": "Wonder (2017)",
       "kind": "电影",
       "age_group": "文章未写年龄",
-      "description_zh": "改编自R.J. Palacio同名小说：面部先天差异的男孩奥吉第一次上学，遭遇霸凌也收获友谊；多视角叙事。",
+      "description_zh": "改编自R.J. Palacio同名小说：面部先天差异的男孩奥吉第一次上学，遭遇霸凌也收获友谊；多视角叙事。 第44篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/wonder-poster0.jpg",
@@ -33772,6 +33834,11 @@
           "article_no": 43,
           "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
           "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        },
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
         }
       ],
       "category": "情感品格类",
@@ -33946,6 +34013,74 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://en.wikipedia.org/wiki/Little_Nicholas"
+    },
+    {
+      "id": "wx44-not-one-less",
+      "name_zh": "一个都不能少",
+      "name_en": "Not One Less (1999)",
+      "kind": "电影",
+      "age_group": "文章未写年龄（称低年级先看动画再看真人片）",
+      "description_zh": "张艺谋1999年作品：13岁的魏敏芝到山村代课一个月，为找回进城打工的学生独自去城里寻人；文章称“黑白纪实风，节奏慢，但真实”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Not_One_Less.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 44,
+          "title": "刷完这9部电影，帮孩子练就逆商与担当",
+          "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx44-not-one-less.jpg",
+      "origin_group": "article-44",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "BBFC评U、仅提示轻度语言；维基百科确认获威尼斯金狮奖、用非职业演员和纪实手法拍摄，可引出农村教育、责任与坚持的讨论。但节奏慢、涉及辍学打工等社会议题，低龄孩子需家长讲解；文章“黑白纪实风”在维基中无依据（维基只说纪实/自然光风格），未采信。",
+      "reviewed_age": "BBFC U；编辑建议8+（节奏慢、需读字幕或理解普通话）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "BBFC评U、仅提示轻度语言；维基百科确认获威尼斯金狮奖、用非职业演员和纪实手法拍摄，可引出农村教育、责任与坚持的讨论。但节奏慢、涉及辍学打工等社会议题，低龄孩子需家长讲解；文章“黑白纪实风”在维基中无依据（维基只说纪实/自然光风格），未采信。",
+        "recommended_age": "BBFC U；编辑建议8+（节奏慢、需读字幕或理解普通话）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "BBFC",
+            "url": "https://www.bbfc.co.uk/release/not-one-less-q29sbgvjdglvbjpwwc0yotk1odq",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "note": "英国分级U；家庭影碟/流媒体版内容提示仅为“mild language”（轻度语言），约102分钟。法定分级不等于教育价值评分。"
+          },
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/Not_One_Less",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认张艺谋1999年作品、13岁代课老师魏敏芝、非职业演员、纪实式拍摄（隐藏摄像机、自然光），获威尼斯电影节金狮奖。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/Not_One_Less"
     }
   ]
 }
