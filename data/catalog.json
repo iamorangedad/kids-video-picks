@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 563,
+    "entries": 570,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -11,26 +11,26 @@
     "pending_article_28": 252,
     "by_category": {
       "学习类": 62,
-      "人文类": 31,
-      "情感品格类": 62,
+      "人文类": 33,
+      "情感品格类": 67,
       "自然类": 42,
       "益智动画类": 1,
       "动画娱乐类": 365
     },
     "by_verdict": {
-      "有保留": 407,
+      "有保留": 414,
       "推荐": 107,
       "强烈推荐": 26,
       "不推荐": 23
     },
-    "with_image": 563,
-    "with_independent_review_poster": 186,
+    "with_image": 570,
+    "with_independent_review_poster": 188,
     "with_original_image_only": 73,
-    "with_title_card": 290,
+    "with_title_card": 294,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 199,
+    "with_independent_evidence": 206,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -49,7 +49,8 @@
     "web_search_2026_11_10_new_entries": 34,
     "web_search_2026_11_10_existing_source_appended": 3,
     "article_43_new_entries": 4,
-    "article_44_new_entries": 1
+    "article_44_new_entries": 1,
+    "article_45_new_entries": 7
   },
   "entries": [
     {
@@ -30246,7 +30247,7 @@
       "name_en": "Heidi (2015)",
       "kind": "电影",
       "age_group": "6岁+",
-      "description_zh": "文章写豆瓣9.3、适合6岁+：海蒂失去双亲后与古怪的爷爷住在阿尔卑斯山，后被送到法兰克福陪伴克拉拉，因思念患梦游，最终回到山上，克拉拉也站了起来。 第43篇也推荐此片。",
+      "description_zh": "文章写豆瓣9.3、适合6岁+：海蒂失去双亲后与古怪的爷爷住在阿尔卑斯山，后被送到法兰克福陪伴克拉拉，因思念患梦游，最终回到山上，克拉拉也站了起来。 第43篇也推荐此片。 第45篇也推荐此片（标5岁+）。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/heidi-poster.jpg",
@@ -30261,6 +30262,11 @@
           "article_no": 43,
           "title": "适合亲子一起看的10部温暖电影：每一部都是一堂不插电的人生课",
           "url": "https://mp.weixin.qq.com/s/SqqdAhcZQhccQX-Kn8j7Ig"
+        },
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
         }
       ],
       "category": "情感品格类",
@@ -34081,6 +34087,437 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://en.wikipedia.org/wiki/Not_One_Less"
+    },
+    {
+      "id": "wx45-ts-spivet",
+      "name_zh": "少年斯派维的奇异旅行",
+      "name_en": "The Young and Prodigious T.S. Spivet (2013)",
+      "kind": "电影",
+      "age_group": "6岁+",
+      "description_zh": "让-皮埃尔·热内导演，改编自Reif Larsen小说：天才男孩独自扒火车横穿美国去史密森学会领奖；文章称“画面华丽”、孩子看完追问永动机。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/young-and-prodigious-ts-spivet.jpeg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx45-ts-spivet.jpg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评12+、编辑4/5，明确说“不适合年幼孩子”：主角的双胞胎兄弟死于枪支意外，主角曾详细描述其死亡（不直接呈现）；家中大量枪支，有吊在桥下、钻过行驶火车、搭陌生卡车司机便车等险境，有饮酒、打人和粗口（包括“motherf----r”）。文章标6+严重偏低。",
+      "reviewed_age": "12+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评12+、编辑4/5，明确说“不适合年幼孩子”：主角的双胞胎兄弟死于枪支意外，主角曾详细描述其死亡（不直接呈现）；家中大量枪支，有吊在桥下、钻过行驶火车、搭陌生卡车司机便车等险境，有饮酒、打人和粗口（包括“motherf----r”）。文章标6+严重偏低。",
+        "recommended_age": "12+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-young-and-prodigious-ts-spivet",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "The Young and Prodigious T.S. Spivet",
+            "age": "12+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-young-and-prodigious-ts-spivet"
+    },
+    {
+      "id": "wx45-le-papillon",
+      "name_zh": "蝴蝶",
+      "name_en": "The Butterfly / Le Papillon (2002)",
+      "kind": "电影",
+      "age_group": "7岁+",
+      "description_zh": "法国电影：脾气古怪的老人带9岁女孩艾莎进山寻找稀有蝴蝶；文章称“又萌又治愈”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-butterfly.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx45-le-papillon.jpg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评13+、编辑4/5，表演出色、讲家庭与友谊；但片中坦率谈论堕胎和少女怀孕，有“s--t”“damn”等粗口，女孩母亲长期缺位。文章标7+明显偏低，适合大龄孩子与家长同看。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评13+、编辑4/5，表演出色、讲家庭与友谊；但片中坦率谈论堕胎和少女怀孕，有“s--t”“damn”等粗口，女孩母亲长期缺位。文章标7+明显偏低，适合大龄孩子与家长同看。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-butterfly",
+            "checked_date": "2026-11-11",
+            "scope": "单部作品",
+            "work_title": "The Butterfly",
+            "age": "13+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-butterfly"
+    },
+    {
+      "id": "wx45-summer-in-provence",
+      "name_zh": "普罗旺斯的夏天",
+      "name_en": "My Summer in Provence / Avis de mistral (2014)",
+      "kind": "电影",
+      "age_group": "8岁+",
+      "description_zh": "Rose Bosch导演、让·雷诺主演的法国剧情片：城里的外孙们到普罗旺斯乡下外公家过暑假，从互怼到和解。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2c/My_Summer_in_Provence_poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx45-summer-in-provence.jpg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科只确认片名、导演、主演和105分钟片长；未找到CSM或BBFC等适龄评测，剧中青少年情节的内容强度未核实，不采信文章8+。",
+      "reviewed_age": "未取得独立适龄评测（原文8+）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科只确认片名、导演、主演和105分钟片长；未找到CSM或BBFC等适龄评测，剧中青少年情节的内容强度未核实，不采信文章8+。",
+        "recommended_age": "未取得独立适龄评测（原文8+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/My_Summer_in_Provence",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认2014年法国剧情片、Rose Bosch导演、让·雷诺主演、105分钟。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/My_Summer_in_Provence"
+    },
+    {
+      "id": "wx45-walking-to-school",
+      "name_zh": "走路上学",
+      "name_en": "Walking to School (2009)",
+      "kind": "电影",
+      "age_group": "8岁+",
+      "description_zh": "文章称：山区孩子溜索过江上学，真人真事改编。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/title-cards/wx45-walking-to-school.svg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "只通过豆瓣搜索建议确认存在2009年同名电影条目；豆瓣详情页被拦截，剧情、“真人真事改编”、适龄与内容强度均未核实。溜索过江的危险场面对低龄孩子的影响需家长先看。",
+      "reviewed_age": "未取得独立适龄评测（原文8+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "只通过豆瓣搜索建议确认存在2009年同名电影条目；豆瓣详情页被拦截，剧情、“真人真事改编”、适龄与内容强度均未核实。溜索过江的危险场面对低龄孩子的影响需家长先看。",
+        "recommended_age": "未取得独立适龄评测（原文8+）",
+        "status": "仅作品身份确认",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "豆瓣搜索建议",
+            "url": "https://movie.douban.com/subject/3724056/",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "搜索建议接口返回《走路上学》2009年电影条目；详情页403，未读取评分与简介。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx45-rising-star-kindergarten",
+      "name_zh": "遥望南方的童年",
+      "name_en": "The Rising Star Kindergarten (2007)",
+      "kind": "电影",
+      "age_group": "9岁+（文章写作《遥远南方的童年》）",
+      "description_zh": "文章写作《遥远南方的童年》：乡村幼儿园和留守儿童的故事。维基百科所载片名为《遥望南方的童年》，2007年易寒执导，江西宜春当地村民出演，92分钟。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/title-cards/wx45-rising-star-kindergarten.svg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科确认：真人真事改编、留守儿童题材，获第15届北京大学生电影节教育题材创作奖；剧情含初中毕业少女想去深圳打工的支线。题材有讨论价值，但无适龄评测；文章片名写错。",
+      "reviewed_age": "未取得独立适龄评测（原文9+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科确认：真人真事改编、留守儿童题材，获第15届北京大学生电影节教育题材创作奖；剧情含初中毕业少女想去深圳打工的支线。题材有讨论价值，但无适龄评测；文章片名写错。",
+        "recommended_age": "未取得独立适龄评测（原文9+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/%E9%81%A5%E6%9C%9B%E5%8D%97%E6%96%B9%E7%9A%84%E7%AB%A5%E5%B9%B4",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认2007年易寒执导、宜春村民出演、92分钟、留守儿童题材，获北京大学生电影节教育题材创作奖。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx45-four-springs",
+      "name_zh": "四个春天",
+      "name_en": "Four Springs (2018)",
+      "kind": "纪录片",
+      "age_group": "10岁+",
+      "description_zh": "陆庆屹导演的纪录片，记录2013—2016年春节回贵州老家时父母的日常。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/title-cards/wx45-four-springs.svg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科确认：纪录片，记录导演父母2013—2016年春节期间的日常；获2018年FIRST青年电影展最佳纪录片、入围第55届金马奖最佳纪录片。家庭纪录片节奏平缓，对儿童的吸引力与适龄未经评测。",
+      "reviewed_age": "未取得独立适龄评测（原文10+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科确认：纪录片，记录导演父母2013—2016年春节期间的日常；获2018年FIRST青年电影展最佳纪录片、入围第55届金马奖最佳纪录片。家庭纪录片节奏平缓，对儿童的吸引力与适龄未经评测。",
+        "recommended_age": "未取得独立适龄评测（原文10+）",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%80%8B%E6%98%A5%E5%A4%A9",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认导演陆庆屹、2018年上映、FIRST最佳纪录片、金马奖最佳纪录片提名。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx45-china-village",
+      "name_zh": "乡村里的中国",
+      "name_en": "China's Village (2013)",
+      "kind": "纪录片",
+      "age_group": "10岁+（建议家长先看）",
+      "description_zh": "文章称：一个村庄的一年，真实有深度。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 45,
+          "title": "没想到，8部电影让女儿学习自驱力越来越强",
+          "url": "https://mp.weixin.qq.com/s/TBq7Up1YJ3NrbN3EkW5llA"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/title-cards/wx45-china-village.svg",
+      "origin_group": "article-45",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "只通过豆瓣搜索建议确认存在2013年同名纪录片条目；详情页被拦截，内容与适龄未核实。文章自己也建议家长先看一遍，说明内容并非低龄向。",
+      "reviewed_age": "未取得独立适龄评测（原文10+）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "只通过豆瓣搜索建议确认存在2013年同名纪录片条目；详情页被拦截，内容与适龄未核实。文章自己也建议家长先看一遍，说明内容并非低龄向。",
+        "recommended_age": "未取得独立适龄评测（原文10+）",
+        "status": "仅作品身份确认",
+        "confidence": "低",
+        "reviewed_date": "2026-11-11",
+        "evidence": [
+          {
+            "source": "豆瓣搜索建议",
+            "url": "https://movie.douban.com/subject/24867845/",
+            "checked_date": "2026-11-11",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "搜索建议接口返回《乡村里的中国》2013年条目；详情页未读取。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
     }
   ]
 }
