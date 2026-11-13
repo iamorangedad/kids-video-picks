@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 570,
+    "entries": 571,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -15,22 +15,22 @@
       "情感品格类": 67,
       "自然类": 42,
       "益智动画类": 1,
-      "动画娱乐类": 365
+      "动画娱乐类": 366
     },
     "by_verdict": {
       "有保留": 414,
-      "推荐": 107,
+      "推荐": 108,
       "强烈推荐": 26,
       "不推荐": 23
     },
-    "with_image": 570,
-    "with_independent_review_poster": 188,
+    "with_image": 571,
+    "with_independent_review_poster": 189,
     "with_original_image_only": 73,
     "with_title_card": 294,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 206,
+    "with_independent_evidence": 207,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -50,7 +50,8 @@
     "web_search_2026_11_10_existing_source_appended": 3,
     "article_43_new_entries": 4,
     "article_44_new_entries": 1,
-    "article_45_new_entries": 7
+    "article_45_new_entries": 7,
+    "article_46_new_entries": 1
   },
   "entries": [
     {
@@ -26630,7 +26631,7 @@
       "name_en": "We Bare Bears",
       "kind": "动画剧集",
       "age_group": "文章分组：零基础启蒙",
-      "description_zh": "文章30把它列入“零基础启蒙”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。",
+      "description_zh": "文章30把它列入“零基础启蒙”组（1-4季），只列片名，没有剧情、年龄或播放链接；该文以出售“超清纯英字视频+MP3+台词本”资源包为主。 第46篇单独推荐本剧（标6—15岁、称豆瓣连续4季9.5左右，未核实）。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、MP3或台词本。",
       "image_url": "https://www.commonsensemedia.org/tv-reviews/we-bare-bears",
@@ -26641,6 +26642,11 @@
           "article_no": 30,
           "title": "纯英文字幕欧美动画资源全集 · 全 38 部完整剧单 · 视频+原声MP3+英文台词本",
           "url": "https://mp.weixin.qq.com/s/OBgoqIb8s3gZRfIcpUhLSw"
+        },
+        {
+          "article_no": 46,
+          "title": "豆瓣9.5《咱们裸熊》(140集)|孩子在放松解压中磨磨耳朵",
+          "url": "https://mp.weixin.qq.com/s/4vJPYgciq1nMSyVX_5Qb2g"
         }
       ],
       "category": "动画娱乐类",
@@ -26670,6 +26676,13 @@
             "editorial_score": "4.0",
             "score_scale": 5,
             "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          },
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/We_Bare_Bears",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认Daniel Chong据网络漫画The Three Bare Bears改编、2015年7月27日至2019年5月27日播出、4季140集、单集约11分钟；获安妮奖最佳儿童动画电视制作、BAFTA儿童奖国际奖，艾美奖短篇动画提名。"
           }
         ],
         "douban": {
@@ -34518,6 +34531,71 @@
         },
         "pacing": "未逐镜测量。"
       }
+    },
+    {
+      "id": "wx46-we-bare-bears-movie",
+      "name_zh": "咱们裸熊：电影版",
+      "name_en": "We Bare Bears: The Movie (2020)",
+      "kind": "动画电影",
+      "age_group": "文章整体写6—15岁",
+      "description_zh": "《咱们裸熊》2020年电影版。文章开头把“电影”列入“4季140集+15集短片+电影”的资源包，正文提到2020年上映的电影版。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/webarebearsthemovie-movie-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 46,
+          "title": "豆瓣9.5《咱们裸熊》(140集)|孩子在放松解压中磨磨耳朵",
+          "url": "https://mp.weixin.qq.com/s/4vJPYgciq1nMSyVX_5Qb2g"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx46-we-bare-bears-movie.jpg",
+      "origin_group": "article-46",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评8+、编辑4/5：讲“与众不同也没关系”；有追车、事故等打闹式卡通暴力，三熊须逃离森林大火的险情，并讽刺追求网红粉丝数；对边境、移民和把孩子关进笼子的政策有隐晦影射，低龄孩子不易理解。文章6岁起偏低。",
+      "reviewed_age": "8+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评8+、编辑4/5：讲“与众不同也没关系”；有追车、事故等打闹式卡通暴力，三熊须逃离森林大火的险情，并讽刺追求网红粉丝数；对边境、移民和把孩子关进笼子的政策有隐晦影射，低龄孩子不易理解。文章6岁起偏低。",
+        "recommended_age": "8+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/we-bare-bears-the-movie",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "work_title": "We Bare Bears: The Movie",
+            "age": "8+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/we-bare-bears-the-movie"
     }
   ]
 }
