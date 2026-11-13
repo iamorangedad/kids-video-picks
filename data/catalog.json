@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 571,
+    "entries": 577,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -12,25 +12,25 @@
     "by_category": {
       "学习类": 62,
       "人文类": 33,
-      "情感品格类": 67,
+      "情感品格类": 70,
       "自然类": 42,
       "益智动画类": 1,
-      "动画娱乐类": 366
+      "动画娱乐类": 369
     },
     "by_verdict": {
-      "有保留": 414,
+      "有保留": 419,
       "推荐": 108,
       "强烈推荐": 26,
-      "不推荐": 23
+      "不推荐": 24
     },
-    "with_image": 571,
-    "with_independent_review_poster": 189,
+    "with_image": 577,
+    "with_independent_review_poster": 192,
     "with_original_image_only": 73,
-    "with_title_card": 294,
+    "with_title_card": 296,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 207,
+    "with_independent_evidence": 213,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -51,7 +51,8 @@
     "article_43_new_entries": 4,
     "article_44_new_entries": 1,
     "article_45_new_entries": 7,
-    "article_46_new_entries": 1
+    "article_46_new_entries": 1,
+    "article_47_new_entries": 6
   },
   "entries": [
     {
@@ -7050,7 +7051,7 @@
       "name_en": null,
       "kind": "动画电影",
       "age_group": "8岁+",
-      "description_zh": "文章写豆瓣8.0，吉卜力。社恐的杏奈在乡下遇见金发女孩玛妮，结尾揭开陪伴以另一种方式回来。适合心思敏感的孩子。文章没有给英文名。",
+      "description_zh": "文章写豆瓣8.0，吉卜力。社恐的杏奈在乡下遇见金发女孩玛妮，结尾揭开陪伴以另一种方式回来。适合心思敏感的孩子。文章没有给英文名。 第47篇也推荐此片。",
       "video_url": null,
       "video_note": "本轮未独立确认具体作品、完整正片、上传授权或地区可播性；不把HTTP 200当成功播放。原链接仅在数据候选字段保留。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/marnie-big-poster.jpg",
@@ -7061,6 +7062,11 @@
           "article_no": 26,
           "title": "6部零差评宝藏动画电影！完美封神却无人提及，太可惜了",
           "url": "https://mp.weixin.qq.com/s/FrkyAZYpTEqOreapJ-f3UA"
+        },
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
         }
       ],
       "also_in_prior_research": false,
@@ -7129,7 +7135,7 @@
       "name_en": "Revolting Rhymes",
       "kind": "动画电影",
       "age_group": "8岁+",
-      "description_zh": "文章写豆瓣8.7，英国动画，约57分钟，奥斯卡提名。把《小红帽》《白雪公主》《灰姑娘》揉碎重讲。这三则是片中的童话，不是另外三部片子。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。",
+      "description_zh": "文章写豆瓣8.7，英国动画，约57分钟，奥斯卡提名。把《小红帽》《白雪公主》《灰姑娘》揉碎重讲。这三则是片中的童话，不是另外三部片子。文章没有给英文名。 英文名来自豆瓣该条目的外文名，不是文章原文。 第47篇也推荐此片。",
       "video_url": null,
       "video_note": "文章没有给出具体播放地址。",
       "image_url": null,
@@ -7145,6 +7151,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
         }
       ],
       "also_in_prior_research": false,
@@ -7461,7 +7472,7 @@
       "name_en": "Song of the Sea",
       "kind": "动画电影",
       "age_group": "6岁+",
-      "description_zh": "文章写爱尔兰灯塔边的兄妹。母亲在妹妹出生那夜回到海里。妹妹是海豹精灵，要找回被父亲扔进海里的海豹皮才能唱歌。文章说难过要留着，不是拿掉。",
+      "description_zh": "文章写爱尔兰灯塔边的兄妹。母亲在妹妹出生那夜回到海里。妹妹是海豹精灵，要找回被父亲扔进海里的海豹皮才能唱歌。文章说难过要留着，不是拿掉。 第47篇也推荐此片。",
       "video_url": null,
       "video_note": "文章没有给出具体播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/song-of-the-sea-poster.jpg",
@@ -7477,6 +7488,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
         }
       ],
       "also_in_prior_research": false,
@@ -14541,7 +14557,7 @@
       "article_year": 2009,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "修道院少年在朋友帮助下探索手抄书与森林传说。",
+      "description_zh": "修道院少年在朋友帮助下探索手抄书与森林传说。 第47篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/the-secret-of-kells-poster-min.jpg",
@@ -14551,6 +14567,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
         }
       ],
       "origin_group": "article-28",
@@ -34596,6 +34617,389 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://www.commonsensemedia.org/movie-reviews/we-bare-bears-the-movie"
+    },
+    {
+      "id": "wx47-persepolis",
+      "name_zh": "我在伊朗长大",
+      "name_en": "Persepolis (2007)",
+      "kind": "动画电影",
+      "age_group": "青春期",
+      "description_zh": "据玛赞·莎塔碧自传漫画改编的动画，讲伊斯兰革命前后在伊朗成长的少女；文章称适合青春期、帮孩子“找准自我”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/8088-orig.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx47-persepolis.jpg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "不推荐",
+      "review_rationale_zh": "不作0—12岁片单。CSM评15+、编辑4/5，明言“虽是动画但面向成人”：大量处决、轰炸等暴行；主角在欧洲的青少年时期喝酒、抽烟、吸大麻、与两名男子发生关系，并曾因想自杀吞下大量药片。文章只写“青春期”，未提这些；如给高中生看需家长陪同。",
+      "reviewed_age": "15+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "不推荐",
+        "rationale_zh": "不作0—12岁片单。CSM评15+、编辑4/5，明言“虽是动画但面向成人”：大量处决、轰炸等暴行；主角在欧洲的青少年时期喝酒、抽烟、吸大麻、与两名男子发生关系，并曾因想自杀吞下大量药片。文章只写“青春期”，未提这些；如给高中生看需家长陪同。",
+        "recommended_age": "15+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/persepolis",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "work_title": "Persepolis",
+            "age": "15+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/persepolis"
+    },
+    {
+      "id": "wx47-breadwinner",
+      "name_zh": "养家人",
+      "name_en": "The Breadwinner (2017)",
+      "kind": "动画电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "《凯尔经的秘密》联合导演作品，改编自Deborah Ellis小说：塔利班统治下的阿富汗，11岁女孩在父亲入狱后女扮男装养家。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-breadwinner-poster0-min.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx47-breadwinner.jpg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评11+、编辑4/5，坚持、好奇与勇气主题突出；但写实呈现塔利班对女性的骚扰与殴打、恐吓和监禁，CSM说这种写实暴力最可能让年幼观众不安。文章“适合娇气、怕吃苦的孩子……悄悄懂事”把战争与压迫题材当作吃苦教育，定位失当。",
+      "reviewed_age": "11+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评11+、编辑4/5，坚持、好奇与勇气主题突出；但写实呈现塔利班对女性的骚扰与殴打、恐吓和监禁，CSM说这种写实暴力最可能让年幼观众不安。文章“适合娇气、怕吃苦的孩子……悄悄懂事”把战争与压迫题材当作吃苦教育，定位失当。",
+        "recommended_age": "11+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/the-breadwinner",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "work_title": "The Breadwinner",
+            "age": "11+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/the-breadwinner"
+    },
+    {
+      "id": "wx47-only-yesterday",
+      "name_zh": "岁月的童话",
+      "name_en": "Only Yesterday (1991)",
+      "kind": "动画电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "吉卜力1991年作品（高畑勋）：27岁的妙子到乡下度假，回忆10岁时的往事。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/only-yesterday-poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx47-only-yesterday.jpg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评11+、编辑4/5，赞扬好奇与坚持；但主线是成人的乡愁与轻度恋爱，回忆段落多次涉及月经（含男生嘲笑女生月经等今日看来不当的情节）、成人抽烟，父亲因小事重重扇女儿耳光。文章说“考砸了难过时看最合适”，对低龄孩子并不对口。",
+      "reviewed_age": "11+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评11+、编辑4/5，赞扬好奇与坚持；但主线是成人的乡愁与轻度恋爱，回忆段落多次涉及月经（含男生嘲笑女生月经等今日看来不当的情节）、成人抽烟，父亲因小事重重扇女儿耳光。文章说“考砸了难过时看最合适”，对低龄孩子并不对口。",
+        "recommended_age": "11+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/only-yesterday",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "work_title": "Only Yesterday",
+            "age": "11+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/only-yesterday"
+    },
+    {
+      "id": "wx47-partly-cloudy",
+      "name_zh": "暴力云与送子鹳",
+      "name_en": "Partly Cloudy (2009)",
+      "kind": "动画短片",
+      "age_group": "文章未写年龄（称二胎家庭尤其适合）",
+      "description_zh": "皮克斯2009年动画短片，Peter Sohn编导，随《飞屋环游记》在影院放映，片长5分45秒。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Partly_Cloudy_poster.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx47-partly-cloudy.jpg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科确认作品身份、导演与5分45秒片长（文章“只有5分钟”大致相符）；未找到CSM等适龄评测。短片很短、风险低，但“二胎家庭尤其适合”“教会包容不完美”是文章的解读，不是证据。",
+      "reviewed_age": "未取得独立适龄评测",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科确认作品身份、导演与5分45秒片长（文章“只有5分钟”大致相符）；未找到CSM等适龄评测。短片很短、风险低，但“二胎家庭尤其适合”“教会包容不完美”是文章的解读，不是证据。",
+        "recommended_age": "未取得独立适龄评测",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/Partly_Cloudy",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认2009年皮克斯短片、Peter Sohn编导、随Up上映、片长5:45。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/Partly_Cloudy"
+    },
+    {
+      "id": "wx47-to-the-bright-side",
+      "name_zh": "向着明亮那方",
+      "name_en": "To the Bright Side (2022)",
+      "kind": "动画电影",
+      "age_group": "文章未写年龄（称适合自卑的孩子）",
+      "description_zh": "文章称讲普通孩子日常小烦恼、温柔治愈；维基百科《2022年中国大陆电影作品列表》列有此片（英文名To the Bright Side，动画片）。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/title-cards/wx47-to-the-bright-side.svg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "只确认作品身份：维基百科2022年中国大陆电影列表有此动画片，豆瓣搜索建议显示2021年条目（详情页被拦截）。内容、适龄均未核实；文章称豆瓣9.8分，明显高于一般高分动画，未核实，不采信。",
+      "reviewed_age": "未取得独立适龄评测",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "只确认作品身份：维基百科2022年中国大陆电影列表有此动画片，豆瓣搜索建议显示2021年条目（详情页被拦截）。内容、适龄均未核实；文章称豆瓣9.8分，明显高于一般高分动画，未核实，不采信。",
+        "recommended_age": "未取得独立适龄评测",
+        "status": "仅作品身份确认",
+        "confidence": "低",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "2022年中国大陆电影列表收录《向着明亮那方》To the Bright Side，类型动画片。"
+          },
+          {
+            "source": "豆瓣搜索建议",
+            "url": "https://movie.douban.com/subject/35448988/",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "搜索建议返回2021年条目；详情页未读取。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
+    },
+    {
+      "id": "wx47-hakumei-mikochi",
+      "name_zh": "妖精森林的小不点",
+      "name_en": "Hakumei and Mikochi (2018 TV)",
+      "kind": "电视动画",
+      "age_group": "全家都能看",
+      "description_zh": "改编自樫木拓人漫画，Lerche制作的12集电视动画（2018年1—3月播出），讲两个小人在森林里的日常。文章把它算作“动画电影”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 47,
+          "title": "10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪",
+          "url": "https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/title-cards/wx47-hakumei-mikochi.svg",
+      "origin_group": "article-47",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科确认是12集电视动画（另有1集OVA），不是文章所说的动画电影；原作连载于青年漫画杂志。未找到适龄评测；“满分治愈”“9.9分”未核实。",
+      "reviewed_age": "未取得独立适龄评测",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科确认是12集电视动画（另有1集OVA），不是文章所说的动画电影；原作连载于青年漫画杂志。未找到适龄评测；“满分治愈”“9.9分”未核实。",
+        "recommended_age": "未取得独立适龄评测",
+        "status": "作品背景资料初审，无适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/Hakumei_and_Mikochi",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认漫画原作刊于seinen杂志Harta、Lerche制作12集TV动画于2018年1月12日至3月30日播出，另有OVA。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      }
     }
   ]
 }

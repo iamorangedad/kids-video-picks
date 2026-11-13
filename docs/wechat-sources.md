@@ -1013,3 +1013,22 @@ https://mp.weixin.qq.com/s/4vJPYgciq1nMSyVX_5Qb2g
 2. [咱们裸熊：电影版 / We Bare Bears: The Movie](wechat/动画娱乐类.md#wx46-we-bare-bears-movie)（新增，推荐；CSM 8+）
 
 来源质量：开头列“资源：视频（中英文+无字幕）+音频+中英文台词本”，与第30篇同类，属资源包分发线索（不提供、不链接）。维基百科证实首播2015年7月27日、4季140集、单集约11分钟、改编自Daniel Chong网络漫画，并获安妮奖（最佳儿童动画电视制作）和艾美奖提名；“Cartoon Network第一部改编自网络漫画的作品”“豆瓣连续4季9.5左右”“熊出没大部分季低于9.0”未核实。“6—15岁”下限低于CSM 8+。“解压神器”“磨耳朵”的效果无证据。
+
+## 47. 10部豆瓣高分治愈电影，悄悄帮孩子养出稳定好情绪
+
+https://mp.weixin.qq.com/s/Pwe2gIG0jad66RqgXzE_VQ
+
+**视频数：10**（新增6；4部已收录）
+
+1. [向着明亮那方](wechat/动画娱乐类.md#wx47-to-the-bright-side)（新增，有保留；仅确认作品身份）
+2. [暴力云与送子鹳 / Partly Cloudy](wechat/情感品格类.md#wx47-partly-cloudy)（新增，有保留；皮克斯5分45秒短片，无适龄评测）
+3. [反叛的童谣](wechat/情感品格类.md#revolting-rhymes)（已收录，有保留；独立年龄未核实）
+4. [海洋之歌](wechat/情感品格类.md#song-of-the-sea)（已收录，推荐；CSM 7+）
+5. [记忆中的玛妮（原文作“回忆中的玛妮”）](wechat/情感品格类.md#marnie)（已收录，推荐；CSM 9+）
+6. [我在伊朗长大 / Persepolis](wechat/not-recommended.md#wx47-persepolis)（新增，不推荐；CSM 15+）
+7. [养家人 / The Breadwinner](wechat/情感品格类.md#wx47-breadwinner)（新增，有保留；CSM 11+）
+8. [凯尔经的秘密](wechat/动画娱乐类.md#wx28-141f1d43cfb1)（已收录，推荐；9+）
+9. [妖精森林的小不点 / Hakumei and Mikochi](wechat/动画娱乐类.md#wx47-hakumei-mikochi)（新增，有保留；实为12集TV动画）
+10. [岁月的童话 / Only Yesterday](wechat/动画娱乐类.md#wx47-only-yesterday)（新增，有保留；CSM 11+）
+
+来源质量：标题“治愈”“悄悄帮孩子养出稳定好情绪”，并把每部片对应到一种“问题孩子”（自卑、厌学、娇气等），属效果营销，无证据。称“10部豆瓣8分以上的动画电影”，但《妖精森林的小不点》是12集电视动画、《暴力云与送子鹳》是5分45秒短片；《向着明亮那方》9.8分、《妖精森林的小不点》9.9分等评分均未核实。几乎不标年龄，而有CSM评测的新片都是11+以上：《我在伊朗长大》15+（性、毒品、自杀念头），《养家人》11+（塔利班暴力），《岁月的童话》11+（月经话题、父亲掌掴）。无广告或资源引流。
