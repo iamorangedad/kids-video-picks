@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 577,
+    "entries": 579,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -12,25 +12,25 @@
     "by_category": {
       "学习类": 62,
       "人文类": 33,
-      "情感品格类": 70,
+      "情感品格类": 72,
       "自然类": 42,
       "益智动画类": 1,
       "动画娱乐类": 369
     },
     "by_verdict": {
-      "有保留": 419,
+      "有保留": 421,
       "推荐": 108,
       "强烈推荐": 26,
       "不推荐": 24
     },
-    "with_image": 577,
-    "with_independent_review_poster": 192,
+    "with_image": 579,
+    "with_independent_review_poster": 193,
     "with_original_image_only": 73,
     "with_title_card": 296,
     "official_reference_links": 61,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 213,
+    "with_independent_evidence": 215,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -52,7 +52,8 @@
     "article_44_new_entries": 1,
     "article_45_new_entries": 7,
     "article_46_new_entries": 1,
-    "article_47_new_entries": 6
+    "article_47_new_entries": 6,
+    "article_48_new_entries": 2
   },
   "entries": [
     {
@@ -6537,7 +6538,7 @@
       "name_en": "Turning Red",
       "kind": "动画电影",
       "age_group": "文章24写7岁以上；文章27写9岁+",
-      "description_zh": "13岁的华裔女孩情绪激动时会变成红色小熊猫。文章24把它写成青春期和母女和解。文章27补充这是家族女性代代相传的变化，妈妈后来道歉，女孩选择把熊猫留下来。",
+      "description_zh": "13岁的华裔女孩情绪激动时会变成红色小熊猫。文章24把它写成青春期和母女和解。文章27补充这是家族女性代代相传的变化，妈妈后来道歉，女孩选择把熊猫留下来。 第48篇也推荐此片。",
       "video_url": null,
       "video_note": "本轮未独立确认具体作品、完整正片、上传授权或地区可播性；不把HTTP 200当成功播放。原链接仅在数据候选字段保留。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/qsdjk9oaksqmws0vt5pyfh6o4gz.jpg",
@@ -6558,6 +6559,11 @@
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 48,
+          "title": "停止说教！5部影片让孩子自律成长",
+          "url": "https://mp.weixin.qq.com/s/Dt_Ac1LYKe4bV_5E-zgKLw"
         }
       ],
       "also_in_prior_research": false,
@@ -21312,7 +21318,7 @@
       "article_year": 2020,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "音乐教师在生死之间重新思考生活和目标。 第42篇也推荐此片。",
+      "description_zh": "音乐教师在生死之间重新思考生活和目标。 第42篇也推荐此片。 第48篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/soul-movie-cover.jpeg",
@@ -21327,6 +21333,11 @@
           "article_no": 42,
           "title": "关掉垃圾动画片！25部顶级经典动画电影，假期高质量亲子必看",
           "url": "https://mp.weixin.qq.com/s/UA3H31bI8dTbVIbs-0m81A"
+        },
+        {
+          "article_no": 48,
+          "title": "停止说教！5部影片让孩子自律成长",
+          "url": "https://mp.weixin.qq.com/s/Dt_Ac1LYKe4bV_5E-zgKLw"
         }
       ],
       "origin_group": "article-28",
@@ -33864,7 +33875,7 @@
       "name_en": "Wonder (2017)",
       "kind": "电影",
       "age_group": "文章未写年龄",
-      "description_zh": "改编自R.J. Palacio同名小说：面部先天差异的男孩奥吉第一次上学，遭遇霸凌也收获友谊；多视角叙事。 第44篇也推荐此片。",
+      "description_zh": "改编自R.J. Palacio同名小说：面部先天差异的男孩奥吉第一次上学，遭遇霸凌也收获友谊；多视角叙事。 第44篇也推荐此片。 第48篇也推荐此片。",
       "video_url": null,
       "video_note": "未核实正版播放地址。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/wonder-poster0.jpg",
@@ -33879,6 +33890,11 @@
           "article_no": 44,
           "title": "刷完这9部电影，帮孩子练就逆商与担当",
           "url": "https://mp.weixin.qq.com/s/UZ4TZ9OwU59X80wTIXm6sQ"
+        },
+        {
+          "article_no": 48,
+          "title": "停止说教！5部影片让孩子自律成长",
+          "url": "https://mp.weixin.qq.com/s/Dt_Ac1LYKe4bV_5E-zgKLw"
         }
       ],
       "category": "情感品格类",
@@ -35000,6 +35016,139 @@
         },
         "pacing": "未逐镜测量。"
       }
+    },
+    {
+      "id": "wx48-a-silent-voice",
+      "name_zh": "声之形",
+      "name_en": "A Silent Voice: The Movie (2016)",
+      "kind": "动画电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "京都动画2016年作品：小学时霸凌听障女孩硝子的少年石田，长大后尝试弥补与自我救赎。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/asilentvoicethemovie-movieposter.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 48,
+          "title": "停止说教！5部影片让孩子自律成长",
+          "url": "https://mp.weixin.qq.com/s/Dt_Ac1LYKe4bV_5E-zgKLw"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx48-a-silent-voice.jpg",
+      "origin_group": "article-48",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "CSM评13+、编辑5/5，赎罪与成长主题有力；但全片有大量霸凌：硝子被拳打脚踢、辱骂，助听器多次被扯下弄坏（有少量血），其他孩子也被欺凌；有自杀未遂致昏迷、谈论自杀，以及“a--hole”“bulls--t”等粗口。文章不写年龄，只讲“换位思考、自我救赎”，未提自杀情节，不宜给小学生单独看。",
+      "reviewed_age": "13+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "CSM评13+、编辑5/5，赎罪与成长主题有力；但全片有大量霸凌：硝子被拳打脚踢、辱骂，助听器多次被扯下弄坏（有少量血），其他孩子也被欺凌；有自杀未遂致昏迷、谈论自杀，以及“a--hole”“bulls--t”等粗口。文章不写年龄，只讲“换位思考、自我救赎”，未提自杀情节，不宜给小学生单独看。",
+        "recommended_age": "13+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/a-silent-voice-the-movie",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "work_title": "A Silent Voice: The Movie",
+            "age": "13+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/a-silent-voice-the-movie"
+    },
+    {
+      "id": "wx48-famille-belier",
+      "name_zh": "贝利叶一家",
+      "name_en": "La Famille Bélier (2014)",
+      "kind": "电影",
+      "age_group": "文章未写年龄",
+      "description_zh": "法国-比利时2014年喜剧剧情片，Éric Lartigau导演：全家都是聋人、只有女儿宝拉能听会说，她在为家人当翻译和追求歌唱梦之间抉择。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/2/23/La_Famille_B%C3%A9lier_%28poster%29.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 48,
+          "title": "停止说教！5部影片让孩子自律成长",
+          "url": "https://mp.weixin.qq.com/s/Dt_Ac1LYKe4bV_5E-zgKLw"
+        }
+      ],
+      "category": "情感品格类",
+      "image_path": "images/review/wx48-famille-belier.jpg",
+      "origin_group": "article-48",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "BBFC影院评12A、家庭版12，提示“中度性暗示、偶有强烈粗口”：有一次“f**k”及“bitch”“retard”等粗口，喜剧对白里多次提到性行为，能听到父母在隔壁做爱，还有情侣准备发生关系时的亲热抚摸。维基百科确认获凯撒奖最佳新人女演员。责任与梦想的主题有价值，但更适合12岁以上；文章完全未提这些内容。",
+      "reviewed_age": "12+（BBFC 12A/12）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "BBFC影院评12A、家庭版12，提示“中度性暗示、偶有强烈粗口”：有一次“f**k”及“bitch”“retard”等粗口，喜剧对白里多次提到性行为，能听到父母在隔壁做爱，还有情侣准备发生关系时的亲热抚摸。维基百科确认获凯撒奖最佳新人女演员。责任与梦想的主题有价值，但更适合12岁以上；文章完全未提这些内容。",
+        "recommended_age": "12+（BBFC 12A/12）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-12",
+        "evidence": [
+          {
+            "source": "BBFC",
+            "url": "https://www.bbfc.co.uk/release/la-famille-belier-q29sbgvjdglvbjpwwc0zodg3oda",
+            "checked_date": "2026-11-12",
+            "scope": "单部作品",
+            "note": "英国分级12A（影院）/12（家庭版）：moderate sex references, infrequent strong language；内容提示见正文。法定分级不等于教育价值评分。"
+          },
+          {
+            "source": "维基百科",
+            "url": "https://en.wikipedia.org/wiki/La_Famille_B%C3%A9lier",
+            "checked_date": "2026-11-12",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认2014年法比合拍、Éric Lartigau导演；第40届凯撒奖6项提名，Louane Emera获最佳新人女演员；获马格利特奖最佳外语片。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/La_Famille_B%C3%A9lier"
     }
   ]
 }
