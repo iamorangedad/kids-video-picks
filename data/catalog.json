@@ -55,7 +55,8 @@
     "article_47_new_entries": 6,
     "article_48_new_entries": 2,
     "article_49_new_entries": 49,
-    "article_50_new_entries": 8
+    "article_50_new_entries": 8,
+    "article_51_new_entries": 0
   },
   "entries": [
     {
@@ -5189,7 +5190,7 @@
       "name_en": "What If",
       "kind": "动画",
       "age_group": "未标明年龄",
-      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。",
+      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。 第51篇文末“往期推荐”再次列出。",
       "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMw3Y9UpdaRITDFOib7ODPtfYDUUf6XGhBdz5vrYPLazc3xpfEgAGoc6fUgcicsluSrUActH2dRicaXcePLD6bia2Wnlu1VrBiaSzRv8/0?wx_fmt=jpeg",
       "image_note": "这篇没有给它单独配图，用的是点名它的那篇文章封面。",
       "sources": [
@@ -5207,6 +5208,11 @@
           "article_no": 35,
           "title": "BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！",
           "url": "https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA"
+        },
+        {
+          "article_no": 51,
+          "title": "豆瓣9.6《人体的微观世界》（8集）孩子越早了解身体真相，越懂得珍惜健康",
+          "url": "https://mp.weixin.qq.com/s/z6yrsubK17LJOTMzjBefZQ"
         }
       ],
       "video_url": null,
@@ -5325,7 +5331,7 @@
       "name_en": null,
       "kind": "动画",
       "age_group": "未标明年龄",
-      "description_zh": "出现在《人体奥奇实验室》文末的往期推荐。原文是：全球首部诺贝尔科普题材动画《平博士密码》（52 集，中英文），把看不见的科学讲明白。没有写年龄，也没有播放链接。",
+      "description_zh": "出现在《人体奥奇实验室》文末的往期推荐。原文是：全球首部诺贝尔科普题材动画《平博士密码》（52 集，中英文），把看不见的科学讲明白。没有写年龄，也没有播放链接。 第51篇文末“往期推荐”再次列出。",
       "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Cu3arSAIaMwRJobiciaQXymdALKZA6NUwGDbtL3ChrPGjLII3ayicR9n0DN5jibiacQm7A6Ey44WlcKbN2ETrRic8bzhjicyIzibS9Y6JhptKVhhtUk/0?wx_fmt=jpeg",
       "image_note": "这篇没有给它单独配图，用的是点名它的那篇文章封面。",
       "sources": [
@@ -5333,6 +5339,11 @@
           "article_no": 8,
           "title": "BBC儿童医学科普《Operation Ouch  》（14季中英文）让孩子看懂身体、学会急救，强烈推荐！",
           "url": "https://mp.weixin.qq.com/s/DcF-aYLjzo5rt263kz0nXQ"
+        },
+        {
+          "article_no": 51,
+          "title": "豆瓣9.6《人体的微观世界》（8集）孩子越早了解身体真相，越懂得珍惜健康",
+          "url": "https://mp.weixin.qq.com/s/z6yrsubK17LJOTMzjBefZQ"
         }
       ],
       "video_url": null,
@@ -29827,7 +29838,7 @@
       "name_en": null,
       "kind": "科普动画",
       "age_group": "文章（往期推荐）未写年龄",
-      "description_zh": "出现在文末“往期推荐”：称“清华附”出品、172集、趣味学化学、家长辅导不焦虑。",
+      "description_zh": "出现在文末“往期推荐”：称“清华附”出品、172集、趣味学化学、家长辅导不焦虑。 第51篇文末“往期推荐”再次列出。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包。",
       "image_url": null,
@@ -29842,6 +29853,11 @@
           "article_no": 34,
           "title": "孩子背单词总记不住？PBS 出品《Word girl》跟着超级英雄，让孩子轻松从零到听懂会说",
           "url": "https://mp.weixin.qq.com/s/Ky-may7qF1IUAu_wEnloCQ"
+        },
+        {
+          "article_no": 51,
+          "title": "豆瓣9.6《人体的微观世界》（8集）孩子越早了解身体真相，越懂得珍惜健康",
+          "url": "https://mp.weixin.qq.com/s/z6yrsubK17LJOTMzjBefZQ"
         }
       ],
       "category": "学习类",
@@ -29953,7 +29969,7 @@
       "name_en": "The Body (NHK, 2018)",
       "kind": "纪录片",
       "age_group": "文章（往期推荐）未写年龄；称“孩子越早了解越好”",
-      "description_zh": "出现在文末“往期推荐”（重复列出两次）：称豆瓣9.6、8集，“孩子越早了解身体真相，越懂得珍惜健康”。",
+      "description_zh": "出现在文末“往期推荐”（重复列出两次）：称豆瓣9.6、8集，“孩子越早了解身体真相，越懂得珍惜健康”。 第51篇整篇推荐此片：称央视播出、8集、“比较适合8岁以上，家长陪看”，并以自家孩子看后主动喝水、早睡为例。",
       "video_url": null,
       "video_note": "未找到正版官方播放页；网上多为网盘或转载，不采用。",
       "image_url": null,
@@ -29963,6 +29979,11 @@
           "article_no": 35,
           "title": "BBC科普《牛顿大道 1 号》（26集中英文）不坐书桌不刷题，日常小事打通孩子数学思路！",
           "url": "https://mp.weixin.qq.com/s/OVU50VeXzN38joyavb47dA"
+        },
+        {
+          "article_no": 51,
+          "title": "豆瓣9.6《人体的微观世界》（8集）孩子越早了解身体真相，越懂得珍惜健康",
+          "url": "https://mp.weixin.qq.com/s/z6yrsubK17LJOTMzjBefZQ"
         }
       ],
       "category": "学习类",
@@ -29970,17 +29991,17 @@
       "origin_group": "article-35",
       "pending_verification": false,
       "verdict": "有保留",
-      "review_rationale_zh": "NHK 2018年8集纪录片，每集约50分钟，讲信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体等前沿医学，观众短评也说“观看有一定门槛”。文章“越早了解越好”与内容难度不符，适合初中以上；产前一集含孕育内容。豆瓣9.6未核实，未找到正版官方播放页。",
-      "reviewed_age": "12+（编辑暂议；原文“越早越好”不成立）",
+      "review_rationale_zh": "NHK原作为《NHK特别节目 人体 神秘的巨大网络》（2017—2018，序章+7集，每集约49分钟），国际版The Body共8集；央视纪录频道2022年8月播出（片单标6集×50分钟）。内容是信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体与癌症治疗等前沿医学，面向成人观众，第51篇称8岁以上、第35篇称“越早越好”均偏低，适合初中以上或家长挑集陪看；产前一集含孕育内容，癌症一集涉及转移与治疗。豆瓣9.6未核实，未找到正版官方播放页。",
+      "reviewed_age": "12+（编辑暂议；原文8岁+／“越早越好”偏低）",
       "original_image_path": null,
       "image_kind": "自制文字封面（非官方海报／剧照）",
       "review": {
         "verdict": "有保留",
-        "rationale_zh": "NHK 2018年8集纪录片，每集约50分钟，讲信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体等前沿医学，观众短评也说“观看有一定门槛”。文章“越早了解越好”与内容难度不符，适合初中以上；产前一集含孕育内容。豆瓣9.6未核实，未找到正版官方播放页。",
-        "recommended_age": "12+（编辑暂议；原文“越早越好”不成立）",
+        "rationale_zh": "NHK原作为《NHK特别节目 人体 神秘的巨大网络》（2017—2018，序章+7集，每集约49分钟），国际版The Body共8集；央视纪录频道2022年8月播出（片单标6集×50分钟）。内容是信号分子、肾、脂肪肌肉、骨骼、肠道、大脑、产前母婴交流、外泌体与癌症治疗等前沿医学，面向成人观众，第51篇称8岁以上、第35篇称“越早越好”均偏低，适合初中以上或家长挑集陪看；产前一集含孕育内容，癌症一集涉及转移与治疗。豆瓣9.6未核实，未找到正版官方播放页。",
+        "recommended_age": "12+（编辑暂议；原文8岁+／“越早越好”偏低）",
         "status": "作品级证据初审",
         "confidence": "低",
-        "reviewed_date": "2026-11-07",
+        "reviewed_date": "2026-11-14",
         "evidence": [
           {
             "source": "豆瓣条目（短评页）",
@@ -29988,6 +30009,20 @@
             "checked_date": "2026-11-07",
             "scope": "观众条目，非适龄评测",
             "note": "确认NHK 2018年8集；评分与人数未核实。"
+          },
+          {
+            "source": "NHKアーカイブス",
+            "url": "https://www2.nhk.or.jp/archives/movies/?id=D0009050827_00000",
+            "checked_date": "2026-11-14",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认原作为NHK特别节目《人体 神秘的巨大网络》（2017—2018，序章+7集，每集49分钟，主持塔摩利、山中伸弥）。"
+          },
+          {
+            "source": "中央广播电视总台暑期片单（腾讯新闻转载）",
+            "url": "https://news.qq.com/rain/a/20220802A0AJ9I00",
+            "checked_date": "2026-11-14",
+            "scope": "播出方官方页面，不是独立评测",
+            "note": "确认CCTV-9于2022年8月5—7日播出《人体的微观世界》，片单标注6集×50分钟。"
           }
         ],
         "douban": {
