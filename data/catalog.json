@@ -7,8 +7,8 @@
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
-    "article_28_with_independent_review": 93,
-    "pending_article_28": 224,
+    "article_28_with_independent_review": 94,
+    "pending_article_28": 223,
     "by_category": {
       "学习类": 70,
       "人文类": 38,
@@ -24,13 +24,13 @@
       "不推荐": 24
     },
     "with_image": 642,
-    "with_independent_review_poster": 257,
+    "with_independent_review_poster": 258,
     "with_original_image_only": 73,
-    "with_title_card": 292,
+    "with_title_card": 291,
     "official_reference_links": 72,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 288,
+    "with_independent_evidence": 289,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -57,7 +57,8 @@
     "article_49_new_entries": 49,
     "article_50_new_entries": 8,
     "article_51_new_entries": 0,
-    "article_52_new_entries": 6
+    "article_52_new_entries": 6,
+    "article_53_new_entries": 0
   },
   "entries": [
     {
@@ -6597,7 +6598,7 @@
       "name_en": "Turning Red",
       "kind": "动画电影",
       "age_group": "文章24写7岁以上；文章27写9岁+",
-      "description_zh": "13岁的华裔女孩情绪激动时会变成红色小熊猫。文章24把它写成青春期和母女和解。文章27补充这是家族女性代代相传的变化，妈妈后来道歉，女孩选择把熊猫留下来。 第48篇也推荐此片。 第49篇也列入片单。",
+      "description_zh": "13岁的华裔女孩情绪激动时会变成红色小熊猫。文章24把它写成青春期和母女和解。文章27补充这是家族女性代代相传的变化，妈妈后来道歉，女孩选择把熊猫留下来。 第48篇也推荐此片。 第49篇也列入片单。 第53篇作为“情绪管理”动画再次推荐。",
       "video_url": null,
       "video_note": "本轮未独立确认具体作品、完整正片、上传授权或地区可播性；不把HTTP 200当成功播放。原链接仅在数据候选字段保留。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/qsdjk9oaksqmws0vt5pyfh6o4gz.jpg",
@@ -6628,6 +6629,11 @@
           "article_no": 49,
           "title": "陪孩子看完这100部电影，胜过1000句说教｜在光影中收获成长（建议收藏）",
           "url": "https://mp.weixin.qq.com/s/ooO5J4HPJerC3Ekccb0qJg"
+        },
+        {
+          "article_no": 53,
+          "title": "孩子发脾气、玻璃心？这5部神级动画，养出情绪稳定的孩子",
+          "url": "https://mp.weixin.qq.com/s/bJvSyFmcHHyKRNgGNPgqWQ"
         }
       ],
       "also_in_prior_research": false,
@@ -16580,37 +16586,54 @@
     {
       "id": "wx28-a5ed1524fe59",
       "name_zh": "勇敢传说",
-      "name_en": null,
+      "name_en": "Brave",
       "original_title": null,
       "kind": "原文称动画电影，具体类型待核实",
       "article_year": 2012,
-      "age_group": "文章28没有逐片标注适龄",
+      "age_group": "原文未标适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。",
+      "description_zh": "第28篇原文只列片名与年份；第53篇再次推荐时补做了CSM单片评测核验。第53篇称其讲母女沟通与自我觉醒。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
-      "image_url": null,
-      "image_path": "images/title-cards/wx28-a5ed1524fe59.svg",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/brave-min-min.jpg",
+      "image_path": "images/review/wx28-a5ed1524fe59.jpg",
       "sources": [
         {
           "article_no": 28,
           "title": "330部动画电影 纯英文字幕全清单｜1937到2026 一部没落",
           "url": "https://mp.weixin.qq.com/s/kx7YqDwvnUhSYTM3Gh1f-Q"
+        },
+        {
+          "article_no": 53,
+          "title": "孩子发脾气、玻璃心？这5部神级动画，养出情绪稳定的孩子",
+          "url": "https://mp.weixin.qq.com/s/bJvSyFmcHHyKRNgGNPgqWQ"
         }
       ],
       "origin_group": "article-28",
-      "pending_verification": true,
+      "pending_verification": false,
       "verdict": "有保留",
-      "review_rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-      "reviewed_age": "未核实",
+      "review_rationale_zh": "CSM评8+、编辑3/5：以“公主片”而言相当吓人，多段愤怒巨熊攻击主角的激烈场面，CSM特别提醒7岁以下和对险境敏感的孩子。母女冲突与和解有讨论价值，但第53篇“养出情绪稳定的孩子”属效果承诺，无证据。",
+      "reviewed_age": "8+（CSM）",
       "review": {
         "verdict": "有保留",
-        "recommended_age": "未核实",
-        "rationale_zh": "暂不进入儿童优选。未核实准确版本、适龄、暴力/惊吓、语言负荷及教育效果，不能因为动画、老片、英语字幕或资源数量多而认定优质。",
-        "status": "待核验，未作正向推荐",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "recommended_age": "8+（CSM）",
+        "rationale_zh": "CSM评8+、编辑3/5：以“公主片”而言相当吓人，多段愤怒巨熊攻击主角的激烈场面，CSM特别提醒7岁以下和对险境敏感的孩子。母女冲突与和解有讨论价值，但第53篇“养出情绪稳定的孩子”属效果承诺，无证据。",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/movie-reviews/brave",
+            "checked_date": "2026-11-15",
+            "scope": "单部作品",
+            "work_title": "Brave",
+            "age": "8+",
+            "editorial_score": "3",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -16628,8 +16651,9 @@
         "pacing": "未逐镜测量；未把年代与语速、教育效果作因果关联。"
       },
       "original_image_path": null,
-      "image_kind": "自制文字封面（非官方海报／剧照）",
-      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。"
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "image_note": "源页标注本作品；缩至约600像素宽，仅作辨识。",
+      "image_source": "https://www.commonsensemedia.org/movie-reviews/brave"
     },
     {
       "id": "wx28-f6a7ee02ea24",
@@ -18696,7 +18720,7 @@
       "article_year": 2015,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。 第42篇也推荐此片。 第44篇也推荐此片。 第49篇也列入片单。",
+      "description_zh": "女孩搬家后，拟人化情绪共同面对成长与失落。 第42篇也推荐此片。 第44篇也推荐此片。 第49篇也列入片单。 第53篇作为“情绪管理”动画再次推荐。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/inside-out-min.jpg",
@@ -18721,6 +18745,11 @@
           "article_no": 49,
           "title": "陪孩子看完这100部电影，胜过1000句说教｜在光影中收获成长（建议收藏）",
           "url": "https://mp.weixin.qq.com/s/ooO5J4HPJerC3Ekccb0qJg"
+        },
+        {
+          "article_no": 53,
+          "title": "孩子发脾气、玻璃心？这5部神级动画，养出情绪稳定的孩子",
+          "url": "https://mp.weixin.qq.com/s/bJvSyFmcHHyKRNgGNPgqWQ"
         }
       ],
       "origin_group": "article-28",
@@ -18897,7 +18926,7 @@
       "article_year": 2015,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第41篇也推荐此片（作为英语“开口”电影）。 第49篇也列入片单。",
+      "description_zh": "原文主要列出片名与年份，没有足够的独立剧情或教育信息；本轮尚未建立此版本的作品级独立证据。 第41篇也推荐此片（作为英语“开口”电影）。 第49篇也列入片单。 第53篇作为“情绪管理”动画再次推荐。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-movie/the-good-dinosaur-0-min.jpg",
@@ -18917,6 +18946,11 @@
           "article_no": 49,
           "title": "陪孩子看完这100部电影，胜过1000句说教｜在光影中收获成长（建议收藏）",
           "url": "https://mp.weixin.qq.com/s/ooO5J4HPJerC3Ekccb0qJg"
+        },
+        {
+          "article_no": 53,
+          "title": "孩子发脾气、玻璃心？这5部神级动画，养出情绪稳定的孩子",
+          "url": "https://mp.weixin.qq.com/s/bJvSyFmcHHyKRNgGNPgqWQ"
         }
       ],
       "origin_group": "article-28",
@@ -22050,7 +22084,7 @@
       "article_year": 2020,
       "age_group": "文章28没有逐片标注适龄",
       "category": "动画娱乐类",
-      "description_zh": "音乐教师在生死之间重新思考生活和目标。 第42篇也推荐此片。 第48篇也推荐此片。 第49篇也列入片单。",
+      "description_zh": "音乐教师在生死之间重新思考生活和目标。 第42篇也推荐此片。 第48篇也推荐此片。 第49篇也列入片单。 第53篇作为“情绪管理”动画再次推荐。",
       "video_url": null,
       "video_note": "未核实正版播放地址；不提供原文资源包、网盘或字幕提取件。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/soul-movie-cover.jpeg",
@@ -22075,6 +22109,11 @@
           "article_no": 49,
           "title": "陪孩子看完这100部电影，胜过1000句说教｜在光影中收获成长（建议收藏）",
           "url": "https://mp.weixin.qq.com/s/ooO5J4HPJerC3Ekccb0qJg"
+        },
+        {
+          "article_no": 53,
+          "title": "孩子发脾气、玻璃心？这5部神级动画，养出情绪稳定的孩子",
+          "url": "https://mp.weixin.qq.com/s/bJvSyFmcHHyKRNgGNPgqWQ"
         }
       ],
       "origin_group": "article-28",
