@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 636,
+    "entries": 642,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -11,26 +11,26 @@
     "pending_article_28": 224,
     "by_category": {
       "学习类": 70,
-      "人文类": 33,
+      "人文类": 38,
       "情感品格类": 101,
-      "自然类": 42,
+      "自然类": 43,
       "益智动画类": 1,
       "动画娱乐类": 389
     },
     "by_verdict": {
-      "有保留": 445,
-      "推荐": 139,
+      "有保留": 450,
+      "推荐": 140,
       "强烈推荐": 28,
       "不推荐": 24
     },
-    "with_image": 636,
-    "with_independent_review_poster": 256,
+    "with_image": 642,
+    "with_independent_review_poster": 257,
     "with_original_image_only": 73,
-    "with_title_card": 290,
-    "official_reference_links": 67,
+    "with_title_card": 292,
+    "official_reference_links": 72,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 282,
+    "with_independent_evidence": 288,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -56,7 +56,8 @@
     "article_48_new_entries": 2,
     "article_49_new_entries": 49,
     "article_50_new_entries": 8,
-    "article_51_new_entries": 0
+    "article_51_new_entries": 0,
+    "article_52_new_entries": 6
   },
   "entries": [
     {
@@ -2786,7 +2787,7 @@
       "name_zh": "地球脉动",
       "kind": "纪录片",
       "age_group": "未标明年龄",
-      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：万物生长各有快慢，孩子的成长也一样。36部清单里也有这个名字。",
+      "description_zh": "文章用一句话推荐，没有写年龄和播放链接。文章写：万物生长各有快慢，孩子的成长也一样。36部清单里也有这个名字。 第52篇也列入（文章写BBC·11集、豆瓣9.7，“BBC用5年走遍40多个国家”）。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/planet-earth.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -2799,6 +2800,11 @@
           "article_no": 17,
           "title": "强烈推荐36部儿童必看顶级纪录片",
           "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        },
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
         }
       ],
       "name_en": null,
@@ -4361,7 +4367,7 @@
       "name_zh": "河西走廊",
       "kind": "纪录片",
       "age_group": "只列片名",
-      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。",
+      "description_zh": "文章《强烈推荐36部儿童必看顶级纪录片》把它列在「中国东方神韵」。全文只有名单和主题，没有这一部的剧情、年龄或播放链接。 第52篇也列入（文章写央视·10集、豆瓣9.7）。",
       "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Dbr7hULyqPLwltTCtR46fYbT0A0VQbaMMwsMyABtnNSsHCUIegecqvbWMJYnpwmIw4OZ8Wn8KgibYD2AgrKsnAC54jzVs6eNYbD8Vicul/0?wx_fmt=jpeg",
       "image_note": "豆瓣条目《河西走廊》（2015）的海报。",
       "sources": [
@@ -4369,6 +4375,11 @@
           "article_no": 17,
           "title": "强烈推荐36部儿童必看顶级纪录片",
           "url": "https://mp.weixin.qq.com/s/N7tY4wyBz8yLYPtZCo3ENg"
+        },
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
         }
       ],
       "name_en": null,
@@ -39559,6 +39570,421 @@
         },
         "pacing": "未逐镜测量。"
       },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx52-blue-planet",
+      "name_zh": "蓝色星球（2001）",
+      "name_en": "The Blue Planet",
+      "kind": "纪录片（8集×约50分钟）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章列于“自然与文明的史诗”：海洋·BBC·8集，称豆瓣9.6，潜入海底拍鲸群、珊瑚和发光鱼。",
+      "video_url": "https://www.bbc.co.uk/programmes/b008044n",
+      "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/blue-planet-tv.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "自然类",
+      "image_path": "images/review/wx52-blue-planet.jpg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "推荐",
+      "review_rationale_zh": "CSM评6+、编辑4/5：海洋影像极美，有大量捕猎、进食、交配镜头，CSM认为孩子会被吸引、家长不必担心，但讲述略有瑕疵。维基百科确认为BBC自然历史部与Discovery合拍、2001年首播、大卫·爱登堡解说、共8集。豆瓣9.6未核实。",
+      "reviewed_age": "6+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "推荐",
+        "rationale_zh": "CSM评6+、编辑4/5：海洋影像极美，有大量捕猎、进食、交配镜头，CSM认为孩子会被吸引、家长不必担心，但讲述略有瑕疵。维基百科确认为BBC自然历史部与Discovery合拍、2001年首播、大卫·爱登堡解说、共8集。豆瓣9.6未核实。",
+        "recommended_age": "6+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/blue-planet",
+            "checked_date": "2026-11-15",
+            "scope": "单部作品",
+            "work_title": "Blue Planet",
+            "age": "6+",
+            "editorial_score": "4",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          },
+          {
+            "source": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Blue_Planet",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "BBC Programmes",
+            "url": "https://www.bbc.co.uk/programmes/b008044n",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/blue-planet",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx52-guobao",
+      "name_zh": "如果国宝会说话",
+      "name_en": "National Treasures Talk (CCTV, 2018–)",
+      "kind": "纪录短片系列（100集×5分钟）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章列于“自然与文明的史诗”：历史·央视·100集，每集5分钟讲一件国宝，建议作为“开胃菜”先看。",
+      "video_url": "https://tv.cctv.com/2017/12/21/VIDAWE377ZDQH69msDk6KUle171221.shtml",
+      "video_note": "央视网官方节目页（含分集），不代表在所有地区可播。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/zh/5/5f/%E5%A6%82%E6%9E%9C%E5%9B%BD%E5%AE%9D%E4%BC%9A%E8%AF%B4%E8%AF%9D_%E6%A0%87%E9%A2%98.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/review/wx52-guobao.jpg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "央视网节目页核实：国家文物局与央视联合策划，共100集、每集5分钟、分4季，2018年1月起在央视纪录频道播出。短小、可按集挑选，适合作历史文化启蒙；但无独立适龄评测，解说偏文学化，部分集涉及墓葬、战争文物，需家长补充背景。豆瓣9.4未核实。",
+      "reviewed_age": "8+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "央视网节目页核实：国家文物局与央视联合策划，共100集、每集5分钟、分4季，2018年1月起在央视纪录频道播出。短小、可按集挑选，适合作历史文化启蒙；但无独立适龄评测，解说偏文学化，部分集涉及墓葬、战争文物，需家长补充背景。豆瓣9.4未核实。",
+        "recommended_age": "8+（编辑暂议）",
+        "status": "官方来源与百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "央视网",
+            "url": "https://tv.cctv.com/2017/12/21/VIDAWE377ZDQH69msDk6KUle171221.shtml",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/如果国宝会说话",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://zh.wikipedia.org/wiki/如果国宝会说话",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx52-forbidden-city-restorers",
+      "name_zh": "我在故宫修文物",
+      "name_en": "Masters in Forbidden City (2016)",
+      "kind": "纪录片（3集）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章列于“生活与人生的答案”：人文·央视·3集，记录故宫钟表、书画、陶瓷修复师，称“把一件事做到极致”。",
+      "video_url": "https://www.bilibili.com/bangumi/media/md20792/",
+      "video_note": "哔哩哔哩正版作品页（3集）；播放页对部分地区提示版权限制。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/title-cards/wx52-forbidden-city-restorers.svg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科与央视网核实：2016年1月首播的3集纪录片，故宫博物院等出品，萧寒、叶君执导，记录书画、青铜器、钟表、木器、陶瓷、漆器、织绣等修复。节奏缓慢、成人视角，对低龄孩子吸引力有限；文章“用一辈子修一件器物”是修辞夸张。无独立适龄评测，豆瓣9.4未核实。",
+      "reviewed_age": "10+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科与央视网核实：2016年1月首播的3集纪录片，故宫博物院等出品，萧寒、叶君执导，记录书画、青铜器、钟表、木器、陶瓷、漆器、织绣等修复。节奏缓慢、成人视角，对低龄孩子吸引力有限；文章“用一辈子修一件器物”是修辞夸张。无独立适龄评测，豆瓣9.4未核实。",
+        "recommended_age": "10+（编辑暂议）",
+        "status": "官方来源与百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/我在故宫修文物",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "央视网",
+            "url": "https://tv.cctv.com/2015/12/30/VIDA1451462807578701.shtml",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx52-and-yet-the-books",
+      "name_zh": "但是还有书籍（第一季）",
+      "name_en": "And Yet the Books (2019)",
+      "kind": "纪录片（5集×25—30分钟）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章列于“生活与人生的答案”：讲编辑、译者、旧书店老板与图书馆员，称不催娃读书却把“书是好东西”种进心里。",
+      "video_url": "https://www.bilibili.com/bangumi/media/md28220315/",
+      "video_note": "哔哩哔哩正版作品页（出品方平台），不代表在所有地区可播。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/title-cards/wx52-and-yet-the-books.svg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "B站作品页与维基百科核实：哔哩哔哩与北京小河文化联合出品，2019年12月开播，第一季5集、每集25—30分钟，胡歌配音；分集为编辑、二手书、绘本、书籍设计、阅读指南。面向成人爱书人，第3集绘本一集最适合亲子；文章未注明季数（现已有多季）。无独立适龄评测，豆瓣9.4未核实。",
+      "reviewed_age": "12+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "B站作品页与维基百科核实：哔哩哔哩与北京小河文化联合出品，2019年12月开播，第一季5集、每集25—30分钟，胡歌配音；分集为编辑、二手书、绘本、书籍设计、阅读指南。面向成人爱书人，第3集绘本一集最适合亲子；文章未注明季数（现已有多季）。无独立适龄评测，豆瓣9.4未核实。",
+        "recommended_age": "12+（编辑暂议）",
+        "status": "官方来源与百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "哔哩哔哩",
+            "url": "https://www.bilibili.com/bangumi/media/md28220315/",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "维基百科",
+            "url": "https://zh.wikipedia.org/wiki/但是还有书籍",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx52-up-series",
+      "name_zh": "人生七年（Up系列）",
+      "name_en": "Up series (1964–2026)",
+      "kind": "纪录电影系列",
+      "age_group": "文章未写年龄（称“陪娃看”）",
+      "description_zh": "文章列于“生活与人生的答案”：社会·英国·8部，称“导演用56年跟拍14个孩子，每7年回访一次”。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/0/03/The_Up_series_DVD.jpg",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/review/wx52-up-series.jpg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科核实：英国Up系列从1964年7岁起跟拍10男4女，每7年一部，至2026年《70 Up》共10部、跨63年；首部导演为Paul Almond，其后8部为Michael Apted，最后一部为Asif Kapadia。文章“8部、56年、导演一人跟拍”有误（8部只到2012年的《56 Up》，跨48年；“56”是受访者年龄）。内容是成年人的阶层、婚姻、失业、疾病等人生际遇，单部时长较长，适合高中以上与家长讨论。无独立适龄评测，豆瓣9.4未核实。",
+      "reviewed_age": "14+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科核实：英国Up系列从1964年7岁起跟拍10男4女，每7年一部，至2026年《70 Up》共10部、跨63年；首部导演为Paul Almond，其后8部为Michael Apted，最后一部为Asif Kapadia。文章“8部、56年、导演一人跟拍”有误（8部只到2012年的《56 Up》，跨48年；“56”是受访者年龄）。内容是成年人的阶层、婚姻、失业、疾病等人生际遇，单部时长较长，适合高中以上与家长讨论。无独立适龄评测，豆瓣9.4未核实。",
+        "recommended_age": "14+（编辑暂议）",
+        "status": "百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Up_(film_series)",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/Up_(film_series)"
+    },
+    {
+      "id": "wx52-life-is-fruity",
+      "name_zh": "人生果实",
+      "name_en": "Life Is Fruity (2017)",
+      "kind": "纪录电影（91分钟）",
+      "age_group": "文章未写年龄",
+      "description_zh": "文章列于“生活与人生的答案”：日本纪录电影，90岁的津端夫妇种菜、做果酱、写纸条，称“人生不必那么赶”。",
+      "video_url": "https://life-is-fruity.com/",
+      "video_note": "电影官方网站（日文），只作作品介绍，不是播放页。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lifeisfruity_title.png",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 52,
+          "title": "世界上最伟大的8部纪录片",
+          "url": "https://mp.weixin.qq.com/s/R0upe1KtLO0pgyXQO0jHDw"
+        }
+      ],
+      "category": "人文类",
+      "image_path": "images/review/wx52-life-is-fruity.jpg",
+      "origin_group": "article-52",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "日文维基与官方网站核实：东海电视台2016年播出、2017年上映的纪录电影，91分钟，树木希林旁白，主角为建筑师津端修一与妻子英子。维基百科记载津端修一2015年去世（90岁），早于本片播出，涉及老人离世话题，家长可先了解。慢节奏老年生活题材，对孩子吸引力有限。无独立适龄评测，豆瓣8.5未核实。",
+      "reviewed_age": "12+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "日文维基与官方网站核实：东海电视台2016年播出、2017年上映的纪录电影，91分钟，树木希林旁白，主角为建筑师津端修一与妻子英子。维基百科记载津端修一2015年去世（90岁），早于本片播出，涉及老人离世话题，家长可先了解。慢节奏老年生活题材，对孩子吸引力有限。无独立适龄评测，豆瓣8.5未核实。",
+        "recommended_age": "12+（编辑暂议）",
+        "status": "官方来源与百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "Wikipedia (ja)",
+            "url": "https://ja.wikipedia.org/wiki/人生フルーツ",
+            "checked_date": "2026-11-15",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          },
+          {
+            "source": "映画『人生フルーツ』公式サイト",
+            "url": "https://life-is-fruity.com/",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认作品身份与基本信息；不代表适龄或教育效果评测。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://ja.wikipedia.org/wiki/人生フルーツ",
       "video_kind": "官方介绍／节目入口，非已验证正片"
     }
   ]
