@@ -3,14 +3,14 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 642,
+    "entries": 644,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 94,
     "pending_article_28": 223,
     "by_category": {
-      "学习类": 70,
+      "学习类": 72,
       "人文类": 38,
       "情感品格类": 101,
       "自然类": 43,
@@ -18,19 +18,19 @@
       "动画娱乐类": 389
     },
     "by_verdict": {
-      "有保留": 450,
+      "有保留": 451,
       "推荐": 140,
-      "强烈推荐": 28,
+      "强烈推荐": 29,
       "不推荐": 24
     },
-    "with_image": 642,
-    "with_independent_review_poster": 258,
+    "with_image": 644,
+    "with_independent_review_poster": 259,
     "with_original_image_only": 73,
-    "with_title_card": 291,
-    "official_reference_links": 73,
+    "with_title_card": 292,
+    "official_reference_links": 75,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 289,
+    "with_independent_evidence": 291,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -59,7 +59,8 @@
     "article_51_new_entries": 0,
     "article_52_new_entries": 6,
     "article_53_new_entries": 0,
-    "article_54_new_entries": 0
+    "article_54_new_entries": 0,
+    "article_55_new_entries": 2
   },
   "entries": [
     {
@@ -32807,7 +32808,7 @@
       "name_en": "Ask the StoryBots",
       "kind": "教育动画",
       "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
-      "description_zh": "儿童提出大问题，故事机器人去寻找答案，节目中有音乐、采访和幽默段落。CSM评3+、编辑4/5，评测页列出的平台包括Netflix。本轮未核实可打开的特定正片播放页（不猜测平台片号），故链接栏留空。此次为2026年11月全网检索收录。",
+      "description_zh": "儿童提出大问题，故事机器人去寻找答案，节目中有音乐、采访和幽默段落。CSM评3+、编辑4/5，评测页列出的平台包括Netflix。本轮未核实可打开的特定正片播放页（不猜测平台片号），故链接栏留空。此次为2026年11月全网检索收录。 第55篇列为第1部，标3–8岁、“低幼启蒙首选”。",
       "video_url": null,
       "video_note": "CSM评测页提到Netflix等平台，但本轮未核实可打开且与作品对应的官方播放页；不猜测片号。",
       "video_kind": "未核实",
@@ -32821,6 +32822,11 @@
           "label": "全网检索",
           "title": "2026-11-10 全网检索优质儿童视频资源",
           "url": "https://www.commonsensemedia.org/tv-reviews/ask-the-storybots"
+        },
+        {
+          "article_no": 55,
+          "title": "英语老师强烈推荐的 三部STEM动画合集，听力输入 + 科学启蒙一步到位",
+          "url": "https://mp.weixin.qq.com/s/xYT-OG7MMsJNyB7JacLaDg"
         }
       ],
       "also_in_prior_research": false,
@@ -40069,6 +40075,147 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://ja.wikipedia.org/wiki/人生フルーツ",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx55-elinor-wonders-why",
+      "name_zh": "小好奇埃莉诺",
+      "name_en": "Elinor Wonders Why",
+      "kind": "动画剧集（PBS KIDS）",
+      "age_group": "4–9岁（原文）",
+      "description_zh": "文章列第3部：PBS KIDS动画，兔子埃莉诺和朋友在动物小镇观察虫子、植物、天气，展示观察→提问→猜想→验证→结论的科学探究流程；称很多英语老师偏爱。",
+      "video_url": "https://pbskids.org/elinor",
+      "video_note": "PBS KIDS官方节目页；部分视频可能有地区限制，未逐集测试播放。",
+      "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_large/public/product-images/csm-tv/elinorwonderswhy-tv-product-image.png",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 55,
+          "title": "英语老师强烈推荐的 三部STEM动画合集，听力输入 + 科学启蒙一步到位",
+          "url": "https://mp.weixin.qq.com/s/xYT-OG7MMsJNyB7JacLaDg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/review/wx55-elinor-wonders-why.jpg",
+      "origin_group": "article-55",
+      "pending_verification": false,
+      "verdict": "强烈推荐",
+      "review_rationale_zh": "CSM评5+、编辑5/5：学前向剧集，角色通过探索和提问学习，示范好奇心与尝试新事物的价值，成人角色也是良好榜样。文章“观察→提问→验证”的描述与CSM一致；但CSM定位为学前向，对文章上限9岁的孩子可能偏幼。作为英语听力素材的效果未经验证。",
+      "reviewed_age": "5+（CSM）",
+      "original_image_path": null,
+      "image_kind": "独立评测页所标本片海报（版权归原权利人）",
+      "review": {
+        "verdict": "强烈推荐",
+        "rationale_zh": "CSM评5+、编辑5/5：学前向剧集，角色通过探索和提问学习，示范好奇心与尝试新事物的价值，成人角色也是良好榜样。文章“观察→提问→验证”的描述与CSM一致；但CSM定位为学前向，对文章上限9岁的孩子可能偏幼。作为英语听力素材的效果未经验证。",
+        "recommended_age": "5+（CSM）",
+        "status": "作品级证据初审",
+        "confidence": "中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Common Sense Media",
+            "url": "https://www.commonsensemedia.org/tv-reviews/elinor-wonders-why",
+            "checked_date": "2026-11-16",
+            "scope": "单部作品",
+            "work_title": "Elinor Wonders Why",
+            "age": "5+",
+            "editorial_score": "5",
+            "score_scale": 5,
+            "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。"
+          },
+          {
+            "source": "PBS KIDS",
+            "url": "https://pbskids.org/elinor",
+            "checked_date": "2026-11-16",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "官方节目页。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://www.commonsensemedia.org/tv-reviews/elinor-wonders-why",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx55-scishow-kids",
+      "name_zh": "SciShow Kids（美国少儿科学秀）",
+      "name_en": "SciShow Kids",
+      "kind": "YouTube科普频道（真人主持短片）",
+      "age_group": "5–10岁（原文）",
+      "description_zh": "文章列第2部：真人主持科普短片，主持人Jessi和机器人老鼠Squeaks搭档，每期几分钟，覆盖水循环、火山、动物栖息地、植物吸水等，称“科学严谨、贴合国外低年级科学课标”。",
+      "video_url": "https://www.youtube.com/@scishowkids",
+      "video_note": "制作方官方YouTube频道（免费、含广告）；未逐集核验，中国大陆无法直接访问。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 55,
+          "title": "英语老师强烈推荐的 三部STEM动画合集，听力输入 + 科学启蒙一步到位",
+          "url": "https://mp.weixin.qq.com/s/xYT-OG7MMsJNyB7JacLaDg"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx55-scishow-kids.svg",
+      "origin_group": "article-55",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科核实：SciShow旗下儿童频道，2015年3月上线，主要由Jessi Knudsen Castañeda主持，2018年底停更、2020年4月恢复。内容简短、实拍加动画，适合低年级科学启蒙；但它是YouTube频道而非成套剧集，无独立适龄评测，文章“严谨靠谱”“贴合课标”未见依据；YouTube自动播放与推荐流需家长设置受限模式或用YouTube Kids。",
+      "reviewed_age": "5+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科核实：SciShow旗下儿童频道，2015年3月上线，主要由Jessi Knudsen Castañeda主持，2018年底停更、2020年4月恢复。内容简短、实拍加动画，适合低年级科学启蒙；但它是YouTube频道而非成套剧集，无独立适龄评测，文章“严谨靠谱”“贴合课标”未见依据；YouTube自动播放与推荐流需家长设置受限模式或用YouTube Kids。",
+        "recommended_age": "5+（编辑暂议）",
+        "status": "百科背景与官方频道核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/SciShow",
+            "checked_date": "2026-11-16",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认SciShow Kids上线时间、主持人与停更恢复情况。"
+          },
+          {
+            "source": "YouTube官方频道",
+            "url": "https://www.youtube.com/@scishowkids",
+            "checked_date": "2026-11-16",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "官方频道页。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
       "video_kind": "官方介绍／节目入口，非已验证正片"
     }
   ]
