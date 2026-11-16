@@ -3,7 +3,7 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 648,
+    "entries": 649,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
@@ -15,22 +15,22 @@
       "情感品格类": 101,
       "自然类": 43,
       "益智动画类": 1,
-      "动画娱乐类": 393
+      "动画娱乐类": 394
     },
     "by_verdict": {
-      "有保留": 449,
+      "有保留": 450,
       "推荐": 142,
       "强烈推荐": 31,
       "不推荐": 26
     },
-    "with_image": 648,
+    "with_image": 649,
     "with_independent_review_poster": 266,
     "with_original_image_only": 73,
     "with_title_card": 289,
     "official_reference_links": 75,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 298,
+    "with_independent_evidence": 299,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -61,7 +61,8 @@
     "article_53_new_entries": 0,
     "article_54_new_entries": 0,
     "article_55_new_entries": 2,
-    "article_56_new_entries": 4
+    "article_56_new_entries": 4,
+    "article_57_new_entries": 1
   },
   "entries": [
     {
@@ -915,7 +916,7 @@
       "name_zh": "雨果带你看世界",
       "kind": "动画",
       "age_group": "3-8岁",
-      "description_zh": "文章把它放在思维启蒙，写豆瓣9.2、适合3–8岁、BBC 出品、单集约5分钟。它问什么是朋友、什么是公平、害怕是什么、什么才算大，雨果不给标准答案。文章没有英文名。",
+      "description_zh": "文章把它放在思维启蒙，写豆瓣9.2、适合3–8岁、BBC 出品、单集约5分钟。它问什么是朋友、什么是公平、害怕是什么、什么才算大，雨果不给标准答案。文章没有英文名。 第57篇图文帖第3张：称豆瓣9.3、“唯一一部哲学启蒙动画”、共52集、每集5分钟、2012年首播、适合3岁以上；这些信息仍未能核实到具体作品。",
       "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/Fb3Efks8pLTx10Zwdeayr61SAMmSxibMt9CWVZr9D0S3N16G3CQYJolJs3rRvFcCJHlz2T14WCN65DRuxjIicKJRoHibNRicvUYrAicPY4dAMUD8/0?wx_fmt=jpeg",
       "image_note": "这篇推荐了8部，正文没有给每部单独配图，这里用文章封面。",
       "sources": [
@@ -923,6 +924,11 @@
           "article_no": 12,
           "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
           "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        },
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
         }
       ],
       "name_en": null,
@@ -1138,7 +1144,7 @@
       "name_zh": "螺丝钉",
       "kind": "动画",
       "age_group": "3-6岁",
-      "description_zh": "文章写豆瓣9.4、适合3–6岁，称它是俄罗斯动画：家电里住着修理小精灵，用故事讲冰箱为什么制冷、遥控器如何发信号、洗衣机怎样洗净衣服。文章没有英文名。",
+      "description_zh": "文章写豆瓣9.4、适合3–6岁，称它是俄罗斯动画：家电里住着修理小精灵，用故事讲冰箱为什么制冷、遥控器如何发信号、洗衣机怎样洗净衣服。文章没有英文名。 第57篇图文帖第5张：称豆瓣9.4、“科普类首选”、3季约130集、每集5分钟、2010年首播、适合3—6岁。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/the-fixies-poster.jpg",
       "image_note": "源页明确标注本作品；图片约600像素宽，仅作辨识，不代表开放授权。",
       "sources": [
@@ -1146,6 +1152,11 @@
           "article_no": 12,
           "title": "推荐几部越看孩子越开窍的动画片（家长必看）",
           "url": "https://mp.weixin.qq.com/s/Iy-SwhNQC6IFAAsECwqseQ"
+        },
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
         }
       ],
       "name_en": null,
@@ -5996,7 +6007,7 @@
       "name_en": "Bluey",
       "kind": "动画",
       "age_group": "6岁，文章写两岁妹妹看画面也乐",
-      "description_zh": "文章说豆瓣9.8，每集7分钟，讲澳洲一家四口怎么玩。作者认为它不是教英语的，而是教家长跟孩子玩什么，看完可以照着做亲子游戏。家里目前中文看得多，英文跟不上。",
+      "description_zh": "文章说豆瓣9.8，每集7分钟，讲澳洲一家四口怎么玩。作者认为它不是教英语的，而是教家长跟孩子玩什么，看完可以照着做亲子游戏。家里目前中文看得多，英文跟不上。 第57篇图文帖第1张：称豆瓣9.7、“所有动画里评分最高”、3季约150集、每集7分钟、2018年首播、适合3—8岁。",
       "video_url": "https://www.bluey.tv/",
       "video_note": "已核实官方作品页或节目页，不代表能免费播放、包含完整影片或在当前地区可播。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/blue-tv-product-image.jpg",
@@ -6012,6 +6023,11 @@
           "label": "全网检索",
           "title": "2026-11-10 全网检索优质儿童视频资源",
           "url": "https://github.com/iamorangedad/kids-video-picks/blob/main/docs/web-search-sources.md"
+        },
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
         }
       ],
       "also_in_prior_research": false,
@@ -6359,7 +6375,7 @@
       "name_en": "Octonauts",
       "kind": "动画",
       "age_group": "文章说先放着，等词汇量上来再看",
-      "description_zh": "文章说它偏科普，海洋动物知识多，但语速偏快，作者暂时不给现在的孩子看。",
+      "description_zh": "文章说它偏科普，海洋动物知识多，但语速偏快，作者暂时不给现在的孩子看。 第57篇图文帖第6张：称豆瓣9.0、“BBC收视率TOP”、共9季、每季26—50集、每集11分钟、2010年首播、适合3—8岁。",
       "video_url": null,
       "video_note": "本轮未独立确认具体作品、完整正片、上传授权或地区可播性；不把HTTP 200当成功播放。原链接仅在数据候选字段保留。",
       "image_url": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-tv/octonauts.jpg",
@@ -6370,6 +6386,11 @@
           "article_no": 23,
           "title": "两个女儿6岁和2岁，我们只看这8部动画片",
           "url": "https://mp.weixin.qq.com/s/B2loD1DLgD3WS77WM1XkqQ"
+        },
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
         }
       ],
       "also_in_prior_research": false,
@@ -34867,7 +34888,7 @@
       "name_en": "Hey Duggee",
       "kind": "动画",
       "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
-      "description_zh": "英国学前动画，友善的大狗道奇带领松鼠俱乐部的孩子们完成任务、获得徽章。已核实BBC CBeebies官方节目页可打开。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。",
+      "description_zh": "英国学前动画，友善的大狗道奇带领松鼠俱乐部的孩子们完成任务、获得徽章。已核实BBC CBeebies官方节目页可打开。CSM评3+、编辑4/5。此次为2026年11月全网检索收录。 第57篇图文帖第4张：称豆瓣9.6、3季约150集、每集7分钟、2014年首播、适合2—6岁、“完成任务赢徽章”。",
       "video_url": "https://www.bbc.co.uk/cbeebies/shows/hey-duggee",
       "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
       "video_kind": "官方介绍／节目入口，非已验证正片",
@@ -34881,6 +34902,11 @@
           "label": "全网检索",
           "title": "2026-11-10 全网检索优质儿童视频资源",
           "url": "https://www.bbc.co.uk/cbeebies/shows/hey-duggee"
+        },
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
         }
       ],
       "also_in_prior_research": false,
@@ -40707,6 +40733,67 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://www.commonsensemedia.org/tv-reviews/jurassic-world-camp-cretaceous"
+    },
+    {
+      "id": "wx57-minuscule",
+      "name_zh": "微观小世界",
+      "name_en": "Minuscule (TV series, 2006–2012)",
+      "kind": "实景+CGI无对白短片系列（每集约6分钟）",
+      "age_group": "2岁以上（原文）",
+      "description_zh": "图文帖第2张：称豆瓣9.4、“法国国宝级动画”、实景+3D、无对白、共2季约177集、每集5分钟、2010年首播，小昆虫的幽默日常，2岁也能看懂，培养观察力和想象力。",
+      "video_url": null,
+      "video_note": "未核实正版播放地址。",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Minuscule_France_2_Nick_Jr_Australia_Logo.png",
+      "image_note": "源页配图，仅作辨识，不代表开放授权。",
+      "sources": [
+        {
+          "article_no": 57,
+          "title": "推荐越看越聪明六部动画片，家长们收藏哈",
+          "url": "https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ"
+        }
+      ],
+      "category": "动画娱乐类",
+      "image_path": "images/review/wx57-minuscule.jpg",
+      "origin_group": "article-57",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "维基百科核实：法国Futurikon出品，Hélène Giraud与Thomas Szabo创作，实景背景叠加CGI昆虫、无对白的默剧喜剧，2006年10月于France 2首播、2012年完结，每集约6分钟；另有2013、2019年两部电影。文章“2010年首播”有误，“约177集”未核实。无对白、节奏轻，低龄可看；但它是昆虫拟人喜剧而非自然科普，有打闹、被压扁等卡通险情；“培养观察力和想象力”“2岁也能看懂”无证据，2岁屏幕时间应从严。无独立适龄评测，豆瓣9.4未核实。",
+      "reviewed_age": "3+（编辑暂议）",
+      "original_image_path": null,
+      "image_kind": "百科页作品图（版权归原权利人）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "维基百科核实：法国Futurikon出品，Hélène Giraud与Thomas Szabo创作，实景背景叠加CGI昆虫、无对白的默剧喜剧，2006年10月于France 2首播、2012年完结，每集约6分钟；另有2013、2019年两部电影。文章“2010年首播”有误，“约177集”未核实。无对白、节奏轻，低龄可看；但它是昆虫拟人喜剧而非自然科普，有打闹、被压扁等卡通险情；“培养观察力和想象力”“2岁也能看懂”无证据，2岁屏幕时间应从严。无独立适龄评测，豆瓣9.4未核实。",
+        "recommended_age": "3+（编辑暂议）",
+        "status": "百科背景核实，无独立适龄评测",
+        "confidence": "低",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Minuscule_(TV_series)",
+            "checked_date": "2026-11-16",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "确认制作方、首播日期（2006-10-25）、完结年份、每集时长与无对白形式。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "image_source": "https://en.wikipedia.org/wiki/Minuscule_(TV_series)"
     }
   ]
 }
