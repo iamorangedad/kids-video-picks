@@ -27,10 +27,10 @@
     "with_independent_review_poster": 258,
     "with_original_image_only": 73,
     "with_title_card": 291,
-    "official_reference_links": 72,
+    "official_reference_links": 73,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
-    "with_independent_evidence": 289,
+    "with_independent_evidence": 290,
     "article_29_new_entries": 6,
     "article_30_mentions": 38,
     "article_30_new_entries": 32,
@@ -58,7 +58,8 @@
     "article_50_new_entries": 8,
     "article_51_new_entries": 0,
     "article_52_new_entries": 6,
-    "article_53_new_entries": 0
+    "article_53_new_entries": 0,
+    "article_54_new_entries": 0
   },
   "entries": [
     {
@@ -67,7 +68,7 @@
       "name_en": "The Way Things Work",
       "kind": "动画",
       "age_group": "6岁以上",
-      "description_zh": "文章说这部片根据大卫·麦考利的同名书改编，26集，每集约13分钟。故事发生在猛犸象小岛：挤奶时讲滑轮，打捞沉船铁轨时讲电磁铁。文章写它适合6岁以上，没有中文配音，是英文原声加中英文字幕。另一篇同样推荐了这部，并补充科学家旁白、每集13分钟。",
+      "description_zh": "文章说这部片根据大卫·麦考利的同名书改编，26集，每集约13分钟。故事发生在猛犸象小岛：挤奶时讲滑轮，打捞沉船铁轨时讲电磁铁。文章写它适合6岁以上，没有中文配音，是英文原声加中英文字幕。另一篇同样推荐了这部，并补充科学家旁白、每集13分钟。 第54篇文末“往期推荐”再次列出。",
       "video_url": null,
       "video_note": "未找到可打开的正版预告或播放页。",
       "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMyO6ajJX6PuIZ2cryTibsdeAQewQsk79Nk7LVIkM2RiaHiboibht0c7BDYTz6f0Jpd4EEpsNQyXjH6bCdjUbmjn1ptibzYlSCNxUZpE/0?wx_fmt=jpeg",
@@ -97,6 +98,11 @@
           "article_no": 31,
           "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
           "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
+        },
+        {
+          "article_no": 54,
+          "title": "BBC专为孩子拍的科普片《What If》（52集中英文）脑洞大开，每个奇思妙想都藏着科学答案",
+          "url": "https://mp.weixin.qq.com/s/BZfWoxS7b_ma7vf9eqS8Dg"
         }
       ],
       "also_in_prior_research": false,
@@ -2877,7 +2883,7 @@
       "name_zh": "爆笑物理",
       "kind": "动画",
       "age_group": "未标明年龄",
-      "description_zh": "只在《万物运转的秘密》文末作为往期推荐出现，原文是：清华附《爆笑物理》（144集），孩子趣味学物理。没有进一步介绍，也没有链接。",
+      "description_zh": "只在《万物运转的秘密》文末作为往期推荐出现，原文是：清华附《爆笑物理》（144集），孩子趣味学物理。没有进一步介绍，也没有链接。 第54篇文末“往期推荐”再次列出。",
       "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMyO6ajJX6PuIZ2cryTibsdeAQewQsk79Nk7LVIkM2RiaHiboibht0c7BDYTz6f0Jpd4EEpsNQyXjH6bCdjUbmjn1ptibzYlSCNxUZpE/0?wx_fmt=jpeg",
       "image_note": "没有单独配图，用的是那篇文章的封面。",
       "sources": [
@@ -2895,6 +2901,11 @@
           "article_no": 31,
           "title": "TED-Ed出品《揭秘身体奥秘》（150集中英文）科普动画，孩子看完主动坐直早睡，比唠叨管用100倍",
           "url": "https://mp.weixin.qq.com/s/wzJmew_gUZLoBC9gcNv1Zw"
+        },
+        {
+          "article_no": 54,
+          "title": "BBC专为孩子拍的科普片《What If》（52集中英文）脑洞大开，每个奇思妙想都藏着科学答案",
+          "url": "https://mp.weixin.qq.com/s/BZfWoxS7b_ma7vf9eqS8Dg"
         }
       ],
       "name_en": null,
@@ -5199,12 +5210,12 @@
     {
       "id": "what-if",
       "name_zh": "What If",
-      "name_en": "What If",
-      "kind": "动画",
+      "name_en": "Hey You! What If? (CBBC, 2020–)",
+      "kind": "真人+CGI科普短片系列（每季26集×5分钟）",
       "age_group": "未标明年龄",
-      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。 第51篇文末“往期推荐”再次列出。",
-      "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cu3arSAIaMw3Y9UpdaRITDFOib7ODPtfYDUUf6XGhBdz5vrYPLazc3xpfEgAGoc6fUgcicsluSrUActH2dRicaXcePLD6bia2Wnlu1VrBiaSzRv8/0?wx_fmt=jpeg",
-      "image_note": "这篇没有给它单独配图，用的是点名它的那篇文章封面。",
+      "description_zh": "出现在《小怪兽阿蒙》文末的往期推荐。原文是：BBC 专为孩子拍的科普片《What If》（52 集，中英文），每个奇思妙想里都有一个科学答案。没有写年龄，也没有播放链接。 第51篇文末“往期推荐”再次列出。 第54篇整篇推荐，确认片名为《Hey You, What If...》，每集5分钟，举“变成巨人”“两个太阳”等集；文末“后台回复【如果】”领取资源。",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1200x675/p0856gj6.jpg",
+      "image_note": "BBC iPlayer节目页配图，缩至约600像素宽，仅作辨识。",
       "sources": [
         {
           "article_no": 6,
@@ -5225,21 +5236,48 @@
           "article_no": 51,
           "title": "豆瓣9.6《人体的微观世界》（8集）孩子越早了解身体真相，越懂得珍惜健康",
           "url": "https://mp.weixin.qq.com/s/z6yrsubK17LJOTMzjBefZQ"
+        },
+        {
+          "article_no": 54,
+          "title": "BBC专为孩子拍的科普片《What If》（52集中英文）脑洞大开，每个奇思妙想都藏着科学答案",
+          "url": "https://mp.weixin.qq.com/s/BZfWoxS7b_ma7vf9eqS8Dg"
         }
       ],
-      "video_url": null,
-      "video_note": "未找到可打开的正版预告或播放页。",
+      "video_url": "https://www.bbc.co.uk/iplayer/episodes/m000fzn3/hey-you-what-if",
+      "video_note": "BBC iPlayer官方节目页；仅限英国地区播放，不代表在当前地区可播。",
       "also_in_prior_research": false,
       "category": "学习类",
-      "image_path": "images/w-what-if.jpg",
+      "image_path": "images/review/what-if.jpg",
       "review": {
         "verdict": "有保留",
-        "rationale_zh": "What If可能是多个不同品牌或合集；假设推演并非现实预测。需逐集查科学来源、概率条件和灾难画面的刺激性，不能整体盖“科学优质”章。",
-        "recommended_age": "逐集判断",
-        "status": "证据不足，编辑保守初筛",
-        "confidence": "低",
-        "reviewed_date": "2026-11-06",
-        "evidence": [],
+        "rationale_zh": "BBC iPlayer与CBBC官方页核实：CBBC委托制作的真人+CGI科普短片，2020年3月首播，第1、2季各26集×5分钟（合计52集，与公众号“52集”一致），题目如掉进黑洞、挖穿地球、变成巨人、地球停转等；澳大利亚ABC Education标为小学段。思想实验多以“灾难/行不通”收尾，有黑洞、地球毁灭等夸张画面，适合6岁以上、敏感孩子家长陪看；假设推演不等于现实预测。第54篇转述的“比邻星b有一颗红矮星和一颗更小的恒星、每晚两颗太阳同时落山”与维基百科不符——比邻星b只绕红矮星比邻星运行。无独立适龄评测。",
+        "recommended_age": "6+（编辑暂议；ABC标小学段）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "中",
+        "reviewed_date": "2026-11-15",
+        "evidence": [
+          {
+            "source": "BBC iPlayer",
+            "url": "https://www.bbc.co.uk/iplayer/episodes/m000fzn3/hey-you-what-if",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认第1季26集×5分钟、2020年3月2日首播及分集题目。"
+          },
+          {
+            "source": "CBBC",
+            "url": "https://www.bbc.co.uk/cbbc/shows/hey-you-what-if",
+            "checked_date": "2026-11-15",
+            "scope": "制作方/播出方官方页面，不是独立评测",
+            "note": "确认CBBC节目及第2季。"
+          },
+          {
+            "source": "ABC Education",
+            "url": "https://www.abc.net.au/education/tv-guide/hey-you-what-if-series-2/101884142",
+            "checked_date": "2026-11-15",
+            "scope": "播出方教育页面，不是独立评测",
+            "note": "第2季26×5分钟，标注Age level: Primary。"
+          }
+        ],
         "douban": {
           "score": null,
           "votes": null,
@@ -5257,12 +5295,14 @@
         "pacing": "未做逐镜剪辑、闪烁和声压测量；不声称能治疗或造成注意力问题。"
       },
       "verdict": "有保留",
-      "review_rationale_zh": "What If可能是多个不同品牌或合集；假设推演并非现实预测。需逐集查科学来源、概率条件和灾难画面的刺激性，不能整体盖“科学优质”章。",
-      "reviewed_age": "逐集判断",
+      "review_rationale_zh": "BBC iPlayer与CBBC官方页核实：CBBC委托制作的真人+CGI科普短片，2020年3月首播，第1、2季各26集×5分钟（合计52集，与公众号“52集”一致），题目如掉进黑洞、挖穿地球、变成巨人、地球停转等；澳大利亚ABC Education标为小学段。思想实验多以“灾难/行不通”收尾，有黑洞、地球毁灭等夸张画面，适合6岁以上、敏感孩子家长陪看；假设推演不等于现实预测。第54篇转述的“比邻星b有一颗红矮星和一颗更小的恒星、每晚两颗太阳同时落山”与维基百科不符——比邻星b只绕红矮星比邻星运行。无独立适龄评测。",
+      "reviewed_age": "6+（编辑暂议；ABC标小学段）",
       "origin_group": "articles-1-27",
       "pending_verification": false,
       "original_image_path": "images/w-what-if.jpg",
-      "image_kind": "原公众号通用配图／重复封面，不能当本片海报"
+      "image_kind": "官方节目页配图（版权归原权利人）",
+      "image_source": "https://www.bbc.co.uk/iplayer/episodes/m000fzn3/hey-you-what-if",
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     },
     {
       "id": "story-of-maths",
@@ -29348,7 +29388,7 @@
       "name_en": "Getting Under Our Skin",
       "kind": "科普动画短片系列",
       "age_group": "文章以5岁半女儿及更大的儿子为例，未明确年龄",
-      "description_zh": "TED-Ed出品，文章称150集、每集3–5分钟、中英文。把人体画成城市：心脏是水泵、血管是水管，癌细胞像蒲公英种子顺血管和淋巴管扩散，坐姿与腰椎压力，深度睡眠时大脑清理代谢废物。文末“后台回复【揭秘】”领取资源。",
+      "description_zh": "TED-Ed出品，文章称150集、每集3–5分钟、中英文。把人体画成城市：心脏是水泵、血管是水管，癌细胞像蒲公英种子顺血管和淋巴管扩散，坐姿与腰椎压力，深度睡眠时大脑清理代谢废物。文末“后台回复【揭秘】”领取资源。 第54篇文末“往期推荐”再次列出。",
       "video_url": "https://ed.ted.com/series/getting-under-our-skin",
       "video_note": "已核实TED-Ed官方系列页，可免费观看单集（YouTube）；150集与“中英文”为文章说法，未核实。",
       "video_kind": "官方介绍／节目入口，非已验证正片",
@@ -29365,6 +29405,11 @@
           "article_no": 32,
           "title": "YouTube高分《分钟地球》（300集中英文）这部风靡全球的科普动画，让孩子看完自己追着问“为什么”",
           "url": "https://mp.weixin.qq.com/s/_1jigH8MZdLofsaUiUXMLg"
+        },
+        {
+          "article_no": 54,
+          "title": "BBC专为孩子拍的科普片《What If》（52集中英文）脑洞大开，每个奇思妙想都藏着科学答案",
+          "url": "https://mp.weixin.qq.com/s/BZfWoxS7b_ma7vf9eqS8Dg"
         }
       ],
       "category": "学习类",
