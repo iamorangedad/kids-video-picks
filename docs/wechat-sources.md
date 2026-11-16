@@ -1288,3 +1288,54 @@ https://mp.weixin.qq.com/s/xYT-OG7MMsJNyB7JacLaDg
 3. [小好奇埃莉诺](wechat/学习类.md#wx55-elinor-wonders-why)（新增，强烈推荐；5+（CSM））
 
 来源质量：“英语老师强烈推荐”“英语圈内公认口碑很好”无署名、无来源；“听力输入+科学启蒙一步到位”“悄悄培养理科思维”属效果营销。三部本身质量不错：《问故事机器人》CSM 3+、4/5，《小好奇埃莉诺》CSM 5+、5/5；但SciShow Kids实为YouTube频道（真人主持，并非标题所说“动画”），“科学严谨、贴合国外课标”未核实。文章年龄区间（3–8、5–10、4–9）大体合理，《埃莉诺》CSM定位为学前向，对9岁偏幼。观看建议（单次1–2集、陪聊）合理。未发现资源引流。
+
+## 56. 42 部欧美动漫按能不能给孩子看分完了：9 部能看，14 部别碰
+
+https://mp.weixin.qq.com/s/mR6SpCB149bfkywDvGYPJA
+
+**视频数：42**（新增4；38部已收录，其中4部借本文描述更正了第30篇的作品身份）
+
+1. [小蜘蛛卢卡斯](wechat/动画娱乐类.md#wx29-lucas-the-spider)（已收录，有保留；未核实（原文6–8岁））
+2. [蜂妹与狗狗猫](wechat/not-recommended.md#wx30-bee-and-puppycat)（已收录，不推荐；13+（CSM；非原文“零基础启蒙”））
+3. [内裤队长传奇](wechat/动画娱乐类.md#wx29-captain-underpants)（已收录，有保留；6+（CSM；原文6–8岁））
+4. [海绵宝宝](wechat/动画娱乐类.md#wx30-spongebob)（已收录，有保留；6+（CSM））
+5. [疯狂动物城1](wechat/动画娱乐类.md#wx28-30c8ba6f829a)（已收录，推荐；8+（CSM））
+6. [星际宝贝（剧集）](wechat/动画娱乐类.md#wx29-lilo-stitch-series)（已收录，推荐；6+（CSM））
+7. [咱们裸熊](wechat/动画娱乐类.md#wx30-we-bare-bears)（已收录，推荐；8+（CSM；原文零基础））
+8. [喧闹一家亲](wechat/动画娱乐类.md#wx56-loud-house)（新增，推荐；8+（CSM））
+9. [格林一家进城趣](wechat/动画娱乐类.md#wx56-big-city-greens)（新增，推荐；7+（CSM））
+10. [希尔达](wechat/动画娱乐类.md#wx29-hilda)（已收录，推荐；6+（CSM））
+11. [猫头鹰魔法社](wechat/动画娱乐类.md#wx29-owl-house)（已收录，有保留；8+（CSM；部分剧情较黑暗，建议10+））
+12. [龙王子](wechat/动画娱乐类.md#wx56-dragon-prince)（新增，强烈推荐；10+（CSM））
+13. [奇幻沼泽](wechat/动画娱乐类.md#wx30-amphibia)（已收录，推荐；8+（CSM））
+14. [怪诞小镇](wechat/动画娱乐类.md#wx29-gravity-falls)（已收录，有保留；8+（CSM；敏感儿童10+更稳））
+15. [降世神通](wechat/动画娱乐类.md#wx30-avatar-last-airbender)（已收录，强烈推荐；8+（CSM））
+16. [降世神通：科拉传奇](wechat/动画娱乐类.md#wx30-legend-of-korra)（已收录，推荐；8+（CSM；后期更成熟，建议10+））
+17. [神偷卡门](wechat/动画娱乐类.md#wx30-carmen-sandiego)（已收录，推荐；7+（CSM））
+18. [侏罗纪世界：白垩纪营地](wechat/动画娱乐类.md#wx56-camp-cretaceous)（新增，有保留；9+（CSM））
+19. [花园墙外](wechat/动画娱乐类.md#wx30-over-the-garden-wall)（已收录，推荐；8+（CSM；敏感儿童10+））
+20. [探险活宝](wechat/动画娱乐类.md#wx30-adventure-time)（已收录，有保留；10+（CSM））
+21. [探险活宝：菲奥娜与蛋糕](wechat/动画娱乐类.md#wx30-fionna-cake)（已收录，有保留；12+（CSM））
+22. [宇宙小子（Steven Universe）](wechat/动画娱乐类.md#wx30-ben-10)（已收录，本篇更正身份，强烈推荐；8+（CSM））
+23. [宇宙小子：未来（Steven Universe Future）](wechat/动画娱乐类.md#wx30-ben-10-future)（已收录，本篇更正身份，有保留；10+（CSM））
+24. [地球上最后的孩子](wechat/动画娱乐类.md#wx30-last-kids-on-earth)（已收录，有保留；9+（CSM））
+25. [环太平洋：黑色禁区](wechat/not-recommended.md#wx30-pacific-rim-black)（已收录，不推荐；13+（CSM））
+26. [英雄联盟：双城之战](wechat/not-recommended.md#wx30-arcane)（已收录，不推荐；14+（CSM））
+27. [辛普森一家（剧集）](wechat/动画娱乐类.md#wx30-simpsons-series)（已收录，有保留；12+（CSM））
+28. [瑞克和莫蒂](wechat/not-recommended.md#wx30-rick-and-morty)（已收录，不推荐；16+（CSM））
+29. [恶搞之家](wechat/not-recommended.md#wx30-family-guy)（已收录，不推荐；14+（CSM））
+30. [马男波杰克](wechat/not-recommended.md#wx30-bojack-horseman)（已收录，不推荐；15+（CSM））
+31. [飞出个未来](wechat/not-recommended.md#wx30-futurama)（已收录，不推荐；13+（CSM））
+32. [地狱客栈](wechat/not-recommended.md#wx30-hazbin-hotel)（已收录，不推荐；17+（CSM））
+33. [极恶老大（Helluva Boss）](wechat/not-recommended.md#wx30-villain-boss)（已收录，本篇更正身份，不推荐；17+（CSM））
+34. [开心汉堡店](wechat/not-recommended.md#wx30-bobs-burgers)（已收录，不推荐；13+（CSM））
+35. [天堂镇警局](wechat/not-recommended.md#wx30-paradise-pd)（已收录，不推荐；16+（CSM））
+36. [赛博朋克：边缘行者](wechat/not-recommended.md#wx30-cyberpunk-edgerunners)（已收录，不推荐；17+（CSM））
+37. [无敌少侠](wechat/not-recommended.md#wx30-invincible)（已收录，不推荐；16+（CSM））
+38. [万神殿](wechat/not-recommended.md#wx30-pantheon)（已收录，不推荐；13+（CSM））
+39. [阴谋职场（Inside Job）](wechat/not-recommended.md#wx30-corporate-office)（已收录，本篇更正身份，不推荐；14+（CSM））
+40. [闹鬼酒店](wechat/not-recommended.md#wx30-haunted-hotel)（已收录，不推荐；14+（CSM；非原文“合家欢”））
+41. [空灵之境](wechat/动画娱乐类.md#wx30-infinity-train)（已收录，推荐；10+（CSM））
+42. [梦境制片厂](wechat/动画娱乐类.md#wx30-dream-productions)（已收录，推荐；6+（CSM））
+
+来源质量：本文是第30篇同一资源库（“1287部纯英文字幕视频+MP3+台词本”，8份目录）的推销文，所售多为Netflix、迪士尼等版权作品的转载，属未授权资源包，不采用。文章主动按“打斗有无后果、玩笑写给谁、语速”分堆，思路比多数片单认真，第四堆14部成人剧的判断与CSM大体一致；但分堆与独立评测有明显出入：《蜂妹与狗狗猫》CSM 13+却放进“幼儿园能看”的第一堆；《咱们裸熊》《疯狂动物城》《喧闹一家亲》CSM 8+、《格林一家》7+也被放进幼儿园档；《龙王子》CSM 10+，并非“没有血、没有尸体”的轻打斗；《白垩纪营地》是生存冒险而非“一集一种恐龙”的科普。“只有这42部能跟孩子一起坐下来”与其自家目录里的“儿童启蒙类88部”自相矛盾。“小蜘蛛卢卡斯两岁能盯住”与低龄屏幕时间建议冲突。收获：据本文描述，第30篇的“宇宙小子／宇宙小子：未来”更正为《Steven Universe》及其续作（此前误推断为Ben 10），“极恶老大”确认为Helluva Boss（CSM 17+），“阴谋职场”确认为Inside Job（CSM 14+）。
