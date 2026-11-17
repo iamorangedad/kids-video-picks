@@ -3,14 +3,14 @@
   "scope": "WeChat articles plus 2026-11-10 user-requested web search; one row per deduplicated work; see pending_verification and verdict.",
   "note": "有图片不等于有已授权海报；官方页不等于可播放正片。",
   "counts": {
-    "entries": 649,
+    "entries": 655,
     "original_entries": 121,
     "article_28_mentions": 330,
     "article_28_new_entries": 317,
     "article_28_with_independent_review": 94,
     "pending_article_28": 223,
     "by_category": {
-      "学习类": 72,
+      "学习类": 78,
       "人文类": 38,
       "情感品格类": 101,
       "自然类": 43,
@@ -18,16 +18,16 @@
       "动画娱乐类": 394
     },
     "by_verdict": {
-      "有保留": 450,
+      "有保留": 456,
       "推荐": 142,
       "强烈推荐": 31,
       "不推荐": 26
     },
-    "with_image": 649,
+    "with_image": 655,
     "with_independent_review_poster": 266,
     "with_original_image_only": 73,
-    "with_title_card": 289,
-    "official_reference_links": 75,
+    "with_title_card": 295,
+    "official_reference_links": 81,
     "unverified_candidate_links": 41,
     "full_playback_verified": 0,
     "with_independent_evidence": 299,
@@ -36,7 +36,7 @@
     "article_30_new_entries": 32,
     "article_31_new_entries": 1,
     "article_32_new_entries": 1,
-    "with_official_source_only": 27,
+    "with_official_source_only": 33,
     "article_33_new_entries": 7,
     "article_35_new_entries": 2,
     "article_36_new_entries": 1,
@@ -62,7 +62,8 @@
     "article_54_new_entries": 0,
     "article_55_new_entries": 2,
     "article_56_new_entries": 4,
-    "article_57_new_entries": 1
+    "article_57_new_entries": 1,
+    "article_58_new_entries": 6
   },
   "entries": [
     {
@@ -5843,7 +5844,7 @@
       "name_en": "Little Fox",
       "kind": "分级动画库",
       "age_group": "6岁，文章写从1阶或2阶起步",
-      "description_zh": "文章说它按难度分1到9阶，有四千多篇，每篇配电子书、音频和词汇表。作者主要在 B 站搜 “Little Fox” 看。第1阶举例是《汽车城学校》《恐龙兄弟》，大约到小学一二年级是第2–3阶。",
+      "description_zh": "文章说它按难度分1到9阶，有四千多篇，每篇配电子书、音频和词汇表。作者主要在 B 站搜 “Little Fox” 看。第1阶举例是《汽车城学校》《恐龙兄弟》，大约到小学一二年级是第2–3阶。 第58篇整篇介绍九级用法，每级举一部代表作。",
       "video_url": null,
       "video_note": "文章没有给出具体播放地址。",
       "image_url": null,
@@ -5859,6 +5860,11 @@
           "article_no": 39,
           "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
           "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        },
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
         }
       ],
       "also_in_prior_research": false,
@@ -30845,7 +30851,7 @@
       "name_en": "Bat and Friends",
       "kind": "英语分级动画系列",
       "age_group": "文章称L1—L3约2—6岁",
-      "description_zh": "文章把它列为Little Fox第1级“必看”：小蝙蝠和农场动物，动物词与日常句重复。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "description_zh": "文章把它列为Little Fox第1级“必看”：小蝙蝠和农场动物，动物词与日常句重复。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。 第58篇列为第1级代表作，称约72集（与官方72一致）。",
       "video_url": "https://www.littlefox.com/en/full_list",
       "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
       "image_url": null,
@@ -30855,6 +30861,11 @@
           "article_no": 39,
           "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
           "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        },
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
         }
       ],
       "category": "学习类",
@@ -31089,7 +31100,7 @@
       "name_en": "Bird and Kip",
       "kind": "英语分级动画系列",
       "age_group": "文章称L1—L3约2—6岁",
-      "description_zh": "文章把它列为Little Fox第2级“必看”：安静的小鸟与捣蛋花栗鼠Kip做邻居，从单词过渡到句子。官方目录显示120个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "description_zh": "文章把它列为Little Fox第2级“必看”：安静的小鸟与捣蛋花栗鼠Kip做邻居，从单词过渡到句子。官方目录显示120个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。 第58篇列为第2级代表作，称约72集；官方目录为120个故事，文章数字有误。",
       "video_url": "https://www.littlefox.com/en/full_list",
       "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
       "image_url": null,
@@ -31099,6 +31110,11 @@
           "article_no": 39,
           "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
           "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        },
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
         }
       ],
       "category": "学习类",
@@ -31272,7 +31288,7 @@
       "name_en": "Wizard and Cat",
       "kind": "英语分级动画系列",
       "age_group": "文章称L1—L3约2—6岁",
-      "description_zh": "文章把它列为Little Fox第3级“必看”：爱闯祸的小巫师Tom和聪明猫，一集一个小反转。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。",
+      "description_zh": "文章把它列为Little Fox第3级“必看”：爱闯祸的小巫师Tom和聪明猫，一集一个小反转。官方目录显示72个故事（2026-11-07读取）。文章称L1—L3主要适合2—6岁。 第58篇列为第3级代表作，称约72集（与官方一致）、“很多家庭真正看进去从这部开始”。",
       "video_url": "https://www.littlefox.com/en/full_list",
       "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
       "image_url": null,
@@ -31282,6 +31298,11 @@
           "article_no": 39,
           "title": "英语启蒙的天花板，Little Fox：能从2岁看到初中的英语分级动画",
           "url": "https://mp.weixin.qq.com/s/n4NYE3lnXXynjPaTD8KG5A"
+        },
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
         }
       ],
       "category": "学习类",
@@ -40794,6 +40815,372 @@
         "pacing": "未逐镜测量。"
       },
       "image_source": "https://en.wikipedia.org/wiki/Minuscule_(TV_series)"
+    },
+    {
+      "id": "wx58-lf-rocket-girl",
+      "name_zh": "Little Fox：火箭女孩",
+      "name_en": "Rocket Girl",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L4约三到四年级",
+      "description_zh": "文章作为第4级代表作：称约126集、L4里最长、有反派有危机，能连追20集算过关。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-rocket-girl.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第4级、252个故事）。文章“约126集”与官方252个故事不符（少算一半）；超级英雄式反派与危机情节，未见独立内容评测。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "6+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第4级、252个故事）。文章“约126集”与官方252个故事不符（少算一半）；超级英雄式反派与危机情节，未见独立内容评测。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "6+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第4级、252个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx58-lf-journey-west",
+      "name_zh": "Little Fox：西游记",
+      "name_en": "Journey to the West",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L5约四到五年级",
+      "description_zh": "文章作为第5级代表作：称约100多集、“中国孩子最好的名著入口”，故事背景熟悉便于专注语言。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-journey-west.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第5级、108个故事）。集数与文章“100多集”相符。改编自《西游记》，含妖怪打斗；“背景熟悉学得更快”是作者推论，无证据。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "7+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第5级、108个故事）。集数与文章“100多集”相符。改编自《西游记》，含妖怪打斗；“背景熟悉学得更快”是作者推论，无证据。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "7+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第5级、108个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx58-lf-lemonade-detectives",
+      "name_zh": "Little Fox：柠檬水侦探",
+      "name_en": "The Lemonade Detectives",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L6约五到六年级",
+      "description_zh": "文章作为第6级代表作：称约100集、靠线索推理，是从“听故事”到“听信息”的转折。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-lemonade-detectives.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第6级、100个故事）。集数与文章相符；推理题材，文章称“学科英语起点”未见依据。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "8+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第6级、100个故事）。集数与文章相符；推理题材，文章称“学科英语起点”未见依据。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "8+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第6级、100个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx58-lf-red-magic",
+      "name_zh": "Little Fox：红色魔法",
+      "name_en": "Red Magic",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L7约六年级到中学",
+      "description_zh": "文章作为第7级代表作：称约150集、“全站最长”，适合养成每天追剧习惯。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-red-magic.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第7级、214个故事）。文章“约150集”与官方214个故事不符；“全站最长”也不对——官方目录中第4级《Rocket Girl》有252个故事更长。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "9+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第7级、214个故事）。文章“约150集”与官方214个故事不符；“全站最长”也不对——官方目录中第4级《Rocket Girl》有252个故事更长。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "9+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第7级、214个故事；目录中最长系列为Rocket Girl（252）。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx58-lf-sherlock-holmes",
+      "name_zh": "Little Fox：福尔摩斯",
+      "name_en": "Sherlock Holmes",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L8中学、AR 4.5–6.5",
+      "description_zh": "文章作为第8级代表作：称约36集、AR到6.5，“相当于国内高中生读原版书”；提醒L8起部分为插画故事而非动画。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-sherlock-holmes.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第8级、48个故事）。文章“约36集”与官方48个故事不符；改编自柯南·道尔侦探故事，涉及犯罪、死亡情节；“AR 6.5相当于高中生”未核实。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "10+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第8级、48个故事）。文章“约36集”与官方48个故事不符；改编自柯南·道尔侦探故事，涉及犯罪、死亡情节；“AR 6.5相当于高中生”未核实。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "10+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第8级、48个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
+    },
+    {
+      "id": "wx58-lf-20000-leagues",
+      "name_zh": "Little Fox：海底两万里",
+      "name_en": "20,000 Leagues Under the Sea (Little Fox)",
+      "kind": "英语分级动画系列",
+      "age_group": "文章称L9高中",
+      "description_zh": "文章作为第9级代表作：称约30集，深度够、故事抓人，比《远大前程》好入口。",
+      "video_url": "https://www.littlefox.com/en/full_list",
+      "video_note": "已核实Little Fox官方系列目录；完整观看通常需付费订阅，部分免费试看，未实测播放。",
+      "image_url": null,
+      "image_note": "无已确认的单片海报，使用明确标识的原创文字资料卡；不表示作品身份或品质已核实。",
+      "sources": [
+        {
+          "article_no": 58,
+          "title": "Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？",
+          "url": "https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g"
+        }
+      ],
+      "category": "学习类",
+      "image_path": "images/title-cards/wx58-lf-20000-leagues.svg",
+      "origin_group": "article-58",
+      "pending_verification": false,
+      "verdict": "有保留",
+      "review_rationale_zh": "Little Fox官方目录已核实该系列（第9级、30个故事）。集数与文章相符；凡尔纳原著改编，有海怪袭击、船只沉没等险情，第9级部分为插画故事。与库中旧条目“海底两万里”（版本未确认）分开记录。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+      "reviewed_age": "10+（编辑暂议；按英语水平）",
+      "original_image_path": null,
+      "image_kind": "自制文字封面（非官方海报／剧照）",
+      "review": {
+        "verdict": "有保留",
+        "rationale_zh": "Little Fox官方目录已核实该系列（第9级、30个故事）。集数与文章相符；凡尔纳原著改编，有海怪袭击、船只沉没等险情，第9级部分为插画故事。与库中旧条目“海底两万里”（版本未确认）分开记录。分级读物动画语言控制清楚，适合作英语听读材料；但无CSM等独立适龄或效果评测，属付费订阅商业产品。年龄按英语级别与内容暂议，不代表母语儿童适龄。",
+        "recommended_age": "10+（编辑暂议；按英语水平）",
+        "status": "官方来源核实，无独立适龄评测",
+        "confidence": "低至中",
+        "reviewed_date": "2026-11-16",
+        "evidence": [
+          {
+            "source": "Little Fox官方目录",
+            "url": "https://www.littlefox.com/en/full_list",
+            "checked_date": "2026-11-16",
+            "scope": "制作方官方页面，不是独立评测",
+            "note": "确认系列位于第9级、30个故事。"
+          }
+        ],
+        "douban": {
+          "score": null,
+          "votes": null,
+          "status": "未核实；未采用公众号声称的分数"
+        },
+        "imdb": {
+          "score": null,
+          "votes": null,
+          "status": "未核实"
+        },
+        "awards": {
+          "verified_items": [],
+          "status": "未单独核实"
+        },
+        "pacing": "未逐镜测量。"
+      },
+      "video_kind": "官方介绍／节目入口，非已验证正片"
     }
   ]
 }

@@ -1354,3 +1354,22 @@ https://mp.weixin.qq.com/s/MNgf9UcZ3rh5ANwIAkuxgQ
 6. [海底小纵队](wechat/自然类.md#octonauts-wx)（已收录，推荐；4+（CSM））
 
 来源质量：图文帖，正文只有一句“亲测N遍”和话题标签；卡片配图疑为AI生成的仿制图（角色造型与官方不符），不能当作品剧照。标题“越看越聪明”属效果营销，无证据。卡片中的“基本信息”多处不准或无法核实：《微观小世界》实为2006年首播（非2010年）；《布鲁伊》“所有动画里评分最高”、《海底小纵队》“BBC收视率TOP”无来源；各片豆瓣分、季数与集数均未核实。年龄方面：《布鲁伊》CSM 4+（文章3—8岁）、《螺丝钉》CSM 6+（文章3—6岁）偏低；《嗨，道奇》CSM 3+、《海底小纵队》CSM 4+与文章大体一致。《雨果带你看世界》仍无法确认具体作品，“唯一一部哲学启蒙动画”不成立。未发现资源引流。
+
+## 58. Littlefox小狐狸专门为非母语国家儿童设计的动画，9个阶段怎么用？如何判断孩子在哪个级别了？
+
+https://mp.weixin.qq.com/s/vV3Cbd86WWgVBjHx95-x4g
+
+**视频数：10**（平台1＋九级代表作9部；新增6；4条已收录）
+
+1. [Little Fox 分级动画](wechat/学习类.md#little-fox)（已收录，有保留；按语言水平，逐篇判断）
+2. [Little Fox：蝙蝠和朋友们](wechat/学习类.md#wx39-lf-bat-and-friends)（已收录，有保留；3+（编辑暂议；按英语水平））
+3. [Little Fox：小鸟和基普](wechat/学习类.md#wx39-lf-bird-and-kip)（已收录，有保留；4+（编辑暂议；按英语水平））
+4. [Little Fox：巫师和猫](wechat/学习类.md#wx39-lf-wizard-and-cat)（已收录，有保留；4+（编辑暂议；按英语水平））
+5. [Little Fox：火箭女孩](wechat/学习类.md#wx58-lf-rocket-girl)（新增，有保留；6+（编辑暂议；按英语水平））
+6. [Little Fox：西游记](wechat/学习类.md#wx58-lf-journey-west)（新增，有保留；7+（编辑暂议；按英语水平））
+7. [Little Fox：柠檬水侦探](wechat/学习类.md#wx58-lf-lemonade-detectives)（新增，有保留；8+（编辑暂议；按英语水平））
+8. [Little Fox：红色魔法](wechat/学习类.md#wx58-lf-red-magic)（新增，有保留；9+（编辑暂议；按英语水平））
+9. [Little Fox：福尔摩斯](wechat/学习类.md#wx58-lf-sherlock-holmes)（新增，有保留；10+（编辑暂议；按英语水平））
+10. [Little Fox：海底两万里](wechat/学习类.md#wx58-lf-20000-leagues)（新增，有保留；10+（编辑暂议；按英语水平））
+
+来源质量：本篇是较实用的分级使用指南，九部代表作的级别与Little Fox官方目录全部吻合，“懂七成就对”“动画不会自己变成口语”等提醒也合理。但集数多处与官方目录不符：Bird and Kip官方120（文称约72）、Rocket Girl 252（文称约126）、Red Magic 214（文称约150）、Sherlock Holmes 48（文称约36）；“Red Magic全站最长”错误（Rocket Girl更长）。“AR 4.5–6.5相当于高中生”“官网说不必严格按级别”“韩国做的”本轮未核实；“看20分钟、听60分钟”及导出音频反复播放属个人方法，且导出音频可能违反订阅条款。各级“过关标准”是作者经验，不是官方测评。Little Fox为付费订阅产品，文末“后台回复【英语启蒙】”为账号引流。
