@@ -63,7 +63,8 @@
     "article_55_new_entries": 2,
     "article_56_new_entries": 4,
     "article_57_new_entries": 1,
-    "article_58_new_entries": 6
+    "article_58_new_entries": 6,
+    "article_59_new_entries": 0
   },
   "entries": [
     {
@@ -32800,7 +32801,7 @@
       "name_en": "Peg + Cat",
       "kind": "动画",
       "age_group": "非公众号来源；适龄以本轮独立评测或官方栏目定位为准",
-      "description_zh": "PBS KIDS学前数学动画：佩格和猫用计数、排序、分组等基础数学解决日常问题。可从PBS KIDS官方节目页进入。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。",
+      "description_zh": "PBS KIDS学前数学动画：佩格和猫用计数、排序、分组等基础数学解决日常问题。可从PBS KIDS官方节目页进入。CSM评3+、编辑5/5。此次为2026年11月全网检索收录。 第59篇整篇推荐：称英文原版2季63集、每集28分钟，适合3—8岁；称“唯一做过随机对照试验的儿童数学动画”、7座日间艾美奖，并介绍小猫提醒佩格“从五数到一”平复情绪。",
       "video_url": "https://pbskids.org/peg",
       "video_note": "已核实官方作品页或节目页（2026-11-10），不代表能免费播放、包含完整影片或在当前地区可播。",
       "video_kind": "官方介绍／节目入口，非已验证正片",
@@ -32814,6 +32815,11 @@
           "label": "全网检索",
           "title": "2026-11-10 全网检索优质儿童视频资源",
           "url": "https://pbskids.org/peg"
+        },
+        {
+          "article_no": 59,
+          "title": "《Peg+Cat佩格和小猫》|7座艾美奖+实效验证，值得私藏的数学启蒙动画",
+          "url": "https://mp.weixin.qq.com/s/RxhlYeoqYxF-0vh10rOTHQ"
         }
       ],
       "also_in_prior_research": false,
@@ -32821,15 +32827,15 @@
       "origin_group": "web-search-2026-11-10",
       "pending_verification": false,
       "verdict": "强烈推荐",
-      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。短集适合共看后用实物数一数、排一排，不能指望只看电视就掌握数学。",
+      "review_rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。另有2015年EDC与SRI受PBS项目委托的随机对照试验（197名4—5岁低收入家庭儿童、12周）：使用剧集＋游戏＋应用＋纸质活动＋家长支持的组合后，序数、空间关系和立体图形进步显著，但教师评定的数学概念与问题解决无差异——证据支持的是“家长参与的跨媒体组合”，不是单纯看动画。短集适合共看后用实物数一数、排一排。",
       "reviewed_age": "3+（CSM）",
       "review": {
         "verdict": "强烈推荐",
-        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。短集适合共看后用实物数一数、排一排，不能指望只看电视就掌握数学。",
+        "rationale_zh": "CSM编辑5/5、评3+，评测页标注Common Sense Selection，肯定它把基础数学放进解决问题的故事里。另有2015年EDC与SRI受PBS项目委托的随机对照试验（197名4—5岁低收入家庭儿童、12周）：使用剧集＋游戏＋应用＋纸质活动＋家长支持的组合后，序数、空间关系和立体图形进步显著，但教师评定的数学概念与问题解决无差异——证据支持的是“家长参与的跨媒体组合”，不是单纯看动画。短集适合共看后用实物数一数、排一排。",
         "recommended_age": "3+（CSM）",
         "status": "作品级证据初审",
         "confidence": "中",
-        "reviewed_date": "2026-11-10",
+        "reviewed_date": "2026-11-16",
         "evidence": [
           {
             "source": "Common Sense Media",
@@ -32842,6 +32848,20 @@
             "score_scale": 5,
             "note": "编辑评测，不是豆瓣/IMDb观众分数或实验效果证明。",
             "legal_rating": "TV-Y"
+          },
+          {
+            "source": "EDC & SRI International研究报告（CPB-PBS Ready To Learn，2015）",
+            "url": "https://cct.edc.org/sites/cct.edc.org/files/ms-resources/edc-sri-rtl-peg-math-study-summary-2015.pdf",
+            "checked_date": "2026-11-16",
+            "scope": "受PBS/CPB项目委托的效果研究，不是适龄评测",
+            "note": "随机对照试验：197名4—5岁低收入家庭儿童，12周，干预含剧集、片段、游戏、平板应用、纸质活动及家长支持与设备；序数、空间关系、立体图形显著优于对照组，教师评定的数学概念/问题解决与学习品质无差异。"
+          },
+          {
+            "source": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peg_%2B_Cat",
+            "checked_date": "2026-11-16",
+            "scope": "作品背景资料，不是适龄评测",
+            "note": "2季64集（126段）、每集28分钟、2013—2018年播出、获7座日间艾美奖。"
           }
         ],
         "douban": {
